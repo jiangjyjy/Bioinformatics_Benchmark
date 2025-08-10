@@ -1,7 +1,7 @@
 # Benchmarking Large Language Models on Multiple Tasks in Bioinformatics NLP with Prompting
 
-> **Paper:** [arXiv:2503.04013v1]
-> **Authors:** Jiyue Jiang, Pengan Chen, Jiuming Wang, Dongchen He, Ziqin Wei, Liang Hong, Licheng Zong, Sheng Wang, Qinze Yu, Zixian Ma, Yanyu Chen, Yimin Fan, Xiangyu Shi, Jiawei Sun, Chuan Wu, Yu Li
+> **Paper Link:** [arXiv:2503.04013v1](https://arxiv.org/abs/2503.04013)
+
 > **Summary:** This paper introduces **Bio-benchmark**, a comprehensive framework for evaluating Large Language Models (LLMs) on 30 bioinformatics tasks without fine-tuning. It also presents **BioFinder**, a novel tool for accurately extracting answers from LLM responses, significantly outperforming existing methods. The study benchmarks six leading LLMs, revealing their intrinsic capabilities and limitations across diverse biological domains.
 
 ---
