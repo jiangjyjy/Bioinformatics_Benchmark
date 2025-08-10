@@ -1,13 +1,17 @@
 # Benchmarking Large Language Models on Multiple Tasks in Bioinformatics NLP with Prompting
 
-> **Paper:** [arXiv:2503.04013](https://arxiv.org/abs/2503.04013)
+> **Paper:** [arXiv:2503.04013]
 > **Authors:** Anonymous ACL Submission (at the time of summary)
 > **Summary:** This paper introduces **Bio-benchmark**, a comprehensive framework for evaluating Large Language Models (LLMs) on 30 bioinformatics tasks without fine-tuning. It also presents **BioFinder**, a novel tool for accurately extracting answers from LLM responses, significantly outperforming existing methods. The study benchmarks six leading LLMs, revealing their intrinsic capabilities and limitations across diverse biological domains.
 
 ---
 
-<!-- Placeholder for Figure 1 -->
-*<p align="center">Figure 1 from the paper would be placed here, showing an overview of the Bio-benchmark framework.</p>*
+<p align="center">
+  <img src="figs/ss.png" alt="Overview of the Bio-benchmark framework" width="800"/>
+</p>
+<p align="center">
+  <em>Figure 1: Overview of the paper. Bio-benchmark is divided into sequence and text data. The process involves using six LLMs to generate answers for 30 subtasks, extracting them with BioFinder, and then performing evaluation and analysis.</em>
+</p>
 
 ## 📄 Abstract
 
@@ -119,24 +123,53 @@ A key innovation of this work is **BioFinder**, an LLM-based tool fine-tuned fro
 
 ---
 
-## ⚠️ Limitations
+## 📈 Complete Benchmark Results
 
-The authors acknowledge several limitations:
-*   **No Fine-Tuning:** The study only evaluates the intrinsic capabilities of LLMs. Fine-tuning would likely improve performance on specific tasks.
-*   **Benchmark Scope:** While comprehensive, the 30 tasks cannot cover all bioinformatics challenges, which may affect the generalizability of the findings.
-*   **BioFinder's Dependency:** The accuracy of BioFinder, though high, can be compromised if LLM outputs are overly ambiguous or complex.
-*   **Computational Costs:** The resource-intensive nature of using LLMs is not addressed, which could be a barrier for researchers with limited resources.
+The following table details the performance of six large language models across all 30 subtasks in the Bio-benchmark, comparing zero-shot (0-shot) and five-shot (5-shot) settings.
+
+<div style="overflow-x: auto; border: 1px solid #ccc; padding: 10px; border-radius: 5px;">
+
+| Domain | Subtask | Count | GPT-4o (0s) | GPT-4o (5s) | InternLM-2.5 20b (0s) | InternLM-2.5 20b (5s) | Llama-3.1 70b (0s) | Llama-3.1 70b (5s) | Mistral-large-2 (0s) | Mistral-large-2 (5s) | Qwen 2.5-72b (0s) | Qwen 2.5-72b (5s) | Yi-1.5 34b (0s) | Yi-1.5 34b (5s) |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **Protein** | Protein-species-prediction | 200 | 9.00 | 76.50 | 4.00 | 78.50 | 9.50 | 79.00 | 8.50 | 82.00 | 10.00 | 76.00 | 12.00 | 75.00 |
+| | Protein-inverse-folding | 264 | 6.97 | 6.29 | 1.46 | 4.64 | 6.69 | 6.88 | 5.65 | 6.70 | 7.02 | 6.95 | 4.48 | 5.77 |
+| | Protein-structure-prediction | 264 | 25.09 | 29.79 | 3.96 | 28.21 | 24.63 | 34.31 | 21.02 | 24.23 | 18.11 | 27.13 | 5.99 | 23.99 |
+| **RBP** | RNA-binding-protein | 70 | 57.14 | 61.43 | 44.29 | 50.00 | 52.86 | 51.43 | 52.86 | 71.43 | 47.14 | 47.14 | 48.57 | 48.57 |
+| **RNA** | RNA-function-prediction | 280 | 4.64 | 87.86 | 2.14 | 78.57 | 3.93 | 88.57 | 4.64 | 71.79 | 6.07 | 79.29 | 3.93 | 91.07 |
+| | RNA-inverse-folding | 200 | 19.76 | 21.71 | 20.64 | 27.19 | 19.50 | 26.25 | 20.62 | 22.90 | 20.28 | 21.92 | 12.99 | 21.82 |
+| | RNA-structure-prediction | 200 | 0.50 | 2.14 | 0.00 | 2.26 | 0.07 | 0.75 | 0.65 | 0.10 | 0.43 | 0.07 | 0.09 | 0.37 |
+| | sgRNA-efficiency-prediction | 300 | 0.67 | 39.33 | 36.67 | 0.00 | 1.33 | 0.67 | 7.67 | 0.33 | 0.33 | 20.67 | 0.00 | 13.33 |
+| **Drug** | Drug-Drug-interaction | 86 | 46.51 | 33.72 | 12.79 | 10.47 | 36.05 | 36.05 | 25.58 | 36.05 | 34.88 | 31.40 | 22.09 | 29.07 |
+| | Drug-Target-interaction | 60 | 43.33 | 70.00 | 40.00 | 73.33 | 51.67 | 61.67 | 10.00 | 50.00 | 43.33 | 58.33 | 33.33 | 58.33 |
+| | Drug-design | 58 | 70.69 | 84.48 | 81.03 | 84.48 | 12.07 | 86.21 | 48.28 | 91.38 | 44.83 | 87.93 | 58.62 | 86.21 |
+| **EHR** | Agentclinic | 214 | 82.24 | 62.15 | 63.55 | 69.16 | 79.44 | 80.84 | 78.97 | 78.97 | 73.83 | 77.57 | 61.21 | 67.29 |
+| | CMB-Clinic | 74 | 94.93 | 93.92 | 80.95 | 84.66 | 88.90 | 85.14 | 95.54 | 77.08 | 98.56 | 97.97 | 91.55 | 81.35 |
+| | IMCS-MRG | 200 | 63.02 | 69.02 | 62.82 | 0.00 | 67.21 | 70.21 | 61.56 | 68.64 | 62.98 | 68.48 | 69.20 | 69.40 |
+| **Medical** | HeadQA | 120 | 90.00 | 90.83 | 66.67 | 66.67 | 86.67 | 83.33 | 86.67 | 83.33 | 82.50 | 83.33 | 70.83 | 64.17 |
+| | MedLFQA-HealthQA | 50 | 43.76 | 43.03 | 44.27 | 45.03 | 26.75 | 31.84 | 39.19 | 45.24 | 37.37 | 43.20 | 40.81 | 42.67 |
+| | MedLFQA-KQA | 50 | 42.34 | 40.41 | 32.73 | 35.89 | 18.12 | 26.76 | 32.93 | 37.55 | 30.82 | 36.25 | 30.77 | 26.88 |
+| | MedLFQA-LiveQA | 50 | 29.57 | 29.60 | 26.05 | 28.69 | 17.76 | 19.95 | 24.80 | 28.67 | 25.07 | 28.25 | 22.82 | 19.85 |
+| | MedLFQA-MedicationQA | 50 | 32.70 | 36.94 | 33.54 | 36.31 | 21.45 | 24.25 | 28.99 | 33.84 | 35.82 | 36.26 | 28.51 | 27.08 |
+| | MedMCQA | 100 | 78.00 | 79.00 | 56.00 | 56.00 | 76.00 | 80.00 | 78.00 | 84.00 | 67.00 | 70.00 | 57.00 | 60.00 |
+| | MedQA-CN | 50 | 82.00 | 82.00 | 82.00 | 80.00 | 84.00 | 82.00 | 70.00 | 72.00 | 88.00 | 90.00 | 82.00 | 84.00 |
+| | MedQA-TW | 50 | 90.00 | 88.00 | 60.00 | 66.00 | 86.00 | 86.00 | 80.00 | 76.00 | 82.00 | 82.00 | 62.00 | 64.00 |
+| | MedQA-US | 50 | 92.00 | 80.00 | 52.00 | 54.00 | 86.00 | 84.00 | 84.00 | 80.00 | 84.00 | 68.00 | 46.00 | 48.00 |
+| | MMCU | 142 | 59.15 | 61.27 | 35.92 | 38.03 | 62.68 | 59.15 | 48.59 | 46.48 | 62.68 | 63.38 | 46.48 | 49.30 |
+| **TCM** | CMB-Exam | 200 | 56.00 | 60.50 | 62.50 | 61.50 | 50.50 | 51.00 | 43.50 | 45.50 | 59.50 | 64.00 | 54.50 | 68.50 |
+| | CMMLU-TCM | 185 | 72.97 | 73.51 | 80.00 | 82.70 | 65.41 | 71.35 | 61.62 | 57.84 | 82.70 | 83.24 | 78.38 | 83.78 |
+| | MedLFQA-TCM | 200 | 72.00 | 73.50 | 82.00 | 85.00 | 63.00 | 64.50 | 59.00 | 61.50 | 82.50 | 90.00 | 75.50 | 87.50 |
+| | TCMSD | 200 | 39.00 | 68.75 | 30.00 | 60.75 | 16.00 | 69.25 | 32.25 | 67.00 | 38.25 | 67.25 | 34.50 | 59.00 |
+
+</div>
 
 ---
 
 ## ©️ Citation
 
 ```bibtex
-@misc{anonymous2025benchmarking,
-      title={Benchmarking Large Language Models on Multiple Tasks in Bioinformatics NLP with Prompting}, 
-      author={Anonymous},
-      year={2025},
-      eprint={2503.04013},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@article{jiang2025benchmarking,
+  title={Benchmarking large language models on multiple tasks in bioinformatics nlp with prompting},
+  author={Jiang, Jiyue and Chen, Pengan and Wang, Jiuming and He, Dongchen and Wei, Ziqin and Hong, Liang and Zong, Licheng and Wang, Sheng and Yu, Qinze and Ma, Zixian and others},
+  journal={arXiv preprint arXiv:2503.04013},
+  year={2025}
 }
