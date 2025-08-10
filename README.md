@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <img src="figs/ss.png" alt="Overview of the Bio-benchmark framework" width="800"/>
+  <img src="figs/overview.png" alt="Overview of the Bio-benchmark framework" width="800"/>
 </p>
 <p align="center">
   <em>Figure 1: Overview of the paper. Bio-benchmark is divided into sequence and text data. The process involves using six LLMs to generate answers for 30 subtasks, extracting them with BioFinder, and then performing evaluation and analysis.</em>
