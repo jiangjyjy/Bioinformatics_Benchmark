@@ -1,0 +1,996 @@
+[
+    {
+        "no": "MQA_571",
+        "category": "MMCU 医学三基",
+        "question": "肺心病病人出现头痛、失眠、烦躁，往往是肺性脑病的早期表现。( )\nA: 正确\nB: 错误",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_573",
+        "category": "MMCU 医学三基",
+        "question": "在马斯洛的人类基本需要层次中，最高层次的需要是：\nA: 爱与归属的需要\nB: 安全需要\nC: 自我实现的需要\nD: 尊重需要",
+        "answer": "C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_574",
+        "category": "MMCU 医学三基",
+        "question": "关于休克护理，下列哪项不妥( )\nA: 平卧位\nB: 常规吸氧\nC: 给热水袋，保暖\nD: 观察每小时尿量",
+        "answer": "C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_575",
+        "category": "MMCU 医学三基",
+        "question": "脊髓震荡是指\nA: 脊髓受压\nB: 脊髓挫伤\nC: 脊髓裂伤\nD: 脊髓暂时性功能抑制",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_576",
+        "category": "MMCU 医学三基",
+        "question": "使用约束带时，错误的是( )\nA: 使用约束带前应向家属解释目的和意义，取得配合\nB: 严格掌握约束带的适应证\nC: 带下应垫衬垫，固定时松紧适宜\nD: 为便于松解，宽绷带应打活结",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_577",
+        "category": "MMCU 医学三基",
+        "question": "注射TAT的目的( )\nA: 中和破伤风游离毒素\nB: 刺激机体产生抗体\nC: 与抗体争夺受体\nD: 免疫抑制",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_578",
+        "category": "MMCU 医学三基",
+        "question": "下列哪项是中毒型细菌性痢疾最常见的主要临床表现( )\nA: 高热\nB: 严重脓血便\nC: 感染性休克\nD: 吐.泻不止",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_579",
+        "category": "MMCU 医学三基",
+        "question": "急性病毒性肝炎早期最主要的治疗措施是( )\nA: 卧床休息\nB: 保肝药物\nC: 免疫制剂\nD: 抗病毒药物",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_580",
+        "category": "MMCU 医学三基",
+        "question": "医德修养的根本途径和方法是( )\nA: 学习医德理论知识\nB: 在医疗卫生保健实践中修养\nC: 有的放矢\nD: 持之以恒",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_581",
+        "category": "MMCU 药理学",
+        "question": "地西泮抗焦虑作用的主要部位是( )\nA: 边缘系统\nB: 大脑皮层\nC: 中脑网状结构\nD: 下丘脑",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_582",
+        "category": "MMCU 药理学",
+        "question": "强心甙对下列那一种心力衰竭无效( )\nA: 缩窄性心包炎所致的心衰\nB: 高血压所致的心衰\nC: 心房纤颤所致的心衰\nD: 肺源性心脏病所致的心衰",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_583",
+        "category": "MMCU 药理学",
+        "question": "高血压危象时宜选用那一种药物静脉滴注治疗( )\nA: 哌唑嗪\nB: 肼屈嗪\nC: 硝本地平\nD: 硝普钠",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_584",
+        "category": "MMCU 药理学",
+        "question": "下列强心甙中口服吸收率最高的是( )\nA: 洋地黄毒甙\nB: 地高辛\nC: 毒毛旋花子甙K\nD: 西地兰",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_585",
+        "category": "MMCU 药理学",
+        "question": "度冷丁与吗啡药理作用的区别是( )\nA: 无镇痛作用\nB: 无恶心,呕吐作用\nC: 无抑制呼吸作用\nD: 无止泻及致便秘作用",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_586",
+        "category": "MMCU 药理学",
+        "question": "长春新碱作用于细胞增殖周期的哪期( )\nA: S期\nB: G1期\nC: G0期\nD: M期",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_587",
+        "category": "MMCU 药理学",
+        "question": "关于胰岛素描述不正确的是( )\nA: 正规胰岛素属于短效制剂\nB: 精蛋白锌胰岛素属于中效制剂\nC: C低精蛋白锌胰岛素属于中效制剂\nD: 珠蛋白锌胰岛素",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_588",
+        "category": "MMCU 药理学",
+        "question": "氯丙嗪对DA神经通路的作用方式是( )\nA: 减少DA的生成\nB: 抑制DA的转换更新\nC: 增加DA的破坏\nD: 阻断DA受体",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_589",
+        "category": "MMCU 药理学",
+        "question": "治疗鼠疫首选药是( )\nA: 庆大霉素\nB: 链霉素\nC: 青霉素G\nD: 红霉素",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_590",
+        "category": "MMCU 药理学",
+        "question": "可用于治疗再生障碍性贫血的药物是( )\nA: 炔雌醇\nB: 甲地孕酮\nC: 甲基睾丸素\nD: 孕酮",
+        "answer": "C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_591",
+        "category": "MMCU 护理学",
+        "question": "体温调节中枢位于( )\nA: A小脑蚓部 \nB: B 丘脑下部 \nC: C 延髓上部 \nD: D 大脑枕叶",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_592",
+        "category": "MMCU 护理学",
+        "question": "颅内压增高的病员呕吐时表现( )\nA: 呕吐物呈粪臭味 \nB: 呕吐呈喷射状 \nC: 饭后呕吐 \nD: 呕吐物呈咖啡色",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_593",
+        "category": "MMCU 护理学",
+        "question": "哪项不宜浸泡手的消毒液( )\nA: 2%戊二醛溶液。\nB: 70%酒精。\nC: 0.02%双氯苯双胍乙烷。\nD: 0.2%过氧乙酸溶液。",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_594",
+        "category": "MMCU 护理学",
+        "question": "哪项除外是给药原则( )\nA: 根据医嘱给药 \nB: 严格执行查对制度 \nC: 有计划使用，避免浪费\nD: 准确掌握给药剂量、浓度、方法、时间",
+        "answer": "C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_595",
+        "category": "MMCU 护理学",
+        "question": "对门诊就诊的病人首先应实行( )\nA: 心理安慰\nB: 健康指导\nC: 预检分诊查\nD: 阅读病历采集资料",
+        "answer": "C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_596",
+        "category": "MMCU 护理学",
+        "question": "血丝虫病员尿呈( )\nA: 血尿\nB: 脓尿\nC: 乳糜尿\nD: 蛋白尿",
+        "answer": "C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_597",
+        "category": "MMCU 护理学",
+        "question": "对呼吸道粘膜有安抚作用的药，服后应( )\nA: 立即饮水 \nB: 少量饮水 \nC: 不饮水 \nD: 不宜立即饮水",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_598",
+        "category": "MMCU 护理学",
+        "question": "留置气泡技术适用于( )\nA: 静脉注射 \nB: 肌肉注射 \nC: 动脉注射 \nD: 小儿头皮静脉注射",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_599",
+        "category": "MMCU 护理学",
+        "question": "．某患者，女25岁，诊断为血小板减少性紫癜，检查唇和口腔粘膜散在瘀血点，轻触牙龈出血。该患者口腔护理应特别注意( )\nA: 动作轻稳勿损伤粘膜 \nB: 夹紧棉球防止遗留口腔\nC: 蘸水不可过湿，以防呛咳 \nD: 擦拭时勿触及咽部以免恶心",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_600",
+        "category": "MMCU 护理学",
+        "question": "碳酸氢钠洗胃液禁用于( )\nA: 1059农药中毒 \nB: 敌敌畏中毒 \nC: 氢化物中毒 \nD: 敌百虫中毒",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_601",
+        "category": "MMCU 病理学",
+        "question": "胃溃疡病的合并症最常见的是：\nA: 梗阻\nB: 穿孔\nC: 出血\nD: 癌变",
+        "answer": "C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_602",
+        "category": "MMCU 病理学",
+        "question": "下列哪个不是恶性肿瘤?\nA: 无性细胞瘤\nB: 精原细胞瘤\nC: 畸胎瘤\nD: 淋巴瘤",
+        "answer": "C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_603",
+        "category": "MMCU 病理学",
+        "question": "胃溃疡病变部位最常见于：\nA: 胃前壁\nB: 胃后壁\nC: 胃大弯及胃底\nD: 胃小弯近幽门处",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_604",
+        "category": "MMCU 病理学",
+        "question": "下列除哪一项外．其余均属于癌前病变?\nA: 纤维囊性乳腺病\nB: 十二指肠溃疡\nC: 粘膜白斑\nD: 结肠多发性腺瘤性息肉",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_605",
+        "category": "MMCU 病理学",
+        "question": "肿瘤血道播散最常见的部位是：\nA: 肺、胸膜．脑\nB: 肺、肾、胃、脾\nC: 肝．腹膜、骨、肾\nD: 肝、肺",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_606",
+        "category": "MMCU 病理学",
+        "question": "电镜下显示肾小球基底膜与内皮细胞之间有电子致密的沉积物，考虑\nA: 急性增生性肾小球肾炎\nB: 快速进行行性肾小球\nC: 膜性肾小球肾炎同\nD: 膜性增生性肾小球肾炎(Ⅰ型)",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_607",
+        "category": "MMCU 病理学",
+        "question": "肿瘤代谢的特点不包括：\nA: DNA和RNA合成增强\nB: 蛋白质合成与分解均增强\nC: 与正常母组织代谢相比具有质的差别\nD: 肿瘤组织内氧化酶↓和蛋白质分解酶",
+        "answer": "C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_608",
+        "category": "MMCU 病理学",
+        "question": "高血压失代偿期心脏变为\nA: 左心室向心性肥大\nB: 左心室明显扩张\nC: 左心室乳头肌明显增粗\nD: 左心室肌收缩力加强",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_609",
+        "category": "MMCU 病理学",
+        "question": "高血压脑出血常见的血管是\nA: 小脑小动脉\nB: 脊髓前动脉\nC: 豆纹动脉\nD: 大脑前动脉",
+        "answer": "C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_610",
+        "category": "MMCU 病理学",
+        "question": "股静脉血栓形成时．下述哪种结局不易发生?\nA: 阻塞血流\nB: 机化\nC: 血流完全恢复正常\nD: 钙化",
+        "answer": "C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_611",
+        "category": "MMCU 临床医学",
+        "question": "继发型肺结核好发于：( )\nA: 两肺下叶背段或右肺中叶\nB: 两肺上叶尖后段或右肺中叶\nC: 两肺下叶\nD: 两肺上叶尖后段或两肺下叶尖段",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_612",
+        "category": "MMCU 临床医学",
+        "question": "迁延性腹泻的治疗原则：( )\nA: 抗病毒治疗\nB: 长期使用抗生素\nC: 禁食时间要长，有利于消化功能的恢复\nD: 寻找并解除引起病程迁延的原因，即积极治疗并发症",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_613",
+        "category": "MMCU 临床医学",
+        "question": "急性肾炎患者的病因大多与哪种微生物感染有关：( )\nA: 乙肝病毒\nB: 巨细胞病毒\nC: β-溶血性链球菌\nD: 沙眼衣原体",
+        "answer": "C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_614",
+        "category": "MMCU 临床医学",
+        "question": "主要药理作用示扩张冠状动脉，增加冠状动脉血流的药物是：( )\nA: 氯沙坦\nB: 美托诺尔\nC: 卡托普利\nD: 阿司匹林",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_615",
+        "category": "MMCU 临床医学",
+        "question": "男性，40岁，平素体健，受凉后突发高热、咳嗽、咳铁锈色痰，体检左下肺实变体征，胸片显示“左下肺大片模糊阴影”，以下哪项措施不妥当：( )\nA: 首选青霉素\nB: 首选头孢他啶\nC: 应用抗生素直到体温正常后3天\nD: 注意休息，补充营养",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_616",
+        "category": "MMCU 临床医学",
+        "question": "艾滋病的传播途径不包括：( )\nA: 输血\nB: 吸毒共用针具\nC: 母婴\nD: 蚊虫叮咬",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_617",
+        "category": "MMCU 临床医学",
+        "question": "患者进入恢复期后，已稳定退热一段时间，由于潜伏于组织内的病原体再度繁殖至一定程度，使初发的症状再度出现，称为：( )\nA: 复发\nB: 再感染\nC: 重复感染\nD: 二重感染",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_618",
+        "category": "MMCU 临床医学",
+        "question": "精神分裂症的情感障碍主要表现为：( )\nA: 欣快\nB: 情绪不稳\nC: 情绪高涨\nD: 情感不协调",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_619",
+        "category": "MMCU 临床医学",
+        "question": "精神疾病中自杀最多的疾病是：( )\nA: 焦虑症\nB: 抑郁症\nC: 精神分裂症\nD: 癔症",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_620",
+        "category": "MMCU 临床医学",
+        "question": "17岁未婚少女，14岁初潮，月经周期不规则，2～3个月来潮一次，每次经期达10余日，量多，无痛经。本例恰当诊断应是：( )\nA: 月经过多\nB: 子宫内膜不规则脱落\nC: 黄体功能不足\nD: 无排卵性功血",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_621",
+        "category": "MMCU 传染病学",
+        "question": "马鞍热时指：\nA: 高热持续，24小时体温相差不超过1℃\nB: 24小时体温相差超过1℃，但最低点未达正常\nC: 发热数日，退热一日，又再发热数日\nD: 骤起高热、持续数日骤退，间歇无热数日，高热重复出现",
+        "answer": "C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_622",
+        "category": "MMCU 传染病学",
+        "question": "影响传染病流行过程的两个重要因素是：\nA: 气温、雨量\nB: 社会制度、经济状况\nC: 地理位置、气候变化\nD: 社会因素、自然因素",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_623",
+        "category": "MMCU 传染病学",
+        "question": "下列哪项是胆道蛔虫症的特点 \nA: 上腹钻顶样痛及反跳痛\nB: 上腹钻顶样痛但体征轻微\nC: 起病后呈持续性疼痛，阵发性加剧\nD: 起病缓慢，多在进油腻食物后发作",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_624",
+        "category": "MMCU 传染病学",
+        "question": "肝细胞碎片状坏死或桥接坏死见于\nA: 急性重型肝炎\nB: 亚急性重型肝炎\nC: 慢性活动性肝炎\nD: 慢性迁延性肝炎",
+        "answer": "C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_625",
+        "category": "MMCU 传染病学",
+        "question": "下列对肝肾综合征的描述哪项是错误的\nA: 发生在重型肝炎和慢性肝病晚期\nB: 有效肾血流量下降和肾小球滤过率降低是其主要的病理生理机制\nC: 是一种功能性肾衰\nD: 肝功能改善后肾功能恢复常比较困难",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_626",
+        "category": "MMCU 传染病学",
+        "question": "下面哪种病毒不能引起手足口病？\nA: 小RNA病毒科\nB: 肠道病毒属的柯萨奇病毒\nC: 埃可病毒\nD: 痢疾杆菌",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_627",
+        "category": "MMCU 传染病学",
+        "question": "确定传染病隔离的主要依据是\nA: 最长潜伏期\nB: 最短潜伏期\nC: 平均潜伏期\nD: 传染期",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_628",
+        "category": "MMCU 传染病学",
+        "question": "登革热最常见的并发症是\nA: 中毒性肝炎\nB: 尿毒症\nC: 心肌炎\nD: 急性血管内溶血",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_629",
+        "category": "MMCU 传染病学",
+        "question": "日本血吸虫病的临床分型不包括：\nA: 无症状带虫者\nB: 急性血吸虫病\nC: 慢性血吸虫病\nD: 晚期血吸虫病",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_630",
+        "category": "MMCU 传染病学",
+        "question": "引起病原体变异因素不包括： \nA: 病原体所处的环境的改变\nB: 病原体感染的途径\nC: 药物的因素\nD: 机体的免疫压力",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_631",
+        "category": "MMCU 外科学",
+        "question": "确定乳腺肿块性质最可靠的方法是\nA: 乳头溢液涂片\nB: 乳房触诊\nC: B超\nD: 活组织病理检查",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_632",
+        "category": "MMCU 外科学",
+        "question": "成人原发性甲状腺功能减退症（原发性甲减）最常见下列哪种原因？( )\nA: 甲状腺激素抵抗综合征\nB: 抗甲状腺药物\nC: 垂体疾病致TSH分泌减少\nD: 自身免疫性甲状腺炎",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_633",
+        "category": "MMCU 外科学",
+        "question": "颅内转移瘤多见于哪个动脉分布区( )\nA: 大脑前动脉\nB: 大脑中动脉\nC: 大脑后动脉\nD: 基底动脉",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_634",
+        "category": "MMCU 外科学",
+        "question": "25岁男性，入院前6小时突感脐周疼痛，呈持续性，阵发性加重，呕吐频繁，伴有腰背部痛。查病人呈胸膝卧位，腹胀，全腹压痛。此病人诊断应首先考虑为：( )\nA: 肠套叠\nB: 小肠扭转\nC: 乙状结肠扭转\nD: 粘连性肠梗阻",
+        "answer": " B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_635",
+        "category": "MMCU 外科学",
+        "question": "提高对腰椎间盘突出诊断的精确性，确定手术部位的特殊检查是( )\nA: 椎管造影\nB: B超检查\nC: MR检查\nD: CT检查",
+        "answer": " C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_636",
+        "category": "MMCU 外科学",
+        "question": "男，20岁，患可复性腹股沟斜疝，最佳治疗方法是( )\nA: 用疝带\nB: 单纯疝囊高位结扎术\nC: 佛格逊氏法修补\nD: 巴西尼氏法修补",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_637",
+        "category": "MMCU 外科学",
+        "question": "下列哪一种疝是由内脏构成疝囊壁的一部分( )\nA: Richter疝\nB: 腹股沟斜疝\nC: 腹股沟骑跨疝\nD: 滑动性疝",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_638",
+        "category": "MMCU 外科学",
+        "question": "颅内血管性疾病，目前最佳诊断方法是( )。\nA: MRI\nB: DSA\nC: CT\nD: PET",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_639",
+        "category": "MMCU 外科学",
+        "question": "最多见的颅内肿瘤是( )\nA: 神经胶质瘤\nB: 垂体腺瘤\nC: 脑膜瘤\nD: 脑血管瘤",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_640",
+        "category": "MMCU 外科学",
+        "question": "目前肠梗阻最常见的原因是( )\nA: 肠肠道肿瘤\nB: 肠扭转\nC: 嵌顿性外疝\nD: 肠粘连",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_641",
+        "category": "MMCU 解剖学",
+        "question": "子宫动脉起自( )\nA: 腹主动脉\nB: 髂总动脉\nC: 髂内动脉\nD: 髂外动脉",
+        "answer": "C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_642",
+        "category": "MMCU 解剖学",
+        "question": "卵圆窝( )\nA: 在右心房内\nB: 在左心房内\nC: 在室间隔上\nD: 胎儿时就存在",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_643",
+        "category": "MMCU 解剖学",
+        "question": "左睾丸静脉一般注入( )\nA: 下腔静脉\nB: 肠系膜下静脉\nC: 左肾静脉\nD: 脾静脉",
+        "answer": "C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_644",
+        "category": "MMCU 解剖学",
+        "question": "奇静脉注入部位是( )\nA: 下腔静脉\nB: 左腰升静脉\nC: 上腔静脉\nD: 右腰升静脉",
+        "answer": "C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_645",
+        "category": "MMCU 解剖学",
+        "question": "体循环起自( )\nA: 左心房\nB: 右心房\nC: 左心室\nD: 右心室",
+        "answer": "C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_646",
+        "category": "MMCU 解剖学",
+        "question": "心尖( )\nA: 朝向右前下方\nB: 朝向右后上方\nC: 朝向左后下方\nD: 朝向左前下方",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_647",
+        "category": "MMCU 解剖学",
+        "question": "动脉韧带( )\nA: 连于肺动脉与升主动脉之间\nB: 来源于动脉圆锥\nC: 是动脉导管闭锁的遗迹\nD: 由肌纤维构成",
+        "answer": "C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_648",
+        "category": "MMCU 解剖学",
+        "question": "下列静脉中哪一支属于肝门静脉系\nA: 肝静脉\nB: 肾静脉\nC: 肠系膜下静脉\nD: 卵巢静脉",
+        "answer": "C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_649",
+        "category": "MMCU 解剖学",
+        "question": "心的位置位于( )\nA: 胸膜腔内\nB: 胸腔的上纵隔内\nC: 胸腔的前纵隔内\nD: 胸腔的中纵隔内",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_650",
+        "category": "MMCU 解剖学",
+        "question": "贵要静脉 ( )\nA: 起于手背静脉网桡侧\nB: 汇入头静脉并延续为腋静脉\nC: 注入肱静脉或腋静脉\nD: 行于三角胸大肌间沟内",
+        "answer": "C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_651",
+        "category": "MMCU 医学影像学",
+        "question": "摄小儿胸部Ｘ线片时，有如下情况，请您找出错误者：( )\nA: 不能坐立的婴幼儿，不一定用立位摄影\nB: 正常胸腺有时会与心脏增大混淆\nC: 用大毫安、短时间\nD: 呼气和吸气相摄片无明显差别",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_652",
+        "category": "MMCU 医学影像学",
+        "question": "Ｘ线表现为肺血少，左、右肺门不对称，左侧〉右侧，肺动脉段呈直立样突起，最可靠的诊断是：( )\nA: 动脉导管未闭\nB: 肺动脉狭窄\nC: 肺心病\nD: 高血压性心脏病",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_653",
+        "category": "MMCU 医学影像学",
+        "question": "摄胸片，投照条件适当，显影液温度25℃，显影时间５分钟，会造成：( )\nA: 影像对比度欠佳\nB: 以上都不是\nC: 影像灰雾过高\nD: 影像层次不清",
+        "answer": "C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_654",
+        "category": "MMCU 医学影像学",
+        "question": "女性生殖器结核最常见的是：( )\nA: 输卵管结核\nB: 子宫颈结核\nC: 卵巢结核\nD: 子宫内膜结核",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_655",
+        "category": "MMCU 医学影像学",
+        "question": "急性化脓性骨髓炎的病理变化特点是：( )\nA: 以骨质破坏为主，周围伴骨质硬化\nB: 局部骨质疏松\nC: 以骨质增生硬化为主\nD: 以骨质破坏为主，一般没有明显骨质增生硬化",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_656",
+        "category": "MMCU 医学影像学",
+        "question": "肾结核平片征象：( )\nA: 肾影倒\"八字\"形\nB: 肾影不清\nC: 病侧\"肾下垂\"\nD: 肾区可见不规则钙化灶",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_657",
+        "category": "MMCU 医学影像学",
+        "question": "心包积液最常见的原因是：( )\nA: 类风湿性\nB: 出血性\nC: 风湿性\nD: 结核性",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_658",
+        "category": "MMCU 医学影像学",
+        "question": "肾呈分叶状增大，肾盂造影示肾盂肾盏弧形压迫、变狭、拉长、移位应诊断为：( )\nA: 肾囊肿\nB: 肾胚胎瘤\nC: 肾盂癌\nD: 马蹄肾",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_659",
+        "category": "MMCU 医学影像学",
+        "question": "用Ｘ线证实少量胸水时，以下哪种摄影方法最好：( )\nA: 健侧向下侧卧侧位\nB: 患侧向下侧卧侧位\nC: 患侧向下侧卧后前位\nD: 健侧向下侧卧后前位",
+        "answer": "C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_660",
+        "category": "MMCU 医学影像学",
+        "question": "下列哪种不是左向右分流的先天性心脏病：( )\nA: 动脉导管未闭\nB: 室间隔缺损\nC: 房间隔缺损\nD: 法鲁氏四联症",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_662",
+        "category": "MMCU 寄生虫学",
+        "question": "医学节肢动物对人体最主要的危害是: ( )\nA: 骚扰 \nB: 毒害 \nC: 寄生\nD: 传播疾病 ",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_663",
+        "category": "MMCU 寄生虫学",
+        "question": "带绦虫病驱虫治疗后，淘粪检查下列哪项最适于确定疗效：( )\nA: 虫卵 \nB: 链体 \nC: 头节（*颈部的生发中心）\nD: 成节 ",
+        "answer": "C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_664",
+        "category": "MMCU 寄生虫学",
+        "question": "红细胞内残存的疟原虫因抗原变异和机体免疫功能下降，重新大量繁殖，再次引起疟疾发作的过程称为：( )\nA: 疟疾发作 \nB: 复发\nC: 再燃 \nD: 凶险型疟疾",
+        "answer": "C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_665",
+        "category": "MMCU 寄生虫学",
+        "question": "肉眼鉴别美洲钩虫和十二指肠钩虫的主要依据：( )\nA: 虫体大小\nB: 口囊中的口甲\nC: 体形\nD: 口囊和交合伞",
+        "answer": "C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_666",
+        "category": "MMCU 寄生虫学",
+        "question": "哪种是黑热病的病原体？( )\nA: 隐孢子虫 \nB: 蓝氏贾第鞭毛虫\nC: 杜氏利什曼原虫 \nD: 疟原虫 ",
+        "answer": "C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_667",
+        "category": "MMCU 寄生虫学",
+        "question": "节肢动物的生物性防治是指：( )\nA: 利用杀虫剂消灭节肢动物\nB: 利用声、光、电等诱杀节肢动物\nC: 利用天敌捕食节肢动物\nD: 利用遗传方法防制节肢动物",
+        "answer": "C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_668",
+        "category": "MMCU 寄生虫学",
+        "question": "蛲虫的主要致病机制在于：( )\nA: 成虫固着肠壁造成的损伤\nB: 成虫特殊的产卵习性\nC: 虫体代谢产物的刺激\nD: 喜欢钻孔的习性",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_669",
+        "category": "MMCU 寄生虫学",
+        "question": "病原体在昆虫体内仅有发育但不繁殖的是:( )\nA: 杜氏利氏曼原虫\nB: 鼠疫杆菌(繁殖)\nC: 疟原虫（发育繁殖）\nD: 丝虫（发育但不繁殖）",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_670",
+        "category": "MMCU 寄生虫学",
+        "question": "不完全变态的昆虫是：( )\nA: 蚊 \nB: 蝇 \nC: 蚤 \nD: 虱 ",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_671",
+        "category": "MMCU 免疫学",
+        "question": "关于抗毒素的使用，下列哪项是错误的？\nA: 可能发生过敏反应\nB: 治疗时要早期足量\nC: 可作为免疫增强剂给儿童多次注射\nD: 对过敏机体应采取脱敏疗法",
+        "answer": "C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_672",
+        "category": "MMCU 免疫学",
+        "question": "T细胞分化成熟的场所是\nA: 骨髓 \nB: 胸腺 \nC: 法氏囊\nD: 脾脏 ",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_673",
+        "category": "MMCU 免疫学",
+        "question": "机体内最先发挥非特异性抗肿瘤作用的细胞是\nA: CTL细胞\nB: NK细胞\nC: LAK细胞\nD: 单核／巨噬细胞",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_675",
+        "category": "MMCU 免疫学",
+        "question": "用于测量病毒大小的单位是：\nA: 微米(μm)\nB: 毫微米(nm)\nC: 微微米(pm)\nD: 毫微微米(fm)",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_676",
+        "category": "MMCU 免疫学",
+        "question": "某孕妇产前检查时发现有淋病性子宫颈炎。分娩后应对新生儿作何处理？\nA: 迅速将患儿放入无菌隔离室\nB: 1%硝酸银滴眼\nC: 给婴儿注射青霉素\nD: 给婴儿口服氟哌酸",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_677",
+        "category": "MMCU 免疫学",
+        "question": "同时具有吞噬杀菌作用和抗原提呈作用的细胞是\nA: 中性粒细胞 \nB: 树突样细胞\nC: 巨噬细胞 \nD: B细胞 ",
+        "answer": "C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_678",
+        "category": "MMCU 免疫学",
+        "question": "发生宫腔内病毒感染时，新生儿血液中可出现高水平的：\nA: IgG \nB: IgA\nC: IgM （可作为感染的早期诊断）\nD: IgD ",
+        "answer": "C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_679",
+        "category": "MMCU 免疫学",
+        "question": "属于Ⅲ型超敏反应的疾病是：\nA: 新生儿溶血症\nB: 输血反应\nC: 血清病\nD: 接触性皮炎",
+        "answer": "C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_680",
+        "category": "MMCU 免疫学",
+        "question": "关于Ⅰ型超敏反应的叙述，下列哪项是错误的?\nA: 由IgE介导的超敏反应\nB: 肾上腺素治疗有效\nC: 有明显的个体差异\nD: 多在接触变应原48小时后发生",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_681",
+        "category": "MMCU 儿科学",
+        "question": "关于口服补液盐，下列说法哪项不正确( )\nA: 相当于2/3张含钠液\nB: 含钾浓度是0.15％\nC: 适于补充累积损失量和继续损失量，亦可用于预防腹泻引起的脱水\nD: 补充累积损失量期间须禁食、禁水",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_682",
+        "category": "MMCU 儿科学",
+        "question": "典型苯丙酮尿症最为关键的治疗( )\nA: 低苯丙氨酸饮食\nB: 四氢生物蝶呤\nC: 二氢生物蝶呤\nD: 5－羟色氨酸",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_683",
+        "category": "MMCU 儿科学",
+        "question": "诊断新生儿败血症最有帮助的检查是( )\nA: 血常规\nB: 尿常规\nC: 血培养\nD: 血气分析",
+        "answer": "C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_684",
+        "category": "MMCU 儿科学",
+        "question": "有关结核病的病因，错误的是( )\nA: 人型、牛型结核杆菌均可使人类致病\nB: 呼吸道为主要传染途径\nC: 结核菌为抗酸性厌氧菌\nD: 结核病的发生与遗传因素有一定关系",
+        "answer": "C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_685",
+        "category": "MMCU 儿科学",
+        "question": "下列哪项是轻型β-地贫患者Hb电泳的特点( )\nA: HbA正常，HbA20.035－0.060，HbF正常\nB: HbA0.035－0.060，HbA2正常，HbF＞0.40\nC: HbA正常，HbA2正常，HbF0.035－0.060\nD: HbA0.035－0.060，HbA2正常，HbF正常",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_686",
+        "category": "MMCU 儿科学",
+        "question": "肾炎性肾病与单纯性肾病的区别是：( )\nA: 大量蛋白尿\nB: 低蛋白血症\nC: 高脂血征\nD: 高血压",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_687",
+        "category": "MMCU 儿科学",
+        "question": "以下哪项为金黄色葡萄球菌肺炎的临床特点( )\nA: 起病缓慢\nB: 多为低热\nC: 肺部体征出现较晚\nD: 较易发展成脓胸、脓气胸、肺大泡",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_688",
+        "category": "MMCU 儿科学",
+        "question": "维生素Ｄ治疗佝偻病的剂量应为( )\nA: 依病情不同而剂量不同\nB: 不同病期，剂量相同\nC: 先用小剂量逐渐加大剂量\nD: 剂量越大越好",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_689",
+        "category": "MMCU 儿科学",
+        "question": "关于小儿急性感染性喉炎的症状，哪项是错误的？( )\nA: 犬吠样咳嗽\nB: 声嘶\nC: 喉鸣\nD: 呼气性呼吸困难",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_690",
+        "category": "MMCU 儿科学",
+        "question": "关于新生儿败血症，下列哪项不正确( )\nA: 病原体多为肺炎双球菌\nB: 缺乏特异性的临床表现\nC: 血白细胞层或脑脊液涂片查见细菌，可作病原学诊断\nD: 血培养阴性，不能否定败血症的存在",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_691",
+        "category": "MMCU 皮肤性病学",
+        "question": "目前治疗系统性红斑狼疮的首选药物是( )\nA: 糖皮质激素\nB: 抗生素\nC: 环磷酰胺\nD: 非甾体类消炎镇痛药",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_692",
+        "category": "MMCU 皮肤性病学",
+        "question": "亚急性性有少许渗出的皮疹选择哪种剂型最好( )\nA: 溶液\nB: 霜剂\nC: 软膏\nD: 糊膏",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_693",
+        "category": "MMCU 皮肤性病学",
+        "question": "慢性单纯性苔藓（神经性皮炎）的常见皮损为( )\nA: 糜烂\nB: 疤痕\nC: 萎缩\nD: 苔藓样变",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_694",
+        "category": "MMCU 皮肤性病学",
+        "question": "诊断系统性红斑狼疮必须要做的免疫方面的化验是( )\nA: T细胞亚群测定\nB: 免疫病理\nC: ANA多肽抗体谱\nD: 血清免疫球蛋白",
+        "answer": "C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_695",
+        "category": "MMCU 皮肤性病学",
+        "question": "糖尿病患者应禁用或慎用的药物是( )\nA: 强的松\nB: 扑尔敏\nC: 阿司咪唑（息斯敏）\nD: 制霉菌素",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_696",
+        "category": "MMCU 皮肤性病学",
+        "question": "下列哪个药物是治疗淋病的首选药物( )\nA: 多西环素\nB: 阿奇霉素\nC: 美满霉素\nD: 头孢曲松",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_697",
+        "category": "MMCU 皮肤性病学",
+        "question": "红斑狼疮常发生于下列哪种人群( )\nA: 中青年男性\nB: 中青年女性\nC: 老年男性\nD: 老年女",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_698",
+        "category": "MMCU 皮肤性病学",
+        "question": "有关银屑病以下哪项是错误的( )\nA: 角化不全\nB: 好发于头皮与四肢伸侧\nC: 尼氏征阳性\nD: Auspitz现象（点状出血现象）",
+        "answer": "C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_699",
+        "category": "MMCU 皮肤性病学",
+        "question": "银屑病在临床上可分为：( )\nA: 急性、亚急性和慢性三型\nB: 寻常型、增殖型、落叶型、红斑型\nC: 重型和轻型\nD: 寻常型、脓疱型、关节病型、红皮病型",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_700",
+        "category": "MMCU 皮肤性病学",
+        "question": "下面哪种疾病不属于性传播疾病( )\nA: 淋病\nB: 尖锐湿疣\nC: 扁平疣\nD: 梅毒",
+        "answer": "C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_702",
+        "category": "MMCU 组织胚胎学",
+        "question": "胰岛较多分布于( )\nA: 胰头部和胰尾部\nB: 胰体部\nC: 胰头部\nD: 胰尾部",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_703",
+        "category": "MMCU 组织胚胎学",
+        "question": "神经元尼氏体分布在( )\nA: 胞体和轴突内\nB: 树突和胞体内\nC: 树突和轴突内\nD: 胞体内",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_705",
+        "category": "MMCU 组织胚胎学",
+        "question": "分布于胃肠道的上皮组织属于( )\nA: 单层柱状上皮\nB: 单层立方上皮\nC: 单层扁平上皮\nD: 假复层纤毛柱状上皮",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_706",
+        "category": "MMCU 组织胚胎学",
+        "question": "骨骼肌纤维内只有粗肌丝而无细肌丝的是( )\nA: 明带\nB: H带\nC: 暗带\nD: Z线",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_709",
+        "category": "MMCU 组织胚胎学",
+        "question": "光镜下近端小管细胞间界限不清的原因是( )\nA: 细胞质强嗜酸性\nB: 细胞间有侧突相互交错\nC: 细胞排列紧密\nD: 小管高度弯曲",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_711",
+        "category": "MMCU 药物分析学",
+        "question": "硫喷妥钠与铜盐的鉴别反应为( )\nA: 紫色\nB: 蓝色\nC: 绿色\nD: 黄色",
+        "answer": "C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_712",
+        "category": "MMCU 药物分析学",
+        "question": "用于鉴别巴比妥类药物的硝化反应,主要是利用该类药物结构中的( )\nA: 饱和碳氧双键\nB: 不饱和碳氮双键\nC: 互变异构中形成的羟基\nD: 取代基中含有的苯环",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_713",
+        "category": "MMCU 药物分析学",
+        "question": "2TL法检查盐酸普鲁卡因注射液中对氨基苯甲酸时，显色定位杂质斑点采用( )\nA: 氨气\nB: 碘蒸汽\nC: β-奈酚\nD: 对二甲氨基苯甲醛",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_714",
+        "category": "MMCU 药物分析学",
+        "question": "在碱性溶液中，可被铁氰化钾氧化生成硫色素，硫色素溶于正丁醇中，显蓝色荧光。则该药物为( )\nA: 维生素A\nB: 苯巴比妥\nC: 可的松\nD: 维生素B1",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_715",
+        "category": "MMCU 药物分析学",
+        "question": "具有Δ4-3-酮结构的药物为( )\nA: 氯丙嗪\nB: 硝苯地平\nC: 甲睾酮\nD: 咖啡因",
+        "answer": "C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_716",
+        "category": "MMCU 药物分析学",
+        "question": "药物中氯化物杂质检查的一般意义在于( )\nA: 是有疗效的物质\nB: 它是对药物疗效有不利影响的物质\nC: 它是对人体健康有害的物质\nD: 可以反映药物的生产工艺和质量管理问题检查方法比较方便",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_717",
+        "category": "MMCU 药物分析学",
+        "question": "链霉素的特征反应为( )\nA: FeCl3反应\nB: Kober反应\nC: 坂口反应\nD: 差向异构反应",
+        "answer": "C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_718",
+        "category": "MMCU 药物分析学",
+        "question": "通常所说的血药浓度是指( )\nA: 全血中药物的总浓度\nB: 全血中游离药物的浓度\nC: 血浆中药物的总浓度\nD: 血浆中游离药物的浓度",
+        "answer": "C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_719",
+        "category": "MMCU 药物分析学",
+        "question": "用于判断方法准确性的指标是( )\nA: 回收率\nB: 精密度\nC: 专属性\nD: 耐用性",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_720",
+        "category": "MMCU 药物分析学",
+        "question": "注射液中检查降解产物2-甲氨基-5-氯-二苯甲酮的药物是( )\nA: 硫酸奎宁\nB: 硝苯地平\nC: 氯氮\nD: 地西泮",
+        "answer": "D",
+        "eval": "Accuracy"
+    }
+]

@@ -1,0 +1,352 @@
+[
+    {
+        "no": "MQA_171",
+        "category": "MedQA_CN",
+        "question": "1．病毒性脑膜炎脑脊液检查往往是（　　）。\nA: 外观清亮的\nB: 外观呈毛玻璃样\nC: 墨汁染色\nD: 脑脊液白细胞数为数百至数千\nE: 抗酸染色",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_172",
+        "category": "MedQA_CN",
+        "question": "高渗性非酮症糖尿病昏迷补液时常选用（　　）。\nA: 低渗盐水\nB: 等渗盐水\nC: 高渗盐水\nD: 胶体液\nE: 葡萄糖液",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_173",
+        "category": "MedQA_CN",
+        "question": "甲状腺功能亢进内科治疗宜选用（　　）。\nA: 大剂量碘剂\nB: 甲巯咪唑\nC: 甲苯磺丁脲\nD: 小剂量碘剂\nE: 以上都不是",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_174",
+        "category": "MedQA_CN",
+        "question": "合并急性左心衰竭的阵发性室上性心动过速，最佳治疗是（　　）。\nA: 静脉注射维拉帕米\nB: Valsalva动作\nC: 直流电复律\nD: 置入起搏器\nE: 射频消融",
+        "answer": "C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_175",
+        "category": "MedQA_CN",
+        "question": "下列哪项属于Ⅱ型超敏反应的疾病？（　　）\nA: 血小板减少性紫癜\nB: 过敏性鼻炎\nC: SLE\nD: 血清病\nE: 溃疡性结肠炎",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_176",
+        "category": "MedQA_CN",
+        "question": "颈椎骨折脱位合并截瘫的严重并发症不包括（　　）。\nA: 呼吸道感染\nB: 心血管系统紊乱\nC: 泌尿系感染和结石\nD: 褥疮\nE: 高热",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_177",
+        "category": "MedQA_CN",
+        "question": "女性，28岁，10天前自海口来京。来京后，开始发冷、发热，持续3小时后出汗、热退，每两日发作一次，涂片找到疟原虫滋养体。最常用的治疗方案是（　　）。\nA: 氯喹加伯氨喹\nB: 乙胺嘧啶加伯氨喹\nC: 奎宁加伯胺喹\nD: 磺胺加乙胺嘧啶\nE: 阿的平加伯氨喹",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_178",
+        "category": "MedQA_CN",
+        "question": "3．颈胸手术后可采取（　　）。\nA: 侧卧位\nB: 俯卧位\nC: 头高脚低斜坡卧位\nD: 高半坐位卧位\nE: 低半坐位卧位",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_179",
+        "category": "MedQA_CN",
+        "question": "根据乳腺癌在不同部位发生率，扪诊时最需要注意的是乳腺的（　　）。\nA: 内上象限\nB: 内下象限\nC: 外下象限\nD: 外上象限\nE: 中央区",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_180",
+        "category": "MedQA_CN",
+        "question": "男，40岁。田间劳动时右足底被割破，伤口长2cm，深达肌腱，自行包扎。10天后感乏力、畏光、咀嚼无力、下肢痛。无神经系统疾病史。查体：满面大汗，苦笑脸，张口困难，角弓反张，阵发性四肢痉挛，心肺查体无异常，腹肌强直，无压痛。2．下列治疗措施中最重要的是（　　）。\nA: 控制肌肉痉挛，防止窒息\nB: 中和血中毒素\nC: 应用大剂量青霉素\nD: 纠正水电解质失衡\nE: 吸氧",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_181",
+        "category": "MedQA_CN",
+        "question": "1．新生儿生理性黄疸的主要原因是（　　）。\nA: 皮肤发亮，水肿毳毛多\nB: 皮肤色红润，皮下脂肪丰满，毳毛少\nC: 肝葡萄糖醛酸基转移酶活性低\nD: 呼吸常不规则，甚至呼吸暂停\nE: 足月新生儿生后3～5天出现乳腺肿大",
+        "answer": "C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_182",
+        "category": "MedQA_CN",
+        "question": "1．支气管哮喘患者发生Ⅱ型呼吸衰竭最主要的机制是（　　）。\nA: 肺泡通气量下降\nB: 通气/血流比例失衡\nC: 弥散性功能障碍\nD: 肺内分流\nE: 耗氧量增加",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_183",
+        "category": "MedQA_CN",
+        "question": "作为幽门螺旋杆菌根除治疗后复查的首选方法是（　　）。\nA: 胃组织学检查\nB: 快速尿素酶试验\nC: 幽门螺旋杆菌培养\nD: 14C尿素呼气试验\nE: 血清学检查",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_184",
+        "category": "MedQA_CN",
+        "question": "患者，女，55岁。胸骨后剧烈疼痛5小时，伴大汗淋漓，血压80/40mmHg，心率144次/分，面色苍白，四肢发冷，心电图提示广泛心肌梗死。3．该患者最理想的有效治疗措施是（　　）。\nA: 硝酸甘油扩血管\nB: 毛花苷丙强心\nC: 尿激酶溶栓\nD: 主动脉内球囊反搏术\nE: 直接PTCA术",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_185",
+        "category": "MedQA_CN",
+        "question": "下列哪项是易出现逆行性遗忘症状的疾病？（　　）\nA: 脑外伤\nB: 精神分裂症\nC: 焦虑性神经症\nD: 老年性痴呆\nE: 抑郁症",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_186",
+        "category": "MedQA_CN",
+        "question": "人类的MHC定位的染色体（　　）。\nA: 第17号染色体\nB: 第2号染色体\nC: 第15号染色体\nD: 第6号染色体\nE: 第9号染色体",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_187",
+        "category": "MedQA_CN",
+        "question": "附睾结核多继发于（　　）。\nA: 肾结核\nB: 骨结核\nC: 淋巴结核\nD: 肠结核\nE: 肺结核",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_188",
+        "category": "MedQA_CN",
+        "question": "运动员百米赛跑途中突然闻及左膝撕裂声，然后倒地，查体左膝不能主动伸，X线片显示髌骨中段骨折，考虑造成骨折的原因是（　　）。\nA: 直接暴力\nB: 间接暴力\nC: 病理性骨折\nD: 肌肉拉力\nE: 积累性劳损",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_189",
+        "category": "MedQA_CN",
+        "question": "第二产程期间诊断胎儿窘迫，最有价值的方法是（　　）。\nA: 用听筒听取胎心率并计数\nB: 测胎儿头皮血pH\nC: B型超声检查羊水平段\nD: 测定孕妇尿雌三醇值\nE: 羊膜镜观察羊水性状",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_190",
+        "category": "MedQA_CN",
+        "question": "Thomas征阳性提示（　　）。\nA: 骶髂关节炎\nB: 膝关节屈曲挛缩\nC: 腰椎间盘突出症\nD: 髋关节屈曲挛缩\nE: 腰椎管狭窄",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_191",
+        "category": "MedQA_CN",
+        "question": "10个月女婴，体重10kg，头围45cm，方颅，前囟1.5cm平坦，今晨突然抽搐一次，持续1～2分钟缓解，当时测体温38.5℃，抽搐后即入睡，醒后活动如常。查血钙1.75mmol/L（7mg/d1），血磷1.45mmol/L（4.5mg/dl）。最可能的惊厥原因是（　　）。\nA: 脑积水、脑发育不良\nB: 低血糖症发作\nC: 癫痫\nD: 低钙惊厥\nE: 高热惊厥",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_192",
+        "category": "MedQA_CN",
+        "question": "患儿，8个月，腹泻4天，水样便，1日10余次。12小时无尿，呼吸深大，前囟眼窝明显凹陷，四肢凉。血钠127mmol/L，血钾4mmol/L，血钙2.25mmol/L，二氧化碳合力11.2mmol/L。1．该患儿的诊断是小儿腹泻伴（　　）。\nA: 重度脱水酸中毒，低钾血症\nB: 中度脱水酸中毒，低钾血症\nC: 中度等渗性脱水，酸中毒\nD: 重度低渗性脱水，酸中毒\nE: 中度低渗性脱水，酸中毒",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_193",
+        "category": "MedQA_CN",
+        "question": "女性，24岁，临床诊断糖尿病1型，给予胰岛素治疗，病人经常于清晨3～4点出现手抖，大汗，饥饿感，空腹血糖11mmol/L，尿糖（＋＋＋＋），尿酮体（＋＋＋＋），夜间尿糖阴性，应采取的措施是（　　）。\nA: 减少晚餐的热量\nB: 增加睡前中效胰岛素的用量\nC: 加用双胍类药物\nD: 减少睡前胰岛素用量\nE: 后夜加餐",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_194",
+        "category": "MedQA_CN",
+        "question": "男，25岁。腰背部疼痛8年，晨起明显，活动后减轻，近1个月腰痛加重，活动受限。查体：腰椎前屈、后伸受限，Schober试验（＋），双侧“4”字试验（＋）。2．对确诊最有价值的检查是（　　）。\nA: 血沉\nB: 骶髂关节X线片\nC: 血常规\nD: HLA-B27\nE: 类风湿因子",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_195",
+        "category": "MedQA_CN",
+        "question": "女，67岁。车祸后即昏迷，伤后2小时被送往医院。查体：昏迷状态，左顶枕部有一直径4cm头皮血肿，右侧瞳孔散大，对光反应消失，左侧肢体肌张力增高，病理反射阳性。头颅CT示右额颞部骨板下新月形高密度影。2．该患者颅内出血最可能来自于（　　）。\nA: 脑表面小血管\nB: 硬脑膜中动脉\nC: 大脑中动脉\nD: 蛛网膜颗粒\nE: 矢状窦",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_196",
+        "category": "MedQA_CN",
+        "question": "分泌雄激素的细胞是（　　）。\nA: 睾丸生精细胞\nB: 睾丸支持细胞\nC: 睾丸间质细胞\nD: 精原细胞\nE: 精子细胞",
+        "answer": "C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_197",
+        "category": "MedQA_CN",
+        "question": "极低出生体重儿的标准是指婴儿出生后1小时内的体重低于（　　）。\nA: 2000g\nB: 800g\nC: 1500g\nD: 1000g\nE: 2500g",
+        "answer": "C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_198",
+        "category": "MedQA_CN",
+        "question": "小儿肺炎引起脓胸最常见的病原菌是（　　）。\nA: 肠球菌\nB: 肺炎链球菌\nC: 溶血性链球菌\nD: 流感嗜血杆菌\nE: 金黄色葡萄球菌",
+        "answer": "E",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_199",
+        "category": "MedQA_CN",
+        "question": "4．由NK细胞介导的是（　　）。\nA: 迟发型超敏反应性炎症反应\nB: 促进B细胞的增殖与分化\nC: 特异性杀伤肿瘤细胞\nD: 非特异性杀伤肿瘤细胞\nE: 外源性抗原的加工递呈",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_200",
+        "category": "MedQA_CN",
+        "question": "男孩，4岁，一向偏食，不吃鱼、肉、蛋，仅食蔬菜，近日发现面色渐苍白，不愿活动，时而腹泻。查体：心肺正常，肝脏于肋下触及3cm，脾未及。血象：Hb 60g/L，RBC 2.90×1012/L，血涂片：红细胞大小不等，以小为主，中心淡染区扩大。3．引起此病的主要病因是（　　）。\nA: 生长发育过快\nB: 长期腹泻\nC: 先天贮备不足\nD: 摄入量不足\nE: 患有慢性失血性疾病",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_201",
+        "category": "MedQA_CN",
+        "question": "关于肩关节周围炎，下列哪项不正确？（　　）\nA: 好发于50岁左右的中老年人\nB: 能自愈\nC: 主要为肩痛，活动受限\nD: 常伴有手指麻木感\nE: 醋酸泼尼松龙局部封闭有效",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_202",
+        "category": "MedQA_CN",
+        "question": "1.5岁男孩，发热、咳嗽、气促1周，突然呼吸困难加重。查体：体温39.5℃，心率161次/分，呼吸62次/分，左胸部呼吸运动受限，语颤减弱，叩诊浊音，听诊呼吸音消失，腹部平坦，肝在肋下1.5cm。根据病例诊断为（　　）。\nA: 肺炎合并心肌炎\nB: 肺炎合并心衰\nC: 肺炎合并中毒性脑病\nD: 肺炎合并脓胸\nE: 肺炎合并脓气胸",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_203",
+        "category": "MedQA_CN",
+        "question": "关于急性血源性骨髓炎的治疗下列选项错误的是（　　）。\nA: 立即开始联合应用足量广谱抗生素\nB: 抗生素治疗48～72小时后，局部症状仍不能控制，应手术治疗\nC: 手术行软组织切开引流术\nD: 少量多次输血，增加病人的抵抗力\nE: 患肢可用皮牵引或石膏托固定",
+        "answer": "C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_204",
+        "category": "MedQA_CN",
+        "question": "1．狂犬病病毒基因组是（　　）。\nA: 单股负链线状RNA，不分节段含有5个结构基因\nB: 正链线状RNA，含有三个结构基因和至少七个调节基因\nC: 单股负链RNA，分为8个节段\nD: 单股负链RNA，可分为7个节段\nE: 双链环状RNA",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_205",
+        "category": "MedQA_CN",
+        "question": "随机抽取的300名大学生身高和体重资料，P＜0.01（α＝0.05），说明身高和体重（　　）。\nA: 呈正比\nB: 存在相关性\nC: 呈反比\nD: 存在紧密联系\nE: 存在直线相关关系",
+        "answer": "E",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_206",
+        "category": "MedQA_CN",
+        "question": "下列哪项是特异性杀伤肿瘤的细胞？（　　）\nA: Tc（CTL）\nB: LAK\nC: Mφ\nD: NK\nE: 中性粒细胞",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_207",
+        "category": "MedQA_CN",
+        "question": "兴奋性突触后电位是突触后膜对哪一种离子的通透性增加而引起的?（　　）\nA: Na+和K+，尤其是K+\nB: K+和Ca2+\nC: Na+和K+尤其是Na+\nD: Na+和Ca2+\nE: Cl-",
+        "answer": "C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_208",
+        "category": "MedQA_CN",
+        "question": "患儿，男，2岁半，自幼人工喂养，食欲极差，有时腹泻。身高85cm，体重7500g，皮肤干燥、苍白，腹部皮下脂肪厚度约0.3cm，脉搏缓慢，心音较低钝。2．如果此患儿出现哭而少泪，眼球结膜有毕脱斑，那么下列哪项正确？（　　）\nA: 维生素A缺乏\nB: 维生素E缺乏\nC: 维生素C缺乏\nD: 维生素D缺乏\nE: 维生素B缺乏",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_209",
+        "category": "MedQA_CN",
+        "question": "病情恢复后不发生病原携带状态的传染病是（　　）。\nA: 乙型肝炎\nB: 甲型肝炎\nC: 细菌性痢疾\nD: 丙型肝炎\nE: 伤寒",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_210",
+        "category": "MedQA_CN",
+        "question": "2．可出现Homans征阳性的疾病是（　　）。\nA: 动脉硬化性闭塞症\nB: 雷诺综合征\nC: 下肢深静脉血栓形成\nD: 血栓闭塞性脉管炎\nE: 单纯性下肢静脉曲张",
+        "answer": "C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_211",
+        "category": "MedQA_CN",
+        "question": "心室肌的后负荷是指（　　）。\nA: 心房压力\nB: 快速射血期心室内压\nC: 减慢射血期心室内压\nD: 等容收缩期初心室内压\nE: 大动脉血压",
+        "answer": "E",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_212",
+        "category": "MedQA_CN",
+        "question": "1．以系统妄想为主要症状，内容较固定，有一定的现实基础，主要表现为被害、嫉妒、钟情等内容的是（　　）。\nA: 偏执型分裂症\nB: 单纯型分裂症\nC: 紧张型分裂症\nD: 妄想性障碍\nE: 急性短暂性精神障碍",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_213",
+        "category": "MedQA_CN",
+        "question": "诊断肺栓塞的“金标准”是（　　）。\nA: 超声心动图\nB: CT\nC: PET\nD: 肺通气/灌注（V/Q）显像\nE: 肺血管造影",
+        "answer": "E",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_214",
+        "category": "MedQA_CN",
+        "question": "较稳定的股骨颈骨折是（　　）。\nA: 外展型\nB: 内收型\nC: 头下型\nD: 基底型\nE: 粗隆间型",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_215",
+        "category": "MedQA_CN",
+        "question": "革兰染色阳性时，下列哪项符合细胞的颜色？（　　）\nA: 蓝紫色\nB: 蓝色\nC: 红色\nD: 黄色\nE: 无色",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_216",
+        "category": "MedQA_CN",
+        "question": "卵巢动、静脉通过的韧带是（　　）。\nA: 圆韧带\nB: 主韧带\nC: 宫骶韧带\nD: 阔韧带\nE: 骨盆漏斗韧带",
+        "answer": "E",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_217",
+        "category": "MedQA_CN",
+        "question": "女孩，2岁。反复发作喘息4次以上，昨又突然发作喘息，查两肺满布哮鸣音，皮下注射肾上腺素后，哮鸣音明显减少。患儿幼时对花粉过敏，母有哮喘史。1．患儿哮喘诊断的评分是（　　）。\nA: 12分\nB: 10分\nC: 8分\nD: 6分\nE: 4分",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_218",
+        "category": "MedQA_CN",
+        "question": "急性病毒性肝炎病程一般为（　　）。\nA: ＜5个月\nB: 2～4个月\nC: ＜2个月\nD: ＜半年\nE: ＞半年",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_219",
+        "category": "MedQA_CN",
+        "question": "下述关于丙咪嗪（米帕明）的效应哪一项是错误的？（　　）\nA: 拟交感胺作用\nB: 阿托品样作用\nC: 增强外源性去甲肾上腺素作用\nD: 镇静作用\nE: 提高惊厥阈值",
+        "answer": "E",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_220",
+        "category": "MedQA_CN",
+        "question": "药物的治疗指数是指（　　）。\nA: ED50与LD50之间的距离\nB: ED50与LD50的比值\nC: LD50与ED50的比值\nD: ED95与LD5的比值\nE: ED90与LD10的比值",
+        "answer": "C",
+        "eval": "Accuracy"
+    }
+]

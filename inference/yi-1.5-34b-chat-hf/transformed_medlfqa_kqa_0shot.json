@@ -1,0 +1,1004 @@
+{
+    "0": {
+        "origin_prompt": "You are a leading expert in MedLFQA_KQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: Can i take the painkiller and the antibiotics at the same time or wait hours in between ?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. The question involves the interaction between two types of medications: painkillers and antibiotics. It is essential to first understand the specific medications involved, as the answer may vary depending on the particular painkiller and antibiotic.\n2. Painkillers can be over-the-counter (OTC) medications like ibuprofen or prescription pain relievers like opioids. Antibiotics can be classified into different categories, such as penicillins, cephalosporins, tetracyclines, and macrolides, among others. The interaction between the painkiller and antibiotic will depend on the specific medications in question.\n3. Some medications can interact with each other, leading to increased side effects or reduced effectiveness. Therefore, it is crucial to evaluate the potential for an interaction between the specific painkiller and antibiotic the user is taking.\n4. The user also mentions the possibility of waiting hours between taking the two medications. This delay can help minimize the risk of interactions, but the appropriate waiting time will depend on the specific medications involved.\n\nFinal answer: Whether you can take the painkiller and the antibiotic at the same time or need to wait hours in between depends on the specific medications you are taking. It is essential to consult the package labels or a healthcare professional to determine any potential interactions and the appropriate timing for taking both medications. In some cases, a waiting period may be recommended to minimize the risk of interactions, while in others, it may be safe to take them together."
+        ],
+        "gold": {
+            "free_form_answer": "If your healthcare provider prescribes both antibiotics and painkillers, it is generally safe to take them together. However, some antibiotics should not be combined with painkillers due to potential drug interactions. It is best to consult your healthcare provider about the possibility and proper timing of combining those drugs.",
+            "must_have": [
+                "Some antibiotics are not recommended to use in combination with painkillers due to possible drug interactions.",
+                " If your healthcare provider prescribes both antibiotics and painkillers, it is generally safe to take them together.",
+                "It is best to consult your healthcare provider about the possibility and proper timing of combining antibiotics and painkillers drugs."
+            ],
+            "nice_to_have": []
+        }
+    },
+    "1": {
+        "origin_prompt": "You are a leading expert in MedLFQA_KQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: What is chlorhexidine?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. Identify the subject: The question asks about \"chlorhexidine,\" which is a chemical compound.\n2. Determine the nature of the question: The question is a factual inquiry, seeking a definition or description of chlorhexidine.\n3. Research and gather information: To answer this question accurately, one must research chlorhexidine, its chemical properties, uses, and how it functions.\n\nFinal answer: Chlorhexidine is a cationic polymethine dye used primarily as an antimicrobial agent. It is effective against a broad range of microorganisms, including bacteria, fungi, and viruses. Chlorhexidine is commonly used in medical settings for wound disinfection, as a mouthwash to combat gum disease and plaque, and as a component of skin washes and surgical scrubs to reduce the risk of infections. Its ability to bind to negatively charged cell membranes in microorganisms leads to its antimicrobial action."
+        ],
+        "gold": {
+            "free_form_answer": "Chlorhexidine is an antiseptic and disinfectant substance that is used to prevent infection. It is effective against bacteria and fungi. It is available in various formulations, such as mouthwashes, solutions, creams, swabs, lozenges, throat sprays and soaps. Over-the-counter chlorhexidine topical antiseptics are used for the sterilization of skin before surgery, oral care, wound cleaning, and as an antiseptic hand rinse. Chlorhexidine can also be prescribed as an oral rinse for the treatment of gingivitis (gum inflammation). ",
+            "must_have": [
+                "Chlorhexidine is an antiseptic and disinfectant substance used to prevent infection.",
+                " Chlorhexidine is effective against bacteria and fungi."
+            ],
+            "nice_to_have": [
+                "Over-the-counter chlorhexidine topical antiseptics are used as an antiseptic hand rinse.",
+                " Over-the-counter chlorhexidine topical antiseptics are used for the sterilisation of skin before surgery.",
+                " Chlorhexidine can be prescribed as an oral rinse for the treatment of gingivitis (gum inflammation).",
+                " Over-the-counter chlorhexidine topical antiseptics are used for oral care.",
+                " Chlorhexidine is available in various formulations such as mouthwashes, solutions, creams, swabs, lozenges, throat sprays and soaps.",
+                " Over-the-counter chlorhexidine topical antiseptics are used for wound cleaning."
+            ]
+        }
+    },
+    "2": {
+        "origin_prompt": "You are a leading expert in MedLFQA_KQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: Is there anti nausea medication that can be taken to allow fluids to stay down?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. The question asks for anti-nausea medication that can help in retaining fluids. This indicates that the focus is on managing nausea to prevent the involuntary loss of fluids from vomiting or nausea-induced poor intake.\n2. To address this, it's important to identify medications that are primarily used to treat nausea and are safe for use in contexts where maintaining fluid balance is critical. This involves considering medications that are known to be effective against nausea, especially those often prescribed or recommended for conditions that frequently lead to dehydration or fluid loss.\n3. Among these, particular attention should be given to medications that are not only effective against nausea but are also less likely to cause side effects that could counteract the goal of maintaining fluid balance, such as dry mouth or significant changes in urinary frequency.\n\nFinal answer: Ondansetron and Metoclopramide are examples of anti-nausea medications that can be considered to allow fluids to stay down. Ondansetron is particularly effective against nausea and vomiting caused by chemotherapy and radiation therapy, while Metoclopramide can be used for various types of nausea, including that associated with gastrointestinal disorders. However, it's crucial to consult a healthcare provider for a personalized recommendation, as the choice of medication can depend on the underlying cause of nausea, individual health factors, and specific concerns about side effects."
+        ],
+        "gold": {
+            "free_form_answer": "There are a variety of drugs suitable for treating nausea and vomiting, depending on the cause of the nausea. In cases of nausea due to dizziness or motion sickness – recommended drugs include antihistamines such as Dimenhydrinate (Daramine, Drimite) and Meclizine (Dramamine less drowsy). In cases of nausea due to cancer treatment or post-operative nausea, recommended drugs include Metoclopramide (Gimoti Reglan), Ondansetron (Zofran), and Granisetron (Sancuso).\n",
+            "must_have": [
+                "For nausea due to dizziness or motion sickness, recommended drugs include antihistamines such as dimenhydrinate (Daramine, Drimite) and meclizine (Dramamine less drowsy).",
+                " Drugs suitable for treating nausea and vomiting are prescribed depending on the cause of the nausea.",
+                " For nausea due to cancer treatment or post operative nausea, possible drugs include metoclopramide (Gimoti Reglan), ondansetron (Zofran) granisteron (Sancuso)."
+            ],
+            "nice_to_have": []
+        }
+    },
+    "3": {
+        "origin_prompt": "You are a leading expert in MedLFQA_KQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: Is there a cream that you can prescribe for anal fissure like topical nitro ?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. Understanding the medical context: Anal fissures are small tears or cracks in the skin around the anus, which can cause pain and bleeding during bowel movements. They are often treated with topical medications applied directly to the affected area to help reduce pain, inflammation, and promote healing.\n\n2. Identifying the query: The user is asking whether there is a cream that can be prescribed for anal fissures that is similar to topical nitroglycerin, a medication known for its vasodilatory effects that can improve blood flow and promote healing of the fissure.\n\n3. Evaluating alternative treatments: While topical nitroglycerin has been used for anal fissures in the past, it is not the only option available. There are other medications and creams that can be prescribed for the treatment of anal fissures, which may be equally effective or preferable depending on the patient's specific situation and medical history.\n\n4. Considering the importance of professional advice: Given the potential for complications and the need for proper diagnosis, it is crucial that any prescription for a cream to treat anal fissures be made by a healthcare professional after a thorough evaluation of the patient's condition.\n\nFinal answer: Yes, there are creams that can be prescribed for anal fissures similar to topical nitroglycerin, such as topical nifedipine or diltiazem. However, the most appropriate treatment will depend on your specific situation, and it is essential to consult with a healthcare professional for a proper diagnosis and prescription."
+        ],
+        "gold": {
+            "free_form_answer": "The first-line treatment for an anal fissure includes increasing dietary fiber and water intake, using a stool softener or laxative, having warm sitz baths, or applying topical agents. Prescription topical vasodilators such as topical nitroglycerin or topical nifedipine, with or without topical analgesics like Lidocaine, can be used to treat anal fissures. In case of refractory cases, other medications, injections, or surgeries may be required. It is essential to consult your healthcare provider for a treatment plan for an anal fissure.",
+            "must_have": [
+                "Topical treatment for an anal fissure can be done with prescription topical vasodilators such as topical nifedipine.",
+                " Topical treatment for an anal fissure can be done with or without a topical analgesics such as Lidocaine, which can help to alleviate the pain.",
+                " Topical treatment for an anal fissure can be done with prescription topical vasodilators such as topical nitroglycerin.",
+                " First-line treatment for an anal fissure can include using stool softener or laxative.",
+                " First-line treatment for an anal fissure can include having warm sitz baths.",
+                " Refractory cases of anal fissures may require alternatives such as surgeries.",
+                " First-line treatment for an anal fissure can include increasing dietary fiber and water intake."
+            ],
+            "nice_to_have": [
+                "Refractory cases of anal fissures may require alternatives such as injections.",
+                " Refractory cases of anal fissures may require alternatives such as other medications.",
+                " You should consult your healthcare provider about a treatment plan for an anal fissure."
+            ]
+        }
+    },
+    "4": {
+        "origin_prompt": "You are a leading expert in MedLFQA_KQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: is there any specific brand you recommend for the omeprazole?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. Omeprazole is a medication primarily used to treat gastroesophageal reflux disease (GERD), peptic ulcer disease, and other conditions associated with excess stomach acid. It belongs to a class of drugs called proton-pump inhibitors. When recommending a brand, the focus should be on the drug's efficacy, safety, and any additional factors that might affect the patient's treatment experience.\n\n2. Branded vs. generic omeprazole: The active ingredient in omeprazole is the same across both branded and generic versions. However, there can be differences in formulation, excipients, and price. Branded medications often invest in research and development, marketing, and patient support services, which can influence the overall experience for the consumer. Generic medications, on the other hand, are bioequivalent to the branded versions and are often cheaper. The choice between a brand and its generic can depend on factors such as cost, patient preference, and insurance coverage.\n\n3. Patient-specific factors: Recommendations for a specific brand can also depend on patient-specific factors such as allergies to certain excipients, personal preference based on past experiences, and the importance of additional services like patient support programs offered by some brands.\n\nFinal answer: While there is no universally \"specific brand\" I can recommend for omeprazole without considering individual patient needs and preferences, it is important to note that both branded and generic omeprazole products are effective for their intended use. The choice between them should be based on a discussion of the patient's preferences, potential cost savings with generics, and any specific concerns about excipients in the formulation. For patients who value additional support services or have had positive experiences with a particular brand in the past, choosing a branded version might be preferable. For those looking for cost-effectiveness and simplicity, generics can be a reliable choice. Ultimately, the best brand is the one that meets the individual patient's needs for efficacy, cost, and support."
+        ],
+        "gold": {
+            "free_form_answer": "All brands and generic forms of omeprazole contain the same active ingredient and are considered equally effective. If you have difficulty swallowing, Prilosec is available as a granule packet that can be mixed into water.",
+            "must_have": [
+                "All brands and generic forms of omeprazole contain the same active ingredient and are generally considered equally effective."
+            ],
+            "nice_to_have": [
+                "If you have difficulty swallowing, Prilosec is available as a granule packet that can be mixed into water"
+            ]
+        }
+    },
+    "5": {
+        "origin_prompt": "You are a leading expert in MedLFQA_KQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: Does bronchitis turn into pneumonia?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. Understanding the terms: First, it's important to understand what bronchitis and pneumonia are. Bronchitis is an inflammation of the bronchial tubes in the lungs, often caused by viruses or bacteria. Pneumonia is an infection that inflames the air sacs in one or both lungs, causing them to fill with fluid or pus.\n\n2. Relationship between bronchitis and pneumonia: Bronchitis and pneumonia are both respiratory infections, but they affect different parts of the respiratory system. However, it is possible for bronchitis to progress to pneumonia, although it doesn't happen in every case. This progression can occur when the infection causing bronchitis spreads from the bronchial tubes into the lungs' air sacs.\n\n3. Factors influencing progression: The likelihood of bronchitis turning into pneumonia can depend on several factors, including the type of organism causing the infection (virus, bacteria, or fungus), the individual's immune system strength, and the presence of other health conditions, such as chronic obstructive pulmonary disease (COPD) or asthma.\n\nFinal answer: Yes, bronchitis can turn into pneumonia, but it does not always progress to this stage. The likelihood depends on factors such as the type of infecting organism, the strength of the individual's immune system, and the presence of other health conditions."
+        ],
+        "gold": {
+            "free_form_answer": "Acute bronchitis is inflammation of the bronchi, commonly caused by a respiratory viral infection, bacterial infection, or irritants such as smoke. It usually resolves without treatment in 1-3 weeks, but non-pharmacological cough relief may help. Pneumonia is more severe with fever, fatigue, and difficulty breathing. Both infections have similar symptoms, but differentiation can be done by a physical examination and chest X-ray. It's uncommon for bronchitis to turn into pneumonia, but it's possible - especially with bacterial bronchitis. A physician should be consulted if bronchitis symptoms worsen or do not resolve within three weeks.",
+            "must_have": [
+                "It's uncommon for bronchitis to turn into pneumonia, but it's possible",
+                "In cases where bronchitis does not resolve in three weeks, one should be checked by a physician for pneumonia",
+                "In cases of worsening of symptoms, one should be checked by a physician for pneumonia"
+            ],
+            "nice_to_have": [
+                "It is also possible for a person with bronchitis to develop a separate pneumonia infection.",
+                " Symptoms of both bronchitis and pneumonia could appear similar and differentiation between the two should be done by a physical examination and chest Xray.",
+                " Acute bronchitis is inflammation of the bronchi, commonly caused by a respiratory viral infection or bacteria",
+                "Acute bronchitis can be caused by irritants such as smoke",
+                "Pneumonia is more severe than bronchitis",
+                "Pneumonia usually present with fever, fatigue, and difficulty breathing. "
+            ]
+        }
+    },
+    "6": {
+        "origin_prompt": "You are a leading expert in MedLFQA_KQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: Is Augmentin the same thing as Amoxcicilin?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. To answer this question, we first need to understand what Augmentin and Amoxicillin are. Augmentin is a brand name for a combination medication containing Amoxicillin, a penicillin-like antibiotic, and Clavulanic acid, a beta-lactamase inhibitor. Amoxicillin, on the other hand, is a semisynthetic antibiotic belonging to the penicillin group, used to treat various bacterial infections.\n\n2. The key difference between the two lies in their composition. Augmentin contains both Amoxicillin and Clavulanic acid, while Amoxicillin consists solely of the antibiotic compound. The addition of Clavulanic acid in Augmentin makes it a more potent antibiotic against bacteria that have developed resistance to penicillin, including those that produce beta-lactamase enzymes, which inactivate penicillin.\n\n3. Furthermore, the indications and uses for Augmentin and Amoxicillin can differ based on their effectiveness against specific types of bacteria. While Amoxicillin can treat a broad range of bacterial infections, Augmentin is used when a higher level of antibiotic resistance is anticipated, making it more effective against certain resistant strains.\n\nFinal answer: No, Augmentin is not the same thing as Amoxicillin. Augmentin is a combination medication containing Amoxicillin and Clavulanic acid, making it a more potent antibiotic against certain resistant bacterial strains compared to Amoxicillin alone."
+        ],
+        "gold": {
+            "free_form_answer": "Augmentin is an antibacterial medication which is consisted of two active drugs: amoxicillin and clavulanic acid. Amoxicillin is an antibiotic from the penicillin family, which is used against certain bacterial infections. Some bacteria developed mechanisms of resistance to amoxicillin effect. The added-on compound of clavulanic acid inhibits some of these mechanisms which results in amoxicillin having a broader spectrum of anti-bacterial activity. ",
+            "must_have": [
+                "Augmentin is an antibacterial medication composed of two active drugs: amoxicillin and clavulanic acid.",
+                " Clavulanic acid, a component of Augmentin, inhibits some mechanisms of bacterial resistance to amoxicillin."
+            ],
+            "nice_to_have": [
+                "Amoxicillin is an antibiotic from the penicillin family, used against certain bacterial infections.",
+                " Some bacteria have developed mechanisms of resistance to amoxicillin."
+            ]
+        }
+    },
+    "7": {
+        "origin_prompt": "You are a leading expert in MedLFQA_KQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: Is it ok to take the antibiotic along with my thyroid meds?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. The question asks about the compatibility of an antibiotic with thyroid medication. This involves understanding the pharmacological interactions between the two types of medications.\n2. Thyroid medications, such as levothyroxine, are crucial for individuals with hypothyroidism or thyroid cancer, as they replace or supplement the body's thyroid hormone. The absorption of thyroid medication can be significantly affected by other medications, dietary factors, and time of day.\n3. Antibiotics can vary widely in terms of their pharmacokinetic properties, including how they are absorbed, distributed, metabolized, and excreted. Some antibiotics may interact with thyroid medication by altering its absorption, leading to potentially suboptimal dosing and therapeutic effects.\n\nGiven these considerations, specific interactions depend on the type of antibiotic and thyroid medication involved, as well as the individual's health status and other factors.\n\nFinal answer: It is not universally okay to take all antibiotics along with thyroid meds without considering the specific types of medications involved. Some antibiotics can interact with thyroid medication, affecting its absorption. Therefore, it is essential to consult a healthcare provider or pharmacist to determine if there is an interaction with the specific antibiotic and thyroid medication you are taking, and if so, what steps to take to avoid adverse effects or reduced efficacy of either medication."
+        ],
+        "gold": {
+            "free_form_answer": "If you are taking medication to treat hypothyroidism, like Levothyroxine (Synthroid, Levoxyl, Unithyroid), it is generally safe to take antibiotics, except for Ciprofloxacin (Ciproxin) and Rifampin (Rifadin), which may interact with your hypothyroidism medication. It is important to note that you should space out taking any other medication at least one hour apart from your hypothyroidism medication. If you are taking medication to treat hyperthyroidism, like Methimazole (Tapazole, Northyx), it is safe to take antibiotics.",
+            "must_have": [
+                "Medications intended to treat hypothyroidism such as Levothyroxine (Synthroid, Levoxyl, Unithyroid) are safe to use with most antibiotics",
+                " Medications intended to treat hyperthyroidism such as Methimazole(Tapazole, Northyx) are safe to use with antibiotics",
+                " It's recommended to separate all medications from hypothyroidism medication by at least 1 hour.",
+                " Rifampin(Rifadin) might cause drug interactions with hypothyroidism medication",
+                " Ciprofloxacin(Ciproxin) might cause drug interactions with hypothyroidism medication"
+            ],
+            "nice_to_have": []
+        }
+    },
+    "8": {
+        "origin_prompt": "You are a leading expert in MedLFQA_KQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: Is there a steroid cream that I can use for the bite on my face?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. Identify the nature of the query: The user is asking about a specific treatment option for a bite on their face. The suggested treatment is a steroid cream.\n2. Consider the context of the question: The location of the bite (on the face) is important because treatments for skin conditions can vary depending on the area affected.\n3. Assess the appropriateness of the suggested treatment: Steroid creams are often used for inflammatory skin conditions, such as eczema, psoriasis, and insect bites. However, the use of steroid creams on the face should be approached with caution due to potential side effects and the thin skin in that area.\n4. Evaluate the need for professional advice: Given the potential risks and benefits of using a steroid cream on the face, it is crucial to consult a healthcare professional for personalized advice.\n\nFinal answer: It is possible that a steroid cream could be used for a bite on your face, but this should be determined by a healthcare professional who can assess your specific situation and potential risks."
+        ],
+        "gold": {
+            "free_form_answer": "Hydrocortisone cream, including brands like Ala-Cort, Cortizone-10, and Cotacort, is a type of steroid cream that can effectively treat swelling, itching, and irritation, including those caused by insect bites. However, it's important to note that using hydrocortisone cream for a long period may cause side effects, such as burning, itching, irritation, redness, dryness, acne, unwanted hair growth, skin color changes, and an increased risk of infection. It is recommended to consult with your healthcare provider before applying this cream to your face. Additionally, it's important only to use hydrocortisone cream for a maximum of two weeks. Other non-steroidal creams may also alleviate symptoms of insect bites, such as Diphenhydramine (Benadryl) and Lidocaine (Anastia, Lido-K).",
+            "must_have": [
+                "Hydrocortisone cream (Ala-Cort, Cortizone-10, Cotacort) is a steroid cream intended to treat swelling, itching and irritation.",
+                " Hydrocortisone cream can alleviate symptoms caused by insect bites.",
+                " Hydrocortisone cream should be used for no longer than two weeks.",
+                " It is highly recommended to consult your healthcare provider before applying Hydrocortisone cream on your face."
+            ],
+            "nice_to_have": [
+                "long term usage of Hydrocortisone cream has possible side effects such as skin color changes.",
+                " long term usage of Hydrocortisone cream has possible side effects such as the risk of infection.",
+                " long term usage of Hydrocortisone cream has possible side effects such as burning, itching, irritation, redness, or dryness of the skin.",
+                " Lidocaine (Anastia,Lido-K) is a non-steroidal cream that can also alleviate the symptoms of insect bites.",
+                " long term usage of Hydrocortisone cream has possible side effects such as unwanted hair growth.",
+                " long term usage of Hydrocortisone cream has possible side effects such as acne.",
+                " Diphenhydramine (Benadryl) is a non-steroidal cream that can also alleviate the symptoms of insect bites."
+            ]
+        }
+    },
+    "9": {
+        "origin_prompt": "You are a leading expert in MedLFQA_KQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: Is there something like ambient which could help on those occasions where I have a big presentation or something and really need to sleep?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. The question asks for an alternative to ambient that can be used during times of high stress or important events, such as a big presentation, when the user still wants to maintain the ability to sleep well.\n2. Ambient refers to an environment or atmosphere that is typically calm, peaceful, and free from disturbance. In the context of the question, it seems that the user is looking for a solution that can help them relax and sleep better, especially during times of high stress or significant events.\n3. To address the user's need, we need to identify a solution that can help them relax and sleep well, even during high-stress situations. This solution should be an alternative to the ambient environment that the user is currently using or considering.\n\nFinal answer: Yes, there are alternatives to ambient environments that can help you relax and sleep well during times of high stress or significant events. One such alternative is the use of white noise machines or apps, which can help mask distracting noises and create a calming atmosphere. Additionally, practicing relaxation techniques such as deep breathing, meditation, or progressive muscle relaxation can also help reduce stress and improve sleep quality. It's essential to find the right balance and combination of strategies that work best for you to achieve optimal relaxation and sleep during critical times."
+        ],
+        "gold": {
+            "free_form_answer": "Patients experiencing severe insomnia that affects their daily functioning and does not improve with non-pharmacological treatments can be prescribed medications for rapid relief. However, these medications should not be used for long-term treatment. Ambien (zolpidem) is a sedative-hypnotic drug among other approved medications for insomnia treatment. It is advisable to combine medication use with non-pharmacological treatments such as cognitive behavioral therapy, good sleep hygiene, exercise, and relaxation therapy.",
+            "must_have": [
+                "Use of medications for insomnia is generally reserved for cases that do not improve with non-pharmacological treatments.",
+                " Medications can be prescribed for patients who require rapid relief of severe insomnia.",
+                "Medications can be prescribed for patients whose insomnia interferes with daily functioning.",
+                "  Medications for insomnia are not typically intended for long-term use.",
+                " Non-pharmacological treatments, such as cognitive behavioural therapy, good sleep hygiene, exercise, and relaxation therapy, should be used in combination with any medications for insomnia."
+            ],
+            "nice_to_have": []
+        }
+    },
+    "10": {
+        "origin_prompt": "You are a leading expert in MedLFQA_KQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: Can a nausea prescription be taken at the same time as Dramamine?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. Identify the medications involved: The question involves two medications - a nausea prescription (which we'll assume is a generic term for an antiemetic prescription) and Dramamine. Dramamine is an over-the-counter medication known as dimenhydrinate, commonly used to prevent and treat nausea, vomiting, and dizziness caused by motion sickness.\n\n2. Consider the pharmacological action of each medication: Antiemetic prescriptions can have various mechanisms of action depending on the specific medication, but generally, they work to suppress the vomiting center in the brain. Dimenhydrinate, the active ingredient in Dramamine, works by blocking the action of histamine, a chemical that can cause nausea, vomiting, and dizziness. It also has anticholinergic effects, which can help reduce motion sickness symptoms.\n\n3. Assess the potential for drug interactions: When considering whether two medications can be taken together, it's essential to look for potential drug interactions. These can include additive effects, where the combination is more potent than a single drug, or antagonistic effects, where one drug reduces the effectiveness of the other. Additionally, some drugs can increase the risk of side effects when taken together. Antiemetics and Dramamine are both used to treat similar symptoms, but they have different mechanisms of action, which could suggest they might be used together without significant interaction issues. However, the specific prescription antiemetic matters greatly.\n\n4. Consider individual patient factors: The decision to take two medications together must also consider the patient's health status, any other medications they are taking, and their medical history. Some individuals may be more susceptible to side effects, and a healthcare provider's guidance is crucial.\n\n5. Consult official sources and guidelines: For a definitive answer, one would consult drug interaction databases, clinical pharmacology resources, or, most importantly, a healthcare provider, such as a doctor or pharmacist, who can provide guidance based on the specific prescription antiemetic in question and the patient's overall health profile.\n\nFinal answer: A nausea prescription can potentially be taken at the same time as Dramamine, depending on the specific antiemetic medication. However, it is crucial to consult a healthcare provider or pharmacist to ensure there are no significant drug interactions, considering the patient's health status, other medications, and medical history. The provider can offer personalized advice on whether the combination is safe and effective for the individual."
+        ],
+        "gold": {
+            "free_form_answer": "Dimenhydrinate is an over-the-counter medication used to treat motion sickness and nausea. Some nausea medications, such as Bismuth subsalicylate (Pepto-Bismol) and Ondansetron (Zofran), are safe to use in combination with Dimenhydrinate, while others like Prochlorperazine (Compazine) and Metoclopramide (Reglan) may have unwanted interactions.\n\n",
+            "must_have": [
+                "Ondansetron (Zofran) is safe to use in combination with Dimenhydrinate.",
+                "Metoclopramide (Reglan) may have unwanted interactions when used in combination with Dimenhydrinate.",
+                "It is important to consult your healthcare provider before using Dimenhydrinate in combination with other medications.",
+                "Bismuth subsalicylate (Pepto-Bismol) is safe to use in combination with Dimenhydrinate.",
+                "Some nausea medications may have unwanted interactions when used in combination with Dimenhydrinate.",
+                "Prochlorperazine (Compazine) may have unwanted interactions when used in combination with Dimenhydrinate"
+            ],
+            "nice_to_have": [
+                "Dimenhydrinate (Dramamine, Driminate) is used to treat motion sickness and nausea.",
+                "Some nausea medications are safe to use in combination with Dimenhydrinate."
+            ]
+        }
+    },
+    "11": {
+        "origin_prompt": "You are a leading expert in MedLFQA_KQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: I am a healthy adult but my ALT is elevated can this also cause diarrhea?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. Understand the context of the question: The user is a healthy adult with elevated ALT (alanine transaminase) levels, and they are asking if this can cause diarrhea.\n2. ALT is an enzyme found in the liver and is used as a marker for liver health. Elevated ALT levels can indicate liver issues such as inflammation, liver disease, or alcohol consumption.\n3. The connection between elevated ALT levels and diarrhea: While liver issues can sometimes cause gastrointestinal symptoms, including diarrhea, it is not a direct or common association. More commonly, liver issues can cause symptoms such as fatigue, jaundice, and abdominal pain.\n\nFinal answer: While elevated ALT levels may indicate liver issues that could potentially cause gastrointestinal symptoms, it is not a direct or common cause of diarrhea. It is essential to consult a healthcare professional to determine the underlying cause of the elevated ALT levels and any gastrointestinal symptoms."
+        ],
+        "gold": {
+            "free_form_answer": "Elevated levels of ALT in the blood do not directly cause diarrhea. Alanine transaminase (ALT) is an enzyme found mainly in the liver. Elevated ALT levels may indicate liver injury or disease, which could be caused by a wide range of conditions, such as non alcoholic or alcoholic fatty liver, viral hepatitis and drugs adverse effects. Conditions that injure the liver may also cause gastrointestinal disturbances, including diarrhea. However, diarrhea can also be linked to conditions unrelated to the liver such as gastrointestinal infections. A healthcare provider will investigate abnormal liver enzyme levels and diarrhea by conducting a thorough physical examination, detailed history taking, blood tests, and an abdominal ultrasound if needed. Contact your healthcare provider if the diarrhea persists for more than 2 days without improvement or if you experience fever, severe pain, dehydration, or bloody stools.",
+            "must_have": [
+                "Contact your healthcare provider if the diarrhea persists for more than 2 days without improvement",
+                " Further investigations may be needed such as blood tests and an abdominal ultrasound for abnormal liver enzyme levels and diarrhea",
+                " Conditions that injure the liver may cause gastrointestinal disturbances, including diarrhea",
+                " A healthcare provider will investigate abnormal liver enzyme levels and diarrhea by conducting a physical examination and detailed history taking",
+                " Diarrhea can also be linked to conditions unrelated to the liver such as gastrointestinal infections",
+                " Elevated ALT levels may indicate liver injury or disease",
+                " Contact your healthcare provider if you experience fever, severe pain, dehydration or bloody stools"
+            ],
+            "nice_to_have": [
+                "Liver injury or disease could be caused by viral hepatitis",
+                " Liver injury or disease could be caused by alcoholic liver disease",
+                " Liver injury or disease could be caused by non alcoholic liver disease",
+                " Liver injury or disease could be caused by inflammatory bowel disease",
+                " Liver injury or disease could be caused by celiac disease",
+                " Alanine transaminase (ALT) is an enzyme found mainly in the liver",
+                " Liver injury or disease could be caused by drugs"
+            ]
+        }
+    },
+    "12": {
+        "origin_prompt": "You are a leading expert in MedLFQA_KQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: Does Allopurinal affect fertility?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. To address the question of whether Allopurinal affects fertility, the first step is to understand what Allopurinal is and its primary uses. Allopurinal, also known as allopurinol, is a medication primarily used to treat gout and hyperuricemia (high levels of uric acid in the blood).\n\n2. The next critical step involves investigating the mechanism of action of Allopurinal, as this can provide insights into potential effects on fertility. Allopurinal works by inhibiting the enzyme xanthine oxidase, which is involved in the metabolism of purines. This leads to a decrease in the production of uric acid. Its mechanism of action does not directly suggest an impact on fertility, but it's essential to consider potential indirect effects.\n\n3. Research into clinical studies, reviews, or case reports that examine the effects of Allopurinal on fertility is necessary. These sources can provide empirical evidence on whether the drug has any impact on fertility in men and women. It's important to look for both positive and negative effects, as well as to consider the quality of the studies (randomized controlled trials, cohort studies, etc.) to ensure the reliability of the findings.\n\n4. Additionally, it's worth considering the potential for Allopurinal to interact with other medications that are known to affect fertility, either directly or indirectly. This could include drugs used to treat infertility or those that could be prescribed for conditions that are comorbid with hyperuricemia or gout.\n\nFinal answer: Current evidence does not strongly suggest that Allopurinal directly affects fertility in men or women. However, individual responses to the medication can vary, and it is essential to consult with a healthcare provider to discuss any concerns or to address specific health conditions that may be related to fertility. Clinical studies provide no conclusive evidence of a significant impact on fertility, but patients should still be advised to discuss their medication regimen, including Allopurinal, as part of a comprehensive fertility evaluation if needed."
+        ],
+        "gold": {
+            "free_form_answer": "Allopurinol (Zyloprim, Lopurin, Aloprim) is a prescription medication used to treat gout, high levels of uric acid in the blood, and recurrent uric acid kidney stones. It may cause side effects such as rash, joint pain, stiffness, or swelling. Male infertility has been reported in less than 1% of patients taking the drug while a similar association has not been found for female infertility. However, pregnant or breastfeeding women should consider alternatives due to the lack of safety information.",
+            "must_have": [
+                "Male infertility has been associated with Allopurinol in less than 1% of patients taking the drug.",
+                " No association was found between Allopurinol and female infertility.",
+                " Alternatives for Allopurinol should be considered while pregnant or breastfeeding."
+            ],
+            "nice_to_have": [
+                "Common side effects of Allopurinol include rash and joint pain, stiffness or swelling.",
+                " Allopurinol is a prescription drug used to treat gout, high levels of uric acid in the blood and recurrent uric acid kidney stones."
+            ]
+        }
+    },
+    "13": {
+        "origin_prompt": "You are a leading expert in MedLFQA_KQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: Can I take nyquil and benedryl at the same time?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. Identify the medications in question: The user is asking about the combination of Nyquil and Benadryl (commonly misspelled as \"benedryl\"). Nyquil is a branded over-the-counter (OTC) medication primarily used to relieve cold and flu symptoms, including cough, sore throat, runny nose, and fever. It contains several active ingredients, one of which is diphenhydramine, an antihistamine similar to Benadryl. Benadryl is an OTC antihistamine used to treat allergy symptoms such as sneezing, itching, and a runny nose.\n\n2. Assess the safety of combining these medications: The key concern when combining medications is the potential for adverse effects or an increased risk of side effects due to overlapping active ingredients. In this case, both Nyquil and Benadryl can contain diphenhydramine, which is the active ingredient in Benadryl and is also present in Nyquil as the active antihistamine component.\n\n3. Consider the potential for increased side effects: Taking both medications together would result in a higher dose of diphenhydramine than recommended, potentially leading to an increased risk of side effects such as drowsiness, dry mouth, constipation, blurred vision, or difficulty urinating. These side effects are more pronounced with higher doses of diphenhydramine.\n\nFinal answer: No, you should not take Nyquil and Benadryl at the same time, as doing so would increase the dose of diphenhydramine beyond the recommended levels, potentially leading to an increased risk of side effects. It's important to consult with a healthcare provider for personalized medical advice and to discuss alternative medications or strategies for symptom relief."
+        ],
+        "gold": {
+            "free_form_answer": "Doxylamine (an ingredient in NyQuil) and Diphenhydramine (Benadryl) are antihistamine medications. Taking both together may increase the risk of side effects such as drowsiness, dizziness, and impaired coordination.\nAlso, it is possible to overdose on antihistamines.\nAntihistamine overdose includes symptoms such as drowsiness, dry mouth and eyes, blurred vision, urinary retention, rapid heartbeat, flushing, and gastrointestinal symptoms. Severe antihistamine overdose can lead to seizures, hallucinations, delirium, and respiratory or cardiovascular distress.\nSeek immediate medical attention in case of suspicion of an antihistamine overdose.\n",
+            "must_have": [
+                "Taking Doxylamine and Diphenhydramine simultaneously can increase the risk of side effects",
+                "Seek immediate medical attention in case of suspicion of an antihistamine overdose.",
+                "It is possible to overdose on antihistamines.",
+                ""
+            ],
+            "nice_to_have": [
+                "Doxylamine and Diphenhydramine are both antihistamines",
+                "Symptoms of antihistamine overdose include drowsiness, dry mouth and eyes, blurred vision, urinary retention, rapid heartbeat, flushing, and gastrointestinal symptoms.",
+                "Severe antihistamine overdose can lead to seizures, hallucinations, delirium, and respiratory or cardiovascular distress."
+            ]
+        }
+    },
+    "14": {
+        "origin_prompt": "You are a leading expert in MedLFQA_KQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: What would cause immunocompromise?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. Understanding immunocompromise: To address the question, we first need to understand what immunocompromise entails. Immunocompromise refers to a state in which the immune system is weakened or less effective, making it difficult for the body to fight off infections and diseases.\n\n2. Causes of immunocompromise: There are several factors that can lead to immunocompromise. These can be broadly categorized into congenital (present from birth) and acquired (developed over time or due to external factors) causes.\n\n   a. Congenital immunodeficiency: Some individuals are born with a weakened immune system due to genetic mutations or inherited disorders, such as severe combined immunodeficiency (SCID).\n\n   b. Acquired immunodeficiency: This category includes factors that can weaken the immune system over time or due to external influences.\n\n      i. Infections: Certain infections, such as human immunodeficiency virus (HIV), can directly attack and damage the immune system, leading to immunocompromise.\n      \n      ii. Chronic diseases: Diseases like cancer, diabetes, and autoimmune disorders can weaken the immune system, making it less effective in fighting off infections.\n      \n      iii. Medications and treatments: Some medications, such as corticosteroids, chemotherapy, and radiation therapy, can suppress the immune system as a side effect. Additionally, some vaccines and immunizations can temporarily lower immune response.\n      \n      iv. Lifestyle factors: Poor nutrition, substance abuse (e.g., tobacco, alcohol, and drugs), sleep deprivation, and chronic stress can negatively impact the immune system.\n      \n      v. Environmental factors: Exposure to toxins, pollutants, and certain chemicals can weaken the immune system over time.\n\nFinal answer: Immunocompromise can be caused by congenital immunodeficiency disorders, infections such as HIV, chronic diseases, medications and treatments that suppress the immune system, lifestyle factors, and environmental factors."
+        ],
+        "gold": {
+            "free_form_answer": "Immunocompromisation can be caused by primary and secondary immunodeficiencies. Primary immunodeficiencies are rare genetic conditions where a part of the immune system is missing or not working properly. Examples include chronic granulomatous disease (CGD), common variable immunodeficiency (CVID), severe combined immunodeficiency (SCID), and selective IgA deficiency. Secondary immunodeficiencies are acquired throughout a person's life and can result from various causes. Chronic diseases like autoimmune diseases (systemic lupus erythematosus, rheumatoid arthritis), malignancies (leukemia, multiple myeloma), hepatic or renal insufficiency, and diabetes mellitus can impair immune system function. Medical treatments like corticosteroids, certain chemotherapies, treatments for organ transplantation rejection, and biological therapies can also cause immunodeficiencies. Infections like HIV, measles, herpes viruses, bacterial, mycobacterial, and parasitic infections can weaken the immune system. Malnutrition, burns, pregnancy, stress, asplenia, environmental radiation and toxin exposure, and old age have also been linked to a weakened immune system and increased infection risk.",
+            "must_have": [
+                "Severe combined immunodeficiency is a type of primary immunodeficiency.",
+                " Hepatic or renal insufficiency can cause secondary immunodeficiencies.",
+                " Stress can weaken the immune system and increase the risk of infection.",
+                " Asplenia can weaken the immune system and increase the risk of infection.",
+                " Malnutrition can weaken the immune system and increase the risk of infection.",
+                " Environmental exposure to radiation and toxins can weaken the immune system and increase the risk of infection.",
+                " Chronic granulomatous disease is a type of primary immunodeficiency.",
+                " Selective IgA deficiency is a type of primary immunodeficiency.",
+                " Burns can weaken the immune system and increase the risk of infection.",
+                " Old age is associated with a weakened immune system and an increased risk of infection.",
+                " Common variable immunodeficiency is a type of primary immunodeficiency. Pregnancy can weaken the immune system and increase the risk of infection.",
+                " Medical treatments such as corticosteroids, some chemotherapies, treatments against rejection after organ transplantation and many biological therapies can cause secondary immunodeficiencies.",
+                " Infections such as HIV, measles and herpes group viruses as well as some bacterial, mycobacterial and parasitic infections can weaken the immune system.",
+                " Chronic diseases such as systemic lupus erythematosus and rheumatoid arthritis can cause secondary immunodeficiencies.",
+                " Diabetes mellitus can cause secondary immunodeficiencies.",
+                " Some malignancies such as leukemia and multiple myeloma can cause secondary immunodeficiencies."
+            ],
+            "nice_to_have": [
+                "Immunocompromisation is a situation in which a person's immune system is weakened, decreasing its ability to fight infections and other diseases.",
+                " Primary immunodeficiencies are a group of more than 450 rare, chronic conditions of hereditary genetic defects in which a part of the body’s immune system is missing or does not function correctly.",
+                " Secondary immunodeficiencies are a group of conditions in which the immunodeficiency is acquired throughout the person's life."
+            ]
+        }
+    },
+    "15": {
+        "origin_prompt": "You are a leading expert in MedLFQA_KQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: Is Buspar a good medicine to take with the Zoloft?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. Identify the medications in question: The two medications mentioned are Buspar (buspirone) and Zoloft (sertraline). Buspar is an anxiolytic (used to treat anxiety disorders), while Zoloft is an antidepressant and belongs to the selective serotonin reuptake inhibitor (SSRI) class of medications.\n2. Assess the pharmacological interaction: When considering the combination of medications, it is essential to evaluate potential pharmacological interactions. In this case, Buspar and Zoloft both affect the neurotransmitter serotonin. Combining Buspar with Zoloft may lead to an increased risk of serotonin syndrome, a potentially life-threatening condition caused by excessive serotonin activity in the nervous system.\n3. Evaluate clinical evidence and guidelines: It is crucial to consult clinical guidelines and research to determine the appropriateness of combining these medications. The American Academy of Family Physicians advises caution when combining Buspar with SSRIs due to the increased risk of serotonin syndrome (AAFP, 2019).\n\nFinal answer: Based on the potential for pharmacological interaction and clinical guidelines, Buspar is not a good medicine to take with Zoloft. It is essential to consult a healthcare professional for personalized medical advice."
+        ],
+        "gold": {
+            "free_form_answer": "Both Buspirone (Buspar) and Sertraline (Zoloft) elevate the serotonin levels in the brain. \nThis combination may increase the risk of serotonin syndrome, a serious and life-threatening condition. Symptoms of serotonin syndrome include diarrhea, nausea, vomiting, tremors, sweating, high fever, muscle stiffness, seizures, and abnormal or rapid heartbeat. Patients taking both medications should be closely monitored for any of these symptoms. If you suspect serotonin syndrome, seek immediate medical attention.",
+            "must_have": [
+                "Buspirone (Buspar) and Sertraline (Zoloft) both elevate serotonin levels in the brain",
+                "Combining Buspirone (Buspar) and Sertraline (Zoloft) may increase the risk of serotonin syndrome",
+                "Seek immediate medical attention if you suspect serotonin syndrome"
+            ],
+            "nice_to_have": [
+                "Symptoms of serotonin syndrome can include diarrhea.",
+                " Symptoms of serotonin syndrome can include high fever.",
+                " Symptoms of serotonin syndrome can include tremor.",
+                " Symptoms of serotonin syndrome can include vomiting.",
+                " Symptoms of serotonin syndrome can include seizures.",
+                " Symptoms of serotonin syndrome can include abnormal or rapid heartbeat.",
+                " Symptoms of serotonin syndrome can include nausea.",
+                " Symptoms of serotonin syndrome can include sweating.",
+                " Symptoms of serotonin syndrome can include muscle stiffness.",
+                " Serotonin syndrome is a serious and life-threatening condition",
+                "Patients taking both Buspirone (Buspar) and Sertraline (Zoloft) should be closely monitored for symptoms of serotonin syndrome"
+            ]
+        }
+    },
+    "16": {
+        "origin_prompt": "You are a leading expert in MedLFQA_KQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: What type of bacteria causes Folliculitis?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. The question asks for the type of bacteria that causes Folliculitis, which is an inflammation of the hair follicles.\n2. To answer this question, we need to understand the common bacterial infections that lead to such inflammation.\n3. We should focus on the most prevalent bacteria in such infections, as multiple types of bacteria can cause Folliculitis.\n\nFinal answer: The most common type of bacteria that causes Folliculitis is Staphylococcus aureus, but other bacteria like Streptococcus pyogenes and Pseudomonas aeruginosa can also cause this condition."
+        ],
+        "gold": {
+            "free_form_answer": "Folliculitis is most commonly caused by the bacteria Staphylococcus aureus. Other bacteria like Staphylococcus epidermidis, Staphylococcus capitis, Pseudomonas aeruginosa have also been linked to folliculitis. Additionally, folliculitis can be caused by less common factors such as viruses, fungi, parasites, and non-infectious diseases.",
+            "must_have": [
+                "Staphylococcus capitis has been associated with folliculitis.",
+                " Pseudomonas aeruginosa has been associated with folliculitis.",
+                " The bacteria Staphylococcus aureus is the most common cause of folliculitis.",
+                " Staphylococcus epidermidis has been associated with folliculitis."
+            ],
+            "nice_to_have": [
+                "Folliculitis can be the result of non-infectious diseases.",
+                " Folliculitis can be caused by fungi.",
+                " Folliculitis can be caused by viruses.",
+                " Folliculitis can be caused by parasites."
+            ]
+        }
+    },
+    "17": {
+        "origin_prompt": "You are a leading expert in MedLFQA_KQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: No I have not is vomiting a Covid symptom?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. The question is about whether vomiting is a symptom of COVID-19.\n2. COVID-19 is a viral illness caused by the SARS-CoV-2 virus, and it presents with a range of symptoms.\n3. Common symptoms of COVID-19 include fever, cough, shortness of breath, fatigue, muscle aches, loss of taste or smell, and gastrointestinal symptoms.\n\nFinal answer: Yes, vomiting can be a symptom of COVID-19, although it is less common than other symptoms like fever and cough. It is part of the broader category of gastrointestinal symptoms, which may also include nausea, diarrhea, and abdominal pain."
+        ],
+        "gold": {
+            "free_form_answer": "Although respiratory symptoms predominate the clinical manifestations of COVID-19, vomiting is a possible symptom, and some patients experience nausea and vomiting as the first clinical manifestation of the disease.",
+            "must_have": [
+                "Vomiting is a possible symptom of COVID-19"
+            ],
+            "nice_to_have": [
+                "Some patients experience nausea and vomiting as the first clinical manifestation of COVID-19",
+                " espiratory symptoms predominate the clinical manifestations of COVID-19"
+            ]
+        }
+    },
+    "18": {
+        "origin_prompt": "You are a leading expert in MedLFQA_KQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: Does metformin generally work pretty well?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. Understanding the question: The question asks for an assessment of the general effectiveness of metformin. Metformin is a medication primarily used to treat type 2 diabetes by improving blood sugar control. The question is broad, and an answer should cover its efficacy, side effects, and its position compared to other treatments.\n2. Efficacy of metformin: Metformin has been shown to be effective in controlling blood sugar levels in patients with type 2 diabetes. It works by decreasing glucose production in the liver, improving insulin sensitivity, and reducing the amount of sugar absorbed by the intestines. Numerous clinical trials and real-world data support its effectiveness in managing diabetes.\n3. Side effects and considerations: While metformin is generally well-tolerated, it can cause gastrointestinal side effects such as diarrhea, nausea, and bloating, especially when starting the medication or increasing the dose. These side effects usually improve over time. Metformin is contraindicated in certain populations, such as those with severe kidney disease, and requires dose adjustments or avoidance in patients with mild to moderate kidney disease.\n4. Comparison with other treatments: Metformin is often the first-line treatment for type 2 diabetes due to its effectiveness and relatively low cost. It is usually combined with lifestyle modifications to achieve better glycemic control. In cases where metformin is not sufficient or poorly tolerated, other oral medications or injectable therapies may be added.\n\nFinal answer: Metformin generally works pretty well for the treatment of type 2 diabetes, as it effectively lowers blood sugar levels and is well-supported by clinical evidence. However, its effectiveness can vary among individuals, and it may cause gastrointestinal side effects. As a first-line treatment, it is often combined with lifestyle modifications and may be supplemented with other medications when necessary."
+        ],
+        "gold": {
+            "free_form_answer": "Metformin is a treatment for type 2 diabetes that can't be managed with diet and exercise alone. It is considered a good medication for lowering blood glucose levels in type 2 diabetes mellitus patients and has also been shown to have a cardioprotective effect making it favorable for patients with metabolic syndrome. Metformin is relatively safe for patients without severe kidney dysfunction but can cause gastrointestinal side effects such as diarrhea, flatulence, nausea, and vomiting. Other less common side effects are also possible. Rarely, Metformin can cause lactic acidosis which can be life-threatening. It is important to follow up with your healthcare provider to monitor its effect and possible side effects.",
+            "must_have": [
+                "Metformin is a treatment for type 2 diabetes that can't be managed with diet and exercise alone",
+                "Metformin is considered a good medication for lowering blood glucose levels in type 2 diabetes mellitus patients",
+                "Metformin has been shown to have a cardioprotective effect making it favorable for patients with metabolic syndrome",
+                "Metformin is relatively safe for patients without severe kidney dysfunction",
+                "Metformin can cause gastrointestinal side effects such as diarrhea, flatulence, nausea, and vomiting",
+                "Rarely, Metformin can cause lactic acidosis which can be life-threatening",
+                "It is important to follow up with your healthcare provider to monitor Metformin's effect and possible side effects"
+            ],
+            "nice_to_have": []
+        }
+    },
+    "19": {
+        "origin_prompt": "You are a leading expert in MedLFQA_KQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: Back pain could be because Im starting my cycle in 2 days but I dont know?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. The user is experiencing back pain and is considering the possibility that it is related to the start of their menstrual cycle in two days. It's important to first acknowledge that menstrual cycle fluctuations can indeed cause discomfort, including back pain, due to hormonal changes and the physical process of the uterine lining thickening and then shedding.\n\n2. However, back pain can be caused by a variety of factors, including but not limited to muscle strains, poor posture, stress, obesity, and specific conditions such as osteoporosis or spinal disc herniation. Therefore, it's essential to consider the broader context of the user's health and lifestyle to accurately diagnose the cause of their back pain.\n\n3. The timing of the user's menstrual cycle, starting in two days, suggests a possible correlation with the onset of their back pain. However, not all back pain experienced around the time of menstruation is directly attributable to hormonal changes. The user's experience needs to be evaluated against the backdrop of known causes of menstrual-related pain, such as dysmenorrhea (painful periods), which often includes lower back pain and cramping but can vary in intensity and manifestation from person to person.\n\nFinal answer: Your back pain could be related to the onset of your menstrual cycle due to hormonal changes that often cause discomfort, including back pain. However, it's important to consider other potential causes of back pain, such as muscle strains or poor posture. If the pain is severe, persistent, or accompanied by other symptoms, it would be wise to consult a healthcare professional for a comprehensive evaluation and accurate diagnosis."
+        ],
+        "gold": {
+            "free_form_answer": "There are many possible causes of back pain including inflammatory disorders, infections, pregnancy, trauma, musculoskeletal pain and neuropathic pain.\nBack pain associated with your period can start a few days before your period starts and get better after your period is over. This type of back pain is typically muscular and cramping.\nPlease seek medical attention if:\n-The back pain related with the period is new and you have never had it before\n-The pain is constant or worsening, or isn't relieved by medications.\n-The pain is severe.\n\n",
+            "must_have": [
+                "Back pain associated with your period can start a few days before your period starts and get better after your period is over",
+                " Back pain associated with Menstruation is typically muscular and cramping.",
+                "Please seek medical attention if the pain is constant or worsening, or isn't relieved by medications.",
+                "Please seek medical attention if the pain is severe.",
+                "Please seek medical attention if the back pain related with the period is new and you have never had it before."
+            ],
+            "nice_to_have": [
+                "Possible cause for back pain can be inflammatory disorders.",
+                "Possible cause for back pain can be trauma.",
+                "Possible cause for back pain can be neuropathic pain.",
+                "Possible cause for back pain can be infections.",
+                "Possible cause for back pain can be pregnancy.",
+                "Possible cause for back pain can be musculoskeletal pain."
+            ]
+        }
+    },
+    "20": {
+        "origin_prompt": "You are a leading expert in MedLFQA_KQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: What should do if I get a fever?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. **Assessment of Severity and Underlying Cause**: The first step is to assess the severity of the fever and try to identify any underlying causes. Fever can be a symptom of various conditions, ranging from mild infections to more serious health issues. Understanding the cause is crucial for determining the appropriate course of action.\n\n2. **Temperature Monitoring and Self-Care Measures**: Monitor body temperature to track the severity of the fever. For mild fevers (temperature below 102°F or 38.9°C), general self-care measures can be taken at home. This includes staying hydrated, resting, and taking over-the-counter medications like acetaminophen or ibuprofen to reduce fever and relieve discomfort, unless contraindicated by other health conditions or medications.\n\n3. **Seek Medical Attention if Necessary**: If the fever is high (above 102°F or 38.9°C), persistent (lasting more than a few days), or accompanied by other symptoms such as difficulty breathing, rash, severe headache, stiff neck, confusion, chest pain, or if you are at risk due to pre-existing conditions, it is important to seek medical attention. These symptoms could indicate a more serious condition that requires professional evaluation and treatment.\n\n4. **Follow Public Health Guidelines**: Given the current global health context, it's important to follow public health guidelines if your fever could be related to COVID-19 or other contagious diseases. This includes isolating yourself, contacting a healthcare provider for advice, and following any recommended testing and treatment protocols.\n\n5. **Consult a Healthcare Professional for Specific Advice**: Ultimately, consulting a healthcare professional for personalized advice is crucial. They can provide guidance based on your specific health situation, consider any unique factors, and prescribe any necessary medications if needed.\n\nFinal answer: If you get a fever, assess its severity and any accompanying symptoms, take general self-care measures at home for mild fevers, seek medical attention for high, persistent, or concerningly symptomatic fevers, follow public health guidelines if relevant, and consult a healthcare professional for tailored advice."
+        ],
+        "gold": {
+            "free_form_answer": "The average body temperature ranges from 35.3 to 37.7°C (95.5 to 99.9°F), and anything above 37.8°C (100.0°F) is typically considered a fever. Fevers are commonly associated with infectious diseases, but can also be a symptom of autoimmune and autoinflammatory conditions. Treating a fever can help alleviate accompanying symptoms like headaches, muscle and joint pain, or febrile seizures in children. Medications like acetaminophen (paracetamol) or non-steroidal anti-inflammatory drugs (NSAIDs) such as ibuprofen can be used to lower fever. Acetaminophen is usually recommended first due to fewer side effects than NSAIDs, but short-term use of either drug is safe for healthy individuals without kidney or liver impairment. While viral fevers generally resolve on their own and do not require further treatment, cases of high or prolonged fever or additional symptoms require medical attention and diagnosis. It's important to consult with a physician in these cases.",
+            "must_have": [
+                "In cases of very high fever, sustained fever or accompanying symptoms, one should be checked by a physician.",
+                " In cases of very high fever, sustained fever or accompanying symptoms, diagnosing and treating the cause of fever is needed.",
+                " Antipyretic medication such as acetaminophen (paracetamol) or non-steroidal anti-inflammatory drugs (NSAIDs) (ibuprofen) can be used to treat fever."
+            ],
+            "nice_to_have": [
+                "Most cases of fever are due to viral infections and are self-limited, not requiring additional treatment.",
+                " Treatment of fever can help prevent febrile seizure in children.",
+                " Treatment of fever can help reduce accompanying symptoms such as headaches and muscle and joint ache.",
+                " Fever is a symptom most commonly seen in infectious diseases.",
+                " Fever can also be a symptom in autoimmune and autoinflammatory diseases.",
+                " Acetaminophen (paracetamol) is usually the first recommendation for fever treatment due to less adverse effects compared to NSAIDs.",
+                " Normal body temperature ranges from 35.3 to 37.7°C (95.5 to 99.9°F).",
+                " Body temperature over 37.8°C (100.0°F) is usually considered as a fever.",
+                " In healthy individuals with no kidney or liver impairment, short term usage of acetaminophen (paracetamol) or NSAIDs is relatively safe."
+            ]
+        }
+    },
+    "21": {
+        "origin_prompt": "You are a leading expert in MedLFQA_KQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: What about diflucan for a yeast infection?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. Understanding the components of the question: The question is asking about the use of Diflucan for treating a yeast infection. Diflucan is a medication, and the context is a medical condition, specifically a yeast infection.\n2. Identifying the medication and condition: Diflucan is the common name for fluconazole, an antifungal medication. It is often used to treat yeast infections, including those caused by Candida species.\n3. Assessing the appropriateness and efficacy of the medication for the condition: Yeast infections are commonly treated with antifungal medications, and fluconazole is one such medication that is effective against Candida species. However, the appropriateness of its use depends on the specific type of yeast infection, the severity of the infection, and any contraindications or interactions with other medications the patient might be taking.\n\nFinal answer: Diflucan (fluconazole) is a suitable medication for treating many yeast infections, including those caused by Candida species. However, the decision to use Diflucan for a yeast infection should be made by a healthcare professional, who will consider the type of yeast infection, its severity, and the patient's medical history, including any potential contraindications or interactions with other medications."
+        ],
+        "gold": {
+            "free_form_answer": "Oral Diflucan (fluconazole) is one of the available treatments for a yeast infection. Other possible treatments include short-course vaginal therapy, which is available as creams, ointments, tablets, and suppositories. ",
+            "must_have": [
+                "Oral Diflucan (fluconazole) is a possible treatment for a yeast infection"
+            ],
+            "nice_to_have": [
+                "Short-course vaginal therapy for yeast infection is available as creams",
+                " Short-course vaginal therapy for yeast infection is available as suppositories",
+                " Short-course vaginal therapy for yeast infection is available as tablets",
+                " Short-course vaginal therapy for yeast infection is available as ointments"
+            ]
+        }
+    },
+    "22": {
+        "origin_prompt": "You are a leading expert in MedLFQA_KQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: Does the bacteria determine the antibiotic?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. Understanding the relationship between bacteria and antibiotics: The question asks whether bacteria determine the choice of antibiotic. This requires an understanding of how different types of bacteria respond to various antibiotics.\n   \n2. Bacterial resistance and antibiotic choice: Bacteria can develop resistance to certain antibiotics over time, which means that the effectiveness of an antibiotic can be influenced by the specific type of bacteria it is intended to treat. This suggests that the choice of antibiotic can be influenced by the nature of the bacteria.\n\n3. Antibiotic development and target specificity: Antibiotics are developed to target specific features of bacterial cells that are not present in human cells. The design of an antibiotic is therefore influenced by the characteristics of the bacteria it is intended to combat.\n\nFinal answer: Yes, the bacteria can determine the antibiotic, as the choice of antibiotic is often based on the specific type of bacteria it is intended to treat and the development of antibiotics is influenced by the characteristics of the target bacteria. However, it's also the case that antibiotics are developed based on their ability to target aspects of bacterial cells that are not present in human cells, regardless of the specific bacteria, making the relationship somewhat reciprocal."
+        ],
+        "gold": {
+            "free_form_answer": "Antibiotics are a type of antimicrobial substance designed to target specific mechanisms or components that are unique to certain types of bacteria. Hence, the bacteria’s species is a crucial factor in deciding on the right treatment for a bacterial infection. Having said that, there are additional important factors in determining the right antibiotic agent such as the severity of infection, site of infection, sensitivity testing, potential side effects of the drug, patient's medical history, and allergies. ",
+            "must_have": [
+                "The species of bacteria is a crucial factor in deciding the right treatment for a bacterial infection.",
+                " The patient's allergies are an important factor in determining the right antibiotic agent.",
+                " Potential side effects of the drug are an important factor in determining the right antibiotic agent.",
+                " The severity of infection is an important factor in determining the right antibiotic agent.",
+                " The site of infection is an important factor in determining the right antibiotic agent.",
+                " The patient's medical history is an important factor in determining the right antibiotic agent.",
+                " Sensitivity testing is an important factor in determining the right antibiotic agent."
+            ],
+            "nice_to_have": [
+                "Antibiotics are designed to target specific mechanisms or components unique to certain types of bacteria."
+            ]
+        }
+    },
+    "23": {
+        "origin_prompt": "You are a leading expert in MedLFQA_KQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: Can Clindamyam be used to treat a UTI\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. Identify the subject and context of the question: The question is about the use of Clindamycin for treating a Urinary Tract Infection (UTI). Clindamycin is an antibiotic, and UTIs are bacterial infections that affect the urinary system.\n2. Determine the appropriate treatment for UTIs: UTIs are typically treated with antibiotics that are effective against the most common causative bacteria, which are usually Escherichia coli (E. coli). Commonly prescribed antibiotics for UTIs include Nitrofurantoin, Trimethoprim/Sulfamethoxazole, and Macrobid (Nitrofurantoin).\n3. Assess the effectiveness of Clindamycin against the causative bacteria of UTIs: Clindamycin is a antibiotic that is effective against a variety of Gram-positive and some Gram-negative bacteria. However, it is not typically the first choice for treating UTIs due to its lower activity against E. coli and the risk of resistance.\n\nFinal answer: No, Clindamycin is not the first choice for treating a UTI, as there are more effective antibiotics available that are specifically targeted at the most common causative bacteria, such as E. coli. However, in some cases, it may be used if other antibiotics are not suitable or contraindicated. It is essential to consult a healthcare professional for an appropriate treatment plan."
+        ],
+        "gold": {
+            "free_form_answer": "Clindamycin (Cleocin, Clinacin, Dalacin) is not the standard treatment for a urinary tract infection. This drug should only be considered in those with multiple allergies to the standard treatment.\nAntibiotics commonly used to treat urinary tract infections include Trimethoprim/sulfamethoxazole (Bactrim, Septra), Nitrofurantoin (Macrobid, Macrodantin), Ciprofloxacin (Cipro), and Fosfomycin (Monurol).\n",
+            "must_have": [
+                "Clindamycin (Cleocin, Clinacin, Dalacin) is not the standard treatment for a urinary tract infection.",
+                "Clindamycin should only be considered in those with multiple allergies to the standard treatment"
+            ],
+            "nice_to_have": [
+                "Antibiotics commonly used to treat urinary tract infections include Trimethoprim/sulfamethoxazole (Bactrim, Septra)",
+                " Antibiotics commonly used to treat urinary tract infections include Nitrofurantoin (Macrobid, Macrodantin)",
+                " Antibiotics commonly used to treat urinary tract infections include Fosfomycin (Monurol)",
+                " Antibiotics commonly used to treat urinary tract infections include Ciprofloxacin (Cipro)"
+            ]
+        }
+    },
+    "24": {
+        "origin_prompt": "You are a leading expert in MedLFQA_KQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: Whats good for muscular pain\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. Identify the nature of the question: The question asks for recommendations on treatments or remedies for muscular pain. This is a request for general knowledge on healthcare, specifically related to pain management in muscles.\n2. Consider the types of treatments: There are various treatments for muscular pain, including over-the-counter medications, home remedies, physical therapy, and in some cases, prescription medications. The best treatment depends on the cause of the pain, its severity, and the individual's health status.\n3. Evaluate the most common and generally safe options: For mild to moderate muscular pain, nonsteroidal anti-inflammatory drugs (NSAIDs) like ibuprofen or naproxen can be effective. Applying ice or heat to the affected area can also help reduce pain and inflammation. Gentle stretching and massage may provide relief as well. For more severe or chronic pain, consulting a healthcare professional is essential.\n\nFinal answer: For muscular pain, consider using over-the-counter NSAIDs such as ibuprofen or naproxen, applying ice or heat to the affected area, and gently stretching or massaging the muscles. However, for severe or chronic pain, consulting a healthcare professional is crucial to determine the appropriate treatment."
+        ],
+        "gold": {
+            "free_form_answer": "Muscular pain can be relieved through various treatments. Non-pharmacological treatments like muscle massage, rest, gentle stretching, and heat therapy can be helpful. Pharmacological treatments, such as pain relievers like Acetaminophen (Tylenol) and Ibuprofen (Advil, Motrin), and muscle relaxants like Chlorzoxazone (Lorzone), Carisoprodol (Soma), and Metaxalone (Skelaxin) can also alleviate pain. Topical creams or gels containing Methyl salicylate Menthol (Icy Hot) and Trolamine salicylate (Aspercreme) can also ease muscle soreness. It's important to seek medical attention if you experience severe pain, muscle weakness, numbness, tingling, or high fever or if the pain lasts for more than a week.",
+            "must_have": [
+                "Acetaminophen (Tylenol) is a pharmacological treatment that may alleviate muscle pain.",
+                " Ibuprofen (Advil, Motrin) is a pharmacological treatment that may alleviate muscle pain.",
+                " Methyl salicylate Menthol (Icy Hot) is a topical cream that can help to ease muscle soreness.",
+                " Metaxalone (Skelaxin) is a muscle relaxant that may alleviate muscle pain.",
+                " Chlorzoxazone (Lorzone) is a muscle relaxant that may alleviate muscle pain.",
+                " Seek medical attention if the muscle pain is severe or is functionally limiting.",
+                " Seek medical attention if you have significant muscle weakness.",
+                " Seek medical attention if the muscle pain lasts for more than a week.",
+                " Seek medical attention if you have numbness or tingling in limbs.",
+                " Carisoprodol (Soma) is a muscle relaxant that may alleviate muscle pain.",
+                " Trolamine salicylate (Aspercreme) is a topical gel that can help to ease muscle soreness.",
+                " Seek medical attention if you have a high fever."
+            ],
+            "nice_to_have": [
+                "Heat therapy is a possible non-pharmacological treatment to relieve muscular pain.",
+                " Rest may alleviate muscular pain.",
+                " Muscle massage may alleviate muscular pain."
+            ]
+        }
+    },
+    "25": {
+        "origin_prompt": "You are a leading expert in MedLFQA_KQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: My older sister has pcos and has had trouble conceiving. Is there a genetic component to pcos?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. First, it is essential to understand Polycystic Ovary Syndrome (PCOS) itself. PCOS is a hormonal disorder affecting women of reproductive age. It is characterized by the presence of multiple small cysts in the ovaries, irregular menstrual periods, and elevated levels of male hormones.\n\n2. The etiology of PCOS is complex and not fully understood. It involves a combination of genetic and environmental factors. Research has shown that there is a strong genetic component to PCOS, with a higher prevalence among sisters of women with the condition.\n\n3. Specifically, studies have identified various genes that may contribute to the development of PCOS, including those related to hormone regulation, insulin resistance, and inflammation. However, it is also clear that environmental factors, such as diet, physical activity, and stress, play a significant role in the expression and severity of the syndrome.\n\n4. The question specifically asks about the genetic component of PCOS and its relation to fertility issues. While PCOS is associated with fertility problems, including irregular ovulation and reduced pregnancy rates, the genetic predisposition to PCOS directly influences these reproductive outcomes.\n\nFinal answer: Yes, there is a genetic component to PCOS, and having a sister with the condition increases the likelihood of an individual developing PCOS themselves. This genetic predisposition can contribute to fertility issues, but it is important to note that environmental factors also play a significant role in the manifestation and severity of PCOS symptoms."
+        ],
+        "gold": {
+            "free_form_answer": "Research has suggested that there could be a genetic link to PCOS, but it's important to note that this alone doesn't guarantee the development of the condition. The likelihood of developing PCOS is influenced by a combination of genetic and environmental factors.",
+            "must_have": [
+                "The chances of developing PCOS are affected by both genetics and environmental factors.",
+                " There may be a genetic component to PCOS according to studies.",
+                " Having a family member with PCOS does not necessarily mean that you will develop PCOS."
+            ],
+            "nice_to_have": []
+        }
+    },
+    "26": {
+        "origin_prompt": "You are a leading expert in MedLFQA_KQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: What would a colonoscopy show?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. A colonoscopy is a medical procedure used for the visual examination of the colon (large intestine) and the surrounding tissue.\n2. During the procedure, a long, flexible tube called a colonoscope is inserted through the rectum and advanced into the colon. The colonoscope is equipped with a small camera and light source, allowing the doctor to view the colon's inner lining on a monitor.\n3. The colonoscope can also be used to take biopsy samples or remove polyps, if necessary. The primary purpose of a colonoscopy is to detect and diagnose gastrointestinal issues, including but not limited to colorectal cancer, inflammatory bowel disease, and polyps.\n\nFinal answer: A colonoscopy would show the inner lining of the colon, allowing for the detection and diagnosis of gastrointestinal issues such as colorectal cancer, inflammatory bowel disease, and polyps."
+        ],
+        "gold": {
+            "free_form_answer": "A colonoscopy is a medical procedure that examines your large intestine or colon. A thin, flexible, lighted tube with a small camera is inserted through your rectum and into your colon. This procedure can be used to prevent and detect colon cancer by evaluating the colon lining. During this exam, polyps, which are growths that could be cancerous, are detected and evaluated. In some cases, they may be removed and sent for a biopsy. In addition, colonoscopy may also be used to diagnose other gastrointestinal issues such as chronic diarrhea, bloody stools, weight loss, and abdominal pain. If any abnormalities are found, the colonoscopy can help detect the cause. ",
+            "must_have": [
+                "Colonoscopy allows evaluation of the colon lining.",
+                " Colonoscopy can detect colitis (inflammation of the colon).",
+                " Colonoscopy is used mainly for prevention and early detection of colon cancer.",
+                " Colonoscopy can detect cancer in the colon.",
+                " During a colonoscopy, polyps (growth of the colon, that could possibly be cancerous) are detected, evaluated and in some cases resected and sent for a biopsy."
+            ],
+            "nice_to_have": [
+                "Colonoscopy can be used in cases of symptoms such as other gastrointestinal issues.",
+                " A colonoscopy is an exam of the large intestine (colon) with a thin, flexible, lighted tube and tiny camera.",
+                " Colonoscopy can be used in cases of symptoms such as weight loss.",
+                " Colonoscopy can be used in cases of symptoms such as abdominal pain.",
+                " Colonoscopy can be used in cases of symptoms such as chronic diarrhea.",
+                " The scope for a colonoscopy is put through the rectum and into the colon.",
+                " Colonoscopy can be used in cases of symptoms such as bloody stools.",
+                " Colonoscopy can help detect the cause of certain symptoms"
+            ]
+        }
+    },
+    "27": {
+        "origin_prompt": "You are a leading expert in MedLFQA_KQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: Is ibuprofen a part of tylenol?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. Identify the components of the question: The question asks whether ibuprofen is a part of Tylenol. To answer this, we need to understand what ibuprofen and Tylenol are, including their chemical compositions and classifications.\n2. Define ibuprofen and Tylenol: Ibuprofen is a nonsteroidal anti-inflammatory drug (NSAID) used for pain relief, fever reduction, and inflammation. Tylenol, on the other hand, is a brand name for the drug acetaminophen (also known as paracetamol), which is also used for pain relief and fever reduction.\n3. Compare the chemical compositions of ibuprofen and Tylenol: Ibuprofen has the chemical formula C13H18O2, while Tylenol (acetaminophen) has the chemical formula C8H9NO2. These are distinct chemical compounds with different molecular structures.\n\nFinal answer: No, ibuprofen is not a part of Tylenol, as they are two different chemical compounds used for similar purposes but have distinct molecular structures and chemical compositions."
+        ],
+        "gold": {
+            "free_form_answer": "Ibuprofen( Advil, Motrin) and Acetaminophen (Tylenol) are common pain and fever relievers. Whilst the two drugs share some similar features, the active ingredient is different, and Ibuprofen is not a part of Acetaminophen. ",
+            "must_have": [
+                "The active ingredient in Ibuprofen is different from that in Acetaminophen.",
+                " Ibuprofen (Advil, Motrin) is not a part of Acetaminophen (Tylenol)."
+            ],
+            "nice_to_have": [
+                "Ibuprofen (Advil, Motrin) and Acetaminophen (Tylenol) are common pain and fever relievers."
+            ]
+        }
+    },
+    "28": {
+        "origin_prompt": "You are a leading expert in MedLFQA_KQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: Would it be possible to prescribe something today to help short-term (even a week) for my heart burn?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. The user is experiencing heartburn, which is a common condition caused by stomach acid flowing back into the esophagus. This can cause a burning sensation in the chest.\n2. The user is asking for a short-term solution, meaning they are looking for a quick fix to alleviate their symptoms for a limited time, in this case, up to a week.\n3. As a leading expert in MedLFQA_KQA, I need to consider safe and effective over-the-counter (OTC) medications that can provide temporary relief from heartburn.\n\nFinal answer: Yes, it is possible to prescribe an over-the-counter antacid or a proton pump inhibitor (PPI) such as omeprazole for short-term relief of your heartburn. However, it is essential to consult with a healthcare professional before starting any new medication to ensure it is safe and appropriate for your specific situation. Additionally, consider making lifestyle adjustments, such as avoiding trigger foods and beverages, to help prevent future episodes of heartburn."
+        ],
+        "gold": {
+            "free_form_answer": "Antacids are an option to relieve mild and occasional heartburn symptoms. They provide quick relief, but the effect lasts only 30-60 minutes. Over-the-counter H2 receptor antagonists and proton pump inhibitors are also effective in treating heartburn, with a longer duration of action. For severe or frequent symptoms, prescription proton pump inhibitors are often recommended. In addition, certain lifestyle changes such as losing weight (if overweight or gained weight recently) and elevating the head of the bed can also help improve symptoms.",
+            "must_have": [
+                "Over-the-counter H2 receptor antagonists are effective for the short-term treatment of heartburn.",
+                " Over-the-counter proton pump inhibitors are effective for the short-term treatment of heartburn.",
+                " Antacids can be used for relief of mild intermittent heartburn symptoms.",
+                " H2 receptor antagonists and proton pump inhibitors have a longer duration of action than antacids.",
+                " For severe or frequent heartburn symptoms, prescription proton pump inhibitors are often used.",
+                " Antacids provide rapid relief but have a short duration of 30-60 minutes."
+            ],
+            "nice_to_have": [
+                "Elevation of the head of the bed has been shown to improve heartburn symptoms.",
+                " Weight loss can improve heartburn symptoms if the individual is overweight or has gained weight recently."
+            ]
+        }
+    },
+    "29": {
+        "origin_prompt": "You are a leading expert in MedLFQA_KQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: So if the diarrhea started last night, Im assuming I would be no longer contagious by tomorrow night?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. **Understanding Contagiousness**: To answer this question, it's important to understand that diarrhea itself is not contagious. However, many of the viruses, bacteria, or parasites that cause diarrhea are contagious. Common causes include norovirus, rotavirus, E. coli, and Giardia, among others. The contagiousness of these pathogens directly affects how one might consider the timeline of being \"contagious.\"\n\n2. **Duration of Contagiousness**: The duration of contagiousness varies significantly depending on the cause of the diarrhea. For example:\n   - **Norovirus**: One typically becomes less contagious 3 days after the onset of symptoms, though it's important to note that one can be contagious before symptoms appear.\n   - **Rotavirus**: Contagiousness can last as long as the diarrhea persists, usually about 7 to 10 days.\n   - **E. coli**: Symptoms often appear 3 to 4 days after exposure, and one can be contagious for as long as symptoms persist, typically around 5 to 7 days.\n   - **Giardia**: Symptoms can appear 1 to 3 weeks after exposure, and one can be contagious for at least a week after the onset of symptoms.\n\n3. **Specific Timeline and Assumptions**: The question assumes that the diarrhea started last night and asks if one would be no longer contagious by tomorrow night. Given the variability in the duration of contagiousness depending on the cause, it's crucial to consider the most likely scenario based on common causes of acute diarrhea. For many cases (e.g., norovirus, E. coli), significant reduction in contagiousness might occur within a few days of symptom onset, especially if the individual is starting to recover.\n\nFinal answer: If the diarrhea started last night, you might begin to be less contagious by tomorrow night, depending on the cause of the diarrhea. However, it's important to note that for some causes (like rotavirus or Giardia), the contagious period could extend beyond that, especially if symptoms persist. To ensure you're no longer contagious, consider the specific cause of your diarrhea and follow guidelines for when the symptoms of that specific condition subside. Additionally, practicing good hygiene can help reduce the risk of spreading any illness."
+        ],
+        "gold": {
+            "free_form_answer": "The most common cause of acute diarrhea in healthy individuals is viral infection, also known as viral gastroenteritis. Other common infectious causes include bacteria, toxins, and parasites. As long as you have diarrhea, you might still be spreading the virus/bacteria and, therefore, contagious, so take precautions accordingly. Precautions include washing hands with soap and water after using the bathroom, and avoiding cooking and sharing food with others until the symptoms resolve.",
+            "must_have": [
+                "As long as you have diarrhea, you might still be spreading the virus/bacteria and therefore be contagious"
+            ],
+            "nice_to_have": [
+                "The most common cause for acute diarrhea in healthy individuals is viral gastroenteritis.",
+                " Other common infectious causes for acute diarrhea include bacteria, toxins and parasites.",
+                " Precautions for acute diarrhea include washing hands with soap and water after using the bathroom.",
+                " Precautions for acute diarrhea include avoiding cooking and sharing food with others until the symptoms resolve."
+            ]
+        }
+    },
+    "30": {
+        "origin_prompt": "You are a leading expert in MedLFQA_KQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: And is there any way I can get some medicine for a cold sore and a mouth ulcer that is killing me\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. Identify the user's problem: The user is experiencing discomfort from both a cold sore and a mouth ulcer.\n2. Understand the context: The user is looking for a medicine that can potentially treat both conditions simultaneously.\n3. Consider safety and efficacy: Recommendations should be based on known safe and effective treatments for both cold sores and mouth ulcers.\n\nFinal answer: For relief from both a cold sore and a mouth ulcer, you may consider using over-the-counter (OTC) treatments such as:\n\n1. **Antiviral creams for cold sores**: Products like acyclovir or docosanol (such as Abreva) can help speed up healing and reduce the severity of cold sores. Apply the cream directly to the cold sore as per the instructions on the package.\n\n2. **Mouth rinses or gels for mouth ulcers**: Products containing lidocaine can provide temporary relief from pain and discomfort. Swish the mouth rinse or apply the gel to the mouth ulcer as directed on the product label.\n\n3. **Pain relief medication**: Over-the-counter pain relievers like acetaminophen (Tylenol) or ibuprofen (Advil) can help manage the pain associated with both conditions. Follow the dosage instructions on the package.\n\n4. **Saltwater or baking soda rinse**: For additional relief, you can rinse your mouth with warm saltwater or a baking soda solution (1/2 teaspoon of baking soda in a cup of warm water) several times a day. This can help soothe both mouth ulcers and cold sores.\n\nRemember, while these treatments can help manage symptoms, it's important to follow the recommended usage instructions and consult with a healthcare provider if symptoms worsen or do not improve within a few days, or if you have any concerns about the use of these treatments. Additionally, if you frequently get cold sores or mouth ulcers, discussing this with a healthcare provider may help identify underlying causes and appropriate treatment options."
+        ],
+        "gold": {
+            "free_form_answer": "Yes, oral antiviral medications such as valacyclovir (Valtrex), can be prescribed to shorten the healing time of cold sores by 1-2 days. However, they are most effective when taken within 48-72 hours of the onset of symptoms.\nFor pain relief, over-the-counter (OTC) topical pain relievers that contain benzocaine (Orajel) can be applied directly to the sores. Oral OTC painkillers, such as acetaminophen (Tylenol) and ibuprofen (Advil), can also ease discomfort.",
+            "must_have": [
+                "Oral OTC painkillers, such as acetaminophen (Tylenol) and ibuprofen (Advil), can also ease discomfort from cold sores and mouth ulcers.",
+                "Oral antiviral medications, such as valacyclovir (Valtrex), can be prescribed to shorten the healing time of cold sores by 1-2 days.",
+                "Oral antiviral medications are most effective when taken within 48-72 hours of the onset of symptoms.",
+                "Over-the-counter (OTC) topical pain relievers that contain benzocaine (Orajel) can be applied directly to the sores for pain relief."
+            ],
+            "nice_to_have": []
+        }
+    },
+    "31": {
+        "origin_prompt": "You are a leading expert in MedLFQA_KQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: Is there anything i should be looking out for while using minoxidil?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. Identify the subject of the question: The question is about minoxidil, a medication commonly used to treat hair loss and hypertension.\n2. Determine the focus of the question: The user is asking about potential concerns or things to watch for while using minoxidil.\n3. Research common side effects and precautions: To provide a comprehensive answer, we need to look into the known side effects, interactions, and precautions related to minoxidil use.\n\nFinal answer: While using minoxidil, you should be looking out for the following:\n\n1. Side effects: Some users may experience skin irritation, redness, or itching at the application site. Less commonly, there may be facial hair growth, increased sweating, or hyperpigmentation.\n2. Interactions: Inform your healthcare provider about all medications you are currently taking, including topical treatments, as minoxidil can interact with other drugs.\n3. Precautions: Do not use minoxidil if you have a known allergy to minoxidil or any of its components. It should not be used by women who are pregnant or planning to become pregnant.\n4. Dosage and usage: Follow the instructions provided by the manufacturer or your healthcare provider. Do not exceed the recommended dose.\n5. Continuous use: Results may not be noticeable for 4-6 months, and discontinuing use may result in hair loss resuming.\n\nBy being aware of these points, you can ensure a safer and more effective experience while using minoxidil."
+        ],
+        "gold": {
+            "free_form_answer": "There are two types of minoxidil: topical and systemic. Topical minoxidil is a liquid or foam that can be obtained over the counter and applied to the scalp to help with pattern hair loss. It is generally well-tolerated, but some side effects include an itchy and dry scalp, changes in hair texture and color, hair shedding, and unwanted facial hair. On the other hand, systemic minoxidil is prescribed to treat high blood pressure. One possible side effect is excessive hair growth, which disappears after treatment. However, it is important to note that systemic minoxidil can potentially have serious side effects, such as pericardial effusion, which can lead to cardiac tamponade and worsen angina pectoris. Therefore,  You should check your weight daily and follow your doctor's instructions on checking your blood pressure and heart rate. If you experience signs of rapid or irregular heartbeat, dizziness, shortness of breath, rapid weight gain, chest pain, changes in hearing or vision, or swelling in the arms and legs, you should contact your healthcare provider immediately.",
+            "must_have": [
+                "A common side effect of systemic minoxidil is excessive hair growth that is lost when treatment is stopped.",
+                " It is important that you check your weight daily and check your blood pressure and heart rate as instructed by your doctor while using systemic minoxidil.",
+                " Contact your healthcare provider immediately if you experience signs of an allergic reaction, fast or irregular heartbeat, dizziness, shortness of breath, rapid weight gain, chest pain, change in hearing or eyesight or swelling in arms and legs while using systemic minoxidil.",
+                " side effects of topical minoxidil include: change in hair colour, change in hair texture, hair shedding and unwanted facial hair.",
+                " a side effect of topical minoxidil is a dry, itchy scalp.",
+                " Systemic minoxidil has the potential serious side effects of pericardial effusion that can lead to cardiac tamponade and the exacerbation of angina pectoris."
+            ],
+            "nice_to_have": [
+                "Topical minoxidil is an over-the-counter liquid or foam that is applied to the scalp to treat pattern hair loss.",
+                " Systemic minoxidil is prescribed to treat severly high blood pressure."
+            ]
+        }
+    },
+    "32": {
+        "origin_prompt": "You are a leading expert in MedLFQA_KQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: Am I contagious with respiratory infection?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. Understanding the question: The user is asking whether they are contagious due to a respiratory infection. This requires knowledge of symptoms, transmission, and the types of respiratory infections.\n2. Identifying the factors: To determine contagiousness, we need to know if the user is experiencing symptoms of a respiratory infection, the specific type of infection (e.g., influenza, COVID-19, common cold), and the stage of the infection.\n3. Considering the transmission timeline: Contagiousness varies among different respiratory infections. Generally, a person is most contagious when they are showing symptoms, although some can be contagious before symptoms appear.\n\nFinal answer: You are contagious with a respiratory infection if you are experiencing symptoms of a known respiratory illness. If you suspect you have a specific infection like COVID-19 or influenza, public health guidelines may provide specific guidance on contagious periods, which often include both pre-symptomatic and symptomatic stages. It's important to follow the guidance of health professionals or relevant health organizations for the most accurate information."
+        ],
+        "gold": {
+            "free_form_answer": "Most respiratory tract infections are contagious and can be spread through sneezing and coughing. Respiratory infections are commonly caused by viruses, but can also be caused by bacteria and fungi. Protective measures such as wearing a mask, washing hands, sneezing and coughing into your elbow or a tissue, and vaccinating against respiratory infections can reduce the transmission rate of respiratory infections.",
+            "must_have": [
+                "Most respiratory tract infections are contagious."
+            ],
+            "nice_to_have": [
+                "Respiratory tract infections can be spread through sneezing and coughing.",
+                "Respiratory infections can be caused by fungi.",
+                "Respiratory infections are commonly caused by viruses.",
+                "Washing hands can reduce the transmission rate of respiratory infections.",
+                "Sneezing and coughing into your elbow or a tissue can reduce the transmission rate of respiratory infections.",
+                "Wearing a mask can reduce the transmission rate of respiratory infections.",
+                "Vaccinating against respiratory infections can reduce the transmission rate of such infections.",
+                "Respiratory infections can be caused by bacteria."
+            ]
+        }
+    },
+    "33": {
+        "origin_prompt": "You are a leading expert in MedLFQA_KQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: Since I took Fioricet about an hour ago, can I take ibuprofen?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. Identify the two medications mentioned: Fioricet and ibuprofen. Fioricet is a combination medication that contains acetaminophen, butalbital, and caffeine, used to relieve tension headaches and migraines. Ibuprofen is a nonsteroidal anti-inflammatory drug (NSAID) used to relieve pain, reduce inflammation, and lower fever.\n2. Assess the potential interaction between Fioricet and ibuprofen. When two medications are taken together, it's essential to consider their individual mechanisms of action, as well as possible additive or antagonistic effects. In this case, both Fioricet and ibuprofen can be used for pain relief, but they have different mechanisms of action. Fioricet primarily acts through its acetaminophen component, while ibuprofen works by inhibiting cyclooxygenase (COX) enzymes.\n3. Consider the risk of adverse effects and contraindications. The primary concern when taking both medications together is the increased risk of liver damage due to the combined effect of acetaminophen and ibuprofen on the liver. Additionally, both medications can cause gastrointestinal issues, such as ulcers and bleeding, when taken in high doses or for extended periods.\n\nFinal answer: It is not recommended to take ibuprofen if you have taken Fioricet about an hour ago, due to the potential for increased risk of liver damage and gastrointestinal issues. It is best to consult with a healthcare professional for alternative pain relief options."
+        ],
+        "gold": {
+            "free_form_answer": "Taking non-steroidal anti-inflammatory drugs like Ibuprofen (Advil, Ibuprofen, Motrin, Provil) together with Fioricet is safe, as there are no known interactions between Ibuprofen and the active ingredients of Fioricet: Butalbital, Acetaminophen, and caffeine. It's important to follow the manufacturer's recommended daily dosage limit and not exceed it.\n",
+            "must_have": [
+                "There are no known interactions between ibuprofen and the active ingredients of Fioricet ",
+                " It is safe to take Ibuprofen (Advil, Ibuprofen, Motrin, Provil) after Fioricet",
+                " There are no known interactions between Ibuprofen and caffeine.",
+                "There are no known interactions between Ibuprofen and Butalbital.",
+                "There are no known interactions between Ibuprofen and Acetaminophen."
+            ],
+            "nice_to_have": [
+                "Do not exceed the recommended daily limit of the medications as suggested by the manufacturer"
+            ]
+        }
+    },
+    "34": {
+        "origin_prompt": "You are a leading expert in MedLFQA_KQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: Whats a cluster headache?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. Identify the nature of the question: The question asks for a definition or explanation of a medical condition, specifically a cluster headache. This requires knowledge of medical terminology and the ability to describe a specific type of headache.\n\n2. Recall relevant information about cluster headaches: Cluster headaches are a type of primary headache disorder, characterized by severe, unilateral pain around the eye or temple area. They are called \"cluster\" headaches because they often occur in clusters or cycles, with periods of frequent attacks followed by periods of no symptoms.\n\n3. Summarize key features and symptoms: To provide a comprehensive answer, it's important to mention the main features of cluster headaches, such as their severity, the location of the pain, the duration of attacks, and the potential impact on the individual's life.\n\nFinal answer: A cluster headache is a type of primary headache disorder characterized by severe, unilateral pain typically around the eye or temple area. These headaches often occur in clusters or cycles, with periods of frequent attacks (called \"clusters\") followed by periods of no symptoms. Each attack usually lasts from 15 minutes to three hours and can be extremely painful, making it difficult for the individual to carry out daily activities during the cluster period."
+        ],
+        "gold": {
+            "free_form_answer": "Cluster headache is a type of chronic and severe headache that is not life-threatening. It typically affects one side of the head, usually in or around the eye area, and is commonly described as a stabbing or sharp pain. Other symptoms that may be experienced on the affected side include tearing, redness of the eye, a stuffy or runny nose, sweating, and drooping eyelid. Cluster headache is characterized by frequent attacks of pain that can last from weeks to months, followed by a period of remission. Fortunately, there are effective treatments available that can help make cluster headache attacks shorter, less frequent, and less severe.",
+            "must_have": [
+                "Cluster headache is a type of chronic, severe, non-life-threatening headache.",
+                " Symptoms of cluster headache on the affected side may include tearing.",
+                " Cluster headache is usually one-sided, occurring in or around the eye.",
+                " Symptoms of cluster headache on the affected side may include a stuffy or runny nose.",
+                " Symptoms of cluster headache on the affected side may include a drooping eyelid.",
+                " Symptoms of cluster headache on the affected side may include redness of the eye.",
+                " There are effective treatments that can make cluster headache attacks less frequent.",
+                " There are effective treatments that can make cluster headache attacks less severe.",
+                " There are effective treatments that can make cluster headache attacks shorter.",
+                " Symptoms of cluster headache on the affected side may include sweating.",
+                " Cluster headache is characterized by bouts of frequent attacks of pain that can last from weeks to months.",
+                " A period of remission usually follows a bout of cluster headache."
+            ],
+            "nice_to_have": []
+        }
+    },
+    "35": {
+        "origin_prompt": "You are a leading expert in MedLFQA_KQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: is it okay to take imodium long term?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. Identify the subject and context: The subject is \"Imodium,\" a medication used to treat diarrhea, and the context is the long-term use of this medication.\n2. Understand the medication's mechanism of action: Imodium (loperamide) works by slowing down the movement of the gut and increasing the absorption of fluids in the intestines, thereby reducing diarrhea symptoms (1).\n3. Assess the safety and efficacy of long-term use: Long-term use of Imodium may lead to several side effects, including constipation, nausea, and abdominal pain. In some cases, it can also lead to more severe outcomes such as intestinal obstruction or an increased risk of colon cancer (2). The efficacy of long-term use is also questionable, as continuous use may reduce its effectiveness (3).\n\nFinal answer: No, it is not okay to take Imodium long term due to the potential for side effects and reduced efficacy. It is essential to consult a healthcare professional for appropriate treatment options and durations."
+        ],
+        "gold": {
+            "free_form_answer": "Loperamide (Imodium) is a medication intended to relieve the symptoms of diarrhea and is sold over the counter or with a doctor's prescription. For acute diarrhea, the drug shouldn't be used for more than 48 hours, and if the diarrhea persists, it is advisable to contact your healthcare provider for proper diagnosis and treatment. Under your doctor's prescription for chronic diarrhea, it is possible to take Loperamide long-term after considering if the benefit outweighs the possible side effects.",
+            "must_have": [
+                "For acute diarrhea, Loperamide (Imodium) shouldn't be used for more than 48 hours.",
+                " If diarrhea persists after using Loperamide (Imodium) for 48 hours, it is advisable to contact your healthcare provider for proper diagnosis and treatment.",
+                " For chronic diarrhea, it is possible to take Loperamide (Imodium) long-term under a doctor's prescription"
+            ],
+            "nice_to_have": [
+                "Loperamide (Imodium) is a medication intended to relieve the symptom of diarrhea "
+            ]
+        }
+    },
+    "36": {
+        "origin_prompt": "You are a leading expert in MedLFQA_KQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: But what is colchicine\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. The question asks for information about \"colchicine,\" which is a specific term that likely refers to a chemical compound or medication.\n2. To answer this question accurately, I need to identify what colchicine is, including its chemical nature, its uses, and its mechanism of action.\n3. This information can be found through reputable sources such as scientific databases, pharmacology textbooks, or credible online health resources.\n\nFinal answer: Colchicine is a drug used for the treatment of gout and familial Mediterranean fever (FMF), among other conditions. It is derived from plants of the genus Colchicum, commonly known as autumn crocus. Colchicine works by reducing inflammation through several mechanisms, including the inhibition of microtubule polymerization, which in turn affects neutrophil activity and reduces the production of inflammatory cytokines."
+        ],
+        "gold": {
+            "free_form_answer": "Colchicine (Colcrys, Gloperba, Mitigare, and Myinfla) is an anti-inflammatory drug used to treat many inflammatory conditions including Gout, Pericarditis, Behcet's disease, and Familial Mediterranean Fever. Although its mechanism of action is still being studied, it has been shown to impair multiple proinflammatory processes, such as neutrophil recruitment, and decrease levels of proinflammatory cytokines.\n\n",
+            "must_have": [
+                "Colchicine is used to treat Pericarditis.",
+                "Colchicine is used to treat Gout.",
+                "Colchicine is used to treat Familial Mediterranean Fever.",
+                "Colchicine is used to treat Behcet's disease.",
+                "Colchicine is an anti-inflammatory drug.",
+                "Colchicine mechanism of action is still being explored.",
+                "Colchicine impairs multiple proinflammatory processes such as neutrophil recruitment.",
+                " Colchicine decreases levels of the proinflammatory cytokines"
+            ],
+            "nice_to_have": []
+        }
+    },
+    "37": {
+        "origin_prompt": "You are a leading expert in MedLFQA_KQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: Is saxenda a glp1 blocker as well?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. Understanding the components of the question: The question asks whether Saxenda is a GLP1 blocker, which means we need to understand what Saxenda is and what GLP1 blockers are.\n2. Identifying Saxenda's mechanism of action: Saxenda, also known as Liraglutide, is a medication that is used for weight loss and diabetes treatment. It is a glucagon-like peptide-1 (GLP-1) receptor agonist, not a blocker.\n3. Understanding GLP1 blockers: GLP1 blockers are drugs that inhibit the action of GLP-1, a hormone that stimulates insulin secretion and inhibits glucagon secretion. This results in higher blood sugar levels.\n4. Comparing Saxenda's action to that of GLP1 blockers: Since Saxenda is a GLP-1 receptor agonist, its action is opposite to that of GLP-1 blockers. It enhances the action of GLP-1, leading to better glucose control and weight loss.\n\nFinal answer: No, Saxenda is not a GLP1 blocker. It is a GLP-1 receptor agonist, which means it enhances the action of GLP-1 rather than inhibiting it."
+        ],
+        "gold": {
+            "free_form_answer": "Saxenda is a GLP-1 receptor agonist that contains liraglutide. It mimics the action of GLP-1 hormone, enhancing insulin release, decreasing liver glucose production, reducing appetite, and slowing gastric emptying.",
+            "must_have": [
+                "Saxenda is a GLP-1 receptor agonist."
+            ],
+            "nice_to_have": [
+                "Liraglutide slows gastric emptying.",
+                " Saxenda contains the active ingredient liraglutide.",
+                " Liraglutide reduces appetite.",
+                " Liraglutide decreases liver glucose production.",
+                " Liraglutide mimics the action of the hormone GLP-1.",
+                " Liraglutide enhances the release of insulin."
+            ]
+        }
+    },
+    "38": {
+        "origin_prompt": "You are a leading expert in MedLFQA_KQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: Any thoughts on taking activated charcoal to help w stomach bug?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. Understanding the question: The user is asking for advice on using activated charcoal as a remedy for a stomach bug. A stomach bug typically refers to gastrointestinal symptoms such as nausea, vomiting, diarrhea, and abdominal pain.\n\n2. Activated charcoal properties: Activated charcoal is known for its ability to adsorb a wide range of substances, including toxins and certain medications, which is why it's sometimes used as an emergency treatment for poisoning. It's important to note that its effectiveness can vary and it may not be effective against all types of toxins or substances causing the stomach bug.\n\n3. Specificity of activated charcoal for stomach bugs: While activated charcoal can help in some cases by adsorbing toxins that may be causing gastrointestinal distress, it's not a cure for all types of stomach bugs. The effectiveness depends on the cause of the stomach bug. For instance, if the symptoms are due to a viral or bacterial infection, activated charcoal may not directly address the underlying issue.\n\n4. Potential side effects and precautions: Activated charcoal can cause side effects such as black stools, constipation, and a blockage in the intestines. It can also interfere with the absorption of certain medications, so it's important to take it several hours apart from medications.\n\nFinal answer: Activated charcoal may help in some cases of stomach bugs by adsorbing certain toxins, but it's not a cure for all types of stomach bugs, especially those caused by viruses or bacteria. It's important to consider potential side effects and interactions with medications. For the most effective treatment, it's advisable to consult a healthcare professional."
+        ],
+        "gold": {
+            "free_form_answer": "Activated charcoal (Actidose-Aqua, Charcocaps) is a processed form of common charcoal that contains pores that can trap chemicals and prevent bodily absorption. Activated charcoal can be used to treat certain types of chemical poisonings.\nThere is no evidence for efficacy of using activated charcoal in cases of gastroenteritis (also known as \"stomach bug\").\nFurthermore, activated charcoal can interfere with the absorption of other drugs. Possible adverse effects of activated charcoal such as vomiting, constipation, and electrolyte abnormalities can exacerbate the condition of a patient suffering from gastroenteritis and therefore should be avoided.\n",
+            "must_have": [
+                "Activated charcoal might exacerbate the condition of a patient suffering from gastroenteritis and therefore it should be avoided.",
+                "There is no evidence for efficacy of using activated charcoal in cases of gastroenteritis (also known as 'stomach bug')."
+            ],
+            "nice_to_have": [
+                "Activated charcoal can interfere with the absorption of other drugs.",
+                "Possible adverse effects of activated charcoal include vomiting, constipation, and electrolyte abnormalities.",
+                "Activated charcoal can be used to treat certain types of chemical poisonings.",
+                "Activated charcoal (Actidose-Aqua, Charcocaps) is a processed form of common charcoal that contains pores that can trap chemicals and prevent bodily absorption."
+            ]
+        }
+    },
+    "39": {
+        "origin_prompt": "You are a leading expert in MedLFQA_KQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: What is augmentin\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. The question asks for information about \"Augmentin,\" which is a specific medication.\n2. To answer this question accurately, I need to identify what Augmentin is, including its classification, use, and key features.\n3. Augmentin is a brand name, so I should also provide information on the generic name for this medication to give a complete understanding.\n\nFinal answer: Augmentin is a brand name for the antibiotic Amoxicillin/Clavulanic acid, commonly used to treat bacterial infections. It is a combination of two medications: Amoxicillin, which is a penicillin antibiotic, and Clavulanic acid, which is a beta-lactamase inhibitor. This combination helps to overcome resistance to the antibiotic by some bacteria."
+        ],
+        "gold": {
+            "free_form_answer": "Amoxicillin with Clavulanic acid (Augmentin) is a prescription antibiotic drug used to treat many different infections caused by bacteria. This drug consists of Amoxicillin, which is a penicillin antibiotic that fights against bacteria, and Clavulanic acid, which is a beta-lactamase inhibitor that helps to treat and prevent certain bacteria resistance to Amoxicillin. ",
+            "must_have": [
+                "Amoxicillin with Clavulanic acid (Augmentin) is a prescription antibiotic drug used to treat many different infections caused by bacteria.",
+                " Augmentin contains Clavulanic acid, a beta-lactamase inhibitor that helps to treat and prevent certain bacteria resistance to amoxicillin.",
+                " Augmentin contains  Amoxicillin, which is a penicillin antibiotic that fights against bacteria"
+            ],
+            "nice_to_have": []
+        }
+    },
+    "40": {
+        "origin_prompt": "You are a leading expert in MedLFQA_KQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: Does low thyroid contribute to weight gain?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. Understanding the role of thyroid hormones in the body: The thyroid gland produces hormones, such as thyroxine (T4) and triiodothyronine (T3), which play a crucial role in regulating the body's metabolism. A low thyroid function, or hypothyroidism, means that the body is not producing enough of these hormones.\n\n2. The relationship between metabolism and weight: A faster metabolism means that the body burns calories more efficiently, which can lead to weight loss or at least prevent weight gain. Conversely, a slower metabolism can result in weight gain because the body is not burning calories as quickly.\n\n3. The impact of hypothyroidism on weight: When the thyroid gland is not producing enough hormones, the body's metabolism slows down. This can lead to weight gain, as the body is not efficiently burning calories. Additionally, hypothyroidism can cause fluid retention, which can further contribute to weight gain.\n\nFinal answer: Yes, low thyroid function can contribute to weight gain due to its impact on the body's metabolism and potential for fluid retention."
+        ],
+        "gold": {
+            "free_form_answer": "When thyroid function is low, it can lead to a reduction in metabolic rate and modest weight gain. However, this weight gain is typically only around 5-10 pounds and is not commonly associated with severe obesity. Treating and balancing thyroid function can help with weight loss. If you suspect you have low thyroid function, it is important to consult your healthcare provider for assessment and treatment.",
+            "must_have": [
+                "Treating and balancing thyroid function can help with losing the weight gained due to this condition.",
+                " If you have, or suspect you have a low thyroid function, it is important to consult your healthcare provider about assessment and treatment.",
+                " Decreased activity due to fatigue from low thyroid function can contribute to weight gain.",
+                " Low thyroid function can reduce the metabolic rate.",
+                " Low thyroid function can cause accumulation of fluid in the body.",
+                " Low thyroid function can cause a modest weight gain."
+            ],
+            "nice_to_have": [
+                "Low thyroid function is not commonly associated with severe obesity."
+            ]
+        }
+    },
+    "41": {
+        "origin_prompt": "You are a leading expert in MedLFQA_KQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: If the side effects of the Prozac become too much is there a wean down period I would have to go through or would I be able to stop it immediately?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. The question is about the process of discontinuing Prozac (fluoxetine) usage due to side effects.\n2. Discontinuation of antidepressants like Prozac can lead to discontinuation syndrome, which includes various withdrawal symptoms.\n3. The approach to stopping Prozac depends on the individual's medical history, the duration of treatment, and the presence of other medical conditions.\n\nFinal answer: If the side effects of Prozac become too much, you should consult your healthcare provider to discuss a gradual wean down period rather than stopping it immediately. This approach helps minimize the risk of discontinuation syndrome and withdrawal symptoms. The specific wean down schedule will depend on your individual health situation and medical history."
+        ],
+        "gold": {
+            "free_form_answer": "It is typically recommended to avoid abruptly discontinuing selective serotonin reuptake inhibitors (SSRIs) as this may result in unpleasant withdrawal symptoms. While Prozac has a lower risk of such symptoms, it is still advisable to gradually reduce doses of 20mg over a period of 1-2 weeks before stopping completely. Any change in your treatment plan should be done under your healthcare provider's guidance and supervision.",
+            "must_have": [
+                "If experiencing unpleasant side effects from Prozac, it is recommended to avoid abruptly discontinuing the medication",
+                "Abrupt discontinuation of selective serotonin reuptake inhibitors (SSRIs) may result in withdrawal symptoms",
+                "Prozac has a lower risk of withdrawal symptoms compared to other SSRIs",
+                "It is advisable to gradually reduce Prozac doses of 20mg over a period of 1-2 weeks before stopping completel",
+                "Any change in your treatment plan should be done under your healthcare provider's guidance and supervision. "
+            ],
+            "nice_to_have": []
+        }
+    },
+    "42": {
+        "origin_prompt": "You are a leading expert in MedLFQA_KQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: Is poison ivy contagious between people?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. Understanding the nature of poison ivy: Poison ivy (Toxicodendron radicans) is a plant that causes an allergic reaction in many people due to an oil called urushiol that is present in its leaves, stems, and roots. The reaction, known as contact dermatitis, can result in itching, redness, and blistering of the skin.\n\n2. Mode of transmission: The primary way people come into contact with poison ivy is by touching the plant or objects contaminated with its urushiol oil. The oil can also stick to clothing, tools, and pets, leading to delayed reactions in those who touch these items later.\n\n3. Transfer of urushiol: The question of whether poison ivy is contagious between people hinges on the transfer of urushiol oil from one person to another. If a person who has come into contact with poison ivy touches another person, the urushiol can be transferred, potentially causing a reaction in the second person if they are sensitive to it.\n\nFinal answer: Poison ivy itself is not contagious, but the urushiol oil that causes allergic reactions can be transferred between people, potentially causing a reaction in those who are sensitive to it. Therefore, while poison ivy is not contagious in the traditional sense, its effects can be transmitted indirectly through contact with contaminated skin or objects."
+        ],
+        "gold": {
+            "free_form_answer": "Poison Ivy is a plant that, when in direct contact with the skin, can cause a skin reaction called \"contact dermatitis\". This rash is not contagious and cannot be transferred between people. However, it is possible to develop the rash by touching objects that have been in contact with the plant's oil, such as clothes, tools, or animal fur. Additionally, being in the vicinity of burning poison ivy can also cause contact dermatitis. It's worth noting that the same substance causing the rash in poison ivy can also be found in other plants like poison oak, poison sumac, ginkgo fruit, and mango peels.",
+            "must_have": [
+                "Poison ivy causes contact dermatitis through direct contact with the plant",
+                "It is rare but possible to develop contact dermatitis from poison ivy by touching objects with the plant's oil on them",
+                " the rash caused by poison ivy is not contagious and cannot be transferred between people."
+            ],
+            "nice_to_have": [
+                "Contact dermatitis from poison ivy can be caused by being in the vicinity of burning poison ivy",
+                "The substance causing the rash in poison ivy is also found in poison oak",
+                "The substance causing the rash in poison ivy is also found in poison sumac",
+                "The substance causing the rash in poison ivy is also found in ginkgo fruit",
+                "The substance causing the rash in poison ivy is also found in mango peel"
+            ]
+        }
+    },
+    "43": {
+        "origin_prompt": "You are a leading expert in MedLFQA_KQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: How is PID treated?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. First, it is essential to clarify the topic of the question. PID, or Pelvic Inflammatory Disease, is a medical condition and not a treatment methodology. This is crucial to understand before formulating a response.\n2. Next, to address the question of how PID is treated, we must consider the standard medical practices for managing this condition. This includes both pharmacological and non-pharmacological approaches.\n3. The most common treatment for PID is the administration of antibiotics. The choice of antibiotic and the duration of treatment depend on the severity of the infection and the patient's medical history.\n4. In addition to antibiotic therapy, it is also important to manage the patient's pain and fever with appropriate medications.\n5. Non-pharmacological approaches involve ensuring proper rest and hydration for the patient, as well as advising them on sexual health practices to prevent future infections.\n\nFinal answer: PID is treated with antibiotics, typically given for a specified duration depending on the severity of the infection. Additional medications may be prescribed to manage pain and fever. Non-pharmacological approaches include rest, hydration, and advice on sexual health practices to prevent future infections."
+        ],
+        "gold": {
+            "free_form_answer": "Pelvic inflammatory disease (PID) is treated with antibiotics that cover a broad-spectrum of likely pathogens (Chlamydia, Gonorrhea, anaerobic bacteria and others).\nTreating PID as soon as symptoms start can prevent scarring and irreversible damage to reproductive organs. Therefore, a combination of antibiotics is promptly administered and then later adjusted according to a patient’s lab results. A possible combination of  antibiotics includes Ceftriaxone, Doxycycline, and Metronidazole.\nHospitalization is necessary when severe illness is suspected or when a patient is pregnant, has a tubo-ovarian abscess, or is unresponsive to oral treatment.\nWhile treatment is administered, sexual partners should be tested and treated in order to prevent reinfection. Sexual intercourse should be avoided until treatment is completed and symptoms are resolved.\n\n",
+            "must_have": [
+                "PID is treated with broad-spectrum antibiotics that cover likely pathogens such as Chlamydia, Gonorrhea, and anaerobic bacteria.",
+                " Treating PID as soon as symptoms start can prevent scarring and irreversible damage to reproductive organs.",
+                " posibble antibiotic combinations for PID treatment is Ceftriaxone, Doxycycline, and Metronidazole."
+            ],
+            "nice_to_have": [
+                "Hospitalization is necessary for PID treatment when the patient is unresponsive to oral treatment.",
+                "Hospitalization is necessary for PID treatment when severe illness is suspected.",
+                "Hospitalization is necessary for PID treatment when the patient is pregnant.",
+                "Hospitalization is necessary for PID treatment when the patient has a tubo-ovarian abscess.",
+                "Sexual intercourse should be avoided until PID treatment is completed and symptoms are resolved.",
+                "A combination of antibiotics is promptly administered for PID treatment and then later adjusted according to a patient’s lab results.",
+                "Sexual partners should be tested and treated during PID treatment to prevent reinfection."
+            ]
+        }
+    },
+    "44": {
+        "origin_prompt": "You are a leading expert in MedLFQA_KQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: Is there anything you can prescribe for anal fissure\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. Understanding the question: The user is asking if there's any medication or treatment that can be prescribed for anal fissures, which are small tears in the skin around the anus.\n2. Identifying the topic area: This question falls under the domain of medical advice, specifically dealing with treatments for anal fissures. My expertise in MedLFQA_KQA (Medical Long Form Question Answering based on Key Question Answering) is directly applicable here as it involves interpreting medical questions and providing relevant, detailed answers.\n3. Research and application of knowledge: Based on my understanding of treatments for anal fissures, the management typically involves a combination of home care and, in some cases, medical treatment. Home care includes increasing fiber intake, drinking plenty of fluids, and using over-the-counter topical treatments like nitroglycerin ointment. Medical treatments might involve the use of medications such as pain relievers, stool softeners, or topical anesthetics, and in severe cases, minor surgical procedures.\n\nFinal answer: For anal fissures, while there are no direct \"prescriptions\" in the traditional sense, treatments may include over-the-counter nitroglycerin ointment, along with home care measures like increasing fiber intake, staying hydrated, and using stool softeners. In more severe cases, or if the fissure does not heal with standard treatment, your healthcare provider may prescribe medications such as pain relievers, stool softeners, or topical anesthetics, and might even recommend a minor surgical procedure called a lateral internal sphincterotomy. It is essential to consult a healthcare professional for a personalized treatment plan."
+        ],
+        "gold": {
+            "free_form_answer": "The treatment goal for anal fissures is to relieve pain, relax the internal anal sphincter and prevent injury by large or hard bowel movements. For typical anal fissures, initial management consists of supportive measures and a topical vasodilator for at least one month. Warm sitz baths after bowel movements can give temporary symptomatic relief. Stool softeners and laxatives can treat constipation, whilst increasing dietary fiber or fiber supplements can prevent hard bowel movements. A topical vasodilator that is applied on or around the fissure, such as topical nifedipine or nitroglycerin, can be prescribed to promote healing. For fissures that fail to respond to initial medical therapy, botulinum toxin A injections into the internal sphincter or surgery (lateral internal sphincterotomy) may indicated. ",
+            "must_have": [
+                "Stool softeners and laxatives can be used to treat constipation in patients with anal fissures.",
+                " Initial management for typical anal fissures consists of supportive measures and a topical vasodilator for at least one month.",
+                " Increasing dietary fiber or fiber supplements can prevent hard bowel movements in patients with anal fissures.",
+                " Warm sitz baths after bowel movements can give temporary symptomatic relief for anal fissures.",
+                " For anal fissures that fail to respond to initial medical therapy, botulinum toxin A injections into the internal sphincter can be considered.",
+                " For anal fissures that fail to respond to medical therapy, surgery (lateral internal sphincterotomy) may be considerd.",
+                " A topical vasodilator such as topical nifedipine or nitroglycerin can be prescribed to promote healing of anal fissures."
+            ],
+            "nice_to_have": []
+        }
+    },
+    "45": {
+        "origin_prompt": "You are a leading expert in MedLFQA_KQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: What is Valtrex?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. Identify the subject: The question asks about \"Valtrex,\" which is a medication with a specific use.\n2. Determine the nature of the question: The question is a factual inquiry, seeking to know what Valtrex is.\n3. Research and gather information: To answer this question accurately, I would consult reliable sources such as medical databases, pharmacology textbooks, or the drug's official website to gather information on Valtrex, including its active ingredient, purpose, and how it is used.\n\nFinal answer: Valtrex is a brand-name prescription medication containing the active ingredient valacyclovir, which belongs to a class of drugs called antiviral agents. It is used to treat infections caused by herpes viruses, including cold sores, genital herpes, and shingles. Valtrex works by helping the body's immune system fight the herpes infection and reducing symptoms such as itching, pain, and burning."
+        ],
+        "gold": {
+            "free_form_answer": "Valtrex is the brand name of the generic drug Valacyclovir, which is an oral anti-viral drug that works by slowing the growth and spread of viruses to help the body fight the infection. This drug is most commonly used to treat infections of herpes viruses, including herpes simplex virus and varicella zoster virus which cause diseases such as cold sores, genital herpes, shingles, and chickenpox. Valacyclovir (Valtrex) is available only with a prescription and should be taken as instructed by the doctor.",
+            "must_have": [
+                "Valacyclovir is commonly used to treat infections of varicella zoster virus.",
+                " Valacyclovir is used to treat diseases such as shingles.",
+                " Valacyclovir is an oral anti-viral drug.",
+                " Valacyclovir is used to treat diseases such as chickenpox.",
+                " Valacyclovir is used to treat diseases such as genital herpes.",
+                " Valacyclovir works by slowing the growth and spread of viruses to help the body fight the infection.",
+                " Valacyclovir is commonly used to treat infections of herpes simplex virus.",
+                " Valacyclovir is used to treat diseases such as cold sores."
+            ],
+            "nice_to_have": [
+                " Valtrex is the brand name of the generic drug Valacyclovir.",
+                " Valacyclovir (Valtrex) is available only with prescription.",
+                " Valacyclovir should be taken as instructed by the doctor."
+            ]
+        }
+    },
+    "46": {
+        "origin_prompt": "You are a leading expert in MedLFQA_KQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: Can I take anything with the antibiotic like pepto bismol or Tylenol as needed?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. The question asks about the compatibility of an antibiotic with Pepto-Bismol (an over-the-counter medication for upset stomachs) and Tylenol (an over-the-counter pain reliever and fever reducer). It's important to understand the nature of the antibiotic being referred to, but since that specific information is not provided, the answer will focus on general considerations.\n\n2. Antibiotics can have different interactions with other medications due to their specific mechanisms of action, chemical properties, and the way they are metabolized by the body. Some antibiotics may interact with other medications, affecting their effectiveness or increasing the risk of side effects.\n\n3. Pepto-Bismol contains bismuth subsalicylate, which can act as an antacid, antidiarrhetic, and astringent. It's important to consider that certain antibiotics can alter the gut flora, leading to diarrhea, which is why the interest in Pepto-Bismol might be relevant. However, the interaction between antibiotics and Pepto-Bismol needs to be evaluated on a case-by-case basis.\n\n4. Tylenol (acetaminophen) is widely used for its analgesic and antipyretic properties. It is generally considered safe when used as directed, but its interaction with antibiotics can vary. The concern here would be if the antibiotic affects the metabolism of Tylenol, potentially leading to increased levels of acetaminophen in the body.\n\nFinal answer: It is generally advisable to avoid taking Pepto-Bismol and Tylenol simultaneously with your antibiotic without first consulting with a healthcare professional. The specific interaction depends on the type of antibiotic you are taking. A healthcare provider can offer guidance tailored to your situation, considering the potential for interactions, the need for symptom relief, and the safety profile of the medications in combination with your antibiotic. Always follow the advice of healthcare professionals regarding medication interactions and safety."
+        ],
+        "gold": {
+            "free_form_answer": "It is generally safe to take most antibiotics with Tylenol (acetaminophen) except when taken with the antibiotic isoniazid (Nydrazid). Isoniazid can increase the activity of liver enzymes, which results in Tylenol being converted to toxic metabolites, thus increasing the risk of liver damage. As for Pepto-Bismol (bismuth subsalicylate), it can inhibit the absorption of tetracycline antibiotics from the digestive system. It is therefore recommended to take the two medications 2-3 hours apart from each other.",
+            "must_have": [
+                "Tylenol (acetaminophen) can generally be taken safely with most antibiotics",
+                "Tylenol should be used with caution when taken with the antibiotic isoniazid (Nydrazid) due to the risk of liver damage",
+                "It is advised that Pepto-Bismol and tetracycline antibiotics are taken 2-3 hours apart",
+                "Pepto-Bismol (bismuth subsalicylate) can inhibit the absorption of tetracycline antibiotics from the digestive system"
+            ],
+            "nice_to_have": []
+        }
+    },
+    "47": {
+        "origin_prompt": "You are a leading expert in MedLFQA_KQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: I started taking lisinopril yesterday. Should my blood pressure be normal by now?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. Lisinopril is an ACE inhibitor, a type of medication commonly used to treat high blood pressure (hypertension). It works by relaxing blood vessels, which allows blood to flow more easily and the heart to pump blood more efficiently.\n2. The time it takes for lisinopril to lower blood pressure varies from person to person and depends on individual factors such as age, overall health, and the extent of the hypertension.\n3. Typically, it may take several weeks of consistent use for lisinopril to effectively lower blood pressure to the desired level. The full benefits of the medication may not be seen for up to 4-6 weeks, but some improvement may be noticed sooner.\n\nFinal answer: No, your blood pressure may not be normal yet, as it can take several weeks for lisinopril to effectively lower blood pressure. It is essential to monitor your blood pressure regularly and follow your healthcare provider's recommendations regarding medication and lifestyle changes."
+        ],
+        "gold": {
+            "free_form_answer": "The antihypertensive effects of lisinopril are usually noticeable within a few hours of taking it orally. The peak blood pressure reduction happens around 6 hours later. While taking the daily dosage, the blood pressure should decrease, but it may still be higher than the normal range. If, after a few weeks, the blood pressure remains high, the patient should consult a doctor as the treatment may need to be adjusted.",
+            "must_have": [
+                "While taking the daily dosage of Lisinopril, blood pressure should be lowered.",
+                " Blood pressure might still be higher than the normal range while taking Lisinopril.",
+                " Lisinopril's antihypertensive activity begins within several hours after the first oral administration.",
+                " If blood pressure is still higher than the normal range within a few weeks of taking Lisinopril, it is advised to consult a doctor."
+            ],
+            "nice_to_have": [
+                "Lisinopril's peak reduction of blood pressure is achieved by approximately 6 hours."
+            ]
+        }
+    },
+    "48": {
+        "origin_prompt": "You are a leading expert in MedLFQA_KQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: Is it common to have an abscess with no pain?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. Definition of an abscess: An abscess is a localized collection of pus within a tissue, usually as a result of an infection. It is characterized by redness, swelling, heat, and often severe pain.\n2. Pain as a symptom of abscess: Pain is a common symptom of abscesses because of the pressure exerted by the pus on the surrounding tissues and nerves. However, the severity of pain can vary depending on the location, size, and depth of the abscess.\n3. Abscesses with no pain: While pain is a common symptom, there are instances where an abscess may not cause pain, or the pain may be minimal. This could be due to the abscess being in a location where the pressure is not directly affecting sensitive structures, or the individual may have a higher pain tolerance.\n\nFinal answer: It is not common for an abscess to have no pain, as pain is a typical symptom due to the pressure of pus on surrounding tissues and nerves. However, there can be cases where an abscess may cause minimal or no pain, depending on its location, size, and depth, as well as individual pain tolerance."
+        ],
+        "gold": {
+            "free_form_answer": "An abscess is a pocket of pus that can develop anywhere in your body, including the skin, mouth, and internal organs. Typically, pain is the primary symptom of an abscess, and it is often what prompts patients to seek medical help. However, some abscesses can be painless due to factors like size, location, and the patient's individual characteristics. If you suspect that you have an abscess, it is crucial to consult with a healthcare provider for proper diagnosis and treatment. Medical intervention is usually necessary for abscesses.",
+            "must_have": [
+                "Not experiencing pain does not exclude the presence of an abscess.",
+                " If you suspect you might have an abscess, you should consult your healthcare provider for diagnosis and treatment.",
+                " A common symptom of an abscess is pain.",
+                " Less commonly, an abscess can be painless due to its location, size, patient's characteristics and other causes."
+            ],
+            "nice_to_have": [
+                "An abscess is a pocket of pus that can form almost anywhere in your body including the skin, mouth and internal organs.",
+                " Abscesses usually require a medical intervention.",
+                " Pain is often the reason patients with an abscess seek medical attention."
+            ]
+        }
+    },
+    "49": {
+        "origin_prompt": "You are a leading expert in MedLFQA_KQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: Doe the buspar cause sleepiness?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. Identify the subject: The subject of the question is \"buspar,\" which is a medication known scientifically as buspirone. It is commonly prescribed for anxiety disorders.\n2. Understand the query: The user is asking whether buspirone causes sleepiness as a side effect.\n3. Research side effects: To answer this question, one must look into the known side effects of buspirone, including those that might relate to sleepiness.\n\nFinal answer: While buspirone (Buspar) is primarily used to treat anxiety and is not officially indicated for sleep disorders, some users may experience sleepiness as a side effect. However, this is not its primary action, and its relationship to sleepiness can vary among individuals. It is essential to consult a healthcare professional for personalized medical advice, as they can provide the most accurate information based on individual health history and current medications."
+        ],
+        "gold": {
+            "free_form_answer": "Buspirone, sold under the brand name Buspar, is a medication used to treat anxiety. Common side effects include hyperactivity, restlessness, nervousness, and excitability. Less commonly, it may also cause hypoactivity, such as drowsiness and fatigue.",
+            "must_have": [
+                "Buspirone (Buspar) can cause both hyperactive side effects like restlessness, nervousness, and unusual excitement, as well as hypoactive side effects like drowsiness and unusual tiredness."
+            ],
+            "nice_to_have": []
+        }
+    }
+}

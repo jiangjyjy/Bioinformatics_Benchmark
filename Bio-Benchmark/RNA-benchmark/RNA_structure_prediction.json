@@ -1,0 +1,1404 @@
+{
+    "RNA structure prediction": [
+        {
+            "no": "RNA_201",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: CGGCCCAGUGAAGCAUUUGCUUUCUCAAAAGGAAAGCGAACUUCUGGCGAAGCACUGGGUUCCGAAUAAGAUGAAUUAUUCCUAGCUAAGGAAUAGUAUGUUAAACCAUUAAAUAUAACAUUAUCUAAAAUGCAAAAGUCUUCGCCUGCUGUAUCUGAAAGUAGUCUAAUGCUCCACACACAAGGGGUGUGAAUGGAGCGUCGAUGAACUCGCAAGGUGAUUCGAUUCAGUAGCGAGUAGUGCAACCGAGUGGGUAGCUCCCAUUUAGUGAAUCGAAAGCUGCUGAGUAGGAUGCAGUAUGAACGGGUGGAACUCCUUCCACCGACUAUGGCAGUUACACGAGGGAUCGUGUGGAAACGCGACUAAGAAAUAAGGUCGUUAAAGACUGCUGCUAACGGAUGUAUUCUCAAUCU",
+            "answer": ".(((((((((((((..(((((((((.....)))))))))))))).........)))))))).....................................................................................((((((((((..............(((((((((.........)))..)))))).(((((...((.....)))..)))).....((((.......(((.....((((((.....))))))...)).........))))).....))))))))))..........(((.....))).........((((((.((((((.....)))))).....((((((.........)))))).....)))))).......(((.........))).",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_202",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: UGGGUUGUUGACUAAUAGGUAAGUCCCUGAAAUUUGACUUCAGUCUAUGUAAGUUCGAAUCUUACCAUCCCAU",
+            "answer": ".((((((..((((........)))).(((((.......))))).....(((((.......)))))))))))..",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_203",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: CCUGGUUUUUGCCAUCAGCGAGGUAUAGAGUUCCUACGUUCAUAUUAUAAACUCGUAGGAACUUCAUACCGUGCUCUUGGAAGACCAAAAGAC",
+            "answer": "...(((((...(((..((((.(((((..((((((((((...............))))))))))..))))).))))..))).))))).......",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_204",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: ACUGGAGGACUAAUCAGACUGAGUCUGAAGAGUGGGACUCAGUUGACAGUGAUCUCCUAGAAGAAAAGGGAUGGAGAGAGCAGUCCUAUGUAGAAGAAAGCAAAGGGCCCACUGUGCCAUCCAACAGUG",
+            "answer": ".((((((((.......(((.((((((........)))))).))).......)))))).)).......((((.......(((((((((...(((......))).))))))).)).....)))).......",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_205",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: GUGCAUCAGAAAGGGACGGGGUUUCCAGUUGGAUUGAUCCGUAUAAUUUUGAUGCGAAAGCAUAGAGAGGUGCAGUGUUACUCUUCAUCACGGAUUUUGUGAACGGAGAGUGUCAAGCGCUUCCCACAAUU",
+            "answer": "..(((((((((....(((((...(((....)))....)))))....))))))))).........(.(((((((..((.((((((((..((((.....))))...)))))))).)).))))))).)......",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_206",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: UGCUUUGAUGAAAACGGUAAUCUUCUUUCCCAGUCCGAUUCGACCAUGACGAUCAGGGUUUCUACCACGUCCAUCUUUCUCUGACUUGACUCUCUCUUCUCUUCGGAGGAUUGGGAGGAUAGGAUGGGAUUGUGAGGACUUUUCUUGCCAGUGUAUUACGUAUACACAACAAAGACUCUGAGCA",
+            "answer": ".((...(((.........((.(((......(((((............))))).)))))......(((...(......((((((..(((..(((((...(((....)))))....)))).)))).)))))....)).).........((..(((((.......)))))...)))...))...)).",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_207",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: AUUGCUCGAAUUUAUAGGACUUUUUUCUAUAAAGAAUAGUUUGGACUUGAAAUGUAUUUAAAAACAAGAGGUUGGUAGAUUAUCAGCCUCUUUCUUGUCGUUGAAAAAG",
+            "answer": ".....((((.....)))).((((((.......((((((((((......))))))).))).......(((((((((((...)))))))))))............))))))",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_208",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: AUACACAUGCGGUCAUGAUAAUGCAGUUAAGGAUGCAGCAGACUGAUUAAUCCAGACAUCCCGCUACAAGCGUACGCUGGUCAGGCCUGGUCCGGUAAAGGUGCUCUGAAUACCAGAGAUAUUUCUGGCGAAACCCACCUCAAGGUGGGUUUU",
+            "answer": ".....................................................................................................................................((((((....))))))....",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_209",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: UGUAAAUACGCUCCUUUGCGUGUUAUAAAGUGGACAUAGAGAAAGAUUCUUUGCGGGAUAGUUCUCUAUGUCUUUUAUUGUACCA",
+            "answer": "...((((((((((..))))))))))......(((((((((((((................)))))))))))))............",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_210",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: UAUAUAAAAUAUAAACUCACUCGUAUAUGCUCAGAAAUAUGGUCUGAGAGUCUCUACCAAGAUACCGUAAAUAUCUUGACUAUGAGUGAAAUUAUUAUACCA",
+            "answer": ".................((((((((...(((((((.......)))))))........(((((((.......)))))))..))))))))..............",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_211",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: AUGCAGUCACCGCACCUCUGUGGAUGCCGCCAUGCCAGAAGCAGUGCUGUGUAGGCAGCGCCUGUGGUGGCUUAAAUGGGUGAACGGGCCAGGGCGGUAACGCAGCAACCAUAAGCCCAGUGGCACGCAGUCUGCAGUCCCGUGCGUAGCAUUUU",
+            "answer": ".....((.(.(((((((..((((.(((.(((((((((...((((((((((....))))))).)))..))))(...)(((((.....((.....(((....))).....))....))))))))))..)))..))))))....)))))).)).....",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_212",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: AACUCGGUGUUUCUCAACACCACCUAGACAAAGAAUCGGAUGUGCU",
+            "answer": ".....((((((....)))))).........................",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_213",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: GUUGGCGAUGUCACUGACGGUUUAAGACAAGCUGUACUUGUCUGGGAAUCCGGUUAAAUUCCGGAGCUGCCCCCGCAACUGUAAUGGUCAGGACGAUGUCUGUUUGCCACUGAAAAUUAUUUUCGGGAAGGCGACAUCGAGCCGUAGCCAGAGCCAGGAGACCGGCCGUCGUGCAUCUCGCAUCA",
+            "answer": "...............((((((.(((............)))..(((...(((((.......)))))..(((....))).(((...((((......((((((.....(((.((((((.....))))))...)))))))))........))))....)))....)))))))))...............",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_214",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: GGUCGCGCUGAAGGCCUGUUUCCUAGGCUACAGACGGAGGACUAGUUCCUCAUUCUUCUGCCUAGGGGAAAGUCCCCGGACCUCCGGCAGAGAGUGCCGCGUGCACGCGCACGCAGACAUCCCUCAGCUUUCCACUGUAAGGACCGCCAAGAAGCGAAUCCCGCUGAGCGGCGUGGCGGCGUGGGGUGUCACCCGUCAGCUAAUGCUAGUUACGCAGGCAGUGCGUCUUCGCGCACCAACCACACGGGGCUCAUUCUCAGUGCGGC",
+            "answer": ".((((((((((..[[[[[[..(((((((........(((((((.)))))))........)))))))...(((.((((........((((.....))))((((((....)))))).(((...((((((....((((........((((......((((...))))...))))....)))).)))))).))).......................]]]]]].((((((....)))))).........)))))))....))))))))))",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_215",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: GGAGUGGAUCAGAUGAUCGCCGGCCUGCAGCAAGCAGACGGGAGGAAAGUCCGAGCUCCAGAGGGCAGGAUGGUCGCUAAUGACGACUGGAGGCGACUCUAAGGAAAGUGCCACAGAAAAUAUACCGCCCGACUCCGUUGGGUAAGGGUGAAAAGGCGAGGUAAGAGCUCACCGUUUUCCGGGUGACCGGAAAAGCAUGGUAAACCCCAUCCGGAGCAAGACCAAAUAGGAGAACAUUUGAGAGUGGCCCGCUCGACGUUCUCGGGUAGCGUCGCUUGAGGCAGCAGGCAACUGCUGUCCUAGAGGAAUGAUCAUCGCCAUACUCCGGGAGAUUGGAAUAUGGAACAGAACUCGGCUUAUGAUCUGCUCCGACU",
+            "answer": ".(((((((((([[[[[[[.(((((((((.....)))))))))....(((.(((((((((...[[[[.((((((((((.....)))))(((((....)))).)((...(((((.............((((((((....))))))..)).......((((((.......))))))(((((((((....)))))))).)..)))..)))))))))))))...((((......((((((.....(((((.]]]])))))..)))))).....).)))......((((((((....))))))))..........]]]]]]]..................................)))))))).)))))))))).....",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_216",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: AUAGCCUCUCCCCUCGCGCGGGGGGGGGGCCUGC",
+            "answer": "....((((((((........)).)))))).....",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_217",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: UAUCUGGUUGAAACAAGAUUUGUCGUGAGAAGUCAGCCGAAGCCAUAGUACCUGUUACUCACCAUAAUGGGGAAGGGC",
+            "answer": ".((((((((...))))))))...........(((....)))(((......((((((.........))))))....)))",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_218",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: AUCCUUAAAACAUGUUCGCUGGCGUAGCUGGCAGCAUCCCAGGCAGUCAAGGCCAUCAAGACUGCGGCGAACCUACAGUUCGCUGGCUGAUCUCAUCUCCGGACGCUCAUCGUCCAUUCCAACCCCAAGGGACCAUUCAUCCCUAUGGGGGUGA",
+            "answer": "..........(.(((..((((((...))))))).))).....((((((...........))))))(((((((.....)))))))................................(.(....((((((((..........))))))))...))",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_219",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: AGCUGUUCCCCUCUGGAGGUUUUUUGACCUUCACAAUUAUAAGGGCCCUGGUUUUCCGGUGGCCCUCUUUUUUUGCCCAA",
+            "answer": ".......((((....)))).......................(((((((((.....)))))))))...............",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_220",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: CGAGCAUCAGUGAUGAGUUAGCCAAAUCGUUAUCCUUGCACUUUGAUUUUACAGUGAAGAAAAUCAUGGGGACAGAUUUCUCUGAGAUGCUC",
+            "answer": ".(((((((.............................................................................)))))))",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_221",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: UCAAAGCGUCUUUCUGUCUCGCCCAUCCCGUUGUUCCAAUAUUCCAACAACAAGUGAUUAUUGAGCAAUGCGCAUGUGCGGGACAGACUGAUGUCUGC",
+            "answer": "........((..((((((((((((((.(((((((((.((((.((...........)).)))))))))))).).))))))))))))))..)).......",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_222",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: CGGCGGGUCUCCCCGCAUUACAGUGUGGUGAACCUGGUCAGGUCCGGAAGGAAGCAGCCACAGCCAAUUAUUGUAAGUGCCGGGGGUUAGGCUCGCCAAUUU",
+            "answer": ".(((((((((((((((.((((((..((((.....((((....(((....)))....))))..))))....)))))))...))))))...)))))))).....",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_223",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: GAGAGAGGAAGGACGAUUGCCGGGUAUUUGACCUGAGGAAAGUCUCCCCAUCAUCCAGAUACACGAACACCUGUGAAGGGUGUCGGGUGAGAACCCGGGCUCUGGCACAGAAACGAUACCACACCAUAUCAAUGCUAUGAUACCGAAAGGUUGAGGUCGUAUGGAACGUGGAUGGAACGGCGAAACCUCGUGGAUGCAAGUUGGAGUAGGGAUCAAGCAGGUUUCUGGACUGCCCCGAAUUUAUUAACGCAUAGCCGAAUAUCGUCAAUGCAAGUGUCCACAAGGACCAUUCCCAAAUCAGCCCUGCUGAUGGGAAGCUUUGCAUCAACAGAAGGGAGCUUACUCUCCUCACUC",
+            "answer": ".((.((((((([[[[[[...(((((.....)))))....(((.(((((((((.[[[[[[..((((((((((.......)))))(((((....)))))((...((((............(((((((((((............((......)).......))))))))..)))........))))..)))))))))))...((((...(((((.........]]]]]].......)))))......))))............]]]]]]...................................................................)))))))).)).))))).)).",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_224",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: AUUUAUAUAAAGAUUUACCCUUAUAUAAUAAUGGGGAUAUGGCCCAUAAGUUUCUACCUGGCUGCCGUAAAUGGCCGGACUAUAAGGGAAAGAUGAUAUGAC",
+            "answer": ".................((((((((...(((((((.......)))))))........(((((((.......)))))))..))))))))..............",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_225",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: UGAGUAAGCCGGAUAGUCGCGGGUACAGUGCCGAAAGGCCGUACACGAGGAAAGUCCGGGCUCCGCAGGGCAGGGUGCCGGGUAACUCCCGGUGAAGGCGACUUCAAGGAAAGUGCAACAGAAAUAUACCGCCUGCUGAAGAUUGAGGUCGAGUGCUUUCGGUUUUCAGCAUGGUAAGGGUGGAAAGGUGAGGUAAGAGCUCACCAGCGGUAUGGCGACUUACCGGCUAUGUAAACCCCACCCGGAGCAACACCGCAUAGAGGGACGUUAAGGUGGCCCGCCAGUCCCGGGUAGGUGGCUUGAGCUAUAUAGAAAUAUAUAGCCUAGAUAGAUGACUAUCCAAGACAGAACCCGGCUUACAGGCUUACUCAAUAU",
+            "answer": ".(((((((((([[[[[[[.(((((((((..........)))))))))....(((.(((((((((........((((((((((.....)))))(((((....)))).)((...(((((...........(((((((((((..........................)))))).)))..)).......((((((.......))))))..(((((((.....)))))).)..)))..)))))))))))))...((((......(.((((.....(((((.))))).))))).....))))......((((((((....))))))))..........]]]]]]]..........)))))))).).))))))))).....",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_226",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: GCACCAGUGGUCUAGUGGUAGAAUAGUACCCUGCCACGGUACAGACCCGGGUUCGAUUCCCGGCUGGUGCAUCU",
+            "answer": "(((((((..((((.......))))((((((.......))))))...(((((.......))))))))))))....",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_227",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: AAUAAACCUCGGUAGGUGAGGUUACUACAAGGAUACGGGUUGUUGCCGUAAAAGAAUGGAAACAUUCUUAACUGGUUAGCAGGUUUUGCCGAACAAAGAAGGCAUAAUCUAAUACAGCUUCAUUGCCUUGCAGAGCCAAAACUUGAACGAGAAAGUGUUGUU",
+            "answer": "....((((((((....((((((..((((((((......(((((((((((.....((((....))))....)))).....))((((..(((..........)))..))))....))))).......)))))))).)).....))).)))....))))))....",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_228",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: UCCACCGCGAGGUGGAAUCCAAAGGAAGCUGGAGGCAAACUUCCGGCCCAAGGAACACGAACAUCAUCAGGCAUAGGAUACGGGAUGAGUCUGCUAAACAAGACGAAGUCCAAUUAACUACACGGACGUACCAAUGUAAAUGAUGUGGGUAUAUGGAAGGAAAGUGAAUCGU",
+            "answer": ".(((((....)))))............(((((..((...(((((((((((...........(((((....(((.(((.((((((((..((((........))))...))))...............))))))).)))..).)))))))))...))))))....))..)))))",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_229",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: GAUUUGCUAGCUCAGUCGGUAGAGCACGUGACUUUUAAUCACGGUGUCCAGGGUUCGAUUCCCUGGCAGAUCACCA",
+            "answer": "(((((((..((((........))))((((((.......))))))....(((((.......))))))))))))....",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_230",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: GCCUUUUUAGCUCAGUGGUAGAGCAUUGUAUUUGUAAUGCGGUGGUCGUCGGUUCGAAUCCGACAAAAGGCU",
+            "answer": ".((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))..",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_231",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: AAGGCCGCGAGGAAUUGUCCGCAGGAAGCCCGAGCGCAAAGAUGCGAGCCGACGAACAGAAACUGCAUAGAAGGCUUAGUCCUGGGGCGAGUUGGCACUUGACAACGAAGUCCAAGGGUACACGGGAUAGGGUAAAUGCAGCGGUUGUGCAUCGACAGAUCAUGAA",
+            "answer": ".(((((....)))))............(((((...((...(((((((((((...........((((((.....(((.(((((((((((..((((........))))...)))).........))))))).)))..))))))))))).))))))....))..)))))",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_232",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: GCGAUGAGCUGAAUUGCAUAAGCCGGCAAGGCAACCUUUUUGGAAUGCACAAUGUGGAGUGCAAGCCUUAGCCGCCGCAAGAAAGAUUGGAAAAAAGCGCCCCGGACCGGGCGCUUUUU",
+            "answer": ".............(((((.....((((.((((..((.....))..((.(((......))).)).))))..)))).)))))...........(((((((((..........)))))))))",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_233",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: UGGACAUUUAUUUUCAAGCAAUUUCUUCUUACAGCGAAGAUAACAACUACUGAAUAUCCUAGAGAAAAUCAGUAGUUCUCUGUGUAUCCUAUGCAAGUAAAAUGGGUGUAUCACCCCACUACUGACAUUU",
+            "answer": ".((((((((((........(((((((((.......))))).))))....))))))))))..........((((((.............((((........))))..............))))))......",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_234",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: AAACACCACUAGGGGUGCCUCGAUCGGUUUUCUGGUCGACGGGGCUGAGAUCACACCCUCUGAACCUGACCCGGGUCAUGCCGGCGAAGGGAAGUGACCAGCGUGAUCG",
+            "answer": ".....(((((((((..(((((...................)))))..........)))).....((((..((((......))))..))))..)))))............",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_235",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: UACAGGGUACGCAACUGGCGAUAGGAGCCUGGCAUUCGCAAACUUCUGCGAGCCAACUCUGACGUGGAAAUGGGUGGGCUUGUUCCCUUCCUCAACCACUGGGGAGCGUGCACCUUGUACUGGUGUUUGGGUUCAAGGUUUCAGCCGUUCGCCUGGGCAGCCCAU",
+            "answer": "..(..(((((((...................(((............)))..............((((............................))))......))))))))............................(((((.........))))).....",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_236",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: GGCGGAUGUAGCCAAGUGG",
+            "answer": "...................",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_237",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: AUGACUAUAAGUUAAUAGGUAGACUGUUCGUCUUCCAAACGAAGUGUGUCGAUUCGAAUUCGACUAGUCAUA",
+            "answer": ".((((((..((((........)))).(((((.......)))))....(((((.......)))))))))))..",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_238",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: GCGUGUUAUUAGCUCUAUGAUUUAGUAAUGAUUUUAAUGCUACCCGGCAUGACAGAAUUGCUGUGUGUAGUCUUUGCCCAUCUUUAAGAUGGGCUUUUUUUUAU",
+            "answer": ".((((..........))))...........(.(.......))................(((...)))........(((((((.....)))))))..........",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_239",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: UUUCUCCUCUUUCUGCCUAUCUGUUGUUCAUAAUCAACUGCGUAGUUCUGGUGAAGGAGUAAAUUAAACUGCCUCGCACCGCCGUACUCAUUUUUACCUCGAGUAUGGUGGCCGUGGAAUGGUGGUUUUUUAUGCAGUCGGGAAUGAAAGCAGCUGUAAUUUCCUUGCAUAAUGAGCCUAAAUACCU",
+            "answer": ".(((((((...((...((((..((((........))))...))))....))...))))).))........(((((((.(((((((((((...........)))))))))))..))))...)))(((((.((((((((..((((((...((...))...)))))))))))))).))))).........",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_240",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: AAUCCGCGUUUUAGUUACUUAUUUUGAAAUGUAAAUCUAGAACAAAAGAAAAAUCAUGAGGGAUAUUUACGUUUUAGUUACUUAUUUUGAAAUGUAAAUGGUUUUGAAUGCUGGUGGUGAUAGUCCUAAUGAAGGUUUUAGUUACUUAUUAUGAAAUGUAAAUUUGGUUCCUUUGGAAAACAACAAUAACGUGUAGUAUUGUUUUAUUCAAUCAUUCAGAAUUGGUAAAUGCAGAAGCAGCAAAAUAACCAAAAGUAAUGACUUUCGUUUUAAUUUCUUAAGAUGAAAUAUAAAUGAAAACCUGUUAUACAUAGGAUUAUCUAUUUCCGUUAUAAUUAUUCCUUGCAA",
+            "answer": ".......(((((((.........)))))))..........................................................((((((................................((((...(.(((((...........)))))))...))).....................((((((((((.......(((((....(((((((((.........................................................)))))))))...)))))....)))))))))).............)))))).....................",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_241",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: AGCAUUUUAAGAGAGCUUUCUUCAGUCCACUCAUGGGUGGCGGUAGGAUUUAAUUAGCUGCCGACUCAUUCAUCCAAAUACUGAGUUAAAAAGUUCAGAAAACAAAAGGGGCGGGUGCUGUAGAAAAGAAGGUUUACCCAGUAAAUGAGUGAAUGAUGCGGGAGACAAAUUGAAUCUUAAGCUUCCUGUACUUGGACUGAAGGGAGCUCCCUUUACUGUUAUU",
+            "answer": "............((((((((..(((((((......(.....................((.(((...((((....(.......................................................................)....))))...))).)).....................)......)))))))..))))))))..............",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_242",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: GGAGUUAACUAGACAAUCGCUGCUUUUUUGUGUUUACAAGUGAUUAUAUAGUUGUUGUAAUUACAAAUGAAGGGGAGGAAAGUCCGGGCUCCAAAGGGCAGAGUGCCAGGUAACACCUGGGGGAUAUUAAUCUACGACAAGUGCAACAGAAAGAAAACCGCCGAUAAUUAUUUAUAAUAUGUUAUAGAAUAAUAUGGGUAAGGGUGAAAAGGCGUGGUAAGAGCACACCAUCCGAAUUGGUAACAAUUCGCGUUAUGUAAACUCCACUCGGAGCAAGGCUAAAUAGAAGUUCAACAGUAUGGUCCGUACUGAACUUGGGUAAGCUGCUGAAACUAGUGUGUGAAUGCUAGUUUAGAUGAAUGAUUGUCCGAGACAGAACCCGGCUUAUCGGUUAACUCCUUUU",
+            "answer": ".(((((((((([[[[[[[.(((((((((......................................)))))))))....(((.(((((((((...[[[[.((((((((((.....)))))(((((....)))).)((...(((((............(((((((((((......................)))))))))..)).......((((((.......)))))).(((((((((....)))))))).)..)))..)))))))))))))...((((......((((((...(((((.]]]]))))))))))).....))))......((((((((....))))))))..........]]]]]]]..........)))))))).).))))))))).....",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_243",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: CUUCCAGUCCACCAAACAUAUCACAUUUUUGGCAAAGGGAGCGAUAUUUGGGAUUGGAGCGAAUAAGUUGGCAAAAAGGAGUAAAGUUACAUAAUCUAGAAACUUCGGUACCGUGUAUAUCUACAACAACUGAGGCUAAACUGGUUGCGGCUGAGAACUCAUCCAUCACUUUUUCAAUGAGCAUUUCGUUGCUUUUGGACUGUAGUAACAUAGCUAUUCCCCUUUCGGCGAGACUUGGCGUGUUUCUGUCGUUCUUAGUAUAGCAUAUUUAUAAUGCGCUUACAUUUUCUUGCCAUGAAGAUAACAAUAUAUUGCUAAGAGUAAUUUCAUAAGAGAAUGCCCAAACCAUGCAUUACUGGAUGGCUUUUUGUCAUUAUUUUUUUUGAAGGCGCAAAAUUGUGUUAAAACACGAUUCGCGUCUUCUUUUUU",
+            "answer": "..........................(((((((((...((((((((.........((((((..(((((..((..(((((.(...(((((.....(((((...(((((((....((((....))))...))))))))))))...(((((((.(((....))).))...((...(((((.(((((......))))))))))..)).))))).)))))...).)))))..))...)))))...))))))))))))))...(((..((((.......))))...)))((((((.......)))))).........))))))))).............((((((((....(((........)))..))))))))...............((((((((..((((((((....)))))))).))))))))......",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_244",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: AAGCCCACGCUGUUCCUUGGCACUGGGAGAAUUCACAGGAGUUGUAAUUCAUACCCGUGAAUUUCCCGAUGCCUUAGCUCAGUGUGGUCA",
+            "answer": "..((((.(((((((...(((((((...((...(((((((..............)))))))..))...)))))))...)))))))))))..",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_245",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: UUCUAGGGCGGGCUAUAUGUGGGAGCUUCGGCUCGCUGGUUCCGGUGACCAGCCUACCAACCCAUAUAGUCCCGCCCUUUUU",
+            "answer": "......(((((((((((((.((.(((.....)))(((((.........))))).......)))).)))).))))))).....",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_246",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: GCCGAGAGGGCGGAGAAUACAACACCCGAAAGGGGAAUAAUCCCGGCCGUUCUUUGUUUCGGUUUACGAACCUCUUGGCGACCCUAU",
+            "answer": ".((((((((...((((........(((....)))......)))).((((..........)))).......)))))))).........",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_247",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: UCGGGGCGUUCUAUCUAAACUUCUCAAAAGGAAGCAAGGUAGAUGCGUGGUUGCGCGUCCUGAAUUAUGGCAUUGUUUUCGGGUUAAAUCCCACUUAACAAUUAAAAAAUUAAGCAAAAGACAACCACCUUUCCCGCUGACAAUAGCGUUAUCCCUCUGCACUUCGGUAAUAUGAGGGCACAGUAAAUCCCGCAAGGAUGAGAAUGUGAUGUGGAAUGAGUAAAUCUAAGGUGAGGAGGCAUCCUCUUUAGUCCGCAAGACACUUGGUUGAAAAGAAAGCAUAUAUAAGCUGGAAAGUACAUGGUAGUUAGUCUACUCGCUAUCCUAGUUACUUUGGAGUAAUCUAAAGUGUGUGUAAACGGGCGAAAGUCUGUAAAAUACUGGGGACAUAGGGUCAACACUCAGCCU",
+            "answer": ".((((((((((...(((((.(((.......)))).))))).))...........)))))))...................................................................((((((((((..............((((((.(.(....))...).)))))(((((...((((.....))))....)))))..((((.........((((.((((((.......))))))..((((.....))))...)))..........)))))....)))))))))).........((.......))......((((((.((((((.........)))))).......((((((....)))))).....)))))).......(((.........))).",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_248",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: UCUGAUCCAUGAUGACUUCCAAACACAUGUGGACUGUUGGAUGAAGCAUGCGGAUAUGGGACUGAGAUCAGAC",
+            "answer": ".((((..............................................................))))..",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_249",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: UCCAGGCUCAGGACAGCCACUGCCCACCGCACACUGCGUUGCUCCGGACCCACUGUGCGUGUGACAGCGGCUGAUCUGUCCCUGGGCAGCGCGAAC",
+            "answer": "....((((((((..((((((((.(((.((((((.((..............)).)))))))).).))))))))..))))))))..............",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_250",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: CGGCGGCCUCGUGCAGCACAAGCUCAGGCUGUGGUUUCAAGCUGGAGGGUGCUUUCGGGACUUCGGUGGGAAGCACCGCCAGGCUUGACCCACACAGCUUGGGACCAGUCAUCCGGGACUGCC",
+            "answer": "......(((((((...((....(((((((((((((((((((((.((.((.(((((((..........))))))).)))..).)))))))).))))))))))))..))....))))))))....",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_251",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: CAGAAAAUAGUUUAGUGAGAAUGAUAGCUUUGGGAGCUGUUGGUGUAAGUAUAAAGUCUUGCUUUUCUGA",
+            "answer": ".((((((..((((.....)))).(((((.......)))))....(((((........)))))))))))..",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_252",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: GGCCCAUUAGCUCAGUUGGUUAGAGCGUCGUGCUAAUAACGCGAAGGUCGCAGGUUCGAAACCUGCAUGGGCCAUUU",
+            "answer": "(((((((..((((.........))))((((((.......))))))....(((((.......))))))))))))....",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_253",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: GGGAAACGGCGACCGGGCUUGGGACAAGAGCCAUCCCAAGUCCAAGGCCAGAUAGGCUCA",
+            "answer": ".............(((((((((((...[[[[[.)))))))))))..........]]]]].",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_254",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: ACCGCACAUCCAGAGUUGGGGCGACGCCCAACGCCAACCUGCCGUUCCGGGCAAGGUGGUACUCCCCGAAAGGGAGGAUGUUGCCGAACCGGCAAUUAUACGGAUGAAG",
+            "answer": ".....(((((....((((((......))))))(((..(((((([[[[[[))).))).)))................))))).((((...)))).......]]]]]]...",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_255",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: UUUGUUUGGAGAGUUUGAUCCUGGCUCAGGACGAACGCUGGCGGCGUGCUUAACACAUGCAAGUCGAACGGAAAGGUCUCUAAAAAAUCUUUUUUAGAGAUACUCGAGUGGCGAACGGGUGAGUAACACGUGGGUAAUCUGCCCUGCACUUCAGGGAUAAGCUUGGGAAACUGGGUCUAAUACCGGAUAGGACUUCAAGGCGCAUGUCUUGUGGUGGAAAGCUUUUUGCGGUGCAGGAUGGGCCCGCGGCCUAUCAGCUUGUUGGUGGGGUGACGGCCUACCAAGGCGACGACGGGUAGCCGGCCUGAGAGGGUGUACGGCCACACUGGGACUGAGAUACGGCCCAGACUCCUACGGGAGGCAGCAGUGGGGAAUAUUGCACAAUGGGCGCAAGCCUGAUGCAGCGACGCCGCGUGGGGGAUGACGGCUUUCGGGUUGUAAACCUCUUUCACCAUCGACGAAGGUCUGGGUUUUCUCGGAUUGACGGUAGGUGGAGAAGAAGCACCGGCCAACUACGUGCCAGCAGCCGCGGUAAUACGUAGGGUGCGAGCGUUGUCCGGAAUUACUGGGCGUAAAGAGCUCGUAGGUGGUUUGUCGCGUUGUUCGUGAAAUCUCACGGCUUAACUGUGAGCGUGCGGGCGAUACGGGCAGACUGGAGUACGUGAC",
+            "answer": "..........(((((.......))))).((((.((((((.(((((((((....(((.(((..(((..(((((..((((((((((((....))))))))))).))).))))))......(((......((((((((..((...(((((((.((.((....(((((((....))))))).....)))).....((((((((((....)))))))))).....((.....)).)))))))..))))))))))(((..(.(((..((((((((.......))))))))))).....))))..((((((((....))))...))))))).((((((..........)))))).((((....))))...)))))).).....(.(((...(((((....))))).)))).)).))))))..((((......((((....)))).....)))).[.(((((((...(.....(((((....))))).....)....))))))..])..((((([[[...(((((.....((.]]])).......)))))))))).))))))))))...............................(((((((.(((((((((((....(((((((.....)))))))..)))))))))..))))))))).............",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_256",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: GUAUCCCCGCAACUCCAUUCAGUUCGAAAUUGAACUGUCAUUCAACCCCAAAAAUCUAGUAAAAAAUAUUGCCGAAACUUUCAGGCAUUAAGGAAAGUAAAGCGGGAUCAGAUACUCCGACUUGUGAUACACUAUUUAUCACAUGGGAGAUCUAUUUUUAUUU",
+            "answer": ".....(((((.........(((.((.....).).)))......................................((((((((........))))))))..)))))..(((((.(((...(((.(((((.......))))).))).)))))))).........",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_257",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: AACAAGCCGGGAUAGCUCAGUUGGUAGAGCAGAGGACUUG",
+            "answer": "..............((((........))))..........",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_258",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: AGAAACUUAGGAUUAACUGUCACCAAACCAAAGGCCUUCAAAGCCUUAAAUAAGAGUUAAACUCUCUUAGUUUCUG",
+            "answer": ".((((((..((((............)))).(((((.......)))))....(((((.......)))))))))))..",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_259",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: AGAAAUUUUAUAUACCGAGCUUGUACGCCUAAGUUUUUAAAUUUAUUUGAAAAUAAGGCGGCAAUGCCAGCAAUGAAUUUUAUUGCUCAGGGAUAAUGUGGGAAACGACUUAUCCUCUCAUCUUCAGAAAGGUAUCAAAUGCAAUCUAUU",
+            "answer": "..((.(....((((((..(((((((((((...((((..............))))..))))))))))).(((((.........)))))..((((((.(((((....)))))))))))((.......))...))))))....).))......",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_260",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: GGGCCCCGGCUGGCCGCUGACGGGCCGUUCAGGCCCGAGGAAACUCCGCCCUCCCCGCGGCACCGGGGCCCCGAGAGGGGGCGCGGGUAACACCCGCGGCAACGGCACAGAAACGGCACGCCCACCCGCGGGAGGACGAUGAGGCGGCGAGGGCUCCCCGGCGACGGGGAGCCAGUAACCCGCUGAGGACCCGGGUGGGUGCGUUGAAACGGCCGUCCCCCGGGGAGCAAGGCGGCGCGCCGAUGAGGGCCGCGCGAUUGGCGCGCCGGCGUCCGCUUAGUCGGAUGCGGCCGUAGGUACAGAAGGCGGGUUAUAGCCGGGGCCC",
+            "answer": ".((.((((((([[[[[[...(((((.......)))))....(((.(((((((((.[[[[[[.((((((((((.....)))))(((((.....)))))((...((((............(((((((((((...........((...........((..(((....)))..)))).................))))))))..)))........)))).)))))))))))...((....(((((.........]]]]]]...)))))......))..............]]]]]]............))))))))..))))))).)).",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_261",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: UUGUCUAGCAGAUCAGCUUUUUGUUUGUGUUAUGUUCAUACUAAAAUGUAAGACGAACAAAAAGUUUGUCUGUUGGAUG",
+            "answer": "....(((((.(((((((((((.((.((..((((((..........))))))..)).)).))))))))))).)))))...",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_262",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: UCUAUCGUGAGGUAGUGGCUGAAGGAAGCGUGUAGCGAAACUUUGAACCUAUGGACAAGAACUUGAUAAGAAGGCUAUGAGGUGGACAAGGUAGCAAUUGAUACUGAAAUCCAAAGGUAAACGUAAAACCGAAGUAGUAAAUCAAGAGGUAAUGAAGUGAAAGAUUAGAAU",
+            "answer": ".(((((....))))).............((((..((...(((((((((((...........((((((......(((.((.(((((((..((((........))))...))))..............).)))....)))..))))))))))).))))))....))..)))))",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_263",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: UGACUGUGUGGGUUCCUGGCAUGCUGAUUUGUGACAUGAGAUAAAAAUCACAUUGCCAGGGAUUACCACGUAGCC",
+            "answer": "..........(((((((((......(((((..............)))))......)))))))))...........",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_264",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: AGUUGGUCUGGGGUUGUGGGUUAUUGUUAAAUUGUUUAACACUGUUUCCCCCCAUACCCAUGCUUGACUAACGUGGGGAAAU",
+            "answer": ".(((((((.((.((((((((....(((.((.....)).))).........))))))...))..)))))))))..........",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_265",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: GGAGGGAUCCCUUAGUGGCCAAAGGAUCAGACUGUAAAUCUGACGUCAUAGACUUCGAAGGUUCGAAUCCUUCUCCCUCCA",
+            "answer": ".((((((..((((........)))).(((((.......))))).............(((((.......)))))))))))..",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_266",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: CGAGCAAAUGAGGCUUCCUCCUCUGUGGCGGGUUUCCCGCCGGAGGGAGCCGAUGUCCGAAAAUUUUAAAAGGCUAUCCCAAAAGUAGGGUUAGGC",
+            "answer": "...(.......((((((((((.....((((((...)))))))))))))))).....).......................................",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_267",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: UCCCAGUGUACGUCUAGCAAGGAGGCUGCGCCCCAGAGAGUCCGGGGAGCGCCGCCGGCUGGUGCCCGGCGCGCCAGGCCAUGCAACGGCGGCAGCGGCGGAGCUCAGAACGGCGGUAGCGCCCCCUGUGAGGCGGCCAGAGAUGCCCCGGCCGCUGUAAACGGUGCCGCCCGCCAGGACACGCUCAGCCCUGGACACGCUCUGCUCUGCGCGCCCGCGACGAGCACCGAGUAGAGAGAGCGGCGAGCGCUGUGAAGGCUACCUAGCCCUGGGAGAGGAGGCCAGCCGGUGCAGCGCAGGGACACUACUCAGUCUGACUCCGGCUGGCACUG",
+            "answer": "..(((((.............(((.((((.....))))...))).(((((.(((...(.((((..(((((((.((((.((......))..))))))))).))....)))).).(((((.(.((((...(((.((((...)))).))).).)))))))))....(((((.((.(((.((....(((((.((....(((...)))...((((...((.........)).)))).).)))))..))))).))))))))..)))))))).....)))))..........(..((((((((....((((........)))).......))).))))))",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_268",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: AGGAAAAACAAAUAAAUCCCACAUAUAUGCUAGAGGAUUGGCUCUAGUGUCUCUACCCGGCACCGUAAAUGCUGGACUAUGCGGGAAAGCACUUUUGGC",
+            "answer": ".................((((((((...(((((((......))))))).........(((((........)))))..))))))))..............",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_269",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: UGCCUGAUGACCAUAGCGAGUUGGUACCACCCCUUCCCAUCCCGAACAGGACCGUGAAACGACUUUGCGCCGAUGAUAGUGCUGCAACCAGUGUGAAAGUAGGUCAUCGUCAGGC",
+            "answer": ".(((((((((.....((((((((....(((((((.............))))..)))...)))))).)).(((((((..((((((....))))))..)))))))...)))))))))",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_270",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: UUUGGCGUUGACGUAGCGGCCUUCGGCGUCGCCGAACUCUGCGAGCACCCGGGCGCCGAGGACCAGUCCCAGCCCCGGCUGC",
+            "answer": ".......((((((....((..((((((...))))))))))))))..........(((.(((((........))))))))...",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_271",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: UUUCGUGUUGAAGGCCCUGUUUCCUAGGCUACAGACGGAGGACUUGUUCCUGGAACCGCCUAGGGGAAAGUCCCCGGACCUCGGGCAGAGAGUGCCACGCGCGAACGUGCGCGGGCCGACCCGCCGCUCACGGUCCUCCGCCAAGAGGCGAGCCUGCGGGCGAGCUGAGCGGCGUGGCGGCGGGCGGCCCUCCGUCAGCGGAGCGAGUGACGCAGGCAGCGCGCUGCACGCGCGCCAACCACACGGGGCUCAUUCUCAGCACGGC",
+            "answer": ".((((((((((..[[[.[[[..(((((((........(.(((((.))))))......)))))))...(((.((((........((((.....))))((((((....)))))).(((...((((((((((........((((..................(()..)...)))).)))).)))))).))).......................]]]]]].((((((.....)))))).........)))))))....))))))))))",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_272",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: UUUUAACCCCGGUUGUAGCGGAAAUCCUUUGCUUUUUUUCUUUAGAAAAGCAAAGAUUGAAGUGCAAAACGGGAAUAUGG",
+            "answer": "........(((.((...((...((((..((((((((.........)))))))).))))...))...)).)))........",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_273",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: UAAUUUGUUUAGGGCAGAUUCUUAUUUAGUUAUGAUAGACACACAUGGAUACUUAGGAUCACUUGUUAUCACAAGUCUUUCUAGAUCAUUGACAUUGAAAAAUAGAUAACAACUACUGUGUGAAUAAAAAAAAU",
+            "answer": "...((((((..(.((..((...(...(((((............................................................................)))))..)))..)).)..)).))))..",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_274",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: GUGCGGACGGGCUGCGUGGGCGGGUCGGUCCGUCCUGGCACAUCUAACCCUAAAUGCGCGCUGGUUGAAGUGGCUUCUCCUGGGCGAUCGCUCGCUGUUUUUGUGGCUGGCUUUCAGCGGGCUGGAGGAGCCGGGAGCGGAGGCGGAGGACCGAGCCAAAAACGUCAGCCGAGGCCGGGCGGCCCCGCUCGUGGCCCGUCCGCACUGUCCGGGCCAGGCCCCGGCCCGAACCCCCUGGAGACAACUCCCGCAGGGUCUGCGCUGCGCCGCGGAGCCCCGGCUGCCCACGUAGAGGCGGCGGCCGUCUCGGGGCCCCUGCGUGCGGGGCGCCCACUGCGGCCGCCAAGAGCUCGUCUCUGUCAGCCUCGGGUGCACGUGGGCCCGCGGUCGAGCCCUAAGGCCGGGCGUGGGGCUGGGGUCGCAGGGAGAGUAACCGUGAGCCGGCGCCCAGCCUUCAGGGCGCUCCCUCGAGCUAUGGGAGCUGCCCCCGGGCACGGCUCGGACACCC",
+            "answer": "......................((((..((((((((.........................................(((........(((((((((........[[[[[[[[[)))))))))...)))))............................]]].]]]]]]..))))))))).)......((((((...........................................................(((((((((..............(((...((((..........(((((((((...(((..................)))...))))))))).((((.....))))..........)))......)))...........))))..)))))................)))))))............((((((.(.(((........(((((.((((.........))))..)))))..)))).))))))........",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_275",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: GGCCUUGGGGUGUCAACACGUGGGGUUGCAAACCCCAAGAUGCAGUAUAAUACCUGCCGGGGCUU",
+            "answer": ".((((((..((((..)))).(((((.......)))))....(((((......)))))))))))..",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_276",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: UUUUAAUGAUGAUAAAAUUUGUCAAAUGCAAGUAGGGACAUGAGAAUAUAAAUAUGUUCGUUAUUGUUAUCUGAAAAAA",
+            "answer": ".(((.......................................................................))).",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_277",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: AAGCCCCCGAAUCUCUAUUCACAAUCUUGGCGGAUGGGUUUAGAGAGAAUCAGGGGCUCAAAUACUGGCUGCUGCCAGCAAGGAUUAUAACGCAUGUACAAUCCAAAUCAAGCCUUCCGACCCGCCAU",
+            "answer": ".((((((((((.((((.(((.((...[[[[.[[.)))))....)))).))))))))))..........................................................]]]].]].....",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_278",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: GGACAGAGUAGGUAAACGUGCGUAAAGUGCCUGAGGGACGGGGAGUUGUCCUCAGGACGAACACCGAAAGGUGGCGGUACGUUUACCGCAUCUCGCUGUUC",
+            "answer": ".........((((((((((((((..((.(((((((((.(.[[[[.)..))))))))).)).(((((..)))))))).)))))))))))..]]]].......",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_279",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: UGUAAUAAAGUUGCCAUCGCUUAUCUCCUUCGUUAAAGAACAUGAAGGGUAGUGUAAGACUAUUAAUGCUUUGAAUAUAGAGGAGAAAAAAGGAAUUUUAGAAGUGGCACCAGAUUGAAUAAAUCUGGUGCGUCCGAGUGGACUCGAACCACCGACCCCCACCA",
+            "answer": ".......................(((...((((.....))))...)))......................(((..........))).......................................((((((...((.((((.......)))))).))))))...",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_280",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: GAUAACCGAAGAUCACACCCGGAUCAAGGGUGGGGUUGGUGAUCAGGCGCACGUCGCCACCGCCAGGUGCCCAGGUGUCGUAGACACCGCCGAAGAACAUCGCCUUGAACACCAGCAGCAGGCAACCCACACCCAGAAGGAUGAGGUGAUAGCCGAUGAUGUUGGUCAUCUGGUUCUUGUCGCGCCA",
+            "answer": "................................................................................................................................................((((((..(((((................)))))))))))...",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_281",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: AAACUAGAUGAACUCCGAGCGGUUUUGCCUAAGUCCUCAUGAUAGGGGGAAACCGCCGUCAGCCGAUGUUCGAGCUGUAAGGGUCAGGAAAGAAAUGCCCUGGCCUCCCGUAUUUGGAAAGGUGUUUAUGUCGCCACUGC",
+            "answer": "..((.(....((((((..(((((((((((...((((...))))..)))))))))))..(((((..........)))))..(((((((((((....)))))))))))((.......))...))))))....).))......",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_282",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: CAACUAAAUCCACCCUUGCGGGUGGGUGAAAUAUUGCUUCGCAAUAUGAAAUACGCUUUCAGCGUAUGAAAUCGCUG",
+            "answer": ".......((((((((....))))))))...((((((.....))))))...(((((((...)))))))..........",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_283",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: AAGCUAUGAAGAUUUUAUAGUUCAGCUUACCCCAGCGGAUUGAUGAUAAAUUUCGCCCCUAUCUGAGCUUU",
+            "answer": ".((................................................................))..",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_284",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: GUAUACGGCCAUACUAGGUUGGAAACACAUCAUCCCGUUCGAUCUGAUAAGUAAAUCGACCUCAGGCCUUCCAAGUACUCUGGUUGGAGACAACAGGGGAACAUAGGGUGCUGUAUACU",
+            "answer": "(((((((((....((((((((....(((((((............))))..)))...)))))).)).(((((......(((((.(((....)))))))).....))))).))))))))).",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_285",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: AGUACACUAUUAGUAGAGAAUAUGUUUGCGAGCCCCCUCGGGGGUCUCAUCGCCCUCGUUGCCGCCCCUCCUGGUGACGGGGGCUUUUUU",
+            "answer": ".............................(((((((.....)))))))...((((((((((((.........))))))))))))......",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_286",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: UUGCAAUGAUGUGAACUUCUUACUGAAUUAAACCUUGAAGUGCAAACACAUGAGCUUUUUAACCCUGAGCAAU",
+            "answer": ".(((................................................................)))..",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_287",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: AUCUUAAGAAUUUCUUUUGAUAUUCAAUGUGCGACAGGAAGAAUAAGGCGUAGUCGUCAUCCGUUGCUAAUGCCCCACCUUUUUGCUAUUCAUCUGAAAAACCAGCACAAUCGUUGCUGGUUUUUUGGUUGU",
+            "answer": ".......((((.((....)).)))).....((((.(((........((((....)))).......((....))....)))..)))).......((((((((((((((.......))))))))))))))....",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_288",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: CCACCAUCCAGAGUGGCUGAGAGACCUGGCUCGAUGAUGCCGCAGCAACCCGCUUCGUUUGCGCAGUGUGGGUGCUACCGCCAGGACCGAUGGAGG",
+            "answer": ".(((((((......(((...(((......)))......)))..(((.((((((............)))..))))))............))))))).",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_289",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: UUGAAUAGUCAUCUCCGAGCCGGUGCUCCUAAGGGCUGUCGCCUAUGGAACACCGGCCUGGGUUUCGUACCCAUGGGGUAGGUCGGGAAACGGGCCUGCCUCCCUUUGCUCGGAAAGGAGAUUCCCCAUGGCUUCU",
+            "answer": "..((.(....((((((..(((((((((((...((((....))))..))))))))))).(((((.....)))))..(((((((((((....)))))))))))((........))...))))))....).))......",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_290",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: UACCGCCGCUGAGAAGCGACGGAAUAGGGCGGCAGAAGUCAGCAGAUGCCGUAGUAGCCGUACCGGACGGCGAAGGGC",
+            "answer": ".(((((((((....))))))))..)............(((....))).((......(((((......))))....)))",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_291",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: CAUCGCUCUCCAGCUCCAUGCUAGACGUACAUUCAGUCAGUGUGGCGUUACAAUGAGCGGAAAUUGUCACUGUUCCUAAAAACAAUUGCUAGUCUCUGUAUGAGCUAAUGAUCACCUGGUGGUUCAGACAUUU",
+            "answer": "..((((((...(((.((((((...((.........))..)))))).))).....))))))........................((((.(((.(((.....)))))).)))).....................",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_292",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: GUGCGUGUUGCAGUUUCGGUUUGUGACCGACACUAACGGGUAGUUAAAGGGCAUCCUCGCAUUCUGCUGGCUUACUCGUUUUUGCGAUCACAAAUUCUGAAAUUGCAACGA",
+            "answer": ".....((((((((((((((.((((((.((.((..(((((((((((((.................))...)))))))))))..)))).))))))...)))))))))))))).",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_293",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: GCUGGCAAGGAUGAUAAAUACUUGCCCUCACUUAGAUAAUAGUUCAUUGAUGAGAGCAUUGUUCUGAGCCAGU",
+            "answer": ".(((((.............................................................))))).",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_294",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: GGAGAUUACGAUGAGGAUGUACAGCUCCCUCUUCUGAUUAAGCUGAAGAGAAUUGCUGGCAGAAUCGAACCUAAAUCACUAGCCACUACUGAGUU",
+            "answer": ".....(.((...................................................................................)))",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_295",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: CGGGAUAUAGCGCAGUCUGGUAGCGCUUCUGUUUUGGGAAUAGAAAGUCACAGGUUCGAAUCCUGUUAUCCCGA",
+            "answer": "(((((((..((((.........))))((((((.......))))))....(((((.......)))))))))))).",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_296",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: AGUUGGUUAUUUAUGCUACCGAAGACUCAGGUGCCAAUAGGCUUAAUAUCCUGCCGAGGAAGAUACGUUGAAAUCCCUCUCUAUGUCUUGGUGGACAUGGAGUUUUUUAUUUUAUAA",
+            "answer": "............................(((((((....)))......))))..........................((((((((((....))))))))))...............",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_297",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: AGAAAUAUGUCUGACAAAAGAGUUACAUUGAUAGUGUAAAUAAUAGAGGUUCAAACCCUCUUAUUUCUACCA",
+            "answer": "(((((((..(((......))).(((((.......))))).....(((((.......))))))))))))....",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_298",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: GGGUCGAUGCCCGAGCGGUUAAUGGGGACGGACUGUAAAUUCGUUGGCAAUAUGUCUACGCUGGUUCAAAUCCAGCUCGGCCCA",
+            "answer": ".((((((..((((.........)))).(((((.......)))))...............(((((.......)))))))))))..",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_299",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: AGGGUUUGAGUAUUACAUCAGGUACUGGUUCGGUUUUGAAAAACCGGUCCCUGAGUAACACUUACAUUCU",
+            "answer": ".(((((..(((((.((((.((((((((((((........)).)))))))))))))).)))))..))))).",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_300",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: CCUUCAUUGGUUUACCUCAAACCUGUUGUGAUGUAAGUUAAUGAAGCCUUAACCACGCUGUUUGCUGAGCUUGACUCCGGGCAGUGUGGCUAUUUU",
+            "answer": ".((((((((((((((((((.........))))))))))))))))))....((((((((((((((..(((.....))))))))))))))))).....",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_301",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: GGGCCGGUAGUCUAGCGGAAGGAUGCCCGCCUCGCGCGCGGGAGAUCCCGGGUUCGAAUCCCGGCCGGUCCACCA",
+            "answer": "(((((((..((((.......))))((((((.......))))))....(((((.......))))))))))))....",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_302",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: UAGAAAAUAGUUUAACCAGUAAAACUAAGAAAUUUGAAUUCUUUAAUACAAGUGCAACCCUUGUUUUUCUAA",
+            "answer": ".((((((..((((........)))).(((((.......)))))....(((((.......)))))))))))..",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_303",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: UGGGGUGUAGCCAAGUGGUAAGGUAACAGGUUUUGACCCUGUAAUGCGAGGGUUCAAAUCCUUCCACCUCAG",
+            "answer": "(((((((..((((.......))))((((((.......))))))....(((((.......)))))))))))).",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_304",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: CCUUGGUGCACAUACUUCUUUAUGUACCCAUAUGAACAUAUGAUAGCUAUGGAAUGUAAAGAAGUAUGUAUUCCUGGU",
+            "answer": ".......((((((((((((((((((.((.(((...............))))).)))))))))))))))))).......",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_305",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: UAGGGUCCUGAGACUUCACUGACUGCCCAGGGUAACAUCGCUGCCGAUGCACCUGGUGGCAUGAACUCAAAUGAUAGUCAUGAAGUCUCUCAGCUAAACG",
+            "answer": ".........((((((((......................(((((((.......))))))).....................))))))))...........",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_306",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: CAGCUAUGACGAGUUCUUGACGACAUGACGUCAUCACUGACAAUUAAAGAUAGUUCCCUUCGUUCGGGUUGACUAUCGUCGGAGAUGUGGACGAGCGCCUAAUCUUCUCUCUGAGCUGU",
+            "answer": ".(((..............................................................................................................)))..",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_307",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: CGUCCUCGGCCGUGUUCGAUAGCGGAUUCUUACAUUUGCCCUGACCCUAAUUAACGACCCCGGGCUCGUUACUCCUUGUUGGUGUGCAUGUCCGCCCCGGUUGCGGAAAGCCCGAUGCGAGGUUCGCUGGCCCACCUGAUCCUUGGGAUCAAGGUCGUUUGGUCCGCAACGGCACGGCGGAGGACUC",
+            "answer": ".((((((((((((((.(((.................((((.((((((..............(((.(((((...(((((((.....((...(((((.......)))))..))....)))))))..))))).)))............)))))).))))............)))))))))))))))))..",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_308",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: AUCCCGCGGGCAAUCUAAAACUAUACAGGAGGAUAAGCGUAUG",
+            "answer": ".........(((((.(((((((....)))).)))...))))).",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_309",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: AAACAAGAUUUAUCGUGAGGAAGUCAGCAGAGGCCAUCGUACUGGACGGGUUAUAGACCGUCCAGGAAGGGC",
+            "answer": ".(.(....))............(((....)))(((......((((((............))))))....)))",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_310",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: GUGGGCGUCGUAUAGUGGUUAUUAUACGUGCUUGCCAAGCAUGAGACGGGGGUUCGAUUCCCCUCGCCCGCU",
+            "answer": "(((((((..((((........))))((((((.......))))))...(((((.......)))))))))))).",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_311",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: AUUCCCUAACGAUUGCGAACACCUGAAUGAAGCAGAAGGCUUCAUUUGGUGACCCCGACGUGAUAGUUAGGGAAU",
+            "answer": "..((((((((................(((((((.....)))))))....................))))))))..",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_312",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: UUUUAUAAGGUAUGCAGGCAAAAACUCUGUAAUUUGGUCAGAUCAGAAAUGAAGCAGCCAUAUCAGAACCUUUUUGGGCUGCAUACCCAUUUCUUAUUUGU",
+            "answer": "....(...(((((((((.(((((..((((.....((((....(((....)))....))))...))))....)))))..)))))))))...)..........",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_313",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: UGUAGCCAAUGAUGAUACAAGUUAUCCCUGUCUGAACUGAAGUGUGGAGUUGUGGUAACCUGAGGCUCAG",
+            "answer": ".((((((........................................................)))))).",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_314",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: CAUAUCGUGCAAAAAAAAGGUGCGUAAUAUUUACAUUGCGUUAAAUGGGAAGUCUGGUGUGAAGCCAGCGCGUACCCGCCACUGUGAAGAGGAGCUGAUUGCAUUUGCCACUGUAUUCGGGAAGGCGCAAUCAAGUGAUGAAUCGAAGUCAGGAAACCAGCCUUUUUCUAAUGCUAAGCU",
+            "answer": "...............((((((.(((............))).....(((...(.((((.......)))))..(((...)))...(...(((......((((((....(((.(((((.))))...)))))))))...........))....)))....)))))))))...............",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_315",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: CGUGGUGUACCCGAGAGGCCAGGGAGCUGCCUGCAAAGCAGCGCACGCGGGUUCGAAUCCCGCCACCACGU",
+            "answer": "(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_316",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: GCUCAGCUGAUCUGUGGCUUAGGUAGUUUCAUGUUGUUGGGAUUGAGUUUUGAACUCGGCAACAAGAAACUGCCUGAGUUACAUCAGUCGGU",
+            "answer": "....(.(((....(((((...((((((((..((((((((((.............))))))))))..))))))))...)))))..))))....",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_317",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: CCCCGUGGUGUAGUUGGUUAACACACCCGCCUGUCACGUGGGAGAUCGCGGGUUCGAGUCCCGUCGGGGCCGCCACG",
+            "answer": "(((((..((((.........))))((((((.......))))))....(((((.......))))))))))........",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_318",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: CAAUGGUUGAAAUAUGAUGAGUAUGCAAAAUGUUGAUUUUUAAAAAAUGAAAGACAAUAAGAUCCAACUCUGAUUUCAUCCAGAG",
+            "answer": "...(((.........................................................................)))...",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_319",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: AAAACAUUAAACAACCAUGCGUUCCACUGGCGUCACUAGUACGUACUACUAUCGUUCUGGUUUGAUGUCAAUUUUUUAUGGUGGUUUUUUUAGCGAUGCAUGGGAGAUAAAUGGUUUAAGAUGUAUCUCCAGCUAUUGAAGUGAGGGAAAGCCUUUUUCUUUCCCCCAGCCAAAAUCUGAUAUAGUUGGUCAUGUUUCUUGCGACAAAU",
+            "answer": "..............((((((((.(((.(((((((((((....((........))...))))..)))).))))).).((((((......))).)))))))))))................((.......((((((((.....((((.(((((.......))))).)))).............)))))))).......))...........",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_320",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: UUGACUAUGUGAUCUUGCUUUCGUAAUAAAAUUCUGUACAUAAAAGUCGAAAGUAUUGCUAUAGUUAAGGUUGCGCUUGCCUAUUUAGGCAUACUUCUCAGGAUGGCGCGUUGCAGUCCAACAAGAUCCAGGGACUGUACAGAAUUUUCCUAUACCUCGAGUCGGGUUUGGAAUCUAAGGUUGACUCGCUGUAAAUAAU",
+            "answer": ".((((((((......((((((((.........[[[[[[[.......).)))))))....))))))))......[[[..((((....)))).......((.(((((.]]]((((.....))))....))).)))).].]]]]]]....(((...((((.[[[[[))))...))).........]]]]]............",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_321",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: GCGUGCUAGUGAUGAUUAAAGAAGUAGCAAAAAUGGUGAAUCCUGGAUGAAUGUGCUCGCGUGCCGCUGUGUGCGCGCGCGGCCGGAGAUUUUUUCUCUCUCUCUCUGUUCUUCUGUGAGUUCUUC",
+            "answer": ".((((((................................................................................................................)))))).",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_322",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: CUGGGGGGGCAGCGGUUAAGACUUGUAGUGAUGUUUAGCUCAUCUCCACGUGAACAUCACUGCAAGUCUGUGCUGCUUCUCCCCUCCUC",
+            "answer": ".......((((((((...(((((((..((((((((((.............))))))))))..)))))))...)))))))).........",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_323",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: GUGAUACGGUCAUACCACCAGGAAAACAGGCGAUCCCAUCUGAACUCGCAACUUAAGCCUGGUUGGGCAGGAUUAGUACUGGGCUGAGUGAUCUCCUGGGAAUCCCCUGUGCUGUAUCGC",
+            "answer": "(.((((((((....((((((((....(((((((............))))..)))...)))))).)).(((((......(((((.(((....)))))))).....))))).)))))))).)",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_324",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: CCCUGUAUUCGAAAGUGAUCAUGGGCUACCCGUGCCCUGGUCAUUGAUAGUGCAGGGAGAGGAAUUGCUGAAAGCAUUUCCCCGUGUUUGGAGGGUCUGCAUUUGUCCCUUUCAAACUCUGGAGCUUUUGUACA",
+            "answer": ".((((((((....((((((((.((((.......))))))))))))...))))))))..........(.(((((((..........((((((((((...........))))).)))))......))))))))...",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_325",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: AAUUGAUUUUAGUACUUUUAAGGAUAUGGAAGUCUGGUGUAAAUCCAGCGCGGUCCCGCCACUGUGAUAAGCUUUUCAGCUUUAAGUCAGGUCUUUAUUCUUAAAUUUUAGUAGAUUUCAUGCCUCGAUGUAAGGUAGUGAUGUCAGUU",
+            "answer": ".............((((((((((((......(.((((.......)))))..(((...))).(((...(.(((..(..)))).)....)))......))))))))))))....((((((.((((((.......))))).).))))))...",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_326",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: AAAGUUCCAAAGGGAUCGCAUUGAUCUAAUGUCGUUGGGUACCUAAAUGAGUUAAUUAUAAAUCUAUAAUCCAAUUCAUUGGAUCAUGCGAUCCCUUAGGAAGUCUCC",
+            "answer": "..((((((((((((((.((((.(((((...(.................................................))))))))).)))))))))))))).)..",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_327",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: GACUCGACUCCGUAGCCUGGAGGAACGUGAACGGGUUGGGUCGCGGUGUACCCCGGUUCGAGACUUGUACUCGAGCCGGCCGGAGCCGCGGCUAACGUGGUAUUGGCACUCCCGUCUCGACCCAGCCUACAAAAAUCCAGGAUACGGAAUCGAGUCGUU",
+            "answer": ".(((((((((((((..((((((..........((((..(((((((((((..((.((((..............).)))))...)))))))))))...((((...........))))....))))...........))))))..)))))))))))))....",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_328",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: CGAGACGGCCGGGCGAUCGCGGCGCACGGAACCACCCUGUACACGGGGCAGGCCGGGCGCGGAGGAAAGUCCGGACUCCACAGGGCAACGGUGGUUGCUAACAGCAACCCGGGGCGACCCGCGGGAACAGUGCCACAGAAAACAAACCGCCCGCCACGCGCGGGUAAGGGUGAAAAGGUGCGGUAAGAGCGCACCAGCACCCCAGGCGACUGGGGUGGCUAGGUAAACCCCACCGGGAGCAAGGUCAAGGUGCCCGCACGCACGCCAUCCCAGAUGGUGCACCAGCGUGCGGCGUAGCUCUAGGGCUGCCCGCCCAACAAUGAGCAGGUAGGCCGCUUGAAGCCACCAGCAAUGGUGGGCUCAGAUGGAUGAUCGCCUCGUCCCACGCCUUCUUCGCGUGCCCCUCGCGGGCGCUGCGGAAAUGGACGGGGGAUAGGACAGAAUCCGGCUCAUAGGCCGUCUCGGCGC",
+            "answer": ".(((((((((([[[[[[[.(((((((((.........................)))))))))....(((.(((((((((...[[[[..((((((((((.....)))))(((((....)))).)((....(((((.............((((((((....))))))..)).......((((((.......)))))).(((((((((....)))))))).)..)))..)))))))))))))...((((.....((((((............................................(((((.]]]])))))...)))))).....))))......((((((((....))))))))..........]]]]]]]..................................................................)))))))).).))))))))).....",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_329",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: UAAUUGUGAAUUGAGUGAAUUUGAUUUUGUGACCGUUAUUACGGUCAUUUUCCAUUUAUUCAUAUUUUGACCGUAAUUCCGACCACAACAUCUUAUUCGCUCGCAAUUUUU",
+            "answer": "............((((((.((((((.((((((.((..((((((((((....................))))))))))..)).)))))).)))))).)))))).........",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_330",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: UACAGAACACGUCUCCGAGUCUUAAGCCUAAAAGGAUGGACCUCAUGGCUGACGGGCCGGCAGGGUUUCGCUGGAAACGGCGGAGCCUCCCUUUCGGAAAGGAGAUAUUUGCAUUUUGAG",
+            "answer": "..((.(....((((((..((((((((((...((((.....))))..)))))).)))).....(((((((((((....)))))))))))((.....))...))))))....).))......",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_331",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: AAGCGACCAAUUCGAAGCGCCGGAACACGGGGUAGGAAUCCGGCCGCGUAGGACACGCGUAAGACGGAGUCAGACGCCCCCUGGAGUCGCACCGGGCCUGCCCAUAUUG",
+            "answer": "..(((((............((((....(......)....))))..((((.....(((.......)))......))))........)))))...(((....)))......",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_332",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: CUUCAUGGCAGCCGUGUUCGGGCAGACCUCUGGUCUGGCCGGGUUUCAUGUCCUCGGUUUCUCACCCCGUACACGGUUGCCACCCAA",
+            "answer": ".....((((((((((((((((((((((.....)))))(((((...........))))).......))))))))))))))))).....",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_333",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: CAGGGAAAAAACUUUCUCACCGAAACCAUUCCUUGUUUGGUAACAGCUUUCUAUAAAUCUAAAGAAUUA",
+            "answer": ".(((((.......................)))))...................................",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_334",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: ACUCAACACUAUAUUCUUUAAGAGGGAUGAGUCUGAGUUGUAAAAGCGCGCCGUCUUUGAACGGAUUCUUGAUCAGCUCGUUAGUCCUAUGAUUUAUUUUAAGGAGUUU",
+            "answer": ".......................(((((......(((((....(((....((((......))))...)))....)))))....))))).....................",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_335",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: GGGGAUGAUGAGUUUUUCCCUCACUCUGAUUAGUGAUGAGGAGCCGAUGCACUGACCU",
+            "answer": ".((....................................................)).",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_336",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: AAUAACUGAUUUAACGAGUGAGUGGAAUGAAAGCCUUCAUGUUGAGCUGAAACACUCCCAAUAAUACUCCUACAUGCAGAGGAAGUUGAUAGACCACACUGUAUGAAGCUAGGUGAAGACGCAUGAAGAAAGCCUAAGUAUAUGACAACAUGUAUAUGGCAAUUGAUAAUGCGGUUGGCUAUAAA",
+            "answer": ".................(.(((((......((((..........).)))...)))))).........((((((((((.(.....((...........)).)))))....))))))...((((((...((((((....((.....))..((((()))))))))))....))))))...........",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_337",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: CGUACUCAAACAGGACGGACAGGAUGGUGGCACCGGGGUUGGUAACCACGCGCACUUCACCAAUGGUGGAGUCGUAGACCCCAUGGAACCGCAGCCAGAUGACAAACAGCAGGGCUGCGUAACCUAAGGUGAGGAGGUGGUGACCGAGGAUGUUCCCCAGUUUGGCCGCGUCAUCCCA",
+            "answer": ".......................................................................................................................................((((((..(((((................)))))))))))...",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_338",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: UGGUGCCCACUGUGUGGGGCCUGUAUACAGGGGCUUUAUCUUGAGGAAGAAGACUCAGGUGGCUGGCUUUGUAUACAGAAAUUCCUUUGAAUGUCGAGGGAGCCUGCCGUGGCUGAAACGAAGGGGAGUGAUAGAAUCUGAAUAUGGGACAAGCAUUAAGCUAACAUGAGGUCUUUGUGAAACAAUUAAAAGAGGCAUUAAAGGUUCGAGGAGUAAAGGUAAAAACCAACGAUCUGUUUACAUUUUUUGAUUUUGUUAAGGAUCUUUGUCCUU",
+            "answer": ".....(((...(((...........)))..))).....((((.......)))).............................(((((....(..(((((.......)))))..)..)...)).))......((((.((((....))))))))....((((((...............................))).)))......((((((((..((((((.......))))))......))))))))........((((((....))))))",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_339",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: CUAGCUUUUAUGAUAAGUGACGCAGUAUCCUAGUCAGAUAAACCUUUUUGAAGGCGGGCCUAAAAAUCCGUCAAGGGCACAUCGAUGAAGUUCCUGGUGCUGGCUAUCGACGCCCAGUCGGGGGCUGGUACUGGGAGUUAAGGGGGUGGGGCGACCUGCAAUGGCAUGUGGGCGUUGACCCCGCCCCCGUGGAGACCCAAGUGCGUGGGCAGCCAUGCCGGCUUUACCGGGUGGUCAACUAUGGCUUGGGAUUAAACCUGCAUGUGGUUAAAAGCUGCGUGCAGCGUAGCCUGCCUUGAGUGGUAUGGGUGGAUAUCGGUAUUACAUACGCGUCCGCCAUGGGCCCGUGGACGGCCGUGUGGUGAUUGAAACCUAUACUGCAAAAGAGGCUAGAAAAGGUGUAAUCUGUCGAGGAAAACUCCUAGGCUGUCUGGGGUACCAGGGCGGGCCGGGGAUUAAAGUGUGGACUAAGUGGUAAUCUAGCCCCGGUGCGGCAACGAUCGGAGACAGCUUUAAAGGGAAACCGCCGGUUUGGCGACAGCCGGUAGCUGUUUGGGAAAACCUGCUAGACCUAAGCCACAAUAUUUACCCGGUCCGCUGUCACUUAUCUAAUAAUACCG",
+            "answer": "....................................................((((((........))))))..................(((((.(((((((((((((((.....))))))))))))))).)))))....(((((.((((....(((((......))))).......)))).)))))........((((.((.(((((((((....................))))))))))..))))).......(((((((((((((.)))))))))))))........(((((..((((((((((.....((((........((((((((((.(((......))))).)))))))))..))).....))))))))))....)))))....................(((.....))).........((((....))))(((((((((((........(((((............((((((.((((((.(....)).))))((((((((.............(((((((.....)).))))))))))))))..........))))))......))))).......))))))))))).....................",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_340",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: GCUUAUUCUCAGGGCGGGGUGUAAUUCCCCACCGGCGGUAAACCAGUGAACGUAUGAACGAAUAAGGUUCUGCGCACUGGAAGCCCGCGAGCGCUCAGGCUGUGUUUUCCGAUAUCAAUUGUCGGUUUUCGCAACAUGAGGUCAGCAGACCCGGUGUAAUUCCGGGGCCGACGGUUAAAGUCCGGAUGGGAGAGAGUAACG",
+            "answer": "..((((((((......(((.......))).....((((..............................................)))).............................................................(((((.......))))).....(((.......))).......))))))))..",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_341",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: UUUUAGAAGCUGAAGCUGCCAGCAUGAUCUGGUAAUCGCUACAUACGACAUACACACAUCACUAAACUUCUUUAUAAUUUAUGCACACACAUACAGCUCUUAAUGGCCACAACUCAAAGUUAUAAUUAGUGCAUGAUCUCUAGUUAUUUGACUGCUUUUAAUAUAUGUUUAUGGAUUCACGCAUGUGUGUGUAUGUACAUAAUUUACAUGCAUGCACUUUGUGUAUGGUACACAUCAAUUUGAACCCGUUCAAAAUUCUGUUUUUAUUAGUAUAUAUAUAGAUGUAUGUGGUGUGUGUGUCAGUGUGUGUGUGUGUUUAUAGAUAGUAGUACUAGGUCAUCCUGCAGCUUCAGUCACUAAAUCA",
+            "answer": ".(.(((..(.(((.(((((..((((((((((.............................................................................................................................................................................................................................................................................................................)))))))))).))))).))).)..))).)...",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_342",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: GCCGCGGUAGCUCAGUCGGUAGAGCGUUCGCCUGAAGAGCGAAGCGUCGAAGGUUCGAUCCCUUCCUGCGGCACCA",
+            "answer": "(((((((..((((........))))((((((.......))))))....(((((.......))))))))))))....",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_343",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: UCCAUCGCGAGGUGGAAUCUGAAGGAAGCCGCAGGCAAAGCGCUGGCUCGACGAAUAGGAACCGCAUAUGAGGCGGUCAUGCCGGAUGAGAGGGCCAAUAUCUUCAAAGUCCGAUACCUGUACGGAAGGCGUGGGCGUAAAUGCGGCGGGCAUAAGCGUGAAGGUGGGUGCG",
+            "answer": ".(((((....)))))............(((((..((...(((((((((((...........((((((.....(((.(.((((.((((..((((........))))...))))................)))))).)))..)))))))))))...)))))....))..)))))",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_344",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: UUCAAAAGGAAUCGCCAUCCGUCAACGAGGGUUCGUCCACGGAUGCUUUUGUU",
+            "answer": "...............(((((((..((((....))))..)))))))........",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_345",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: UUACACUUCAAAACAAACAAAUGAACACAAUUUUAAAUCAUACUUGGUGGUGGAACUUCAAGAUUUCAAUCUUCGUGAAGUAAACCCUUAGUAUAUUUAAUUUAAAAUAUUUAAAAAAGGCUUGUC",
+            "answer": "...................................(((.(((.(.((((....((.((((.(((....))).)...))).))..)))).))))).)).............................",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_346",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: UUUACUCAUACACCACAGCAAUACACGUUGAGAAUAUCUCAAUACUGGUCCUAAAAAUUGUCAUGGUGUCGCCGAUGAAUACGACAAAUAUGAAGUACUGGUCAUGGAUCGGAGCGUUUUCGCUGUCAUUCCUUUUCUGGGCUGAAUUAAUCUGGUACGUCUCUCGCUAAUUCUUCCAAAAUACUGCCGCCCGAUGGUGUAUCAACCAUCGGGCUUACUCCUGACA",
+            "answer": ".........(((((...((........(((((.....))))).................))...)))))...............................(((..(.(((((((.........))))))).).......)))(((.((.....)).)))...................((........(((((((((........)))))))))))..........",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_347",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: AUUAUAGUUAAAGCGCCCGAACUUGAGUGAUAUAGUUCAUUUAAGUUGACGAGGAUGGGGAGAAUCGAAUCUUCGGCGGAUGCCCCACGGUACCGCACUACCGUUAGCGGUUGGUAAAAGCAGAAAGUGAUUUCUGUCACAAAGCCAAUCUGGUGUUAAAA",
+            "answer": "...................((((((((.(........).))))))))........(((((....((((....))))......)))))(((((.....).)))).....(((((......(((((((....))))))).........)))))..........",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_348",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: AUUGGAUCAAUGAUUUAAGUUAAUUAAACUGCGUUAUCUAUCUGCAAUUCUCCUCUUUCUAGGAGUUUGAAGAAAACCAUAAAAACCUGAGAUCCAGU",
+            "answer": ".((((((....................................................................................)))))).",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_349",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: CAUGAUCGGACCUUCGGAUAUUCAGAUCAUCCUCGGGAAGGUGCGCCCACUUUCACGCCCCCACACCGAGGCU",
+            "answer": "..((((((((..........))).))))).......(((((((....)))))))...................",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_350",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: AGUUGCUCAUUCACCUCUUUAUGAUAGUCCCGCUGUUAAGCGGAAUAUGCGCUUCAUAAGCCACCGAAUGAUGCCUAAGACUGGUGCCUAUCGUCCACCUAAACCGAUAUUGUGUGAAUGCACAUUAUCAAACAUCGGACGACACGUUGAGUGAGGCACCGCCUA",
+            "answer": "....((((((((......((((((.(((......................)))))))))......)))))).))........(((((((..(((((........((((((..............))))))......))))).(((.....)))))))))).....",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_351",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: GUGCUGAGUGGGUAUUUAUAUUCAAUACAGAUGAUAGACAAAGUAAAGAACCUUGCAUAUUUAUGACGAUGAGGCCGGAGUCUUCUUGUCAGAUAAAACGUUAGAUGCCAUUAAUGAAUUGAGAACUAUUCUAUUAUU",
+            "answer": ".((((((((..(((((((...)))))))..))).))).))(((........)))((((.((((((((((.(((((....))))).)))))..))))))))).((((((((((....))).)))))))...........",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_352",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: UCCUAAUGAAGAAAACCAGCACCUGUCUUACUCCUUGUCCUGGCCCCAGAGCCUGCAAAGGCGAACCCACUGGGGUCGGCUGGGGGAGAAGAUGAUAAUCUGUUCCAGCGGGAACAGUCUGAGGGAC",
+            "answer": ".(((......................................................................................................................)))..",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_353",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: GGGGCUGUAGCUCAGUUGGUUAGAGCACGCCGCUCAUAACGGUGUGGUCGUAGGUUCAAGUCCUACCAGCCCCACCA",
+            "answer": "(((((((..((((.........))))((((((.......))))))....(((((.......))))))))))))....",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_354",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: GUGCCCUUUUACGGUUGUCAUGGUACUUUAAGAGGCUAACACAAAAGGGUAAAAGAACUCUCCAUAAAACCUAGAGAGGAAAACUACACCUCCUCUUUGGAUCCUGUCUGGAGUCAUCAAU",
+            "answer": ".(((((((((...((((.(.(..........)..).))))..)))))))))......(.(((((......(((((((.(((.((...))))).)))))))........))))).)......",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_355",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: GUCAACCACCCCACCCUAAAGGAUGGGGCUUGAAAGGUGAAAGCCUUGAAAGCCCAGGUUGACCAGACCCAGAAAGGAAUUUAAAAAACCAAUCUACGUUGCCUACAGGUUAUCGGACCAACGGCAGGAUGCUUCUCCAGUCCUGCCCUCUUGA",
+            "answer": ".((((((..(((..((....))...)))(((..................)))....))))))........(((((...............))))).......................(((.((((((((.........))))))))...)).)",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_356",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: CCAAUCCCAUCCGGCACAGCGGGUCCGCAGCCGGAACCGAGUGUUGCGCGUGCCGCGGGUAACUGCGGGCGUCAAGCGUACACAGGGAGCAUGCAGGCCGCGUGAUUGAGCCUCGAAAGCGUCACUGCGUGGGAGCCGACGCCGUCGGAACAGGCGGAAGGCCGUGCUGCCGUGCCGAGAGGACCGGGCACGGCGGUCCCACCGGGGUCUGAGAGCG",
+            "answer": ".........(((((...(((......))).)))))..(..((((((((((..((((((....)))))).)))...))).)))).).....................(..((((((.............(((((.(((..((((.........))))...)))....((((((((((..........)))))))))).)))))))))))...).....",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_357",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: AUGGCCUCUUCGAAGAUCCGUAAACUUUGCAUAUUUGUGGUGGUUUAUGGAUUCAAAGCGAGGCCUAAAUUGACGAUCAUGUCUUUAUUCUUUUUAAGAGAGGGCAUAUCAUUGAAAUUUCUAAUUUCCAAAGGGAAAAAAAAACUAAAGCUGUGCUAUUUCAUGCGCUCCUUUUUUUGUUCAAUGACACAUUU",
+            "answer": "..((((((.......((((((((((((((((....))))).))))))))))).......)))))).............((((((((.............))))))))...((((((................(..((((((......(((..((((.........)))).)))))))))).)))))).......",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_358",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: CUUUUUCGAACACACACGGAUCUGUGUCCAGCGAUCCUGAGCGUGGAGGCUUGUCUUCUGCGUCUCGGUUGAUUACUGGACAGUUCGACGACUUAAGGAGCCAUCACAUUCAUGGAUGGUCGAUUAUUUCCGGUCGACAGAUCUCAGAUUAAAGGUCGACAUUGGGUGUUCGCUCUGGUCUUGAGCUCCCUUCCUUUCGGGGUUGGUGAGCUCGGCUGGAGAGCCUGGUGCUCGGCGGCGUCAUAUUCCUACUCCCUUUACCGAUUUGGCCGUCGGCCCAUGAGGUUAGGGAAAAACCAUGGCCAGCCAACAUAC",
+            "answer": ".................((((((((((((((.(((((((((((((((((....)))))).)).)))))..)))).)))))).......(((((..(((.(((...............)))..)))......)))))))))))))..........(((...((((((..........((((..((((((((..............)).))))))))))......)))))))))....((((((((........(((((..(((.....((((...)))).....))).)))))......)))))..))).......",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_359",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: AUAUUAAAAGUUUAAGUCACUUAUAGUUUCCUACUGCGAAAACAUAUAAUUUUUAGUUCCCACCCAUACUAAAAUUGUGUCCUUAGCUCUCUAUUAAUUUGGCUAUAGGUGGCUUAAUCUU",
+            "answer": ".......(((.(((((((((((((((((......((......))(((..(..(((((..........))))).)..))).....................))))))))))))))))).)))",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_360",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: GAGAACUGAUAUUCCAAAGAGUGGAAUGAGGGGGUAACGCCCCAAAACGCUCUCCUUAAUACUCCUACAUGCUGUGCAACUGCUGAAAUGCACAGUAUGAAGCUAGGUGAAGUCGGCAGAGAGAUACCGUAAGGCAUGAAAAUGCCACGAAAGCUGUCCAGCGGUGGGCGGUGUAUCCUAUAUGCCGGAGGUCUAUAAA",
+            "answer": ".................((((((......(((((.....)))))...)))))).........((((((((((.((((...........)..)).)))))....))))))...((((((...(((((((((...((........)).)))...((((((((....))))))))))))))....))))))...........",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_361",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: UAUGAUUGGGGAACAGCUCCUAUGCGGCUUAACCCACCCAGCAUUGGGUGCAGCCUGGUACCAGACAGCCCCACCCUGACCUAGAGCAAAUGCUUGGGGCGCUCCCCUGGGCUUAGAACUUGCACUAACAGGUGUGAACAUUCUAGUAGUAGUUUGAUGAUCAUAUAUGCUACUGCAAACAGGA",
+            "answer": "..((((.(((....((((((((.(((((((.(((............))).)))))....)))))).))))...))).))))...........((((((((..))))).))).......(((((((((.((....(((.((((..(((....))).)))).)))....)).))))))))).....",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_362",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: ACCCGUUGUUUGUAGAUGUUAUGGGGUUUGGCCGAGCUUAGCGUUGUUCAUUUUUUUACACAAUAGGCCUGUAAAAAAUUGAACACGCGUUCCUGAACACCCUUCGACGCGAGGUUUUUUUCGGCUUUUCGCCUGGCGAAAAUGCCCUGAAAACGGCCUCAACGCCCCACAAGAGGGCGU",
+            "answer": "......................((((((.....(.(....((((.(((...((((((((...........))))))))...))))))).).)...))).)))...........................................................((((.(.......).))))",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_363",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: AUAAUCUAAAAUAUCAUUCAAAUCAAACCUGGGAACGAUUGAGAGAAGAUUAGCAUGGCCUCUGCACAAGGAUGACACGCAUAAAUCGAGAAAUGUUCCAAAUAAAG",
+            "answer": ".((((.......))))...........................................................................................",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_364",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: AUCGUUCAUCUUCGCUAGAGCGCACCUGAAAACUUGGGUGAGCAGCGAAGACGGAAGUAGGGCAGUUGUCCCGAAGGAACGCGCC",
+            "answer": "..(((((.(((((((.............................))))))).........((........))....)))))....",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_365",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: GAACGCGCUGGGAAUACCAGGUG",
+            "answer": ".......................",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_366",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: GAAAGUUGAGUGGUAUUUCCUUCUUCAAAAGAGAAGCUAGCCACCUCAGAGCUCAACUUUCAUGACUCUCACUAUGUUGAUUUAUUUAUGAAAAAAUAAACUACAGAAAGGAAAAGUCUCUGAGCGGUUAAACUGAAAGUCACCUAAUUCCUUGAGUAGAAAUACUAACGAGGAAAUUGAUAGGACCCCAAGUCCUUCAGUUUUAACUAAGAAAGUCCUAGUACCUGGGCACGGGUUUAGGGAGUCCGCAAGAUUCCAUAGAGAUUAGUAGUAGUUGAGUAGGGUUAACCGAAACGAGUGAUUGACGUAAACAAUCGGUGAUGACUUGAUACAGAUGGCAACAUUUGUGGAUACGGAAGGAAACCUUAGUACGGUAUAAUCUUCACAAAAGACAGGUCAGUUAAACGAGUAAUCUCAUCGU",
+            "answer": ".(((((((((((((..(((((((((.....))))))))))))))........))))))))................................................................((((((((((..............(((((((((......)))..))))))(((((...((((.....))))..)))))..(((((........((((.((((......))))....(((.((.....)).)))))))..........))))).....))))))))))........((((((.....))))))......(((.(((((((((((....)))))))).....((((((...((.......)).....))))).).....))).))).......(((.........))).",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_367",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: GGAAUGUUCUUUUUUAUUUUAUUCCUUUCAUCAUCUCAAACAUAACCUCUCAUCCAGGAAUUUUGCCAAGAUUUAAUAAAUCAAUUGUCUUGCUUAACCCUUAUAUAAAAAGCAAAUCUUUUUUAAUUAGACACAAAUAAUAUCGGCACAACAGGUUGCUAUAAAAUUAAUGCAUAAAUUUUAUCCUUGAAAACCAUUGCUAUG",
+            "answer": ".((............(((.(((....)))..)))...((((((.............((......((((((((((...))))))..)))).........((....((((((((......))))))))..))............)).(((........)))..........))))))........))...................",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_368",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: CGAGUUUUUCAUGCUUGUCUCUCGGGGCUACAAACGAGUUCCUGGUAACUCUAUGCAUCGUGCCCUGGGUAAAGUCCCCGGGUCUAGGAUAGAAAGUAUCAAGGUGUAAAAUGUGCGUUUUUGUGCGCAUUCGCCUAUAUUUCGCGGAAUCUCGCCAGGCGUAGUGAUGAAGAAGGAUUCGAAAGGAUCCUGAAUCCUUGCCGUCCGGUUGUCUGCGGAAAUCUGCCAGAGUUCUUCACCUCAGAUAUGGACGAGUUGGUAGGACCUUUCCCCUCUAACUCCUCGGAGUGGGGGGAAGGAUACCGCCUACACGGAAUGGGGCUUACAUUGAGAAAUUU",
+            "answer": ".((((((((((..[[[[[[..(((((((.......(((((((..)))))))..........)))))))...(((.((((........((((.....))))...............................(((.........)))..(((...((((((((((((((......((((........))))...)))))))).)))))).)))...............................]]]]]].((((((..............................................)))))).........)))))))....))))))))))",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_369",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: GGCGGCAUAGCCAAGCGGUAAGGCAGAGGUCUGCAAAACCUCCAUUCUCCAGUUCAAAUCUGGAUGCCGCCUCCA",
+            "answer": "(((((((..((((.......))))((((((.......))))))....(((((.......))))))))))))....",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_370",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: UACGUUGAUAGUCUGUUGACUACGCAAGUAAGCCAGAAGGGCUGAAGCAACGGGAA",
+            "answer": "..(((((..((((.....))))........((((.....))))....)))))....",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_371",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: GCUAAAAGGAACGAUCGUUGUGAUAUGAGUUGUUCCCAACAUAUCACAGUGAUUUUCCUUUAUAUCGC",
+            "answer": ".((((((((((.(((((((((((((((............)))))))))))))))))))))).)))...",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_372",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: GACCGGGAGCGUGGCGUCUCCUGUAACGCGGCUACUCGUGGGUCGGAUUACGGACUGAUUUGAGGGCGGGAGUCCUGUGUGCUGGACCAGGCCAUGUUGACGGGGCGUCCGCACUAAGCUGGCCGUCAAUAUGGGUGUCACGGAGGAGUCCGAGACAUUCAGGUUGGCUAAGGAGAGACACACCGAGCGAGGGGUGACAACCAGCAGCUAAGAGUCUCCGCGGCAAGCAGUAGUGGGAUCGCGUCCCGGAGUGGACUGCCAGUGCCAGCCCGACCAACACAGUCACACUGUAAUCUUUUUUUU",
+            "answer": "(((((((((........)))))....(((........)))))))(((((((((..(((((...((.((((....(((.((((((...(((.((((.(...((((((((((.(((((.(((.(((((((((.((((((((.((((....)))).)))))))).)))).(...)..(((((......(((....(((....)))....)))....))))).))))).)))..)))))))...))))))))).)))).))).))))))))))))).)).....)))))..))))))))).......",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_373",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: UGUAGCCAAAAAUGACAGCUGGACUGGUUGUUGGAUUAGUAAUCACGCGAACAUCACCGCCGCCUGGUGCCCAUGUGUCAUAAACGCCACCCAAGUAACGAGCUUUGAGAACCAACAGCAAAGCACCAAGUCCAAGAAGCACAAGGUGAAUUCCUAAAAUGGUAGUCAUUUUGUUCUUAUCUUUCCA",
+            "answer": "................................................................................................................................................((((((..(((((................)))))))))))...",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_374",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: CUAUUUAUGAUGAUUUCCCUUAAUUUUACCAUCUUUCGGGUCUGAAUUAAGAUGUGUUGAUAUUAUGGGAUAUACUGAAAUAG",
+            "answer": ".((((.........................................................................)))).",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_375",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: GUAAUUAAUUGCAUGGAUGCAAUUAAAGGCGUGACUUCGCCAUGGACGGCGAAUACACGGCGGUUACGUUCAUAU",
+            "answer": ".((..(((((((......)))))))..(((((((....(((......)))....)))))))...)).........",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_376",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: UGGGAGGCUGAUACACAAAUUGGGCUGAAGUACUGCUCUAAUUGUCACUAUACCUCCCUAGAAUAAUACACUGCCUUUUGAUGACCGGGACGAAUUGAGAGAAAUCGUAACGGACAGAUACGGGGCAGACAGUU",
+            "answer": ".((((((.......((((...((((.........))))...)))).......))))))............(((((((.......(((..((((...........))))..)))........)))))))......",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_377",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: GUCUAUGGCCAUACCACCCUGAACACACCCGACCUUAUCUGAUCUUGGAAGCUCGACAGGGUCAGGCCUGAUUAAUACUUGGAUGGGAAA",
+            "answer": ".............((((((((....(((((((............))))..)))...)))))).)).........................",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_378",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: ACUAGUUUGGUAGUACUUUAUAUCUAUCAAUACUUCUUGGGAAGCCUCCGCCAUACGGCAGGAGGCAUUUUUU",
+            "answer": "...((((((((((..........))))))).))).........(((((((((....))).)))))).......",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_379",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: UCGGACACUCUUUCGCUCAGCUUUCGACAUGAUUCUAAACAAUACGUCGAGACAAUGUUGUUGAGAUCAUUAGUUGAAAGCCGAACGAUUUUGAGAUAUCCA",
+            "answer": "..(((..(((..(((.((.((((((((((((((.((.(((((((...........))))))).)))))))..))))))))).)).)))....)))...))).",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_380",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: AGUUGCGGAGAAACUAUCAUUGGUAGUUUUUUGUAGCUGUUCCCCUCUGGAGGUUUGACGACCUUCACACUUGAAGCAUCCGUUCGCGGGUGCUUUUU",
+            "answer": ".((((....((((...............)))).))))..........(((((((......)))))))........((((((.....))))))......",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_381",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: CAACAACCGUUGGGGUGCCCGAUUCAGGGCUGAGAGGCGCACUGUGCCGACCCAUGGAACCUGAUCCGGGCAAUACCGGCGUAGGGAACGGUCAUCGUGGCAAU",
+            "answer": ".....(((((((((..(((((....))))).....((((((.))))))..)))).....((((..((((......))))..))))..)))))............",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_382",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: CUUCACCGACCCCAACCACAACGGACGACCCUCCGGCCGGUCCUGGCCGUACGUCGCCAGCAAUGCCUGAGCCUC",
+            "answer": ".............((((.....))))....(((....((...(((.(((....))).)))...))...)))....",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_383",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: AUCAGAAACUCCUCAUAUACAAAUUUCUGAUCACUAAACACUCCGAUUCUUAAGAAUUGGGUGUUUUUUUAAUGCAAUUA",
+            "answer": ".(((((((...............))))))).....((((((.(((............)))))))))..............",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_384",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: GCAUCCGUAGCUCAGCUGGAUAGAGUACUCGGCUACGAACCGAGCGGUCGGAGGUUCGAAUCCUCCCGGAUGCACCA",
+            "answer": "(((((((..((((.........)))).(((((.......))))).....(((((.......))))))))))))....",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_385",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: GGGGGCGACAUGGCUUCGACGUGGAUCGCGAAACCUGAGGUGCAUGCCGAGGUGCAGAUGACCUCGUAAAUCCAUCUGCAAACCAAAUAAACGCCAACGACGACGUUUACGCACUGGCCGCUUAAGCCGGCCGGCCUCUGAUCAGCAGCUCGCUUACAAGCGGCUGGUUGGGGGUAACCCAAUUGUAAGCUCGCGCUGAAGUCUGUCCGGGGCCGAAGCGCUAAAACCCAACGGAAUCGCCGUCCGUCUUCCCUGCCACUCGGGUAGCGUCCGGCUAAAUCAAUAGAGUGGAUACGCAUGUAGAACCGAUGGCAGAGGAUUUGCGGACGCGGGUUCAAUUCCCGCCGCCUCCACCA",
+            "answer": "(((((((............((((((((.......(((.(((.((((([[[[[.((((((..]]]]].......))))))..................................(((((((.......)))))))((((.(.......(.(((([[[[[[)))).)..).)))).........]]]]]]..(.(((((...((((.[[[[))))...))))).)........]]]]...((((.......(((...[[[[[[))).......))))..........]]]]]]....)))))....)))..))).....))))))))...(((((.......))))))))))))....",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_386",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: UUAAAACUGGGAGUGGGUUGUUCCCACUCACUCCACCCAUGCGGUGUUGUACUCUGUUAUUACGGUAACUUUGUACGCCAGUUUUUCCC",
+            "answer": ".(((((((.(((((((((.......)))))))))(((.....)))((.((((...((((......))))...)))))).)))))))...",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_387",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: GGGGAUGUUCUGGAUUCGACAGGUAUAGUUUGAGUUCGGAUUGCGCUUCGUAGGUUGUGUCUACGUAAAAACGCUCAGUUUAAAUUAUAACUGCAAAAAAUAAUAACAAUUCUUACGCUUUAGCUGCCUAAUAAGCGCUUAACGUAGAUCCUCCCAGGAUCGUCCAUGUUCUGGAUCUGGGUCCUAAAUUUAGUGGACUUACGCUCAAAGCUUCCACCUGGAGUUGCGAGAAGAGACUAAUCAGGUUAGUCAUUGCUGGGUGCCCUGUCAUACGGCGUUUGCAAUGAUGAAAUUUAAAUAGUAUGAAUAUGAGCGUAGAUAUCCGAGGGGCAAUAUGCUUGGACGCGAGUUCGACUCUCGCCAUCUCCAUUA",
+            "answer": "(((((((............((((((((.......(((((((..((((((((((...[[[[))))).....]]]]...........................................(.((((.(((.......))).)))).)..(((((..(((((((.[[[[[[)))))))....))))).........]]]]]].....(((..((((...[[[[[[))))..)))..........]]]]]]..(((((...(((.((((...[[[[[[))))).))..)))))............]]]]]]....))))).....)))))))......))))))))...(((((.......))))))))))))....",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_388",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: UUGGAUAGAAAUCGAUCAGUCCCCCGCCGCAACGGUGGGGGGAGAAACCGCGACGCCGGCAGCGGUUUCGUCGGCAGCCAAGGCCGCCAGGUCUCGCCAUGAGGCCAAUGGGACAUAACAGUCAAC",
+            "answer": "...................(((((((((.....)))))))))..(((((((..........)))))))....((((((....)))))).((((((.....))))))....................",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_389",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: CCUGCAAUUCCGUUUGCAGUAGUCUGAGGGUACGUGCAUAAUGAGUAAUCAUUUUGUGCGAAGCUGCCCUGACAAAGUACCCUUUCCGAAAGGAAUAGACCAAAGCGUGAGCCGAGGUCAAUAGCGGAUAACAUCGUUCUGCCGAGGGG",
+            "answer": ".((((((......))))))........(((((((((((((((((....))))))))))))....)))))............((((((....))))))((((...((....))...))))....((((((.......)))))).......",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_390",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: AGAAUAACUAGAAAAGGGCGACCACAUGGUCGCCCUUAUACGUAGCACGGAUAUUACAAUUUUGGUUUGGCCGCCGAUCAGUAAUAUCUUGGCUUUUAUUGGCGUUACGCAUAGCUGGCUGUUAGCUUAGUUCCUUACGAUUCAAUCACUAACAGUUUUUGUAACCAUAACCUGAGUUUAGACUCAGGUUUUUUUAU",
+            "answer": "...............((((((((....)))))))).......(((...(((((((((....(((((......)))))...))))))))).)...)).......((((((.......(((((((((.......................)))))))))..))))))...(((((((((....))))))))).......",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_391",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: CAGAUGCUGGUUUCACAUGGUGGUUUAGAUGUGUUCUACCAAAGUCUAGCACCAUUUGAAAUCAGUGUUCU",
+            "answer": ".(((..((((((((...(((((....((((.............))))..)))))...))))))))..))).",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_392",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: UGGCGAUGAUAGAAAUCUUGUGCAACGGCCGAGGCGAUCGGAUUGCGACGUCGCCUGAGAAGGCGGGACCCAACGUCGCGCCUUUCGCCAGACGAUGGAUACUCUUGCACAGUGUCUGAGCUCC",
+            "answer": ".(((...................................................................................................................)))..",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_393",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: AGUGCCGUCAGGUAAAGUGACGAUGGUGUGUCCCAUCCGCGCCACUGGUUCAGGCGGCACGAGA",
+            "answer": ".(((((........((((((((....(.......)....))))))))........)))))....",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_394",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: ACCCUUACCCCAUGAUUGCUGACGUUGUCAGCGACAUGCCGGGCAACCAUUGGUCUUUAAGGUUGCGGCGCGACACCUGCCGCGUGACCACACCAGUUCGCACCGCAUCCACGCGCGAACGACUGCCAGUUUUUUCUGGUGGUGAUGC",
+            "answer": "..........(((((..((((((...))))))).))))....((((((............))))))(.(((((......)))))).............................(((....((((((((......))))))))..)))",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_395",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: UUGCGUUAAGGAUGGAAGUGGAAAUCCUUUUUAGGCGCCAUUUUUAGGCGUCUAAAAAGAUUGAGAGCGUACAGCCUGACCUUGU",
+            "answer": "........(((.((...((...((((..((((((((.............)))))))).))))....))...)).)))........",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_396",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: UACCGCAAACCAGCACGGGCGUCGAGGCAACUCUACGCCCGUGCACGCAUGUUAAGGGUUACAGAAAUAAU",
+            "answer": "..(((....)))(((((((((.((((....)))).)))))))))...........................",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_397",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: CGGGGUGUAGCUCAGUAUGGUUAGAGUACUUGGUUUGGGACCAAGGGGCCGAAGGUUCGAGUCCUUUCACCCCGACCA",
+            "answer": "(((((((..((((..........))))((((((.......))))))....(((((.......))))))))))))....",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_398",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: GAUCAAACUUAAGGACGUGGUGGCCUGUCAGUAACUACUGAAUCGGAAUGCUGCUCACGCAGAAUCCAUAUUCACUGCGCGACGGGCCA",
+            "answer": ".....................((((((((.........(((((.(((...((((....))))..)))..)))))......)))))))).",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_399",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: AAAAAGGGUACUCGCUACUUCGAUAGCGCGUCGAUCCGCAAUAUUGUGGAGCGGCGGGGUAUGGCCAUCAAGACAUACCCAGUAUGUAAUUUUUGUAACCGAGGAGGCUGUGGGCUGCCAAAUGCACUAACGCCUCC",
+            "answer": ".......((((((((((......)))))((((((((((((....))))))))))))(((((((..........))))))))))))...................((((.(((((.((((...)))))))))))))..",
+            "eval": "Graph distance"
+        },
+        {
+            "no": "RNA_400",
+            "category": "RNA structure prediction",
+            "question": "Please predict the dot-bracket notation of the secondary structure directly from the RNA sequence: ACAGGCACUUGACUUCCUUGUGGCGUCAUACAGAGAAGUCACAGGGCAGUACCUGAGGGUCUGU",
+            "answer": ".(((((.((..(..((((((((((((...))......)))))))))).....)..)).))))).",
+            "eval": "Graph distance"
+        }
+    ]
+}

@@ -1,0 +1,1402 @@
+{
+    "0": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 浮取、中取均不见，用重指力直接按至骨上，推动筋肉才能触到脉动者是\nA: 沉脉\nB: 伏脉\nC: 牢脉\nD: 微脉\nE: 短脉\nCorrect answer: B\n\nExample:\nMedical question: 舌质的荣枯反映了\nA: 舌体运动是否灵活\nB: 舌质有神或无神\nC: 舌色淡红或淡白\nD: 舌质润泽或干枯\nE: 以上均不对\nCorrect answer: B\n\nExample:\nMedical question: 手足蠕动多缘于\nA: 热极生风\nB: 虚风内动\nC: 痫证\nD: 破伤风\nE: 中风\nCorrect answer: B\n\nExample:\nMedical question: 13-实热证患者可见\nA: 口唇淡白\nB: 口唇深红\nC: 口唇樱桃红色\nD: 口唇青紫\nE: 口唇青黑\nF: 口唇干裂\nCorrect answer: B\n\nExample:\nMedical question: 三部脉举按皆充实有力，其势来去皆盛的脉象是\nA: 实脉\nB: 洪脉\nC: 革脉\nD: 弦脉\nE: 紧脉\nCorrect answer: A\n\n\n\nQuestion: 下列哪项不是证的转化？\nA: 表证转化为里证\nB: 里证转化为表证\nC: 寒证转化为热证\nD: 热证转化为寒证\nE: 实证转化为虚证\n\nProvide the correct option.",
+        "prediction": [
+            "The correct answer is B: 里证转化为表证."
+        ],
+        "gold": "B"
+    },
+    "1": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: “阴病治阳”适用于\nA: 实热证\nB: 实寒证\nC: 虚热证\nD: 虚寒证\nE: 寒热错杂证\nCorrect answer: D\n\nExample:\nMedical question: 中医学描述肺“虚如蜂巢”所体现的思维方式是\nA: 形象思维\nB: 意象思维\nC: 应象思维\nD: 抽象思维\nE: 逻辑思维\nCorrect answer: A\n\nExample:\nMedical question: “血之余”指的是\nA: 爪\nB: 皮\nC: 肉\nD: 发\nE: 骨\nCorrect answer: D\n\nExample:\nMedical question: “壮水之主，以制阳光”所指的治法是\nA: 阴中求阳\nB: 阴病治阳\nC: 阳中求阴\nD: 阳病治阴\nE: 阴阳互济\nCorrect answer: D\n\nExample:\nMedical question: 创立“三焦辨证”理论的医家是\nA: 朱丹溪\nB: 吴鞠通\nC: 吴又可\nD: 刘完素\nE: 薛生白\nCorrect answer: B\n\n\n\nQuestion: “以热治寒”适用于\nA: 阴偏盛\nB: 阳偏盛\nC: 阴偏衰\nD: 阴阳两虚\nE: 阴盛阳衰\n\nProvide the correct option.",
+        "prediction": [
+            "A: 阴偏盛"
+        ],
+        "gold": "A"
+    },
+    "2": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 《素问•至真要大论》中“皆属于湿”的原文是\nA: 诸风掉眩\nB: 诸寒收引\nC: 诸痉项强\nD: 诸厥固泄\nE: 诸痛痒疮\nCorrect answer: C\n\nExample:\nMedical question: 在十二经脉中，阴经与阴经交接的部位在\nA: 四肢末端外侧\nB: 胸部\nC: 腹部\nD: 胸腹部\nE: 四肢末端内侧\nCorrect answer: B\n\nExample:\nMedical question: 有“方书之祖”之称的是\nA: 《千金方》\nB: 《五十二病方》\nC: 《伤寒杂病论》\nD: 《黄帝内经》\nE: \nCorrect answer: C\n\nExample:\nMedical question: 《灵枢•经脉》所说“以经取之”的治疗原则适用于\nA: 虚证\nB: 实证\nC: 不盛不虚之证\nD: 寒证\nE: 热证\nCorrect answer: C\n\nExample:\nMedical question: 治疗“喑痱”的方剂是\nA: 四物汤\nB: 归脾汤\nC: 补中益气汤\nD: 地黄饮子\nE: \nCorrect answer: D\n\n\n\nQuestion: 据《灵枢•官能》针灸方法中“阴阳皆虚”则\nA: 推而扬之\nB: 积而从之\nC: 火自当之\nD: 推而行之\nE: 火所治之\n\nProvide the correct option.",
+        "prediction": [
+            "Correct answer: C"
+        ],
+        "gold": "C"
+    },
+    "3": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 下列哪项属于阴阳互济的补虚方法\nA: 阳病治阴\nB: 阴病治阳\nC: 阴中求阳\nD: 阴阳并补\nE: 阳中求阴\nCorrect answer: CE\n\nExample:\nMedical question: “阴病治阳”适用于\nA: 实热证\nB: 实寒证\nC: 虚热证\nD: 虚寒证\nE: 寒热错杂证\nCorrect answer: D\n\nExample:\nMedical question: “血之余”指的是\nA: 爪\nB: 皮\nC: 肉\nD: 发\nE: 骨\nCorrect answer: D\n\nExample:\nMedical question: “以热治寒”适用于\nA: 阴偏盛\nB: 阳偏盛\nC: 阴偏衰\nD: 阴阳两虚\nE: 阴盛阳衰\nCorrect answer: A\n\nExample:\nMedical question: 中医学描述肺“虚如蜂巢”所体现的思维方式是\nA: 形象思维\nB: 意象思维\nC: 应象思维\nD: 抽象思维\nE: 逻辑思维\nCorrect answer: A\n\n\n\nQuestion: “壮水之主，以制阳光”所指的治法是\nA: 阴中求阳\nB: 阴病治阳\nC: 阳中求阴\nD: 阳病治阴\nE: 阴阳互济\n\nProvide the correct option.",
+        "prediction": [
+            "The correct answer is D: 阳病治阴."
+        ],
+        "gold": "D"
+    },
+    "4": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 癫狂的病位最主要是在\nA: 心、肝\nB: 肝、脾\nC: 脾、肾\nD: 肝、胆\nE: 心、肾\nCorrect answer: A\n\nExample:\nMedical question: 下列哪项不是气鼓的特征\nA: 嗳气或矢气则舒\nB: 腹部按之空空然\nC: 腹部膨隆\nD: 腹皮青筋显露\nE: 叩之如鼓\nCorrect answer: D\n\nExample:\nMedical question: 下列哪项不是眩晕肝阳上亢证的主症\nA: 头痛\nB: 面赤\nC: 烦躁\nD: 口苦\nE: 呕吐\nCorrect answer: E\n\nExample:\nMedical question: 某男，68岁，头摇不止，肢麻震颤，头晕目眩，胸脘痞闷，口苦口粘，舌体胖大，有齿痕，舌质红，苔黄腻，脉弦滑数，证属颤证之\nA: 阳气虚衰证\nB: 气血亏虚证\nC: 痰热风动证\nD: 髓海不足证\nE: 风阳内动证\nCorrect answer: C\n\nExample:\nMedical question: 治疗痰饮的总则是\nA: 发汗\nB: 利水\nC: 逐饮\nD: 温化\nE: 祛湿\nCorrect answer: D\n\n\n\nQuestion: 忽视调摄护理，会出现下列哪些情况\nA: 延误康复时间\nB: 食复\nC: 劳复\nD: 病情反复\nE: 不利于正气的恢复\n\nProvide the correct option.",
+        "prediction": [
+            "The correct answer is: D"
+        ],
+        "gold": "ABCDE"
+    },
+    "5": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 房劳过度，易损伤的脏腑是\nA: 心\nB: 脾\nC: 肝\nD: 肺\nE: 肾\nCorrect answer: E\n\nExample:\nMedical question: 8-上述脏器中，其液为涎的是（）\nA: 心\nB: 肺\nC: 脾\nD: 肝\nE: 肾\nCorrect answer: C\n\nExample:\nMedical question: 安神药的归经是\nA: 心\nB: 肝\nC: 肺\nD: 肾\nE: \nCorrect answer: AB\n\nExample:\nMedical question: 下列哪项属于阴阳互济的补虚方法\nA: 阳病治阴\nB: 阴病治阳\nC: 阴中求阳\nD: 阴阳并补\nE: 阳中求阴\nCorrect answer: CE\n\nExample:\nMedical question: 噎膈之病位是\nA: 食道\nB: 脾胃\nC: 脾\nD: 胃\nE: \nCorrect answer: A\n\n\n\nQuestion: 以精虚为主的脏有\nA: 心\nB: 肝\nC: 脾\nD: 肺\nE: 肾\n\nProvide the correct option.",
+        "prediction": [
+            "E"
+        ],
+        "gold": "CE"
+    },
+    "6": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 咽喉痛是由于\nA: 乳蛾\nB: 肺胃热毒\nC: 虚火上浮\nD: 白喉\nE: \nCorrect answer: ABCD\n\nExample:\nMedical question: 表里辨证主要是辨别\nA: 疾病的性质\nB: 病位的深浅\nC: 邪正的盛衰\nD: 外感与内伤\nE: \nCorrect answer: BD\n\nExample:\nMedical question: 肺胀后期可出现的危候有\nA: 咯血、吐血、便血\nB: 昏迷，抽搐\nC: 腹胀、脘痞\nD: 汗出肢冷、脉微欲绝\nE: \nCorrect answer: ABCD\n\nExample:\nMedical question: 以下著作专论麻疹的有\nA: 《麻科活人全书》\nB: 《郁谢麻科合璧》\nC: 《麻证新书》\nD: 《麻症集成》\nE: \nCorrect answer: ABCD\n\nExample:\nMedical question: 影响药物升降浮沉的因素有\nA: 四气五味\nB: 质地轻重\nC: 炮制\nD: 配伍\nE: \nCorrect answer: ABCD\n\n\n\nQuestion: 问病人口渴与饮水情况，可以了解\nA: 津液的盛衰\nB: 津液的输布障碍\nC: 病性的寒热\nD: 邪正的盛衰\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "ABCDE"
+        ],
+        "gold": "ABCD"
+    },
+    "7": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 12-胆的主要生理功能是（）\nA: 贮存、排泄胆汁和主决断\nB: 条达情志\nC: 运化水谷津液\nD: 主通降和受纳腐熟水谷\nE: 升清到肺、心和头目\nCorrect answer: A\n\nExample:\nMedical question: 弦脉的脉象是（）\nA: 形直体长\nB: 状如波涛\nC: 浮而搏指\nD: 脉形宽大\nE: 脉来绷紧\nCorrect answer: A\n\nExample:\nMedical question: 患者久咳，兼有便溏、乏力，医用六君子汤，治法属于（）\nA: 治病求本\nB: 益火消阴\nC: 标本兼治\nD: 塞因塞用\nE: 虚则补其母\nCorrect answer: E\n\nExample:\nMedical question: 1-新加香薷饮适用于\nA: 风寒感冒\nB: 风热感冒\nC: 暑湿感冒\nD: 气虚感冒\nE: 阴虚感冒\nCorrect answer: C\n\nExample:\nMedical question: 下列属于里实热证典型表现的\nA: 口不渴\nB: 口渴喜冷饮\nC: 口渴不欲饮\nD: 口渴欲饮，饮入即吐\nE: 口渴欲漱水而不欲咽\nCorrect answer: B\n\n\n\nQuestion: 下列选项中，对诊断脾肺气虚证最有意义的是（）\nA: 咳喘咯痰，食少便溏\nB: 咯痰清稀，面白神疲\nC: 肢体浮肿，舌淡脉弱\nD: 气短而喘，声低懒言\nE: 纳少腹胀，身倦乏力\n\nProvide the correct option.",
+        "prediction": [
+            "A"
+        ],
+        "gold": "A"
+    },
+    "8": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: “阴病治阳”适用于\nA: 实热证\nB: 实寒证\nC: 虚热证\nD: 虚寒证\nE: 寒热错杂证\nCorrect answer: D\n\nExample:\nMedical question: “壮水之主，以制阳光”所指的治法是\nA: 阴中求阳\nB: 阴病治阳\nC: 阳中求阴\nD: 阳病治阴\nE: 阴阳互济\nCorrect answer: D\n\nExample:\nMedical question: “以热治寒”适用于\nA: 阴偏盛\nB: 阳偏盛\nC: 阴偏衰\nD: 阴阳两虚\nE: 阴盛阳衰\nCorrect answer: A\n\nExample:\nMedical question: 创立“三焦辨证”理论的医家是\nA: 朱丹溪\nB: 吴鞠通\nC: 吴又可\nD: 刘完素\nE: 薛生白\nCorrect answer: B\n\nExample:\nMedical question: 中医学描述肺“虚如蜂巢”所体现的思维方式是\nA: 形象思维\nB: 意象思维\nC: 应象思维\nD: 抽象思维\nE: 逻辑思维\nCorrect answer: A\n\n\n\nQuestion: “血之余”指的是\nA: 爪\nB: 皮\nC: 肉\nD: 发\nE: 骨\n\nProvide the correct option.",
+        "prediction": [
+            "The correct answer is D: 发."
+        ],
+        "gold": "D"
+    },
+    "9": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 一般不用于治疗坐骨神经痛的穴位是\nA: 肾俞大肠俞腰4夹脊\nB: 秩边环跳殷门\nC: 委中承山\nD: 伏兔足三里\nE: 阳陵泉绝骨\nCorrect answer: D\n\nExample:\nMedical question: 过怒主要影响的功能是（）\nA: 呼吸功能\nB: 藏血功能\nC: 疏泄功能\nD: 经气功能\nE: 运化功能\nCorrect answer: C\n\nExample:\nMedical question: 下列选项中，对诊断脾肺气虚证最有意义的是（）\nA: 咳喘咯痰，食少便溏\nB: 咯痰清稀，面白神疲\nC: 肢体浮肿，舌淡脉弱\nD: 气短而喘，声低懒言\nE: 纳少腹胀，身倦乏力\nCorrect answer: A\n\nExample:\nMedical question: 患者久咳，兼有便溏、乏力，医用六君子汤，治法属于（）\nA: 治病求本\nB: 益火消阴\nC: 标本兼治\nD: 塞因塞用\nE: 虚则补其母\nCorrect answer: E\n\nExample:\nMedical question: 8-上述脏器中，其液为涎的是（）\nA: 心\nB: 肺\nC: 脾\nD: 肝\nE: 肾\nCorrect answer: C\n\n\n\nQuestion: 下列手少阳三焦经穴位中，可以治疗便秘的是（）\nA: 液门\nB: 中渚\nC: 阳池\nD: 支沟\nE: 外关\n\nProvide the correct option.",
+        "prediction": [
+            "D"
+        ],
+        "gold": "D"
+    },
+    "10": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 机体的阴气不足与下列哪项关系最为密切\nA: 心阴\nB: 胃阴\nC: 肾阴\nD: 肺阴\nE: 肝阴\nCorrect answer: C\n\nExample:\nMedical question: 肾精化为生殖之精以施泄，依靠于\nA: 肾阳温煦\nB: 肾阴凉润\nC: 天癸促发\nD: 脾胃运化\nE: 肝气疏泄\nCorrect answer: C\n\nExample:\nMedical question: 病人先有高热、烦渴、脉洪数，继则全身皮疹、热退、脉静，其病机变化属\nA: 里病出表\nB: 热极生寒\nC: 热盛伤气\nD: 由实转虚\nE: 温病逆传\nCorrect answer: A\n\nExample:\nMedical question: 下列哪一项不直接属于阴阳互根的关系\nA: 阳在外，阴之使也\nB: 孤阴不生，独阳不长\nC: 阴在内，阳之守也\nD: 重阴必阳，重阳必阴\nE: 阴损及阳，阳损及阴\nCorrect answer: D\n\nExample:\nMedical question: 1-属于病机第二层次的是\nA: 精气血津液失常病机\nB: 经络病机\nC: 三焦病机\nD: 痰饮病机\nE: 疼痛病机\nCorrect answer: B\n\n\n\nQuestion: 1-内脏下垂的主要病机是\nA: 宗气虚\nB: 胃气虚\nC: 脾气虚\nD: 肾气虚\nE: 肺气虚\n\nProvide the correct option.",
+        "prediction": [
+            "The correct answer is C: 脾气虚."
+        ],
+        "gold": "C"
+    },
+    "11": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 患儿，1岁。证见：高热烦躁，咳嗽微喘，气急鼻煽，喉中痰鸣，面色红赤，便干尿黄，舌红苔黄，脉滑数，指纹紫滞。其证候是\nA: 风寒闭肺证\nB: 风热闭肺证\nC: 痰热闭肺证\nD: 毒热闭肺证\nE: 阴虚肺热证\nCorrect answer: C\n\nExample:\nMedical question: 人工喂养时，婴儿每日每千克体重约需加糖牛奶量和另需加水的量分别为\nA: 110ml、150ml\nB: 110ml、40ml\nC: 150ml、40ml\nD: 1100ml、1500ml\nE: 1500ml、400ml\nCorrect answer: B\n\nExample:\nMedical question: 患儿，11个月。母乳喂养，未添加辅食。近来发现食欲不振，面色萎黄，唇甲色淡，大便偏稀，舌淡苔白，指纹淡红。查血: HGB: 92g/L. RBC: 3.5×1012/L。辨证为\nA: 心脾两虚\nB: 脾胃虚弱\nC: 肝肾阴虚\nD: 气血亏虚\nE: 脾肾阳虚\nCorrect answer: B\n\nExample:\nMedical question: 主治食少难消，脘腹痞闷，大便溏薄，倦怠乏力，苔腻微黄，脉虚弱的方剂是\nA: 健脾丸\nB: 保和丸\nC: 枳术丸\nD: 枳术汤\nE: \nCorrect answer: A\n\nExample:\nMedical question: 身热较著，微恶风，汗泄不畅，头胀，咳嗽，痰粘或黄，口干，舌红苔薄黄，脉浮数者，治宜选用\nA: 银翘散\nB: 荆防败毒散\nC: 新加香薷饮\nD: 加减葳蕤汤\nE: \nCorrect answer: A\n\n\n\nQuestion: 急惊风惊忍惊风证治疗首选方剂是\nA: 琥珀抱龙丸\nB: 远志丸\nC: 镇惊丸\nD: 菖蒲丸\nE: 磁朱丸\n\nProvide the correct option.",
+        "prediction": [
+            "A"
+        ],
+        "gold": "A"
+    },
+    "12": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 双眼上胞下垂，起病缓慢，晨起病轻，午后加重，休息后减轻，劳累后加重，辨证考虑为\nA: 先天不足\nB: 脾虚气弱\nC: 肝肾亏虚\nD: 风痰阻络\nE: 肝郁气滞\nCorrect answer: B\n\nExample:\nMedical question: 患者目赤而痒，迎风尤甚，多为\nA: 外感风寒\nB: 外感风热\nC: 湿热兼风\nD: 血虚生风\nE: 以上都不是\nCorrect answer: B\n\nExample:\nMedical question: 眵多硬结，多属\nA: 肺经实热\nB: 肺经虚热\nC: 肝胆火炽\nD: 湿热壅滞\nE: 心火上炎\nCorrect answer: A\n\nExample:\nMedical question: 8-视杆细胞司\nA: 明视觉和无色视觉\nB: 明视觉和色觉\nC: 暗视觉和无色视觉\nD: 暗视觉和色觉\nE: 明视觉和暗视觉\nCorrect answer: C\n\nExample:\nMedical question: 正常瞳孔大小范围\nA: 1~2.5毫米\nB: 2~3毫米\nC: 4~5毫米\nD: 2.5~4毫米\nE: 5~6毫米\nCorrect answer: D\n\n\n\nQuestion: 患者常在情绪波动、过劳或睡眠不足等情况下出现眼胀、头痛、不耐久视，中心视力较好，视野日渐缩小，平时自觉症状不明显或无症状。该病首先考虑的诊断是\nA: 绿风内障\nB: 青风内障\nC: 黑风内障\nD: 乌风内障\nE: 黄风内障\n\nProvide the correct option.",
+        "prediction": [
+            "B"
+        ],
+        "gold": "B"
+    },
+    "13": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 薛生白对湿热病发病特点的论述有\nA: 邪由口鼻而入者十之八九\nB: 邪从表伤者十之一二\nC: 太阴内伤，湿饮停聚，客邪再至，内外相引，故病湿热\nD: 内不能运水谷之湿，外复感时令之湿\nE: 有先因于湿，再因饥劳而病者\nCorrect answer: ABCE\n\nExample:\nMedical question: 以局部红肿热痛及溃烂为主要表现的温病，其病因是\nA: 风热病邪\nB: 暑热病邪\nC: 湿热病邪\nD: 燥热病邪\nE: 温毒病邪\nCorrect answer: E\n\nExample:\nMedical question: 症见：低热、手足蠕动、形消神倦、齿黑唇焦、舌干绛、脉细数，治宜\nA: 清热保津\nB: 平肝息风\nC: 滋阴息风\nD: 滋阴润燥\nE: 补益气阴\nCorrect answer: C\n\nExample:\nMedical question: 四海舒郁丸中有\nA: 海带\nB: 海藻\nC: 海螵蛸\nD: 海浮石\nE: 海蛤壳\nCorrect answer: ABCE\n\nExample:\nMedical question: 温病后期，“夜热早凉，热退无汗，热自阴来者”，治用\nA: 六味地黄丸\nB: 青蒿鳖甲汤\nC: 大定风珠\nD: 加减复脉汤\nE: 复脉汤\nCorrect answer: B\n\n\n\nQuestion: 燥干清窍，其症可见\nA: 耳鸣\nB: 目赤\nC: 苔薄黄脉数\nD: 干咳无痰\nE: 龈肿咽痛\n\nProvide the correct option.",
+        "prediction": [
+            "A: 耳鸣"
+        ],
+        "gold": "ABCE"
+    },
+    "14": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 有“方书之祖”之称的是\nA: 《千金方》\nB: 《五十二病方》\nC: 《伤寒杂病论》\nD: 《黄帝内经》\nE: \nCorrect answer: C\n\nExample:\nMedical question: 《素问•至真要大论》中“皆属于湿”的原文是\nA: 诸风掉眩\nB: 诸寒收引\nC: 诸痉项强\nD: 诸厥固泄\nE: 诸痛痒疮\nCorrect answer: C\n\nExample:\nMedical question: 据《灵枢•官能》针灸方法中“阴阳皆虚”则\nA: 推而扬之\nB: 积而从之\nC: 火自当之\nD: 推而行之\nE: 火所治之\nCorrect answer: C\n\nExample:\nMedical question: “阴病治阳”适用于\nA: 实热证\nB: 实寒证\nC: 虚热证\nD: 虚寒证\nE: 寒热错杂证\nCorrect answer: D\n\nExample:\nMedical question: “十全为上，十失一次之，十失二次之，十失三次之，十失四为下”，这种根据诊治患者的疗效判定等级是在（）\nA: 西周\nB: 春秋\nC: 晋代\nD: 唐代\nE: 宋代\nCorrect answer: A\n\n\n\nQuestion: 《灵枢•经脉》所说“以经取之”的治疗原则适用于\nA: 虚证\nB: 实证\nC: 不盛不虚之证\nD: 寒证\nE: 热证\n\nProvide the correct option.",
+        "prediction": [
+            "The correct answer is C: 不盛不虚之证."
+        ],
+        "gold": "C"
+    },
+    "15": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 谵语的病机是\nA: 心气大伤，精神散乱\nB: 热扰心神，神明失主\nC: 心气不足，神失所养\nD: 气郁痰结，阻蔽心窍\nE: \nCorrect answer: B\n\nExample:\nMedical question: 麻黄杏仁甘草石膏汤中石膏的作用是\nA: 生津\nB: 清肺热\nC: 解肌\nD: 宣肺\nE: \nCorrect answer: AB\n\nExample:\nMedical question: 心悸不宁，心烦少寐，头晕目眩，手足心热，耳鸣腰酸，舌质红，脉细数，治宜选方\nA: 天王补心丹\nB: 朱砂安神丸\nC: 养心汤\nD: 酸枣仁汤\nE: \nCorrect answer: AB\n\nExample:\nMedical question: 安神药的归经是\nA: 心\nB: 肝\nC: 肺\nD: 肾\nE: \nCorrect answer: AB\n\nExample:\nMedical question: 症见恶寒发热，无汗，头痛身痛，口渴引饮，心烦尿黄，咳喘痰黄舌红苔薄黄者，属于\nA: 表寒里热\nB: 表里俱实\nC: 寒郁化热\nD: 真热假寒\nE: \nCorrect answer: AB\n\n\n\nQuestion: 独语可见于\nA: 心气不足，神失所养\nB: 气郁痰结，阻蔽心窍\nC: 温病热入心包\nD: 阳明腑实证\nE: 伤寒蓄血证\n\nProvide the correct option.",
+        "prediction": [
+            "The correct answer is: A, B, C."
+        ],
+        "gold": "AB"
+    },
+    "16": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 可导致瘀血的发生的常见因素是\nA: 气虚\nB: 气滞\nC: 血寒\nD: 血热\nE: 外伤\nCorrect answer: ABCDE\n\nExample:\nMedical question: 五苓散的药物组成是（）\nA: 茯苓\nB: 猪苓\nC: 泽泻\nD: 白术\nE: 桂枝\nCorrect answer: ABCDE\n\nExample:\nMedical question: 属于和解剂的是\nA: 小柴胡汤\nB: 逍遥散\nC: 半夏泻心汤\nD: 四逆散\nE: 痛泻要方\nCorrect answer: ABCDE\n\nExample:\nMedical question: 忽视调摄护理，会出现下列哪些情况\nA: 延误康复时间\nB: 食复\nC: 劳复\nD: 病情反复\nE: 不利于正气的恢复\nCorrect answer: ABCDE\n\nExample:\nMedical question: 8-上述脏器中，其液为涎的是（）\nA: 心\nB: 肺\nC: 脾\nD: 肝\nE: 肾\nCorrect answer: C\n\n\n\nQuestion: 望神可知\nA: 正气存亡\nB: 脏腑盛衰\nC: 病情轻重\nD: 预后善恶\nE: 正邪盛衰\n\nProvide the correct option.",
+        "prediction": [
+            "Correct answer: ABCD"
+        ],
+        "gold": "ABCDE"
+    },
+    "17": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 尿频量多，浑浊如脂膏，尿有甜味，口干唇燥，舌质红，脉沉细数者，治疗主首选\nA: 程氏萆薢分清饮\nB: 水陆二仙丹\nC: 六味地黄丸\nD: 左归丸\nE: 知柏地黄丸\nCorrect answer: C\n\nExample:\nMedical question: 提出“泻南方，补北方”的治痿原则的是\nA: 张子和\nB: 朱丹溪\nC: 刘河间\nD: 李杲\nE: \nCorrect answer: B\n\nExample:\nMedical question: 以局部红肿热痛及溃烂为主要表现的温病，其病因是\nA: 风热病邪\nB: 暑热病邪\nC: 湿热病邪\nD: 燥热病邪\nE: 温毒病邪\nCorrect answer: E\n\nExample:\nMedical question: 症见：低热、手足蠕动、形消神倦、齿黑唇焦、舌干绛、脉细数，治宜\nA: 清热保津\nB: 平肝息风\nC: 滋阴息风\nD: 滋阴润燥\nE: 补益气阴\nCorrect answer: C\n\nExample:\nMedical question: 创立“三焦辨证”理论的医家是\nA: 朱丹溪\nB: 吴鞠通\nC: 吴又可\nD: 刘完素\nE: 薛生白\nCorrect answer: B\n\n\n\nQuestion: 温病后期，“夜热早凉，热退无汗，热自阴来者”，治用\nA: 六味地黄丸\nB: 青蒿鳖甲汤\nC: 大定风珠\nD: 加减复脉汤\nE: 复脉汤\n\nProvide the correct option.",
+        "prediction": [
+            "B"
+        ],
+        "gold": "B"
+    },
+    "18": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 燥干清窍，其症可见\nA: 耳鸣\nB: 目赤\nC: 苔薄黄脉数\nD: 干咳无痰\nE: 龈肿咽痛\nCorrect answer: ABCE\n\nExample:\nMedical question: 薛生白对湿热病发病特点的论述有\nA: 邪由口鼻而入者十之八九\nB: 邪从表伤者十之一二\nC: 太阴内伤，湿饮停聚，客邪再至，内外相引，故病湿热\nD: 内不能运水谷之湿，外复感时令之湿\nE: 有先因于湿，再因饥劳而病者\nCorrect answer: ABCE\n\nExample:\nMedical question: 治疗痰饮的总则是\nA: 发汗\nB: 利水\nC: 逐饮\nD: 温化\nE: 祛湿\nCorrect answer: D\n\nExample:\nMedical question: 下列哪项不是气鼓的特征\nA: 嗳气或矢气则舒\nB: 腹部按之空空然\nC: 腹部膨隆\nD: 腹皮青筋显露\nE: 叩之如鼓\nCorrect answer: D\n\nExample:\nMedical question: 感冒之名最早见于\nA: 《仁斋直指方》\nB: 《诸病源候论》\nC: 《医学源流论》\nD: 《丹溪心法》\nE: 《证治汇补》\nCorrect answer: A\n\n\n\nQuestion: 四海舒郁丸中有\nA: 海带\nB: 海藻\nC: 海螵蛸\nD: 海浮石\nE: 海蛤壳\n\nProvide the correct option.",
+        "prediction": [
+            "E"
+        ],
+        "gold": "ABCE"
+    },
+    "19": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 痰湿质应慎用的是\nA: 肥甘厚味\nB: 清淡饮食\nC: 生冷之品\nD: 甘润生津之味\nE: 辛辣燥烈之味\nCorrect answer: A\n\nExample:\nMedical question: 大怒不止，可见飧泄，脘腹胀痛，呕血等表现，其病机是\nA: 肝气郁结\nB: 肝气横逆脾胃\nC: 肝火上传心包\nD: 肠胃不和\nE: 肝肺不调\nCorrect answer: B\n\nExample:\nMedical question: 房劳过度，易损伤的脏腑是\nA: 心\nB: 脾\nC: 肝\nD: 肺\nE: 肾\nCorrect answer: E\n\nExample:\nMedical question: 下列哪一项不直接属于阴阳互根的关系\nA: 阳在外，阴之使也\nB: 孤阴不生，独阳不长\nC: 阴在内，阳之守也\nD: 重阴必阳，重阳必阴\nE: 阴损及阳，阳损及阴\nCorrect answer: D\n\nExample:\nMedical question: 具有调节女子行经及男子排精功能的两脏是\nA: 心与肾\nB: 肺与肾\nC: 脾与肾\nD: 肝与肾\nE: 肝与脾\nCorrect answer: D\n\n\n\nQuestion: 病人先有高热、烦渴、脉洪数，继则全身皮疹、热退、脉静，其病机变化属\nA: 里病出表\nB: 热极生寒\nC: 热盛伤气\nD: 由实转虚\nE: 温病逆传\n\nProvide the correct option.",
+        "prediction": [
+            "Correct answer: A"
+        ],
+        "gold": "A"
+    },
+    "20": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 琥珀入丸、散服用的一般剂量是\nA: 1.5～3g\nB: 15～30g\nC: 0.15～0.3g\nD: 0. 015～0. 03g\nE: \nCorrect answer: A\n\nExample:\nMedical question: 耳郭瘦小而薄，多属\nA: 气血亏虚\nB: 肾精亏耗\nC: 出麻先兆\nD: 肾气不足\nE: 肝胆湿热熏蒸\nCorrect answer: D\n\nExample:\nMedical question: 人工喂养时，婴儿每日每千克体重约需加糖牛奶量和另需加水的量分别为\nA: 110ml、150ml\nB: 110ml、40ml\nC: 150ml、40ml\nD: 1100ml、1500ml\nE: 1500ml、400ml\nCorrect answer: B\n\nExample:\nMedical question: 患儿，1岁。证见：高热烦躁，咳嗽微喘，气急鼻煽，喉中痰鸣，面色红赤，便干尿黄，舌红苔黄，脉滑数，指纹紫滞。其证候是\nA: 风寒闭肺证\nB: 风热闭肺证\nC: 痰热闭肺证\nD: 毒热闭肺证\nE: 阴虚肺热证\nCorrect answer: C\n\nExample:\nMedical question: 急惊风惊忍惊风证治疗首选方剂是\nA: 琥珀抱龙丸\nB: 远志丸\nC: 镇惊丸\nD: 菖蒲丸\nE: 磁朱丸\nCorrect answer: A\n\n\n\nQuestion: 患儿，11个月。母乳喂养，未添加辅食。近来发现食欲不振，面色萎黄，唇甲色淡，大便偏稀，舌淡苔白，指纹淡红。查血: HGB: 92g/L. RBC: 3.5×1012/L。辨证为\nA: 心脾两虚\nB: 脾胃虚弱\nC: 肝肾阴虚\nD: 气血亏虚\nE: 脾肾阳虚\n\nProvide the correct option.",
+        "prediction": [
+            "The correct answer is B: 脾胃虚弱."
+        ],
+        "gold": "B"
+    },
+    "21": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 以局部红肿热痛及溃烂为主要表现的温病，其病因是\nA: 风热病邪\nB: 暑热病邪\nC: 湿热病邪\nD: 燥热病邪\nE: 温毒病邪\nCorrect answer: E\n\nExample:\nMedical question: 薛生白对湿热病发病特点的论述有\nA: 邪由口鼻而入者十之八九\nB: 邪从表伤者十之一二\nC: 太阴内伤，湿饮停聚，客邪再至，内外相引，故病湿热\nD: 内不能运水谷之湿，外复感时令之湿\nE: 有先因于湿，再因饥劳而病者\nCorrect answer: ABCE\n\nExample:\nMedical question: 燥干清窍，其症可见\nA: 耳鸣\nB: 目赤\nC: 苔薄黄脉数\nD: 干咳无痰\nE: 龈肿咽痛\nCorrect answer: ABCE\n\nExample:\nMedical question: 温病后期，“夜热早凉，热退无汗，热自阴来者”，治用\nA: 六味地黄丸\nB: 青蒿鳖甲汤\nC: 大定风珠\nD: 加减复脉汤\nE: 复脉汤\nCorrect answer: B\n\nExample:\nMedical question: 下列哪些不是五味子的功效\nA: 收敛固涩\nB: 益气生津\nC: 收湿敛疮\nD: 补肾宁心\nE: \nCorrect answer: C\n\n\n\nQuestion: 症见：低热、手足蠕动、形消神倦、齿黑唇焦、舌干绛、脉细数，治宜\nA: 清热保津\nB: 平肝息风\nC: 滋阴息风\nD: 滋阴润燥\nE: 补益气阴\n\nProvide the correct option.",
+        "prediction": [
+            "The correct answer is C: 滋阴息风."
+        ],
+        "gold": "C"
+    },
+    "22": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: “十全为上，十失一次之，十失二次之，十失三次之，十失四为下”，这种根据诊治患者的疗效判定等级是在（）\nA: 西周\nB: 春秋\nC: 晋代\nD: 唐代\nE: 宋代\nCorrect answer: A\n\nExample:\nMedical question: 我国近代最早去西方学习医学的人为（）\nA: 鲁迅\nB: 伍连德\nC: 黄宽\nD: 杜聪明\nE: 闫德润\nCorrect answer: C\n\nExample:\nMedical question: 最早的麻风隔离病院建在（）\nA: 唐代\nB: 宋代\nC: 秦代\nD: 明代\nE: 以上都不是\nCorrect answer: C\n\nExample:\nMedical question: 白通加猪胆汁汤中用猪胆汁与人尿，下列关于其作用的描述那一项是错误的\nA: 引阳药入阴以防格拒\nB: 滋养阴液\nC: 益阴和阳\nD: 寓“逆者反治”之意\nE: 苦寒清热\nCorrect answer: E\n\nExample:\nMedical question: 治疗“喑痱”的方剂是\nA: 四物汤\nB: 归脾汤\nC: 补中益气汤\nD: 地黄饮子\nE: \nCorrect answer: D\n\n\n\nQuestion: 最早提出“癌”字，并指出40岁以上妇女易患乳癌的著作是（）\nA: 《仙授理伤续断秘方》\nB: 《急救仙方》\nC: 《疡科证治准绳》\nD: 《外科枢要》\nE: 《卫济宝书》\n\nProvide the correct option.",
+        "prediction": [
+            "E"
+        ],
+        "gold": "E"
+    },
+    "23": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 川牛膝与怀牛膝功效的主要不同点是\nA: 川牛膝偏清上部火热，怀牛膝偏清下部湿热\nB: 川牛膝偏补肝肾，怀牛膝偏祛风湿\nC: 川牛膝偏于活血通经，怀牛膝偏于利尿通淋\nD: 川牛膝偏强腰膝，怀牛膝偏于活血通经\nE: 以上都不是\nCorrect answer: E\n\nExample:\nMedical question: 最早的麻风隔离病院建在（）\nA: 唐代\nB: 宋代\nC: 秦代\nD: 明代\nE: 以上都不是\nCorrect answer: C\n\nExample:\nMedical question: 双眼上胞下垂，起病缓慢，晨起病轻，午后加重，休息后减轻，劳累后加重，辨证考虑为\nA: 先天不足\nB: 脾虚气弱\nC: 肝肾亏虚\nD: 风痰阻络\nE: 肝郁气滞\nCorrect answer: B\n\nExample:\nMedical question: 患者常在情绪波动、过劳或睡眠不足等情况下出现眼胀、头痛、不耐久视，中心视力较好，视野日渐缩小，平时自觉症状不明显或无症状。该病首先考虑的诊断是\nA: 绿风内障\nB: 青风内障\nC: 黑风内障\nD: 乌风内障\nE: 黄风内障\nCorrect answer: B\n\nExample:\nMedical question: 眵多硬结，多属\nA: 肺经实热\nB: 肺经虚热\nC: 肝胆火炽\nD: 湿热壅滞\nE: 心火上炎\nCorrect answer: A\n\n\n\nQuestion: 患者目赤而痒，迎风尤甚，多为\nA: 外感风寒\nB: 外感风热\nC: 湿热兼风\nD: 血虚生风\nE: 以上都不是\n\nProvide the correct option.",
+        "prediction": [
+            "B"
+        ],
+        "gold": "B"
+    },
+    "24": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 最早的麻风隔离病院建在（）\nA: 唐代\nB: 宋代\nC: 秦代\nD: 明代\nE: 以上都不是\nCorrect answer: C\n\nExample:\nMedical question: 反映西汉以前医药养生保健的发展状况，对今天的养生学、性医学、老年病学研究有一定参考意义的著作有\nA: 《养生方》\nB: 《杂疗方》\nC: 《胎产书》\nD: 《五十二病方》\nE: 《治百病方》\nCorrect answer: AB\n\nExample:\nMedical question: “十全为上，十失一次之，十失二次之，十失三次之，十失四为下”，这种根据诊治患者的疗效判定等级是在（）\nA: 西周\nB: 春秋\nC: 晋代\nD: 唐代\nE: 宋代\nCorrect answer: A\n\nExample:\nMedical question: 最早提出“癌”字，并指出40岁以上妇女易患乳癌的著作是（）\nA: 《仙授理伤续断秘方》\nB: 《急救仙方》\nC: 《疡科证治准绳》\nD: 《外科枢要》\nE: 《卫济宝书》\nCorrect answer: E\n\nExample:\nMedical question: 下列哪些不是五味子的功效\nA: 收敛固涩\nB: 益气生津\nC: 收湿敛疮\nD: 补肾宁心\nE: \nCorrect answer: C\n\n\n\nQuestion: 我国近代最早去西方学习医学的人为（）\nA: 鲁迅\nB: 伍连德\nC: 黄宽\nD: 杜聪明\nE: 闫德润\n\nProvide the correct option.",
+        "prediction": [
+            "The correct answer is C: 黄宽."
+        ],
+        "gold": "C"
+    },
+    "25": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 患者头痛，项背强直，恶寒发热，无汗或汗出，肢体酸重，甚至口噤不能语，四肢抽搐。舌苔薄白或白腻，脉浮紧。其诊断为\nA: 中风\nB: 痫证\nC: 痉证\nD: 痿证\nE: \nCorrect answer: C\n\nExample:\nMedical question: 内关、水沟可以治疗一下哪种疾病\nA: 中风\nB: 郁证\nC: 抽搐\nD: 崩漏\nE: \nCorrect answer: ABC\n\nExample:\nMedical question: 舌质的荣枯反映了\nA: 舌体运动是否灵活\nB: 舌质有神或无神\nC: 舌色淡红或淡白\nD: 舌质润泽或干枯\nE: 以上均不对\nCorrect answer: B\n\nExample:\nMedical question: 浮取、中取均不见，用重指力直接按至骨上，推动筋肉才能触到脉动者是\nA: 沉脉\nB: 伏脉\nC: 牢脉\nD: 微脉\nE: 短脉\nCorrect answer: B\n\nExample:\nMedical question: 下列哪项不是证的转化？\nA: 表证转化为里证\nB: 里证转化为表证\nC: 寒证转化为热证\nD: 热证转化为寒证\nE: 实证转化为虚证\nCorrect answer: B\n\n\n\nQuestion: 手足蠕动多缘于\nA: 热极生风\nB: 虚风内动\nC: 痫证\nD: 破伤风\nE: 中风\n\nProvide the correct option.",
+        "prediction": [
+            "A: 虚风内动"
+        ],
+        "gold": "B"
+    },
+    "26": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 下列哪项不属于急下证的见症：\nA: 大便难\nB: 发热汗多\nC: 腹满痛\nD: 身微热\nE: 燥屎\nCorrect answer: E\n\nExample:\nMedical question: 最早提出“癌”字，并指出40岁以上妇女易患乳癌的著作是（）\nA: 《仙授理伤续断秘方》\nB: 《急救仙方》\nC: 《疡科证治准绳》\nD: 《外科枢要》\nE: 《卫济宝书》\nCorrect answer: E\n\nExample:\nMedical question: 提出“泻南方，补北方”的治痿原则的是\nA: 张子和\nB: 朱丹溪\nC: 刘河间\nD: 李杲\nE: \nCorrect answer: B\n\nExample:\nMedical question: “阴病治阳”适用于\nA: 实热证\nB: 实寒证\nC: 虚热证\nD: 虚寒证\nE: 寒热错杂证\nCorrect answer: D\n\nExample:\nMedical question: “十全为上，十失一次之，十失二次之，十失三次之，十失四为下”，这种根据诊治患者的疗效判定等级是在（）\nA: 西周\nB: 春秋\nC: 晋代\nD: 唐代\nE: 宋代\nCorrect answer: A\n\n\n\nQuestion: 白通加猪胆汁汤中用猪胆汁与人尿，下列关于其作用的描述那一项是错误的\nA: 引阳药入阴以防格拒\nB: 滋养阴液\nC: 益阴和阳\nD: 寓“逆者反治”之意\nE: 苦寒清热\n\nProvide the correct option.",
+        "prediction": [
+            "E"
+        ],
+        "gold": "E"
+    },
+    "27": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 下列不属于肾气丸的治疗特点是\nA: 助阳化水\nB: 脾肾同治\nC: 补泄兼施\nD: 凉血清热\nE: 滋阴生气\nCorrect answer: D\n\nExample:\nMedical question: 脾阳虚波及子肺累于母心致心肺阳气俱虚，胸上有寒者，其面色可见\nA: 黄而鲜\nB: 黄而晦\nC: 苍白\nD: 黑而晦\nE: 青紫\nCorrect answer: B\n\nExample:\nMedical question: 使用大青龙汤治疗溢饮，应注意\nA: 峻发其汗\nB: 宣肺泄热\nC: 取微似汗\nD: 利水化饮\nE: 淡渗利尿\nCorrect answer: C\n\nExample:\nMedical question: 半夏麻黄丸治疗作用为\nA: 蠲饮消水\nB: 降逆定悸\nC: 宣发阳气\nD: 发汗平喘\nE: 解表散寒\nCorrect answer: B\n\nExample:\nMedical question: 百合病的基本治则是\nA: 益气生津\nB: 滋养肺胃\nC: 养阴清热\nD: 养心安神\nE: 清心润燥\nCorrect answer: C\n\n\n\nQuestion: 从《金匮要略》条文中可看出，张仲最治疗虚劳病调补脏腑首先是\nA: 调补脾肾\nB: 调补肝脾\nC: 调补心肺\nD: 调补肝肾\nE: 调补肺肾\n\nProvide the correct option.",
+        "prediction": [
+            "The correct answer is A: 调补脾肾."
+        ],
+        "gold": "A"
+    },
+    "28": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 下列手少阳三焦经穴位中，可以治疗便秘的是（）\nA: 液门\nB: 中渚\nC: 阳池\nD: 支沟\nE: 外关\nCorrect answer: D\n\nExample:\nMedical question: 过怒主要影响的功能是（）\nA: 呼吸功能\nB: 藏血功能\nC: 疏泄功能\nD: 经气功能\nE: 运化功能\nCorrect answer: C\n\nExample:\nMedical question: 下列选项中，对诊断脾肺气虚证最有意义的是（）\nA: 咳喘咯痰，食少便溏\nB: 咯痰清稀，面白神疲\nC: 肢体浮肿，舌淡脉弱\nD: 气短而喘，声低懒言\nE: 纳少腹胀，身倦乏力\nCorrect answer: A\n\nExample:\nMedical question: 患者久咳，兼有便溏、乏力，医用六君子汤，治法属于（）\nA: 治病求本\nB: 益火消阴\nC: 标本兼治\nD: 塞因塞用\nE: 虚则补其母\nCorrect answer: E\n\nExample:\nMedical question: 8-上述脏器中，其液为涎的是（）\nA: 心\nB: 肺\nC: 脾\nD: 肝\nE: 肾\nCorrect answer: C\n\n\n\nQuestion: 一般不用于治疗坐骨神经痛的穴位是\nA: 肾俞大肠俞腰4夹脊\nB: 秩边环跳殷门\nC: 委中承山\nD: 伏兔足三里\nE: 阳陵泉绝骨\n\nProvide the correct option.",
+        "prediction": [
+            "D"
+        ],
+        "gold": "D"
+    },
+    "29": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 问病人口渴与饮水情况，可以了解\nA: 津液的盛衰\nB: 津液的输布障碍\nC: 病性的寒热\nD: 邪正的盛衰\nE: \nCorrect answer: ABCD\n\nExample:\nMedical question: 肺胀后期可出现的危候有\nA: 咯血、吐血、便血\nB: 昏迷，抽搐\nC: 腹胀、脘痞\nD: 汗出肢冷、脉微欲绝\nE: \nCorrect answer: ABCD\n\nExample:\nMedical question: 下列属于内伤发热治法的是：\nA: 解郁，活血\nB: 除湿\nC: 益气、养血\nD: 滋阴、温阳\nE: \nCorrect answer: ABCD\n\nExample:\nMedical question: 正常生理状态下，声音的特点为\nA: 发声自然\nB: 声调和畅\nC: 柔和圆润\nD: 语言流畅\nE: \nCorrect answer: ABCD\n\nExample:\nMedical question: 影响药物升降浮沉的因素有\nA: 四气五味\nB: 质地轻重\nC: 炮制\nD: 配伍\nE: \nCorrect answer: ABCD\n\n\n\nQuestion: 咽喉痛是由于\nA: 乳蛾\nB: 肺胃热毒\nC: 虚火上浮\nD: 白喉\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "The correct answer is: B, C"
+        ],
+        "gold": "ABCD"
+    },
+    "30": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 手足蠕动多缘于\nA: 热极生风\nB: 虚风内动\nC: 痫证\nD: 破伤风\nE: 中风\nCorrect answer: B\n\nExample:\nMedical question: 浮取、中取均不见，用重指力直接按至骨上，推动筋肉才能触到脉动者是\nA: 沉脉\nB: 伏脉\nC: 牢脉\nD: 微脉\nE: 短脉\nCorrect answer: B\n\nExample:\nMedical question: 舌质的荣枯反映了\nA: 舌体运动是否灵活\nB: 舌质有神或无神\nC: 舌色淡红或淡白\nD: 舌质润泽或干枯\nE: 以上均不对\nCorrect answer: B\n\nExample:\nMedical question: 下列哪项不是证的转化？\nA: 表证转化为里证\nB: 里证转化为表证\nC: 寒证转化为热证\nD: 热证转化为寒证\nE: 实证转化为虚证\nCorrect answer: B\n\nExample:\nMedical question: 三部脉举按皆充实有力，其势来去皆盛的脉象是\nA: 实脉\nB: 洪脉\nC: 革脉\nD: 弦脉\nE: 紧脉\nCorrect answer: A\n\n\n\nQuestion: 13-实热证患者可见\nA: 口唇淡白\nB: 口唇深红\nC: 口唇樱桃红色\nD: 口唇青紫\nE: 口唇青黑\nF: 口唇干裂\n\nProvide the correct option.",
+        "prediction": [
+            "B"
+        ],
+        "gold": "B"
+    },
+    "31": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 提出“泻南方，补北方”的治痿原则的是\nA: 张子和\nB: 朱丹溪\nC: 刘河间\nD: 李杲\nE: \nCorrect answer: B\n\nExample:\nMedical question: “以热治寒”适用于\nA: 阴偏盛\nB: 阳偏盛\nC: 阴偏衰\nD: 阴阳两虚\nE: 阴盛阳衰\nCorrect answer: A\n\nExample:\nMedical question: “阴病治阳”适用于\nA: 实热证\nB: 实寒证\nC: 虚热证\nD: 虚寒证\nE: 寒热错杂证\nCorrect answer: D\n\nExample:\nMedical question: “壮水之主，以制阳光”所指的治法是\nA: 阴中求阳\nB: 阴病治阳\nC: 阳中求阴\nD: 阳病治阴\nE: 阴阳互济\nCorrect answer: D\n\nExample:\nMedical question: “血之余”指的是\nA: 爪\nB: 皮\nC: 肉\nD: 发\nE: 骨\nCorrect answer: D\n\n\n\nQuestion: 创立“三焦辨证”理论的医家是\nA: 朱丹溪\nB: 吴鞠通\nC: 吴又可\nD: 刘完素\nE: 薛生白\n\nProvide the correct option.",
+        "prediction": [
+            "B"
+        ],
+        "gold": "B"
+    },
+    "32": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 正常瞳孔大小范围\nA: 1~2.5毫米\nB: 2~3毫米\nC: 4~5毫米\nD: 2.5~4毫米\nE: 5~6毫米\nCorrect answer: D\n\nExample:\nMedical question: 眵多硬结，多属\nA: 肺经实热\nB: 肺经虚热\nC: 肝胆火炽\nD: 湿热壅滞\nE: 心火上炎\nCorrect answer: A\n\nExample:\nMedical question: 患者常在情绪波动、过劳或睡眠不足等情况下出现眼胀、头痛、不耐久视，中心视力较好，视野日渐缩小，平时自觉症状不明显或无症状。该病首先考虑的诊断是\nA: 绿风内障\nB: 青风内障\nC: 黑风内障\nD: 乌风内障\nE: 黄风内障\nCorrect answer: B\n\nExample:\nMedical question: 双眼上胞下垂，起病缓慢，晨起病轻，午后加重，休息后减轻，劳累后加重，辨证考虑为\nA: 先天不足\nB: 脾虚气弱\nC: 肝肾亏虚\nD: 风痰阻络\nE: 肝郁气滞\nCorrect answer: B\n\nExample:\nMedical question: 8-视杆细胞司\nA: 明视觉和无色视觉\nB: 明视觉和色觉\nC: 暗视觉和无色视觉\nD: 暗视觉和色觉\nE: 明视觉和暗视觉\nCorrect answer: C\n\n\n\nQuestion: 麻痹性斜视时\nA: 双眼眼位上斜\nB: 双眼眼位外斜\nC: 患眼眼球斜向麻痹肌作用方向\nD: 患眼眼球斜向麻痹肌作用方向的对侧\nE: 患眼眼位不稳定\n\nProvide the correct option.",
+        "prediction": [
+            "The correct answer is C: The affected eye will deviate towards the direction of the paralyzed muscle."
+        ],
+        "gold": "D"
+    },
+    "33": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 可导致瘀血的发生的常见因素是\nA: 气虚\nB: 气滞\nC: 血寒\nD: 血热\nE: 外伤\nCorrect answer: ABCDE\n\nExample:\nMedical question: 五苓散的药物组成是（）\nA: 茯苓\nB: 猪苓\nC: 泽泻\nD: 白术\nE: 桂枝\nCorrect answer: ABCDE\n\nExample:\nMedical question: 望神可知\nA: 正气存亡\nB: 脏腑盛衰\nC: 病情轻重\nD: 预后善恶\nE: 正邪盛衰\nCorrect answer: ABCDE\n\nExample:\nMedical question: 忽视调摄护理，会出现下列哪些情况\nA: 延误康复时间\nB: 食复\nC: 劳复\nD: 病情反复\nE: 不利于正气的恢复\nCorrect answer: ABCDE\n\nExample:\nMedical question: 8-上述脏器中，其液为涎的是（）\nA: 心\nB: 肺\nC: 脾\nD: 肝\nE: 肾\nCorrect answer: C\n\n\n\nQuestion: 属于和解剂的是\nA: 小柴胡汤\nB: 逍遥散\nC: 半夏泻心汤\nD: 四逆散\nE: 痛泻要方\n\nProvide the correct option.",
+        "prediction": [
+            "The correct options are:\n\nA: 小柴胡汤\nB: 逍遥散\nC: 半夏泻心汤\nD: 四逆散\nE: 痛泻要方\n\nAll of these formulas belong to the category of和解剂 (Harmonizing Agents) in traditional Chinese medicine."
+        ],
+        "gold": "ABCDE"
+    },
+    "34": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 麻痹性斜视时\nA: 双眼眼位上斜\nB: 双眼眼位外斜\nC: 患眼眼球斜向麻痹肌作用方向\nD: 患眼眼球斜向麻痹肌作用方向的对侧\nE: 患眼眼位不稳定\nCorrect answer: D\n\nExample:\nMedical question: 双眼上胞下垂，起病缓慢，晨起病轻，午后加重，休息后减轻，劳累后加重，辨证考虑为\nA: 先天不足\nB: 脾虚气弱\nC: 肝肾亏虚\nD: 风痰阻络\nE: 肝郁气滞\nCorrect answer: B\n\nExample:\nMedical question: 眵多硬结，多属\nA: 肺经实热\nB: 肺经虚热\nC: 肝胆火炽\nD: 湿热壅滞\nE: 心火上炎\nCorrect answer: A\n\nExample:\nMedical question: 正常瞳孔大小范围\nA: 1~2.5毫米\nB: 2~3毫米\nC: 4~5毫米\nD: 2.5~4毫米\nE: 5~6毫米\nCorrect answer: D\n\nExample:\nMedical question: 患者目赤而痒，迎风尤甚，多为\nA: 外感风寒\nB: 外感风热\nC: 湿热兼风\nD: 血虚生风\nE: 以上都不是\nCorrect answer: B\n\n\n\nQuestion: 8-视杆细胞司\nA: 明视觉和无色视觉\nB: 明视觉和色觉\nC: 暗视觉和无色视觉\nD: 暗视觉和色觉\nE: 明视觉和暗视觉\n\nProvide the correct option.",
+        "prediction": [
+            "C"
+        ],
+        "gold": "C"
+    },
+    "35": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 患儿，11个月。母乳喂养，未添加辅食。近来发现食欲不振，面色萎黄，唇甲色淡，大便偏稀，舌淡苔白，指纹淡红。查血: HGB: 92g/L. RBC: 3.5×1012/L。辨证为\nA: 心脾两虚\nB: 脾胃虚弱\nC: 肝肾阴虚\nD: 气血亏虚\nE: 脾肾阳虚\nCorrect answer: B\n\nExample:\nMedical question: 温病或伤寒邪正剧争阶段，病变发生转折时，可表现为\nA: 大汗\nB: 自汗\nC: 盗汗\nD: 战汗\nE: 心胸汗\nCorrect answer: D\n\nExample:\nMedical question: 舌质的荣枯反映了\nA: 舌体运动是否灵活\nB: 舌质有神或无神\nC: 舌色淡红或淡白\nD: 舌质润泽或干枯\nE: 以上均不对\nCorrect answer: B\n\nExample:\nMedical question: 三部脉举按皆充实有力，其势来去皆盛的脉象是\nA: 实脉\nB: 洪脉\nC: 革脉\nD: 弦脉\nE: 紧脉\nCorrect answer: A\n\nExample:\nMedical question: 肺脾气虚的临床表现是\nA: 腰腹冷痛，面浮肢肿\nB: 急躁易怒，腹胀便溏\nC: 畏寒肢冷，唇甲青紫\nD: 畏寒肢冷，久泻久痢\nE: 久咳不止，食欲不振\nCorrect answer: E\n\n\n\nQuestion: 耳郭瘦小而薄，多属\nA: 气血亏虚\nB: 肾精亏耗\nC: 出麻先兆\nD: 肾气不足\nE: 肝胆湿热熏蒸\n\nProvide the correct option.",
+        "prediction": [
+            "Correct answer: B"
+        ],
+        "gold": "D"
+    },
+    "36": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 1-内脏下垂的主要病机是\nA: 宗气虚\nB: 胃气虚\nC: 脾气虚\nD: 肾气虚\nE: 肺气虚\nCorrect answer: C\n\nExample:\nMedical question: 肾精化为生殖之精以施泄，依靠于\nA: 肾阳温煦\nB: 肾阴凉润\nC: 天癸促发\nD: 脾胃运化\nE: 肝气疏泄\nCorrect answer: C\n\nExample:\nMedical question: 病人先有高热、烦渴、脉洪数，继则全身皮疹、热退、脉静，其病机变化属\nA: 里病出表\nB: 热极生寒\nC: 热盛伤气\nD: 由实转虚\nE: 温病逆传\nCorrect answer: A\n\nExample:\nMedical question: 下列哪一项不直接属于阴阳互根的关系\nA: 阳在外，阴之使也\nB: 孤阴不生，独阳不长\nC: 阴在内，阳之守也\nD: 重阴必阳，重阳必阴\nE: 阴损及阳，阳损及阴\nCorrect answer: D\n\nExample:\nMedical question: 1-属于病机第二层次的是\nA: 精气血津液失常病机\nB: 经络病机\nC: 三焦病机\nD: 痰饮病机\nE: 疼痛病机\nCorrect answer: B\n\n\n\nQuestion: 机体的阴气不足与下列哪项关系最为密切\nA: 心阴\nB: 胃阴\nC: 肾阴\nD: 肺阴\nE: 肝阴\n\nProvide the correct option.",
+        "prediction": [
+            "The correct answer is C: kidney yin."
+        ],
+        "gold": "C"
+    },
+    "37": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 病人先有高热、烦渴、脉洪数，继则全身皮疹、热退、脉静，其病机变化属\nA: 里病出表\nB: 热极生寒\nC: 热盛伤气\nD: 由实转虚\nE: 温病逆传\nCorrect answer: A\n\nExample:\nMedical question: 大怒不止，可见飧泄，脘腹胀痛，呕血等表现，其病机是\nA: 肝气郁结\nB: 肝气横逆脾胃\nC: 肝火上传心包\nD: 肠胃不和\nE: 肝肺不调\nCorrect answer: B\n\nExample:\nMedical question: 房劳过度，易损伤的脏腑是\nA: 心\nB: 脾\nC: 肝\nD: 肺\nE: 肾\nCorrect answer: E\n\nExample:\nMedical question: 下列哪一项不直接属于阴阳互根的关系\nA: 阳在外，阴之使也\nB: 孤阴不生，独阳不长\nC: 阴在内，阳之守也\nD: 重阴必阳，重阳必阴\nE: 阴损及阳，阳损及阴\nCorrect answer: D\n\nExample:\nMedical question: 具有调节女子行经及男子排精功能的两脏是\nA: 心与肾\nB: 肺与肾\nC: 脾与肾\nD: 肝与肾\nE: 肝与脾\nCorrect answer: D\n\n\n\nQuestion: 痰湿质应慎用的是\nA: 肥甘厚味\nB: 清淡饮食\nC: 生冷之品\nD: 甘润生津之味\nE: 辛辣燥烈之味\n\nProvide the correct option.",
+        "prediction": [
+            "The correct answer is C: 生冷之品."
+        ],
+        "gold": "A"
+    },
+    "38": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 病人外感风寒其脉可见（）\nA: 浮缓\nB: 浮紧\nC: 沉紧\nD: 浮数\nE: 沉细\nCorrect answer: B\n\nExample:\nMedical question: 8-上述脏器中，其液为涎的是（）\nA: 心\nB: 肺\nC: 脾\nD: 肝\nE: 肾\nCorrect answer: C\n\nExample:\nMedical question: 1-新加香薷饮适用于\nA: 风寒感冒\nB: 风热感冒\nC: 暑湿感冒\nD: 气虚感冒\nE: 阴虚感冒\nCorrect answer: C\n\nExample:\nMedical question: 弦脉的脉象是（）\nA: 形直体长\nB: 状如波涛\nC: 浮而搏指\nD: 脉形宽大\nE: 脉来绷紧\nCorrect answer: A\n\nExample:\nMedical question: 过怒主要影响的功能是（）\nA: 呼吸功能\nB: 藏血功能\nC: 疏泄功能\nD: 经气功能\nE: 运化功能\nCorrect answer: C\n\n\n\nQuestion: 下列属于里实热证典型表现的\nA: 口不渴\nB: 口渴喜冷饮\nC: 口渴不欲饮\nD: 口渴欲饮，饮入即吐\nE: 口渴欲漱水而不欲咽\n\nProvide the correct option.",
+        "prediction": [
+            "B"
+        ],
+        "gold": "B"
+    },
+    "39": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 下列哪一种是对《伤寒论》中广义伤寒概念的正确论述\nA: 以发热为主要症状的疾病\nB: 一切外感热病的总称\nC: 感受寒邪，感而即发的疾病\nD: 以恶寒、发热、头痛、无汗为主要临床表现的证候\nE: 由伤寒杆菌引起的疾病\nCorrect answer: B\n\nExample:\nMedical question: 甘草泻心汤证与半夏泻心汤证、生姜泻心汤证比较，主要特征在于：\nA: 以痞满而呕，肠鸣下利为主\nB: 以心下痞，干噫食臭，腹中雷鸣，下利为主\nC: 以痞利俱甚，谷不化为主\nD: 以胃中不和，心下痞硬，腹中雷鸣为主\nE: 以心下痞硬，按之濡软为主\nCorrect answer: C\n\nExample:\nMedical question: 下列何脉症均可见于麻杏石甘汤证和桂枝加厚朴杏子汤证()\nA: 口渴\nB: 脉数、无汗\nC: 苔黄\nD: 喘、汗出\nE: 头项强痛\nCorrect answer: D\n\nExample:\nMedical question: 白通加猪胆汁汤中用猪胆汁与人尿，下列关于其作用的描述那一项是错误的\nA: 引阳药入阴以防格拒\nB: 滋养阴液\nC: 益阴和阳\nD: 寓“逆者反治”之意\nE: 苦寒清热\nCorrect answer: E\n\nExample:\nMedical question: 厥证的基本病机是()\nA: 气滞血瘀,气机不行\nB: 寒热错杂,气机逆乱\nC: 阴阳二气不相顺接\nD: 阳气虚衰\nE: 阴液亏虚\nCorrect answer: C\n\n\n\nQuestion: 下列哪项不属于急下证的见症：\nA: 大便难\nB: 发热汗多\nC: 腹满痛\nD: 身微热\nE: 燥屎\n\nProvide the correct option.",
+        "prediction": [
+            "E"
+        ],
+        "gold": "E"
+    },
+    "40": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 温病或伤寒邪正剧争阶段，病变发生转折时，可表现为\nA: 大汗\nB: 自汗\nC: 盗汗\nD: 战汗\nE: 心胸汗\nCorrect answer: D\n\nExample:\nMedical question: 舌质的荣枯反映了\nA: 舌体运动是否灵活\nB: 舌质有神或无神\nC: 舌色淡红或淡白\nD: 舌质润泽或干枯\nE: 以上均不对\nCorrect answer: B\n\nExample:\nMedical question: 下列哪项不是气随液脱的形成原因\nA: 高热\nB: 大汗\nC: 严重吐泻\nD: 大量失血\nE: \nCorrect answer: D\n\nExample:\nMedical question: 肺脾气虚的临床表现是\nA: 腰腹冷痛，面浮肢肿\nB: 急躁易怒，腹胀便溏\nC: 畏寒肢冷，唇甲青紫\nD: 畏寒肢冷，久泻久痢\nE: 久咳不止，食欲不振\nCorrect answer: E\n\nExample:\nMedical question: 三部脉举按皆充实有力，其势来去皆盛的脉象是\nA: 实脉\nB: 洪脉\nC: 革脉\nD: 弦脉\nE: 紧脉\nCorrect answer: A\n\n\n\nQuestion: 16-亡阴患者出汗的特点是\nA: 自汗\nB: 盗汗\nC: 大汗\nD: 半身汗出\nE: 以上均不对\n\nProvide the correct option.",
+        "prediction": [
+            "C: 大汗"
+        ],
+        "gold": "E"
+    },
+    "41": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 三部脉举按皆充实有力，其势来去皆盛的脉象是\nA: 实脉\nB: 洪脉\nC: 革脉\nD: 弦脉\nE: 紧脉\nCorrect answer: A\n\nExample:\nMedical question: 手足蠕动多缘于\nA: 热极生风\nB: 虚风内动\nC: 痫证\nD: 破伤风\nE: 中风\nCorrect answer: B\n\nExample:\nMedical question: 8-郁火证面色常见\nA: 面色黄而无华\nB: 面白无华\nC: 面色青赤而晦黯\nD: 面色淡黄枯槁无泽\nE: 面色黑而干焦\nCorrect answer: C\n\nExample:\nMedical question: 肺脾气虚的临床表现是\nA: 腰腹冷痛，面浮肢肿\nB: 急躁易怒，腹胀便溏\nC: 畏寒肢冷，唇甲青紫\nD: 畏寒肢冷，久泻久痢\nE: 久咳不止，食欲不振\nCorrect answer: E\n\nExample:\nMedical question: 哪项属于察舌形的内容\nA: 腐腻\nB: 强硬\nC: 裂纹\nD: 卷缩\nE: 红绛\nCorrect answer: C\n\n\n\nQuestion: 舌尖见青紫色斑点，多见于\nA: 心脉痹阻\nB: 肝脏瘀血\nC: 胃肠瘀血\nD: 膀胱蓄血\nE: 肾脏瘀血\n\nProvide the correct option.",
+        "prediction": [
+            "A: 心脉痹阻"
+        ],
+        "gold": "A"
+    },
+    "42": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 百合病的基本治则是\nA: 益气生津\nB: 滋养肺胃\nC: 养阴清热\nD: 养心安神\nE: 清心润燥\nCorrect answer: C\n\nExample:\nMedical question: 脾阳虚波及子肺累于母心致心肺阳气俱虚，胸上有寒者，其面色可见\nA: 黄而鲜\nB: 黄而晦\nC: 苍白\nD: 黑而晦\nE: 青紫\nCorrect answer: B\n\nExample:\nMedical question: 从《金匮要略》条文中可看出，张仲最治疗虚劳病调补脏腑首先是\nA: 调补脾肾\nB: 调补肝脾\nC: 调补心肺\nD: 调补肝肾\nE: 调补肺肾\nCorrect answer: A\n\nExample:\nMedical question: 半夏麻黄丸治疗作用为\nA: 蠲饮消水\nB: 降逆定悸\nC: 宣发阳气\nD: 发汗平喘\nE: 解表散寒\nCorrect answer: B\n\nExample:\nMedical question: 使用大青龙汤治疗溢饮，应注意\nA: 峻发其汗\nB: 宣肺泄热\nC: 取微似汗\nD: 利水化饮\nE: 淡渗利尿\nCorrect answer: C\n\n\n\nQuestion: 下列不属于肾气丸的治疗特点是\nA: 助阳化水\nB: 脾肾同治\nC: 补泄兼施\nD: 凉血清热\nE: 滋阴生气\n\nProvide the correct option.",
+        "prediction": [
+            "The correct answer is D: 凉血清热."
+        ],
+        "gold": "D"
+    },
+    "43": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 大怒不止，可见飧泄，脘腹胀痛，呕血等表现，其病机是\nA: 肝气郁结\nB: 肝气横逆脾胃\nC: 肝火上传心包\nD: 肠胃不和\nE: 肝肺不调\nCorrect answer: B\n\nExample:\nMedical question: 病人先有高热、烦渴、脉洪数，继则全身皮疹、热退、脉静，其病机变化属\nA: 里病出表\nB: 热极生寒\nC: 热盛伤气\nD: 由实转虚\nE: 温病逆传\nCorrect answer: A\n\nExample:\nMedical question: 肾精化为生殖之精以施泄，依靠于\nA: 肾阳温煦\nB: 肾阴凉润\nC: 天癸促发\nD: 脾胃运化\nE: 肝气疏泄\nCorrect answer: C\n\nExample:\nMedical question: 具有调节女子行经及男子排精功能的两脏是\nA: 心与肾\nB: 肺与肾\nC: 脾与肾\nD: 肝与肾\nE: 肝与脾\nCorrect answer: D\n\nExample:\nMedical question: 痰湿质应慎用的是\nA: 肥甘厚味\nB: 清淡饮食\nC: 生冷之品\nD: 甘润生津之味\nE: 辛辣燥烈之味\nCorrect answer: A\n\n\n\nQuestion: 1-属于病机第二层次的是\nA: 精气血津液失常病机\nB: 经络病机\nC: 三焦病机\nD: 痰饮病机\nE: 疼痛病机\n\nProvide the correct option.",
+        "prediction": [
+            "A"
+        ],
+        "gold": "B"
+    },
+    "44": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 《医学心悟•头痛》中另有一半夏白术天麻汤，较通用方多蔓荆子三钱，减哪位药为一钱，治痰厥头痛、胸膈多痰，动则眩晕之证\nA: 半夏\nB: 天麻\nC: 白术\nD: 茯苓\nE: \nCorrect answer: C\n\nExample:\nMedical question: 可导致瘀血的发生的常见因素是\nA: 气虚\nB: 气滞\nC: 血寒\nD: 血热\nE: 外伤\nCorrect answer: ABCDE\n\nExample:\nMedical question: 望神可知\nA: 正气存亡\nB: 脏腑盛衰\nC: 病情轻重\nD: 预后善恶\nE: 正邪盛衰\nCorrect answer: ABCDE\n\nExample:\nMedical question: 属于和解剂的是\nA: 小柴胡汤\nB: 逍遥散\nC: 半夏泻心汤\nD: 四逆散\nE: 痛泻要方\nCorrect answer: ABCDE\n\nExample:\nMedical question: 忽视调摄护理，会出现下列哪些情况\nA: 延误康复时间\nB: 食复\nC: 劳复\nD: 病情反复\nE: 不利于正气的恢复\nCorrect answer: ABCDE\n\n\n\nQuestion: 五苓散的药物组成是（）\nA: 茯苓\nB: 猪苓\nC: 泽泻\nD: 白术\nE: 桂枝\n\nProvide the correct option.",
+        "prediction": [
+            "The correct answer is: A, B, C, D, E."
+        ],
+        "gold": "ABCDE"
+    },
+    "45": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 下列属于里实热证典型表现的\nA: 口不渴\nB: 口渴喜冷饮\nC: 口渴不欲饮\nD: 口渴欲饮，饮入即吐\nE: 口渴欲漱水而不欲咽\nCorrect answer: B\n\nExample:\nMedical question: 8-上述脏器中，其液为涎的是（）\nA: 心\nB: 肺\nC: 脾\nD: 肝\nE: 肾\nCorrect answer: C\n\nExample:\nMedical question: 1-新加香薷饮适用于\nA: 风寒感冒\nB: 风热感冒\nC: 暑湿感冒\nD: 气虚感冒\nE: 阴虚感冒\nCorrect answer: C\n\nExample:\nMedical question: 弦脉的脉象是（）\nA: 形直体长\nB: 状如波涛\nC: 浮而搏指\nD: 脉形宽大\nE: 脉来绷紧\nCorrect answer: A\n\nExample:\nMedical question: 过怒主要影响的功能是（）\nA: 呼吸功能\nB: 藏血功能\nC: 疏泄功能\nD: 经气功能\nE: 运化功能\nCorrect answer: C\n\n\n\nQuestion: 病人外感风寒其脉可见（）\nA: 浮缓\nB: 浮紧\nC: 沉紧\nD: 浮数\nE: 沉细\n\nProvide the correct option.",
+        "prediction": [
+            "B"
+        ],
+        "gold": "B"
+    },
+    "46": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 哪项属于察舌形的内容\nA: 腐腻\nB: 强硬\nC: 裂纹\nD: 卷缩\nE: 红绛\nCorrect answer: C\n\nExample:\nMedical question: 温病或伤寒邪正剧争阶段，病变发生转折时，可表现为\nA: 大汗\nB: 自汗\nC: 盗汗\nD: 战汗\nE: 心胸汗\nCorrect answer: D\n\nExample:\nMedical question: 下列哪项不是证的转化？\nA: 表证转化为里证\nB: 里证转化为表证\nC: 寒证转化为热证\nD: 热证转化为寒证\nE: 实证转化为虚证\nCorrect answer: B\n\nExample:\nMedical question: 16-亡阴患者出汗的特点是\nA: 自汗\nB: 盗汗\nC: 大汗\nD: 半身汗出\nE: 以上均不对\nCorrect answer: E\n\nExample:\nMedical question: 手足蠕动多缘于\nA: 热极生风\nB: 虚风内动\nC: 痫证\nD: 破伤风\nE: 中风\nCorrect answer: B\n\n\n\nQuestion: 8-郁火证面色常见\nA: 面色黄而无华\nB: 面白无华\nC: 面色青赤而晦黯\nD: 面色淡黄枯槁无泽\nE: 面色黑而干焦\n\nProvide the correct option.",
+        "prediction": [
+            "Correct answer: C"
+        ],
+        "gold": "C"
+    },
+    "47": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 脾阳虚波及子肺累于母心致心肺阳气俱虚，胸上有寒者，其面色可见\nA: 黄而鲜\nB: 黄而晦\nC: 苍白\nD: 黑而晦\nE: 青紫\nCorrect answer: B\n\nExample:\nMedical question: 使用大青龙汤治疗溢饮，应注意\nA: 峻发其汗\nB: 宣肺泄热\nC: 取微似汗\nD: 利水化饮\nE: 淡渗利尿\nCorrect answer: C\n\nExample:\nMedical question: 下列不属于肾气丸的治疗特点是\nA: 助阳化水\nB: 脾肾同治\nC: 补泄兼施\nD: 凉血清热\nE: 滋阴生气\nCorrect answer: D\n\nExample:\nMedical question: 百合病的基本治则是\nA: 益气生津\nB: 滋养肺胃\nC: 养阴清热\nD: 养心安神\nE: 清心润燥\nCorrect answer: C\n\nExample:\nMedical question: 从《金匮要略》条文中可看出，张仲最治疗虚劳病调补脏腑首先是\nA: 调补脾肾\nB: 调补肝脾\nC: 调补心肺\nD: 调补肝肾\nE: 调补肺肾\nCorrect answer: A\n\n\n\nQuestion: 半夏麻黄丸治疗作用为\nA: 蠲饮消水\nB: 降逆定悸\nC: 宣发阳气\nD: 发汗平喘\nE: 解表散寒\n\nProvide the correct option.",
+        "prediction": [
+            "The correct answer is B: 降逆定悸."
+        ],
+        "gold": "B"
+    },
+    "48": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 弦脉的脉象是（）\nA: 形直体长\nB: 状如波涛\nC: 浮而搏指\nD: 脉形宽大\nE: 脉来绷紧\nCorrect answer: A\n\nExample:\nMedical question: 下列选项中，对诊断脾肺气虚证最有意义的是（）\nA: 咳喘咯痰，食少便溏\nB: 咯痰清稀，面白神疲\nC: 肢体浮肿，舌淡脉弱\nD: 气短而喘，声低懒言\nE: 纳少腹胀，身倦乏力\nCorrect answer: A\n\nExample:\nMedical question: 患者久咳，兼有便溏、乏力，医用六君子汤，治法属于（）\nA: 治病求本\nB: 益火消阴\nC: 标本兼治\nD: 塞因塞用\nE: 虚则补其母\nCorrect answer: E\n\nExample:\nMedical question: 1-新加香薷饮适用于\nA: 风寒感冒\nB: 风热感冒\nC: 暑湿感冒\nD: 气虚感冒\nE: 阴虚感冒\nCorrect answer: C\n\nExample:\nMedical question: 下列属于里实热证典型表现的\nA: 口不渴\nB: 口渴喜冷饮\nC: 口渴不欲饮\nD: 口渴欲饮，饮入即吐\nE: 口渴欲漱水而不欲咽\nCorrect answer: B\n\n\n\nQuestion: 12-胆的主要生理功能是（）\nA: 贮存、排泄胆汁和主决断\nB: 条达情志\nC: 运化水谷津液\nD: 主通降和受纳腐熟水谷\nE: 升清到肺、心和头目\n\nProvide the correct option.",
+        "prediction": [
+            "A: 贮存、排泄胆汁和主决断"
+        ],
+        "gold": "A"
+    },
+    "49": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 百合病的基本治则是\nA: 益气生津\nB: 滋养肺胃\nC: 养阴清热\nD: 养心安神\nE: 清心润燥\nCorrect answer: C\n\nExample:\nMedical question: 脾阳虚波及子肺累于母心致心肺阳气俱虚，胸上有寒者，其面色可见\nA: 黄而鲜\nB: 黄而晦\nC: 苍白\nD: 黑而晦\nE: 青紫\nCorrect answer: B\n\nExample:\nMedical question: 半夏麻黄丸治疗作用为\nA: 蠲饮消水\nB: 降逆定悸\nC: 宣发阳气\nD: 发汗平喘\nE: 解表散寒\nCorrect answer: B\n\nExample:\nMedical question: 从《金匮要略》条文中可看出，张仲最治疗虚劳病调补脏腑首先是\nA: 调补脾肾\nB: 调补肝脾\nC: 调补心肺\nD: 调补肝肾\nE: 调补肺肾\nCorrect answer: A\n\nExample:\nMedical question: 下列不属于肾气丸的治疗特点是\nA: 助阳化水\nB: 脾肾同治\nC: 补泄兼施\nD: 凉血清热\nE: 滋阴生气\nCorrect answer: D\n\n\n\nQuestion: 使用大青龙汤治疗溢饮，应注意\nA: 峻发其汗\nB: 宣肺泄热\nC: 取微似汗\nD: 利水化饮\nE: 淡渗利尿\n\nProvide the correct option.",
+        "prediction": [
+            "The correct answer is C: 取微似汗."
+        ],
+        "gold": "C"
+    },
+    "50": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 过怒主要影响的功能是（）\nA: 呼吸功能\nB: 藏血功能\nC: 疏泄功能\nD: 经气功能\nE: 运化功能\nCorrect answer: C\n\nExample:\nMedical question: 1-新加香薷饮适用于\nA: 风寒感冒\nB: 风热感冒\nC: 暑湿感冒\nD: 气虚感冒\nE: 阴虚感冒\nCorrect answer: C\n\nExample:\nMedical question: 病人外感风寒其脉可见（）\nA: 浮缓\nB: 浮紧\nC: 沉紧\nD: 浮数\nE: 沉细\nCorrect answer: B\n\nExample:\nMedical question: 下列选项中，对诊断脾肺气虚证最有意义的是（）\nA: 咳喘咯痰，食少便溏\nB: 咯痰清稀，面白神疲\nC: 肢体浮肿，舌淡脉弱\nD: 气短而喘，声低懒言\nE: 纳少腹胀，身倦乏力\nCorrect answer: A\n\nExample:\nMedical question: 弦脉的脉象是（）\nA: 形直体长\nB: 状如波涛\nC: 浮而搏指\nD: 脉形宽大\nE: 脉来绷紧\nCorrect answer: A\n\n\n\nQuestion: 患者久咳，兼有便溏、乏力，医用六君子汤，治法属于（）\nA: 治病求本\nB: 益火消阴\nC: 标本兼治\nD: 塞因塞用\nE: 虚则补其母\n\nProvide the correct option.",
+        "prediction": [
+            "E"
+        ],
+        "gold": "E"
+    },
+    "51": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 厥证的基本病机是()\nA: 气滞血瘀,气机不行\nB: 寒热错杂,气机逆乱\nC: 阴阳二气不相顺接\nD: 阳气虚衰\nE: 阴液亏虚\nCorrect answer: C\n\nExample:\nMedical question: 原文“少阴病,下利,咽中伤,生疮,不能语言,声不出者”其治疗方剂是()\nA: 甘草汤\nB: 桔梗汤\nC: 苦酒汤\nD: 半夏散及汤\nE: 猪肤汤\nCorrect answer: C\n\nExample:\nMedical question: 扶正的治则适用于\nA: 邪气盛,正气未衰\nB: 正气虚,邪气不盛\nC: 邪气盛,正气亦虚\nD: 邪盛正虚,但正气尚耐攻伐\nE: 以上都不是\nCorrect answer: B\n\nExample:\nMedical question: 下列何脉症均可见于麻杏石甘汤证和桂枝加厚朴杏子汤证()\nA: 口渴\nB: 脉数、无汗\nC: 苔黄\nD: 喘、汗出\nE: 头项强痛\nCorrect answer: D\n\nExample:\nMedical question: 下列哪一种是对《伤寒论》中广义伤寒概念的正确论述\nA: 以发热为主要症状的疾病\nB: 一切外感热病的总称\nC: 感受寒邪，感而即发的疾病\nD: 以恶寒、发热、头痛、无汗为主要临床表现的证候\nE: 由伤寒杆菌引起的疾病\nCorrect answer: B\n\n\n\nQuestion: 麻黄升麻汤证的主要病机是()。\nA: 上热下寒,寒热错杂\nB: 正伤邪陷,肺热脾寒\nC: 痰热阻滞,肺失宣降\nD: 痰饮内阻,阳不外达\nE: 痰火郁结,薰蒸于上\n\nProvide the correct option.",
+        "prediction": [
+            "A: 上热下寒,寒热错杂"
+        ],
+        "gold": "B"
+    },
+    "52": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 燥干清窍，其症可见\nA: 耳鸣\nB: 目赤\nC: 苔薄黄脉数\nD: 干咳无痰\nE: 龈肿咽痛\nCorrect answer: ABCE\n\nExample:\nMedical question: 以局部红肿热痛及溃烂为主要表现的温病，其病因是\nA: 风热病邪\nB: 暑热病邪\nC: 湿热病邪\nD: 燥热病邪\nE: 温毒病邪\nCorrect answer: E\n\nExample:\nMedical question: 症见：低热、手足蠕动、形消神倦、齿黑唇焦、舌干绛、脉细数，治宜\nA: 清热保津\nB: 平肝息风\nC: 滋阴息风\nD: 滋阴润燥\nE: 补益气阴\nCorrect answer: C\n\nExample:\nMedical question: 四海舒郁丸中有\nA: 海带\nB: 海藻\nC: 海螵蛸\nD: 海浮石\nE: 海蛤壳\nCorrect answer: ABCE\n\nExample:\nMedical question: 温病后期，“夜热早凉，热退无汗，热自阴来者”，治用\nA: 六味地黄丸\nB: 青蒿鳖甲汤\nC: 大定风珠\nD: 加减复脉汤\nE: 复脉汤\nCorrect answer: B\n\n\n\nQuestion: 薛生白对湿热病发病特点的论述有\nA: 邪由口鼻而入者十之八九\nB: 邪从表伤者十之一二\nC: 太阴内伤，湿饮停聚，客邪再至，内外相引，故病湿热\nD: 内不能运水谷之湿，外复感时令之湿\nE: 有先因于湿，再因饥劳而病者\n\nProvide the correct option.",
+        "prediction": [
+            "ABCD"
+        ],
+        "gold": "ABCE"
+    },
+    "53": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 肾精化为生殖之精以施泄，依靠于\nA: 肾阳温煦\nB: 肾阴凉润\nC: 天癸促发\nD: 脾胃运化\nE: 肝气疏泄\nCorrect answer: C\n\nExample:\nMedical question: 易致人体阴阳失调的饮食因素是\nA: 饮食过饥\nB: 饮食过饱\nC: 五味偏嗜\nD: 寒热偏嗜\nE: 饮食不洁\nCorrect answer: D\n\nExample:\nMedical question: 下列哪一项不直接属于阴阳互根的关系\nA: 阳在外，阴之使也\nB: 孤阴不生，独阳不长\nC: 阴在内，阳之守也\nD: 重阴必阳，重阳必阴\nE: 阴损及阳，阳损及阴\nCorrect answer: D\n\nExample:\nMedical question: 1-内脏下垂的主要病机是\nA: 宗气虚\nB: 胃气虚\nC: 脾气虚\nD: 肾气虚\nE: 肺气虚\nCorrect answer: C\n\nExample:\nMedical question: 机体的阴气不足与下列哪项关系最为密切\nA: 心阴\nB: 胃阴\nC: 肾阴\nD: 肺阴\nE: 肝阴\nCorrect answer: C\n\n\n\nQuestion: 六淫致病的共同特点有\nA: 外感性\nB: 季节性\nC: 流行性\nD: 地域性\nE: 相兼性\n\nProvide the correct option.",
+        "prediction": [
+            "A: 外感性,季节性,地域性,相兼性"
+        ],
+        "gold": "ABDE"
+    },
+    "54": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 麻黄升麻汤证的主要病机是()。\nA: 上热下寒,寒热错杂\nB: 正伤邪陷,肺热脾寒\nC: 痰热阻滞,肺失宣降\nD: 痰饮内阻,阳不外达\nE: 痰火郁结,薰蒸于上\nCorrect answer: B\n\nExample:\nMedical question: 原文“少阴病,下利,咽中伤,生疮,不能语言,声不出者”其治疗方剂是()\nA: 甘草汤\nB: 桔梗汤\nC: 苦酒汤\nD: 半夏散及汤\nE: 猪肤汤\nCorrect answer: C\n\nExample:\nMedical question: 厥证的基本病机是()\nA: 气滞血瘀,气机不行\nB: 寒热错杂,气机逆乱\nC: 阴阳二气不相顺接\nD: 阳气虚衰\nE: 阴液亏虚\nCorrect answer: C\n\nExample:\nMedical question: 患者目赤而痒，迎风尤甚，多为\nA: 外感风寒\nB: 外感风热\nC: 湿热兼风\nD: 血虚生风\nE: 以上都不是\nCorrect answer: B\n\nExample:\nMedical question: 最早的麻风隔离病院建在（）\nA: 唐代\nB: 宋代\nC: 秦代\nD: 明代\nE: 以上都不是\nCorrect answer: C\n\n\n\nQuestion: 扶正的治则适用于\nA: 邪气盛,正气未衰\nB: 正气虚,邪气不盛\nC: 邪气盛,正气亦虚\nD: 邪盛正虚,但正气尚耐攻伐\nE: 以上都不是\n\nProvide the correct option.",
+        "prediction": [
+            "B"
+        ],
+        "gold": "B"
+    },
+    "55": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 16-亡阴患者出汗的特点是\nA: 自汗\nB: 盗汗\nC: 大汗\nD: 半身汗出\nE: 以上均不对\nCorrect answer: E\n\nExample:\nMedical question: 舌质的荣枯反映了\nA: 舌体运动是否灵活\nB: 舌质有神或无神\nC: 舌色淡红或淡白\nD: 舌质润泽或干枯\nE: 以上均不对\nCorrect answer: B\n\nExample:\nMedical question: 哪项属于察舌形的内容\nA: 腐腻\nB: 强硬\nC: 裂纹\nD: 卷缩\nE: 红绛\nCorrect answer: C\n\nExample:\nMedical question: 三部脉举按皆充实有力，其势来去皆盛的脉象是\nA: 实脉\nB: 洪脉\nC: 革脉\nD: 弦脉\nE: 紧脉\nCorrect answer: A\n\nExample:\nMedical question: 耳郭瘦小而薄，多属\nA: 气血亏虚\nB: 肾精亏耗\nC: 出麻先兆\nD: 肾气不足\nE: 肝胆湿热熏蒸\nCorrect answer: D\n\n\n\nQuestion: 肺脾气虚的临床表现是\nA: 腰腹冷痛，面浮肢肿\nB: 急躁易怒，腹胀便溏\nC: 畏寒肢冷，唇甲青紫\nD: 畏寒肢冷，久泻久痢\nE: 久咳不止，食欲不振\n\nProvide the correct option.",
+        "prediction": [
+            "E"
+        ],
+        "gold": "E"
+    },
+    "56": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 房劳过度，易损伤的脏腑是\nA: 心\nB: 脾\nC: 肝\nD: 肺\nE: 肾\nCorrect answer: E\n\nExample:\nMedical question: 以精虚为主的脏有\nA: 心\nB: 肝\nC: 脾\nD: 肺\nE: 肾\nCorrect answer: CE\n\nExample:\nMedical question: 安神药的归经是\nA: 心\nB: 肝\nC: 肺\nD: 肾\nE: \nCorrect answer: AB\n\nExample:\nMedical question: 噎膈之病位是\nA: 食道\nB: 脾胃\nC: 脾\nD: 胃\nE: \nCorrect answer: A\n\nExample:\nMedical question: 1-新加香薷饮适用于\nA: 风寒感冒\nB: 风热感冒\nC: 暑湿感冒\nD: 气虚感冒\nE: 阴虚感冒\nCorrect answer: C\n\n\n\nQuestion: 8-上述脏器中，其液为涎的是（）\nA: 心\nB: 肺\nC: 脾\nD: 肝\nE: 肾\n\nProvide the correct option.",
+        "prediction": [
+            "C"
+        ],
+        "gold": "C"
+    },
+    "57": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 下列哪一项不直接属于阴阳互根的关系\nA: 阳在外，阴之使也\nB: 孤阴不生，独阳不长\nC: 阴在内，阳之守也\nD: 重阴必阳，重阳必阴\nE: 阴损及阳，阳损及阴\nCorrect answer: D\n\nExample:\nMedical question: 具有调节女子行经及男子排精功能的两脏是\nA: 心与肾\nB: 肺与肾\nC: 脾与肾\nD: 肝与肾\nE: 肝与脾\nCorrect answer: D\n\nExample:\nMedical question: 肾精化为生殖之精以施泄，依靠于\nA: 肾阳温煦\nB: 肾阴凉润\nC: 天癸促发\nD: 脾胃运化\nE: 肝气疏泄\nCorrect answer: C\n\nExample:\nMedical question: 机体的阴气不足与下列哪项关系最为密切\nA: 心阴\nB: 胃阴\nC: 肾阴\nD: 肺阴\nE: 肝阴\nCorrect answer: C\n\nExample:\nMedical question: 痰湿质应慎用的是\nA: 肥甘厚味\nB: 清淡饮食\nC: 生冷之品\nD: 甘润生津之味\nE: 辛辣燥烈之味\nCorrect answer: A\n\n\n\nQuestion: 易致人体阴阳失调的饮食因素是\nA: 饮食过饥\nB: 饮食过饱\nC: 五味偏嗜\nD: 寒热偏嗜\nE: 饮食不洁\n\nProvide the correct option.",
+        "prediction": [
+            "The correct answer is D: 寒热偏嗜."
+        ],
+        "gold": "D"
+    },
+    "58": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 下列哪项不是证的转化？\nA: 表证转化为里证\nB: 里证转化为表证\nC: 寒证转化为热证\nD: 热证转化为寒证\nE: 实证转化为虚证\nCorrect answer: B\n\nExample:\nMedical question: 手足蠕动多缘于\nA: 热极生风\nB: 虚风内动\nC: 痫证\nD: 破伤风\nE: 中风\nCorrect answer: B\n\nExample:\nMedical question: 舌质的荣枯反映了\nA: 舌体运动是否灵活\nB: 舌质有神或无神\nC: 舌色淡红或淡白\nD: 舌质润泽或干枯\nE: 以上均不对\nCorrect answer: B\n\nExample:\nMedical question: 13-实热证患者可见\nA: 口唇淡白\nB: 口唇深红\nC: 口唇樱桃红色\nD: 口唇青紫\nE: 口唇青黑\nF: 口唇干裂\nCorrect answer: B\n\nExample:\nMedical question: 三部脉举按皆充实有力，其势来去皆盛的脉象是\nA: 实脉\nB: 洪脉\nC: 革脉\nD: 弦脉\nE: 紧脉\nCorrect answer: A\n\n\n\nQuestion: 浮取、中取均不见，用重指力直接按至骨上，推动筋肉才能触到脉动者是\nA: 沉脉\nB: 伏脉\nC: 牢脉\nD: 微脉\nE: 短脉\n\nProvide the correct option.",
+        "prediction": [
+            "A: 沉脉"
+        ],
+        "gold": "B"
+    },
+    "59": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 肾精化为生殖之精以施泄，依靠于\nA: 肾阳温煦\nB: 肾阴凉润\nC: 天癸促发\nD: 脾胃运化\nE: 肝气疏泄\nCorrect answer: C\n\nExample:\nMedical question: 易致人体阴阳失调的饮食因素是\nA: 饮食过饥\nB: 饮食过饱\nC: 五味偏嗜\nD: 寒热偏嗜\nE: 饮食不洁\nCorrect answer: D\n\nExample:\nMedical question: 下列哪一项不直接属于阴阳互根的关系\nA: 阳在外，阴之使也\nB: 孤阴不生，独阳不长\nC: 阴在内，阳之守也\nD: 重阴必阳，重阳必阴\nE: 阴损及阳，阳损及阴\nCorrect answer: D\n\nExample:\nMedical question: 1-内脏下垂的主要病机是\nA: 宗气虚\nB: 胃气虚\nC: 脾气虚\nD: 肾气虚\nE: 肺气虚\nCorrect answer: C\n\nExample:\nMedical question: 机体的阴气不足与下列哪项关系最为密切\nA: 心阴\nB: 胃阴\nC: 肾阴\nD: 肺阴\nE: 肝阴\nCorrect answer: C\n\n\n\nQuestion: 与冲脉相关的称谓有\nA: 血海\nB: 气海\nC: 十二经脉之海\nD: 阴脉之海\nE: 五脏六腑之海\n\nProvide the correct option.",
+        "prediction": [
+            "A: 血海, 十二经脉之海, 阴脉之海, 五脏六腑之海"
+        ],
+        "gold": "ACE"
+    },
+    "60": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 最早的麻风隔离病院建在（）\nA: 唐代\nB: 宋代\nC: 秦代\nD: 明代\nE: 以上都不是\nCorrect answer: C\n\nExample:\nMedical question: 我国近代最早去西方学习医学的人为（）\nA: 鲁迅\nB: 伍连德\nC: 黄宽\nD: 杜聪明\nE: 闫德润\nCorrect answer: C\n\nExample:\nMedical question: 有“方书之祖”之称的是\nA: 《千金方》\nB: 《五十二病方》\nC: 《伤寒杂病论》\nD: 《黄帝内经》\nE: \nCorrect answer: C\n\nExample:\nMedical question: 安神药的归经是\nA: 心\nB: 肝\nC: 肺\nD: 肾\nE: \nCorrect answer: AB\n\nExample:\nMedical question: 症见恶寒发热，无汗，头痛身痛，口渴引饮，心烦尿黄，咳喘痰黄舌红苔薄黄者，属于\nA: 表寒里热\nB: 表里俱实\nC: 寒郁化热\nD: 真热假寒\nE: \nCorrect answer: AB\n\n\n\nQuestion: 反映西汉以前医药养生保健的发展状况，对今天的养生学、性医学、老年病学研究有一定参考意义的著作有\nA: 《养生方》\nB: 《杂疗方》\nC: 《胎产书》\nD: 《五十二病方》\nE: 《治百病方》\n\nProvide the correct option.",
+        "prediction": [
+            "The correct options are: A, B, C, D, E."
+        ],
+        "gold": "AB"
+    },
+    "61": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 麻黄升麻汤证的主要病机是()。\nA: 上热下寒,寒热错杂\nB: 正伤邪陷,肺热脾寒\nC: 痰热阻滞,肺失宣降\nD: 痰饮内阻,阳不外达\nE: 痰火郁结,薰蒸于上\nCorrect answer: B\n\nExample:\nMedical question: 原文“少阴病,下利,咽中伤,生疮,不能语言,声不出者”其治疗方剂是()\nA: 甘草汤\nB: 桔梗汤\nC: 苦酒汤\nD: 半夏散及汤\nE: 猪肤汤\nCorrect answer: C\n\nExample:\nMedical question: 扶正的治则适用于\nA: 邪气盛,正气未衰\nB: 正气虚,邪气不盛\nC: 邪气盛,正气亦虚\nD: 邪盛正虚,但正气尚耐攻伐\nE: 以上都不是\nCorrect answer: B\n\nExample:\nMedical question: 下列何脉症均可见于麻杏石甘汤证和桂枝加厚朴杏子汤证()\nA: 口渴\nB: 脉数、无汗\nC: 苔黄\nD: 喘、汗出\nE: 头项强痛\nCorrect answer: D\n\nExample:\nMedical question: 甘草泻心汤证与半夏泻心汤证、生姜泻心汤证比较，主要特征在于：\nA: 以痞满而呕，肠鸣下利为主\nB: 以心下痞，干噫食臭，腹中雷鸣，下利为主\nC: 以痞利俱甚，谷不化为主\nD: 以胃中不和，心下痞硬，腹中雷鸣为主\nE: 以心下痞硬，按之濡软为主\nCorrect answer: C\n\n\n\nQuestion: 厥证的基本病机是()\nA: 气滞血瘀,气机不行\nB: 寒热错杂,气机逆乱\nC: 阴阳二气不相顺接\nD: 阳气虚衰\nE: 阴液亏虚\n\nProvide the correct option.",
+        "prediction": [
+            "C"
+        ],
+        "gold": "C"
+    },
+    "62": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: “以热治寒”适用于\nA: 阴偏盛\nB: 阳偏盛\nC: 阴偏衰\nD: 阴阳两虚\nE: 阴盛阳衰\nCorrect answer: A\n\nExample:\nMedical question: “壮水之主，以制阳光”所指的治法是\nA: 阴中求阳\nB: 阴病治阳\nC: 阳中求阴\nD: 阳病治阴\nE: 阴阳互济\nCorrect answer: D\n\nExample:\nMedical question: “血之余”指的是\nA: 爪\nB: 皮\nC: 肉\nD: 发\nE: 骨\nCorrect answer: D\n\nExample:\nMedical question: “阴病治阳”适用于\nA: 实热证\nB: 实寒证\nC: 虚热证\nD: 虚寒证\nE: 寒热错杂证\nCorrect answer: D\n\nExample:\nMedical question: 创立“三焦辨证”理论的医家是\nA: 朱丹溪\nB: 吴鞠通\nC: 吴又可\nD: 刘完素\nE: 薛生白\nCorrect answer: B\n\n\n\nQuestion: 中医学描述肺“虚如蜂巢”所体现的思维方式是\nA: 形象思维\nB: 意象思维\nC: 应象思维\nD: 抽象思维\nE: 逻辑思维\n\nProvide the correct option.",
+        "prediction": [
+            "The correct answer is B: 意象思维."
+        ],
+        "gold": "A"
+    },
+    "63": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 急惊风惊忍惊风证治疗首选方剂是\nA: 琥珀抱龙丸\nB: 远志丸\nC: 镇惊丸\nD: 菖蒲丸\nE: 磁朱丸\nCorrect answer: A\n\nExample:\nMedical question: 人工喂养时，婴儿每日每千克体重约需加糖牛奶量和另需加水的量分别为\nA: 110ml、150ml\nB: 110ml、40ml\nC: 150ml、40ml\nD: 1100ml、1500ml\nE: 1500ml、400ml\nCorrect answer: B\n\nExample:\nMedical question: 患儿，11个月。母乳喂养，未添加辅食。近来发现食欲不振，面色萎黄，唇甲色淡，大便偏稀，舌淡苔白，指纹淡红。查血: HGB: 92g/L. RBC: 3.5×1012/L。辨证为\nA: 心脾两虚\nB: 脾胃虚弱\nC: 肝肾阴虚\nD: 气血亏虚\nE: 脾肾阳虚\nCorrect answer: B\n\nExample:\nMedical question: 心悸之阴虚火旺证不宜选用哪个方剂\nA: 知柏地黄丸\nB: 天王补心丹\nC: 当归六黄汤\nD: 朱砂安神丸\nE: \nCorrect answer: C\n\nExample:\nMedical question: 龙胆泻肝汤出自下列哪本著作\nA: 《丹溪心法》\nB: 《伤寒论》\nC: 《医方集解》\nD: 《景岳全书》\nE: \nCorrect answer: C\n\n\n\nQuestion: 患儿，1岁。证见：高热烦躁，咳嗽微喘，气急鼻煽，喉中痰鸣，面色红赤，便干尿黄，舌红苔黄，脉滑数，指纹紫滞。其证候是\nA: 风寒闭肺证\nB: 风热闭肺证\nC: 痰热闭肺证\nD: 毒热闭肺证\nE: 阴虚肺热证\n\nProvide the correct option.",
+        "prediction": [
+            "The correct answer is C: 痰热闭肺证."
+        ],
+        "gold": "C"
+    },
+    "64": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 半夏麻黄丸治疗作用为\nA: 蠲饮消水\nB: 降逆定悸\nC: 宣发阳气\nD: 发汗平喘\nE: 解表散寒\nCorrect answer: B\n\nExample:\nMedical question: 使用大青龙汤治疗溢饮，应注意\nA: 峻发其汗\nB: 宣肺泄热\nC: 取微似汗\nD: 利水化饮\nE: 淡渗利尿\nCorrect answer: C\n\nExample:\nMedical question: 下列不属于肾气丸的治疗特点是\nA: 助阳化水\nB: 脾肾同治\nC: 补泄兼施\nD: 凉血清热\nE: 滋阴生气\nCorrect answer: D\n\nExample:\nMedical question: 百合病的基本治则是\nA: 益气生津\nB: 滋养肺胃\nC: 养阴清热\nD: 养心安神\nE: 清心润燥\nCorrect answer: C\n\nExample:\nMedical question: 从《金匮要略》条文中可看出，张仲最治疗虚劳病调补脏腑首先是\nA: 调补脾肾\nB: 调补肝脾\nC: 调补心肺\nD: 调补肝肾\nE: 调补肺肾\nCorrect answer: A\n\n\n\nQuestion: 脾阳虚波及子肺累于母心致心肺阳气俱虚，胸上有寒者，其面色可见\nA: 黄而鲜\nB: 黄而晦\nC: 苍白\nD: 黑而晦\nE: 青紫\n\nProvide the correct option.",
+        "prediction": [
+            "E"
+        ],
+        "gold": "B"
+    },
+    "65": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 正常瞳孔大小范围\nA: 1~2.5毫米\nB: 2~3毫米\nC: 4~5毫米\nD: 2.5~4毫米\nE: 5~6毫米\nCorrect answer: D\n\nExample:\nMedical question: 双眼上胞下垂，起病缓慢，晨起病轻，午后加重，休息后减轻，劳累后加重，辨证考虑为\nA: 先天不足\nB: 脾虚气弱\nC: 肝肾亏虚\nD: 风痰阻络\nE: 肝郁气滞\nCorrect answer: B\n\nExample:\nMedical question: 患者目赤而痒，迎风尤甚，多为\nA: 外感风寒\nB: 外感风热\nC: 湿热兼风\nD: 血虚生风\nE: 以上都不是\nCorrect answer: B\n\nExample:\nMedical question: 患者常在情绪波动、过劳或睡眠不足等情况下出现眼胀、头痛、不耐久视，中心视力较好，视野日渐缩小，平时自觉症状不明显或无症状。该病首先考虑的诊断是\nA: 绿风内障\nB: 青风内障\nC: 黑风内障\nD: 乌风内障\nE: 黄风内障\nCorrect answer: B\n\nExample:\nMedical question: 8-视杆细胞司\nA: 明视觉和无色视觉\nB: 明视觉和色觉\nC: 暗视觉和无色视觉\nD: 暗视觉和色觉\nE: 明视觉和暗视觉\nCorrect answer: C\n\n\n\nQuestion: 眵多硬结，多属\nA: 肺经实热\nB: 肺经虚热\nC: 肝胆火炽\nD: 湿热壅滞\nE: 心火上炎\n\nProvide the correct option.",
+        "prediction": [
+            "A: 肺经实热"
+        ],
+        "gold": "A"
+    },
+    "66": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 下列哪项不是眩晕肝阳上亢证的主症\nA: 头痛\nB: 面赤\nC: 烦躁\nD: 口苦\nE: 呕吐\nCorrect answer: E\n\nExample:\nMedical question: 下列哪项不是气鼓的特征\nA: 嗳气或矢气则舒\nB: 腹部按之空空然\nC: 腹部膨隆\nD: 腹皮青筋显露\nE: 叩之如鼓\nCorrect answer: D\n\nExample:\nMedical question: 癫狂的病位最主要是在\nA: 心、肝\nB: 肝、脾\nC: 脾、肾\nD: 肝、胆\nE: 心、肾\nCorrect answer: A\n\nExample:\nMedical question: 治疗痰饮的总则是\nA: 发汗\nB: 利水\nC: 逐饮\nD: 温化\nE: 祛湿\nCorrect answer: D\n\nExample:\nMedical question: 感冒之名最早见于\nA: 《仁斋直指方》\nB: 《诸病源候论》\nC: 《医学源流论》\nD: 《丹溪心法》\nE: 《证治汇补》\nCorrect answer: A\n\n\n\nQuestion: 某男，68岁，头摇不止，肢麻震颤，头晕目眩，胸脘痞闷，口苦口粘，舌体胖大，有齿痕，舌质红，苔黄腻，脉弦滑数，证属颤证之\nA: 阳气虚衰证\nB: 气血亏虚证\nC: 痰热风动证\nD: 髓海不足证\nE: 风阳内动证\n\nProvide the correct option.",
+        "prediction": [
+            "E"
+        ],
+        "gold": "C"
+    },
+    "67": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 下列哪一项不直接属于阴阳互根的关系\nA: 阳在外，阴之使也\nB: 孤阴不生，独阳不长\nC: 阴在内，阳之守也\nD: 重阴必阳，重阳必阴\nE: 阴损及阳，阳损及阴\nCorrect answer: D\n\nExample:\nMedical question: 易致人体阴阳失调的饮食因素是\nA: 饮食过饥\nB: 饮食过饱\nC: 五味偏嗜\nD: 寒热偏嗜\nE: 饮食不洁\nCorrect answer: D\n\nExample:\nMedical question: 肾精化为生殖之精以施泄，依靠于\nA: 肾阳温煦\nB: 肾阴凉润\nC: 天癸促发\nD: 脾胃运化\nE: 肝气疏泄\nCorrect answer: C\n\nExample:\nMedical question: 机体的阴气不足与下列哪项关系最为密切\nA: 心阴\nB: 胃阴\nC: 肾阴\nD: 肺阴\nE: 肝阴\nCorrect answer: C\n\nExample:\nMedical question: 痰湿质应慎用的是\nA: 肥甘厚味\nB: 清淡饮食\nC: 生冷之品\nD: 甘润生津之味\nE: 辛辣燥烈之味\nCorrect answer: A\n\n\n\nQuestion: 具有调节女子行经及男子排精功能的两脏是\nA: 心与肾\nB: 肺与肾\nC: 脾与肾\nD: 肝与肾\nE: 肝与脾\n\nProvide the correct option.",
+        "prediction": [
+            "The correct answer is D: 肝与肾."
+        ],
+        "gold": "D"
+    },
+    "68": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 以精虚为主的脏有\nA: 心\nB: 肝\nC: 脾\nD: 肺\nE: 肾\nCorrect answer: CE\n\nExample:\nMedical question: 8-上述脏器中，其液为涎的是（）\nA: 心\nB: 肺\nC: 脾\nD: 肝\nE: 肾\nCorrect answer: C\n\nExample:\nMedical question: 安神药的归经是\nA: 心\nB: 肝\nC: 肺\nD: 肾\nE: \nCorrect answer: AB\n\nExample:\nMedical question: 噎膈之病位是\nA: 食道\nB: 脾胃\nC: 脾\nD: 胃\nE: \nCorrect answer: A\n\nExample:\nMedical question: 1-属于病机第二层次的是\nA: 精气血津液失常病机\nB: 经络病机\nC: 三焦病机\nD: 痰饮病机\nE: 疼痛病机\nCorrect answer: B\n\n\n\nQuestion: 房劳过度，易损伤的脏腑是\nA: 心\nB: 脾\nC: 肝\nD: 肺\nE: 肾\n\nProvide the correct option.",
+        "prediction": [
+            "E"
+        ],
+        "gold": "E"
+    },
+    "69": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 下列哪项不是气鼓的特征\nA: 嗳气或矢气则舒\nB: 腹部按之空空然\nC: 腹部膨隆\nD: 腹皮青筋显露\nE: 叩之如鼓\nCorrect answer: D\n\nExample:\nMedical question: 某男，68岁，头摇不止，肢麻震颤，头晕目眩，胸脘痞闷，口苦口粘，舌体胖大，有齿痕，舌质红，苔黄腻，脉弦滑数，证属颤证之\nA: 阳气虚衰证\nB: 气血亏虚证\nC: 痰热风动证\nD: 髓海不足证\nE: 风阳内动证\nCorrect answer: C\n\nExample:\nMedical question: 下列哪项不是眩晕肝阳上亢证的主症\nA: 头痛\nB: 面赤\nC: 烦躁\nD: 口苦\nE: 呕吐\nCorrect answer: E\n\nExample:\nMedical question: 感冒之名最早见于\nA: 《仁斋直指方》\nB: 《诸病源候论》\nC: 《医学源流论》\nD: 《丹溪心法》\nE: 《证治汇补》\nCorrect answer: A\n\nExample:\nMedical question: 癫狂的病位最主要是在\nA: 心、肝\nB: 肝、脾\nC: 脾、肾\nD: 肝、胆\nE: 心、肾\nCorrect answer: A\n\n\n\nQuestion: 治疗痰饮的总则是\nA: 发汗\nB: 利水\nC: 逐饮\nD: 温化\nE: 祛湿\n\nProvide the correct option.",
+        "prediction": [
+            "D"
+        ],
+        "gold": "D"
+    },
+    "70": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 1-属于病机第二层次的是\nA: 精气血津液失常病机\nB: 经络病机\nC: 三焦病机\nD: 痰饮病机\nE: 疼痛病机\nCorrect answer: B\n\nExample:\nMedical question: 病人先有高热、烦渴、脉洪数，继则全身皮疹、热退、脉静，其病机变化属\nA: 里病出表\nB: 热极生寒\nC: 热盛伤气\nD: 由实转虚\nE: 温病逆传\nCorrect answer: A\n\nExample:\nMedical question: 肾精化为生殖之精以施泄，依靠于\nA: 肾阳温煦\nB: 肾阴凉润\nC: 天癸促发\nD: 脾胃运化\nE: 肝气疏泄\nCorrect answer: C\n\nExample:\nMedical question: 具有调节女子行经及男子排精功能的两脏是\nA: 心与肾\nB: 肺与肾\nC: 脾与肾\nD: 肝与肾\nE: 肝与脾\nCorrect answer: D\n\nExample:\nMedical question: 痰湿质应慎用的是\nA: 肥甘厚味\nB: 清淡饮食\nC: 生冷之品\nD: 甘润生津之味\nE: 辛辣燥烈之味\nCorrect answer: A\n\n\n\nQuestion: 大怒不止，可见飧泄，脘腹胀痛，呕血等表现，其病机是\nA: 肝气郁结\nB: 肝气横逆脾胃\nC: 肝火上传心包\nD: 肠胃不和\nE: 肝肺不调\n\nProvide the correct option.",
+        "prediction": [
+            "B"
+        ],
+        "gold": "B"
+    },
+    "71": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: “壮水之主，以制阳光”所指的治法是\nA: 阴中求阳\nB: 阴病治阳\nC: 阳中求阴\nD: 阳病治阴\nE: 阴阳互济\nCorrect answer: D\n\nExample:\nMedical question: 以精虚为主的脏有\nA: 心\nB: 肝\nC: 脾\nD: 肺\nE: 肾\nCorrect answer: CE\n\nExample:\nMedical question: “阴病治阳”适用于\nA: 实热证\nB: 实寒证\nC: 虚热证\nD: 虚寒证\nE: 寒热错杂证\nCorrect answer: D\n\nExample:\nMedical question: 肾精化为生殖之精以施泄，依靠于\nA: 肾阳温煦\nB: 肾阴凉润\nC: 天癸促发\nD: 脾胃运化\nE: 肝气疏泄\nCorrect answer: C\n\nExample:\nMedical question: 易致人体阴阳失调的饮食因素是\nA: 饮食过饥\nB: 饮食过饱\nC: 五味偏嗜\nD: 寒热偏嗜\nE: 饮食不洁\nCorrect answer: D\n\n\n\nQuestion: 下列哪项属于阴阳互济的补虚方法\nA: 阳病治阴\nB: 阴病治阳\nC: 阴中求阳\nD: 阴阳并补\nE: 阳中求阴\n\nProvide the correct option.",
+        "prediction": [
+            "The correct answer is C: Yin-nourishing to secure Yang."
+        ],
+        "gold": "CE"
+    },
+    "72": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 具有调节女子行经及男子排精功能的两脏是\nA: 心与肾\nB: 肺与肾\nC: 脾与肾\nD: 肝与肾\nE: 肝与脾\nCorrect answer: D\n\nExample:\nMedical question: 易致人体阴阳失调的饮食因素是\nA: 饮食过饥\nB: 饮食过饱\nC: 五味偏嗜\nD: 寒热偏嗜\nE: 饮食不洁\nCorrect answer: D\n\nExample:\nMedical question: 肾精化为生殖之精以施泄，依靠于\nA: 肾阳温煦\nB: 肾阴凉润\nC: 天癸促发\nD: 脾胃运化\nE: 肝气疏泄\nCorrect answer: C\n\nExample:\nMedical question: 机体的阴气不足与下列哪项关系最为密切\nA: 心阴\nB: 胃阴\nC: 肾阴\nD: 肺阴\nE: 肝阴\nCorrect answer: C\n\nExample:\nMedical question: 痰湿质应慎用的是\nA: 肥甘厚味\nB: 清淡饮食\nC: 生冷之品\nD: 甘润生津之味\nE: 辛辣燥烈之味\nCorrect answer: A\n\n\n\nQuestion: 下列哪一项不直接属于阴阳互根的关系\nA: 阳在外，阴之使也\nB: 孤阴不生，独阳不长\nC: 阴在内，阳之守也\nD: 重阴必阳，重阳必阴\nE: 阴损及阳，阳损及阴\n\nProvide the correct option.",
+        "prediction": [
+            "The correct answer is D: \"重阴必阳，重阳必阴\". This option does not directly represent the concept of yin and yang mutually generating each other, but rather describes a phenomenon where extreme conditions of yin or yang can transform into their opposite. The other options (A, B, C, E) all illustrate the mutual generation and support between yin and yang."
+        ],
+        "gold": "D"
+    },
+    "73": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 患儿，1岁。证见：高热烦躁，咳嗽微喘，气急鼻煽，喉中痰鸣，面色红赤，便干尿黄，舌红苔黄，脉滑数，指纹紫滞。其证候是\nA: 风寒闭肺证\nB: 风热闭肺证\nC: 痰热闭肺证\nD: 毒热闭肺证\nE: 阴虚肺热证\nCorrect answer: C\n\nExample:\nMedical question: 急惊风惊忍惊风证治疗首选方剂是\nA: 琥珀抱龙丸\nB: 远志丸\nC: 镇惊丸\nD: 菖蒲丸\nE: 磁朱丸\nCorrect answer: A\n\nExample:\nMedical question: 患儿，11个月。母乳喂养，未添加辅食。近来发现食欲不振，面色萎黄，唇甲色淡，大便偏稀，舌淡苔白，指纹淡红。查血: HGB: 92g/L. RBC: 3.5×1012/L。辨证为\nA: 心脾两虚\nB: 脾胃虚弱\nC: 肝肾阴虚\nD: 气血亏虚\nE: 脾肾阳虚\nCorrect answer: B\n\nExample:\nMedical question: 谵语的病机是\nA: 心气大伤，精神散乱\nB: 热扰心神，神明失主\nC: 心气不足，神失所养\nD: 气郁痰结，阻蔽心窍\nE: \nCorrect answer: B\n\nExample:\nMedical question: 在治疗风寒咳嗽时，苦杏仁配伍麻黄主要起下列何项作用\nA: 止咳化痰，降气平喘\nB: 发散风寒，宣肺平喘\nC: 发汗解表，化痰止咳\nD: 发散风寒，泻肺平喘\nE: \nCorrect answer: B\n\n\n\nQuestion: 人工喂养时，婴儿每日每千克体重约需加糖牛奶量和另需加水的量分别为\nA: 110ml、150ml\nB: 110ml、40ml\nC: 150ml、40ml\nD: 1100ml、1500ml\nE: 1500ml、400ml\n\nProvide the correct option.",
+        "prediction": [
+            "A: 110ml、150ml"
+        ],
+        "gold": "B"
+    },
+    "74": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 明确提出“时行感冒”的医学著作为\nA: 《医学源流论》\nB: 《丹溪心法》\nC: 《仁斋直指方》\nD: «类证治裁》\nE: \nCorrect answer: D\n\nExample:\nMedical question: 龙胆泻肝汤出自下列哪本著作\nA: 《丹溪心法》\nB: 《伤寒论》\nC: 《医方集解》\nD: 《景岳全书》\nE: \nCorrect answer: C\n\nExample:\nMedical question: 癫狂的病位最主要是在\nA: 心、肝\nB: 肝、脾\nC: 脾、肾\nD: 肝、胆\nE: 心、肾\nCorrect answer: A\n\nExample:\nMedical question: 治疗痰饮的总则是\nA: 发汗\nB: 利水\nC: 逐饮\nD: 温化\nE: 祛湿\nCorrect answer: D\n\nExample:\nMedical question: 某男，68岁，头摇不止，肢麻震颤，头晕目眩，胸脘痞闷，口苦口粘，舌体胖大，有齿痕，舌质红，苔黄腻，脉弦滑数，证属颤证之\nA: 阳气虚衰证\nB: 气血亏虚证\nC: 痰热风动证\nD: 髓海不足证\nE: 风阳内动证\nCorrect answer: C\n\n\n\nQuestion: 感冒之名最早见于\nA: 《仁斋直指方》\nB: 《诸病源候论》\nC: 《医学源流论》\nD: 《丹溪心法》\nE: 《证治汇补》\n\nProvide the correct option.",
+        "prediction": [
+            "The correct answer is A: 《仁斋直指方》."
+        ],
+        "gold": "A"
+    },
+    "75": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 12-胆的主要生理功能是（）\nA: 贮存、排泄胆汁和主决断\nB: 条达情志\nC: 运化水谷津液\nD: 主通降和受纳腐熟水谷\nE: 升清到肺、心和头目\nCorrect answer: A\n\nExample:\nMedical question: 下列选项中，对诊断脾肺气虚证最有意义的是（）\nA: 咳喘咯痰，食少便溏\nB: 咯痰清稀，面白神疲\nC: 肢体浮肿，舌淡脉弱\nD: 气短而喘，声低懒言\nE: 纳少腹胀，身倦乏力\nCorrect answer: A\n\nExample:\nMedical question: 患者久咳，兼有便溏、乏力，医用六君子汤，治法属于（）\nA: 治病求本\nB: 益火消阴\nC: 标本兼治\nD: 塞因塞用\nE: 虚则补其母\nCorrect answer: E\n\nExample:\nMedical question: 1-新加香薷饮适用于\nA: 风寒感冒\nB: 风热感冒\nC: 暑湿感冒\nD: 气虚感冒\nE: 阴虚感冒\nCorrect answer: C\n\nExample:\nMedical question: 下列属于里实热证典型表现的\nA: 口不渴\nB: 口渴喜冷饮\nC: 口渴不欲饮\nD: 口渴欲饮，饮入即吐\nE: 口渴欲漱水而不欲咽\nCorrect answer: B\n\n\n\nQuestion: 弦脉的脉象是（）\nA: 形直体长\nB: 状如波涛\nC: 浮而搏指\nD: 脉形宽大\nE: 脉来绷紧\n\nProvide the correct option.",
+        "prediction": [
+            "E"
+        ],
+        "gold": "A"
+    },
+    "76": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 甘草泻心汤证与半夏泻心汤证、生姜泻心汤证比较，主要特征在于：\nA: 以痞满而呕，肠鸣下利为主\nB: 以心下痞，干噫食臭，腹中雷鸣，下利为主\nC: 以痞利俱甚，谷不化为主\nD: 以胃中不和，心下痞硬，腹中雷鸣为主\nE: 以心下痞硬，按之濡软为主\nCorrect answer: C\n\nExample:\nMedical question: 下列哪项不属于急下证的见症：\nA: 大便难\nB: 发热汗多\nC: 腹满痛\nD: 身微热\nE: 燥屎\nCorrect answer: E\n\nExample:\nMedical question: 下列何脉症均可见于麻杏石甘汤证和桂枝加厚朴杏子汤证()\nA: 口渴\nB: 脉数、无汗\nC: 苔黄\nD: 喘、汗出\nE: 头项强痛\nCorrect answer: D\n\nExample:\nMedical question: 白通加猪胆汁汤中用猪胆汁与人尿，下列关于其作用的描述那一项是错误的\nA: 引阳药入阴以防格拒\nB: 滋养阴液\nC: 益阴和阳\nD: 寓“逆者反治”之意\nE: 苦寒清热\nCorrect answer: E\n\nExample:\nMedical question: 厥证的基本病机是()\nA: 气滞血瘀,气机不行\nB: 寒热错杂,气机逆乱\nC: 阴阳二气不相顺接\nD: 阳气虚衰\nE: 阴液亏虚\nCorrect answer: C\n\n\n\nQuestion: 下列哪一种是对《伤寒论》中广义伤寒概念的正确论述\nA: 以发热为主要症状的疾病\nB: 一切外感热病的总称\nC: 感受寒邪，感而即发的疾病\nD: 以恶寒、发热、头痛、无汗为主要临床表现的证候\nE: 由伤寒杆菌引起的疾病\n\nProvide the correct option.",
+        "prediction": [
+            "E"
+        ],
+        "gold": "B"
+    },
+    "77": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 下列哪些不是五味子的功效\nA: 收敛固涩\nB: 益气生津\nC: 收湿敛疮\nD: 补肾宁心\nE: \nCorrect answer: C\n\nExample:\nMedical question: 使用大青龙汤治疗溢饮，应注意\nA: 峻发其汗\nB: 宣肺泄热\nC: 取微似汗\nD: 利水化饮\nE: 淡渗利尿\nCorrect answer: C\n\nExample:\nMedical question: 从《金匮要略》条文中可看出，张仲最治疗虚劳病调补脏腑首先是\nA: 调补脾肾\nB: 调补肝脾\nC: 调补心肺\nD: 调补肝肾\nE: 调补肺肾\nCorrect answer: A\n\nExample:\nMedical question: 半夏麻黄丸治疗作用为\nA: 蠲饮消水\nB: 降逆定悸\nC: 宣发阳气\nD: 发汗平喘\nE: 解表散寒\nCorrect answer: B\n\nExample:\nMedical question: 下列不属于肾气丸的治疗特点是\nA: 助阳化水\nB: 脾肾同治\nC: 补泄兼施\nD: 凉血清热\nE: 滋阴生气\nCorrect answer: D\n\n\n\nQuestion: 百合病的基本治则是\nA: 益气生津\nB: 滋养肺胃\nC: 养阴清热\nD: 养心安神\nE: 清心润燥\n\nProvide the correct option.",
+        "prediction": [
+            "The correct answer is C: 养阴清热."
+        ],
+        "gold": "C"
+    },
+    "78": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 下列哪项不属于急下证的见症：\nA: 大便难\nB: 发热汗多\nC: 腹满痛\nD: 身微热\nE: 燥屎\nCorrect answer: E\n\nExample:\nMedical question: 下列哪一种是对《伤寒论》中广义伤寒概念的正确论述\nA: 以发热为主要症状的疾病\nB: 一切外感热病的总称\nC: 感受寒邪，感而即发的疾病\nD: 以恶寒、发热、头痛、无汗为主要临床表现的证候\nE: 由伤寒杆菌引起的疾病\nCorrect answer: B\n\nExample:\nMedical question: 下列何脉症均可见于麻杏石甘汤证和桂枝加厚朴杏子汤证()\nA: 口渴\nB: 脉数、无汗\nC: 苔黄\nD: 喘、汗出\nE: 头项强痛\nCorrect answer: D\n\nExample:\nMedical question: 白通加猪胆汁汤中用猪胆汁与人尿，下列关于其作用的描述那一项是错误的\nA: 引阳药入阴以防格拒\nB: 滋养阴液\nC: 益阴和阳\nD: 寓“逆者反治”之意\nE: 苦寒清热\nCorrect answer: E\n\nExample:\nMedical question: 厥证的基本病机是()\nA: 气滞血瘀,气机不行\nB: 寒热错杂,气机逆乱\nC: 阴阳二气不相顺接\nD: 阳气虚衰\nE: 阴液亏虚\nCorrect answer: C\n\n\n\nQuestion: 甘草泻心汤证与半夏泻心汤证、生姜泻心汤证比较，主要特征在于：\nA: 以痞满而呕，肠鸣下利为主\nB: 以心下痞，干噫食臭，腹中雷鸣，下利为主\nC: 以痞利俱甚，谷不化为主\nD: 以胃中不和，心下痞硬，腹中雷鸣为主\nE: 以心下痞硬，按之濡软为主\n\nProvide the correct option.",
+        "prediction": [
+            "C"
+        ],
+        "gold": "C"
+    },
+    "79": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: “十全为上，十失一次之，十失二次之，十失三次之，十失四为下”，这种根据诊治患者的疗效判定等级是在（）\nA: 西周\nB: 春秋\nC: 晋代\nD: 唐代\nE: 宋代\nCorrect answer: A\n\nExample:\nMedical question: 我国近代最早去西方学习医学的人为（）\nA: 鲁迅\nB: 伍连德\nC: 黄宽\nD: 杜聪明\nE: 闫德润\nCorrect answer: C\n\nExample:\nMedical question: 患者目赤而痒，迎风尤甚，多为\nA: 外感风寒\nB: 外感风热\nC: 湿热兼风\nD: 血虚生风\nE: 以上都不是\nCorrect answer: B\n\nExample:\nMedical question: 川牛膝与怀牛膝功效的主要不同点是\nA: 川牛膝偏清上部火热，怀牛膝偏清下部湿热\nB: 川牛膝偏补肝肾，怀牛膝偏祛风湿\nC: 川牛膝偏于活血通经，怀牛膝偏于利尿通淋\nD: 川牛膝偏强腰膝，怀牛膝偏于活血通经\nE: 以上都不是\nCorrect answer: E\n\nExample:\nMedical question: 反映西汉以前医药养生保健的发展状况，对今天的养生学、性医学、老年病学研究有一定参考意义的著作有\nA: 《养生方》\nB: 《杂疗方》\nC: 《胎产书》\nD: 《五十二病方》\nE: 《治百病方》\nCorrect answer: AB\n\n\n\nQuestion: 最早的麻风隔离病院建在（）\nA: 唐代\nB: 宋代\nC: 秦代\nD: 明代\nE: 以上都不是\n\nProvide the correct option.",
+        "prediction": [
+            "E"
+        ],
+        "gold": "C"
+    },
+    "80": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 五苓散的药物组成是（）\nA: 茯苓\nB: 猪苓\nC: 泽泻\nD: 白术\nE: 桂枝\nCorrect answer: ABCDE\n\nExample:\nMedical question: 望神可知\nA: 正气存亡\nB: 脏腑盛衰\nC: 病情轻重\nD: 预后善恶\nE: 正邪盛衰\nCorrect answer: ABCDE\n\nExample:\nMedical question: 属于和解剂的是\nA: 小柴胡汤\nB: 逍遥散\nC: 半夏泻心汤\nD: 四逆散\nE: 痛泻要方\nCorrect answer: ABCDE\n\nExample:\nMedical question: 1-月经后期，量少色淡是\nA: 气虚\nB: 血虚\nC: 血瘀\nD: 肝郁\nE: \nCorrect answer: B\n\nExample:\nMedical question: 忽视调摄护理，会出现下列哪些情况\nA: 延误康复时间\nB: 食复\nC: 劳复\nD: 病情反复\nE: 不利于正气的恢复\nCorrect answer: ABCDE\n\n\n\nQuestion: 可导致瘀血的发生的常见因素是\nA: 气虚\nB: 气滞\nC: 血寒\nD: 血热\nE: 外伤\n\nProvide the correct option.",
+        "prediction": [
+            "Correct answer: ABCDE"
+        ],
+        "gold": "ABCDE"
+    },
+    "81": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 舌尖见青紫色斑点，多见于\nA: 心脉痹阻\nB: 肝脏瘀血\nC: 胃肠瘀血\nD: 膀胱蓄血\nE: 肾脏瘀血\nCorrect answer: A\n\nExample:\nMedical question: 手足蠕动多缘于\nA: 热极生风\nB: 虚风内动\nC: 痫证\nD: 破伤风\nE: 中风\nCorrect answer: B\n\nExample:\nMedical question: 8-郁火证面色常见\nA: 面色黄而无华\nB: 面白无华\nC: 面色青赤而晦黯\nD: 面色淡黄枯槁无泽\nE: 面色黑而干焦\nCorrect answer: C\n\nExample:\nMedical question: 肺脾气虚的临床表现是\nA: 腰腹冷痛，面浮肢肿\nB: 急躁易怒，腹胀便溏\nC: 畏寒肢冷，唇甲青紫\nD: 畏寒肢冷，久泻久痢\nE: 久咳不止，食欲不振\nCorrect answer: E\n\nExample:\nMedical question: 哪项属于察舌形的内容\nA: 腐腻\nB: 强硬\nC: 裂纹\nD: 卷缩\nE: 红绛\nCorrect answer: C\n\n\n\nQuestion: 三部脉举按皆充实有力，其势来去皆盛的脉象是\nA: 实脉\nB: 洪脉\nC: 革脉\nD: 弦脉\nE: 紧脉\n\nProvide the correct option.",
+        "prediction": [
+            "A: 实脉"
+        ],
+        "gold": "A"
+    },
+    "82": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 扶阳以制阴适用于\nA: 实热证\nB: 实寒证\nC: 虚热证\nD: 虚寒证\nE: \nCorrect answer: D\n\nExample:\nMedical question: “壮水之主，以制阳光”所指的治法是\nA: 阴中求阳\nB: 阴病治阳\nC: 阳中求阴\nD: 阳病治阴\nE: 阴阳互济\nCorrect answer: D\n\nExample:\nMedical question: “以热治寒”适用于\nA: 阴偏盛\nB: 阳偏盛\nC: 阴偏衰\nD: 阴阳两虚\nE: 阴盛阳衰\nCorrect answer: A\n\nExample:\nMedical question: “血之余”指的是\nA: 爪\nB: 皮\nC: 肉\nD: 发\nE: 骨\nCorrect answer: D\n\nExample:\nMedical question: 下列哪项属于阴阳互济的补虚方法\nA: 阳病治阴\nB: 阴病治阳\nC: 阴中求阳\nD: 阴阳并补\nE: 阳中求阴\nCorrect answer: CE\n\n\n\nQuestion: “阴病治阳”适用于\nA: 实热证\nB: 实寒证\nC: 虚热证\nD: 虚寒证\nE: 寒热错杂证\n\nProvide the correct option.",
+        "prediction": [
+            "The correct answer is D: 虚寒证."
+        ],
+        "gold": "D"
+    },
+    "83": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 下列哪项不是气鼓的特征\nA: 嗳气或矢气则舒\nB: 腹部按之空空然\nC: 腹部膨隆\nD: 腹皮青筋显露\nE: 叩之如鼓\nCorrect answer: D\n\nExample:\nMedical question: 感冒之名最早见于\nA: 《仁斋直指方》\nB: 《诸病源候论》\nC: 《医学源流论》\nD: 《丹溪心法》\nE: 《证治汇补》\nCorrect answer: A\n\nExample:\nMedical question: 某男，68岁，头摇不止，肢麻震颤，头晕目眩，胸脘痞闷，口苦口粘，舌体胖大，有齿痕，舌质红，苔黄腻，脉弦滑数，证属颤证之\nA: 阳气虚衰证\nB: 气血亏虚证\nC: 痰热风动证\nD: 髓海不足证\nE: 风阳内动证\nCorrect answer: C\n\nExample:\nMedical question: 治疗痰饮的总则是\nA: 发汗\nB: 利水\nC: 逐饮\nD: 温化\nE: 祛湿\nCorrect answer: D\n\nExample:\nMedical question: 癫狂的病位最主要是在\nA: 心、肝\nB: 肝、脾\nC: 脾、肾\nD: 肝、胆\nE: 心、肾\nCorrect answer: A\n\n\n\nQuestion: 下列哪项不是眩晕肝阳上亢证的主症\nA: 头痛\nB: 面赤\nC: 烦躁\nD: 口苦\nE: 呕吐\n\nProvide the correct option.",
+        "prediction": [
+            "E"
+        ],
+        "gold": "E"
+    },
+    "84": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 8-郁火证面色常见\nA: 面色黄而无华\nB: 面白无华\nC: 面色青赤而晦黯\nD: 面色淡黄枯槁无泽\nE: 面色黑而干焦\nCorrect answer: C\n\nExample:\nMedical question: 温病或伤寒邪正剧争阶段，病变发生转折时，可表现为\nA: 大汗\nB: 自汗\nC: 盗汗\nD: 战汗\nE: 心胸汗\nCorrect answer: D\n\nExample:\nMedical question: 下列哪项不是证的转化？\nA: 表证转化为里证\nB: 里证转化为表证\nC: 寒证转化为热证\nD: 热证转化为寒证\nE: 实证转化为虚证\nCorrect answer: B\n\nExample:\nMedical question: 16-亡阴患者出汗的特点是\nA: 自汗\nB: 盗汗\nC: 大汗\nD: 半身汗出\nE: 以上均不对\nCorrect answer: E\n\nExample:\nMedical question: 手足蠕动多缘于\nA: 热极生风\nB: 虚风内动\nC: 痫证\nD: 破伤风\nE: 中风\nCorrect answer: B\n\n\n\nQuestion: 哪项属于察舌形的内容\nA: 腐腻\nB: 强硬\nC: 裂纹\nD: 卷缩\nE: 红绛\n\nProvide the correct option.",
+        "prediction": [
+            "C"
+        ],
+        "gold": "C"
+    },
+    "85": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 麻黄升麻汤证的主要病机是()。\nA: 上热下寒,寒热错杂\nB: 正伤邪陷,肺热脾寒\nC: 痰热阻滞,肺失宣降\nD: 痰饮内阻,阳不外达\nE: 痰火郁结,薰蒸于上\nCorrect answer: B\n\nExample:\nMedical question: 厥证的基本病机是()\nA: 气滞血瘀,气机不行\nB: 寒热错杂,气机逆乱\nC: 阴阳二气不相顺接\nD: 阳气虚衰\nE: 阴液亏虚\nCorrect answer: C\n\nExample:\nMedical question: 扶正的治则适用于\nA: 邪气盛,正气未衰\nB: 正气虚,邪气不盛\nC: 邪气盛,正气亦虚\nD: 邪盛正虚,但正气尚耐攻伐\nE: 以上都不是\nCorrect answer: B\n\nExample:\nMedical question: 下列何脉症均可见于麻杏石甘汤证和桂枝加厚朴杏子汤证()\nA: 口渴\nB: 脉数、无汗\nC: 苔黄\nD: 喘、汗出\nE: 头项强痛\nCorrect answer: D\n\nExample:\nMedical question: 白通加猪胆汁汤中用猪胆汁与人尿，下列关于其作用的描述那一项是错误的\nA: 引阳药入阴以防格拒\nB: 滋养阴液\nC: 益阴和阳\nD: 寓“逆者反治”之意\nE: 苦寒清热\nCorrect answer: E\n\n\n\nQuestion: 原文“少阴病,下利,咽中伤,生疮,不能语言,声不出者”其治疗方剂是()\nA: 甘草汤\nB: 桔梗汤\nC: 苦酒汤\nD: 半夏散及汤\nE: 猪肤汤\n\nProvide the correct option.",
+        "prediction": [
+            "The correct answer is C: 苦酒汤."
+        ],
+        "gold": "C"
+    },
+    "86": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 最早的麻风隔离病院建在（）\nA: 唐代\nB: 宋代\nC: 秦代\nD: 明代\nE: 以上都不是\nCorrect answer: C\n\nExample:\nMedical question: 最早提出“癌”字，并指出40岁以上妇女易患乳癌的著作是（）\nA: 《仙授理伤续断秘方》\nB: 《急救仙方》\nC: 《疡科证治准绳》\nD: 《外科枢要》\nE: 《卫济宝书》\nCorrect answer: E\n\nExample:\nMedical question: “以热治寒”适用于\nA: 阴偏盛\nB: 阳偏盛\nC: 阴偏衰\nD: 阴阳两虚\nE: 阴盛阳衰\nCorrect answer: A\n\nExample:\nMedical question: 我国近代最早去西方学习医学的人为（）\nA: 鲁迅\nB: 伍连德\nC: 黄宽\nD: 杜聪明\nE: 闫德润\nCorrect answer: C\n\nExample:\nMedical question: 中医学描述肺“虚如蜂巢”所体现的思维方式是\nA: 形象思维\nB: 意象思维\nC: 应象思维\nD: 抽象思维\nE: 逻辑思维\nCorrect answer: A\n\n\n\nQuestion: “十全为上，十失一次之，十失二次之，十失三次之，十失四为下”，这种根据诊治患者的疗效判定等级是在（）\nA: 西周\nB: 春秋\nC: 晋代\nD: 唐代\nE: 宋代\n\nProvide the correct option.",
+        "prediction": [
+            "The correct option is: D"
+        ],
+        "gold": "A"
+    },
+    "87": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 患者常在情绪波动、过劳或睡眠不足等情况下出现眼胀、头痛、不耐久视，中心视力较好，视野日渐缩小，平时自觉症状不明显或无症状。该病首先考虑的诊断是\nA: 绿风内障\nB: 青风内障\nC: 黑风内障\nD: 乌风内障\nE: 黄风内障\nCorrect answer: B\n\nExample:\nMedical question: 患者目赤而痒，迎风尤甚，多为\nA: 外感风寒\nB: 外感风热\nC: 湿热兼风\nD: 血虚生风\nE: 以上都不是\nCorrect answer: B\n\nExample:\nMedical question: 眵多硬结，多属\nA: 肺经实热\nB: 肺经虚热\nC: 肝胆火炽\nD: 湿热壅滞\nE: 心火上炎\nCorrect answer: A\n\nExample:\nMedical question: 8-视杆细胞司\nA: 明视觉和无色视觉\nB: 明视觉和色觉\nC: 暗视觉和无色视觉\nD: 暗视觉和色觉\nE: 明视觉和暗视觉\nCorrect answer: C\n\nExample:\nMedical question: 正常瞳孔大小范围\nA: 1~2.5毫米\nB: 2~3毫米\nC: 4~5毫米\nD: 2.5~4毫米\nE: 5~6毫米\nCorrect answer: D\n\n\n\nQuestion: 双眼上胞下垂，起病缓慢，晨起病轻，午后加重，休息后减轻，劳累后加重，辨证考虑为\nA: 先天不足\nB: 脾虚气弱\nC: 肝肾亏虚\nD: 风痰阻络\nE: 肝郁气滞\n\nProvide the correct option.",
+        "prediction": [
+            "B"
+        ],
+        "gold": "B"
+    },
+    "88": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 症见：低热、手足蠕动、形消神倦、齿黑唇焦、舌干绛、脉细数，治宜\nA: 清热保津\nB: 平肝息风\nC: 滋阴息风\nD: 滋阴润燥\nE: 补益气阴\nCorrect answer: C\n\nExample:\nMedical question: 薛生白对湿热病发病特点的论述有\nA: 邪由口鼻而入者十之八九\nB: 邪从表伤者十之一二\nC: 太阴内伤，湿饮停聚，客邪再至，内外相引，故病湿热\nD: 内不能运水谷之湿，外复感时令之湿\nE: 有先因于湿，再因饥劳而病者\nCorrect answer: ABCE\n\nExample:\nMedical question: 燥干清窍，其症可见\nA: 耳鸣\nB: 目赤\nC: 苔薄黄脉数\nD: 干咳无痰\nE: 龈肿咽痛\nCorrect answer: ABCE\n\nExample:\nMedical question: 温病后期，“夜热早凉，热退无汗，热自阴来者”，治用\nA: 六味地黄丸\nB: 青蒿鳖甲汤\nC: 大定风珠\nD: 加减复脉汤\nE: 复脉汤\nCorrect answer: B\n\nExample:\nMedical question: 房劳过度，易损伤的脏腑是\nA: 心\nB: 脾\nC: 肝\nD: 肺\nE: 肾\nCorrect answer: E\n\n\n\nQuestion: 以局部红肿热痛及溃烂为主要表现的温病，其病因是\nA: 风热病邪\nB: 暑热病邪\nC: 湿热病邪\nD: 燥热病邪\nE: 温毒病邪\n\nProvide the correct option.",
+        "prediction": [
+            "The correct answer is E: 温毒病邪."
+        ],
+        "gold": "E"
+    },
+    "89": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 1-新加香薷饮适用于\nA: 风寒感冒\nB: 风热感冒\nC: 暑湿感冒\nD: 气虚感冒\nE: 阴虚感冒\nCorrect answer: C\n\nExample:\nMedical question: 8-上述脏器中，其液为涎的是（）\nA: 心\nB: 肺\nC: 脾\nD: 肝\nE: 肾\nCorrect answer: C\n\nExample:\nMedical question: 弦脉的脉象是（）\nA: 形直体长\nB: 状如波涛\nC: 浮而搏指\nD: 脉形宽大\nE: 脉来绷紧\nCorrect answer: A\n\nExample:\nMedical question: 患者久咳，兼有便溏、乏力，医用六君子汤，治法属于（）\nA: 治病求本\nB: 益火消阴\nC: 标本兼治\nD: 塞因塞用\nE: 虚则补其母\nCorrect answer: E\n\nExample:\nMedical question: 12-胆的主要生理功能是（）\nA: 贮存、排泄胆汁和主决断\nB: 条达情志\nC: 运化水谷津液\nD: 主通降和受纳腐熟水谷\nE: 升清到肺、心和头目\nCorrect answer: A\n\n\n\nQuestion: 过怒主要影响的功能是（）\nA: 呼吸功能\nB: 藏血功能\nC: 疏泄功能\nD: 经气功能\nE: 运化功能\n\nProvide the correct option.",
+        "prediction": [
+            "C"
+        ],
+        "gold": "C"
+    },
+    "90": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 1-内脏下垂的主要病机是\nA: 宗气虚\nB: 胃气虚\nC: 脾气虚\nD: 肾气虚\nE: 肺气虚\nCorrect answer: C\n\nExample:\nMedical question: 机体的阴气不足与下列哪项关系最为密切\nA: 心阴\nB: 胃阴\nC: 肾阴\nD: 肺阴\nE: 肝阴\nCorrect answer: C\n\nExample:\nMedical question: 病人先有高热、烦渴、脉洪数，继则全身皮疹、热退、脉静，其病机变化属\nA: 里病出表\nB: 热极生寒\nC: 热盛伤气\nD: 由实转虚\nE: 温病逆传\nCorrect answer: A\n\nExample:\nMedical question: 下列哪一项不直接属于阴阳互根的关系\nA: 阳在外，阴之使也\nB: 孤阴不生，独阳不长\nC: 阴在内，阳之守也\nD: 重阴必阳，重阳必阴\nE: 阴损及阳，阳损及阴\nCorrect answer: D\n\nExample:\nMedical question: 1-属于病机第二层次的是\nA: 精气血津液失常病机\nB: 经络病机\nC: 三焦病机\nD: 痰饮病机\nE: 疼痛病机\nCorrect answer: B\n\n\n\nQuestion: 肾精化为生殖之精以施泄，依靠于\nA: 肾阳温煦\nB: 肾阴凉润\nC: 天癸促发\nD: 脾胃运化\nE: 肝气疏泄\n\nProvide the correct option.",
+        "prediction": [
+            "The correct answer is C: 天癸促发."
+        ],
+        "gold": "C"
+    },
+    "91": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 感冒之名最早见于\nA: 《仁斋直指方》\nB: 《诸病源候论》\nC: 《医学源流论》\nD: 《丹溪心法》\nE: 《证治汇补》\nCorrect answer: A\n\nExample:\nMedical question: 下列哪项不是眩晕肝阳上亢证的主症\nA: 头痛\nB: 面赤\nC: 烦躁\nD: 口苦\nE: 呕吐\nCorrect answer: E\n\nExample:\nMedical question: 治疗痰饮的总则是\nA: 发汗\nB: 利水\nC: 逐饮\nD: 温化\nE: 祛湿\nCorrect answer: D\n\nExample:\nMedical question: 某男，68岁，头摇不止，肢麻震颤，头晕目眩，胸脘痞闷，口苦口粘，舌体胖大，有齿痕，舌质红，苔黄腻，脉弦滑数，证属颤证之\nA: 阳气虚衰证\nB: 气血亏虚证\nC: 痰热风动证\nD: 髓海不足证\nE: 风阳内动证\nCorrect answer: C\n\nExample:\nMedical question: 下列哪项不是气鼓的特征\nA: 嗳气或矢气则舒\nB: 腹部按之空空然\nC: 腹部膨隆\nD: 腹皮青筋显露\nE: 叩之如鼓\nCorrect answer: D\n\n\n\nQuestion: 癫狂的病位最主要是在\nA: 心、肝\nB: 肝、脾\nC: 脾、肾\nD: 肝、胆\nE: 心、肾\n\nProvide the correct option.",
+        "prediction": [
+            "Correct answer: A"
+        ],
+        "gold": "A"
+    },
+    "92": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 麻痹性斜视时\nA: 双眼眼位上斜\nB: 双眼眼位外斜\nC: 患眼眼球斜向麻痹肌作用方向\nD: 患眼眼球斜向麻痹肌作用方向的对侧\nE: 患眼眼位不稳定\nCorrect answer: D\n\nExample:\nMedical question: 眵多硬结，多属\nA: 肺经实热\nB: 肺经虚热\nC: 肝胆火炽\nD: 湿热壅滞\nE: 心火上炎\nCorrect answer: A\n\nExample:\nMedical question: 患者常在情绪波动、过劳或睡眠不足等情况下出现眼胀、头痛、不耐久视，中心视力较好，视野日渐缩小，平时自觉症状不明显或无症状。该病首先考虑的诊断是\nA: 绿风内障\nB: 青风内障\nC: 黑风内障\nD: 乌风内障\nE: 黄风内障\nCorrect answer: B\n\nExample:\nMedical question: 双眼上胞下垂，起病缓慢，晨起病轻，午后加重，休息后减轻，劳累后加重，辨证考虑为\nA: 先天不足\nB: 脾虚气弱\nC: 肝肾亏虚\nD: 风痰阻络\nE: 肝郁气滞\nCorrect answer: B\n\nExample:\nMedical question: 8-视杆细胞司\nA: 明视觉和无色视觉\nB: 明视觉和色觉\nC: 暗视觉和无色视觉\nD: 暗视觉和色觉\nE: 明视觉和暗视觉\nCorrect answer: C\n\n\n\nQuestion: 正常瞳孔大小范围\nA: 1~2.5毫米\nB: 2~3毫米\nC: 4~5毫米\nD: 2.5~4毫米\nE: 5~6毫米\n\nProvide the correct option.",
+        "prediction": [
+            "The correct answer is D: 2.5~4毫米."
+        ],
+        "gold": "D"
+    },
+    "93": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 过怒主要影响的功能是（）\nA: 呼吸功能\nB: 藏血功能\nC: 疏泄功能\nD: 经气功能\nE: 运化功能\nCorrect answer: C\n\nExample:\nMedical question: 8-上述脏器中，其液为涎的是（）\nA: 心\nB: 肺\nC: 脾\nD: 肝\nE: 肾\nCorrect answer: C\n\nExample:\nMedical question: 弦脉的脉象是（）\nA: 形直体长\nB: 状如波涛\nC: 浮而搏指\nD: 脉形宽大\nE: 脉来绷紧\nCorrect answer: A\n\nExample:\nMedical question: 患者久咳，兼有便溏、乏力，医用六君子汤，治法属于（）\nA: 治病求本\nB: 益火消阴\nC: 标本兼治\nD: 塞因塞用\nE: 虚则补其母\nCorrect answer: E\n\nExample:\nMedical question: 12-胆的主要生理功能是（）\nA: 贮存、排泄胆汁和主决断\nB: 条达情志\nC: 运化水谷津液\nD: 主通降和受纳腐熟水谷\nE: 升清到肺、心和头目\nCorrect answer: A\n\n\n\nQuestion: 1-新加香薷饮适用于\nA: 风寒感冒\nB: 风热感冒\nC: 暑湿感冒\nD: 气虚感冒\nE: 阴虚感冒\n\nProvide the correct option.",
+        "prediction": [
+            "C"
+        ],
+        "gold": "C"
+    },
+    "94": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 治疗痰饮的总则是\nA: 发汗\nB: 利水\nC: 逐饮\nD: 温化\nE: 祛湿\nCorrect answer: D\n\nExample:\nMedical question: 某男，68岁，头摇不止，肢麻震颤，头晕目眩，胸脘痞闷，口苦口粘，舌体胖大，有齿痕，舌质红，苔黄腻，脉弦滑数，证属颤证之\nA: 阳气虚衰证\nB: 气血亏虚证\nC: 痰热风动证\nD: 髓海不足证\nE: 风阳内动证\nCorrect answer: C\n\nExample:\nMedical question: 下列哪项不是眩晕肝阳上亢证的主症\nA: 头痛\nB: 面赤\nC: 烦躁\nD: 口苦\nE: 呕吐\nCorrect answer: E\n\nExample:\nMedical question: 感冒之名最早见于\nA: 《仁斋直指方》\nB: 《诸病源候论》\nC: 《医学源流论》\nD: 《丹溪心法》\nE: 《证治汇补》\nCorrect answer: A\n\nExample:\nMedical question: 癫狂的病位最主要是在\nA: 心、肝\nB: 肝、脾\nC: 脾、肾\nD: 肝、胆\nE: 心、肾\nCorrect answer: A\n\n\n\nQuestion: 下列哪项不是气鼓的特征\nA: 嗳气或矢气则舒\nB: 腹部按之空空然\nC: 腹部膨隆\nD: 腹皮青筋显露\nE: 叩之如鼓\n\nProvide the correct option.",
+        "prediction": [
+            "E"
+        ],
+        "gold": "D"
+    },
+    "95": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 《素问•至真要大论》中“皆属于湿”的原文是\nA: 诸风掉眩\nB: 诸寒收引\nC: 诸痉项强\nD: 诸厥固泄\nE: 诸痛痒疮\nCorrect answer: C\n\nExample:\nMedical question: 据《灵枢•官能》针灸方法中“阴阳皆虚”则\nA: 推而扬之\nB: 积而从之\nC: 火自当之\nD: 推而行之\nE: 火所治之\nCorrect answer: C\n\nExample:\nMedical question: 诸病有声，鼓之如鼓，皆属于\nA: 寒\nB: 热\nC: 火\nD: 湿\nE: \nCorrect answer: B\n\nExample:\nMedical question: 下列各项中，不属于阳证的临床表现的是\nA: 面红目赤\nB: 呼吸微弱\nC: 躁动不安\nD: 口渴饮冷\nE: \nCorrect answer: B\n\nExample:\nMedical question: 谵语的病机是\nA: 心气大伤，精神散乱\nB: 热扰心神，神明失主\nC: 心气不足，神失所养\nD: 气郁痰结，阻蔽心窍\nE: \nCorrect answer: B\n\n\n\nQuestion: 在十二经脉中，阴经与阴经交接的部位在\nA: 四肢末端外侧\nB: 胸部\nC: 腹部\nD: 胸腹部\nE: 四肢末端内侧\n\nProvide the correct option.",
+        "prediction": [
+            "E"
+        ],
+        "gold": "B"
+    },
+    "96": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 16-亡阴患者出汗的特点是\nA: 自汗\nB: 盗汗\nC: 大汗\nD: 半身汗出\nE: 以上均不对\nCorrect answer: E\n\nExample:\nMedical question: 下列哪项不是气随液脱的形成原因\nA: 高热\nB: 大汗\nC: 严重吐泻\nD: 大量失血\nE: \nCorrect answer: D\n\nExample:\nMedical question: 耳郭瘦小而薄，多属\nA: 气血亏虚\nB: 肾精亏耗\nC: 出麻先兆\nD: 肾气不足\nE: 肝胆湿热熏蒸\nCorrect answer: D\n\nExample:\nMedical question: 下列哪项不是证的转化？\nA: 表证转化为里证\nB: 里证转化为表证\nC: 寒证转化为热证\nD: 热证转化为寒证\nE: 实证转化为虚证\nCorrect answer: B\n\nExample:\nMedical question: 8-郁火证面色常见\nA: 面色黄而无华\nB: 面白无华\nC: 面色青赤而晦黯\nD: 面色淡黄枯槁无泽\nE: 面色黑而干焦\nCorrect answer: C\n\n\n\nQuestion: 温病或伤寒邪正剧争阶段，病变发生转折时，可表现为\nA: 大汗\nB: 自汗\nC: 盗汗\nD: 战汗\nE: 心胸汗\n\nProvide the correct option.",
+        "prediction": [
+            "D"
+        ],
+        "gold": "D"
+    },
+    "97": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 厥证的基本病机是()\nA: 气滞血瘀,气机不行\nB: 寒热错杂,气机逆乱\nC: 阴阳二气不相顺接\nD: 阳气虚衰\nE: 阴液亏虚\nCorrect answer: C\n\nExample:\nMedical question: 麻黄升麻汤证的主要病机是()。\nA: 上热下寒,寒热错杂\nB: 正伤邪陷,肺热脾寒\nC: 痰热阻滞,肺失宣降\nD: 痰饮内阻,阳不外达\nE: 痰火郁结,薰蒸于上\nCorrect answer: B\n\nExample:\nMedical question: 原文“少阴病,下利,咽中伤,生疮,不能语言,声不出者”其治疗方剂是()\nA: 甘草汤\nB: 桔梗汤\nC: 苦酒汤\nD: 半夏散及汤\nE: 猪肤汤\nCorrect answer: C\n\nExample:\nMedical question: 下列哪项不属于急下证的见症：\nA: 大便难\nB: 发热汗多\nC: 腹满痛\nD: 身微热\nE: 燥屎\nCorrect answer: E\n\nExample:\nMedical question: 下列哪一种是对《伤寒论》中广义伤寒概念的正确论述\nA: 以发热为主要症状的疾病\nB: 一切外感热病的总称\nC: 感受寒邪，感而即发的疾病\nD: 以恶寒、发热、头痛、无汗为主要临床表现的证候\nE: 由伤寒杆菌引起的疾病\nCorrect answer: B\n\n\n\nQuestion: 下列何脉症均可见于麻杏石甘汤证和桂枝加厚朴杏子汤证()\nA: 口渴\nB: 脉数、无汗\nC: 苔黄\nD: 喘、汗出\nE: 头项强痛\n\nProvide the correct option.",
+        "prediction": [
+            "D"
+        ],
+        "gold": "D"
+    },
+    "98": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 据《灵枢•官能》针灸方法中“阴阳皆虚”则\nA: 推而扬之\nB: 积而从之\nC: 火自当之\nD: 推而行之\nE: 火所治之\nCorrect answer: C\n\nExample:\nMedical question: 在十二经脉中，阴经与阴经交接的部位在\nA: 四肢末端外侧\nB: 胸部\nC: 腹部\nD: 胸腹部\nE: 四肢末端内侧\nCorrect answer: B\n\nExample:\nMedical question: 有“方书之祖”之称的是\nA: 《千金方》\nB: 《五十二病方》\nC: 《伤寒杂病论》\nD: 《黄帝内经》\nE: \nCorrect answer: C\n\nExample:\nMedical question: 《灵枢•经脉》所说“以经取之”的治疗原则适用于\nA: 虚证\nB: 实证\nC: 不盛不虚之证\nD: 寒证\nE: 热证\nCorrect answer: C\n\nExample:\nMedical question: 治疗“喑痱”的方剂是\nA: 四物汤\nB: 归脾汤\nC: 补中益气汤\nD: 地黄饮子\nE: \nCorrect answer: D\n\n\n\nQuestion: 《素问•至真要大论》中“皆属于湿”的原文是\nA: 诸风掉眩\nB: 诸寒收引\nC: 诸痉项强\nD: 诸厥固泄\nE: 诸痛痒疮\n\nProvide the correct option.",
+        "prediction": [
+            "E"
+        ],
+        "gold": "C"
+    },
+    "99": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 16-亡阴患者出汗的特点是\nA: 自汗\nB: 盗汗\nC: 大汗\nD: 半身汗出\nE: 以上均不对\nCorrect answer: E\n\nExample:\nMedical question: 手足蠕动多缘于\nA: 热极生风\nB: 虚风内动\nC: 痫证\nD: 破伤风\nE: 中风\nCorrect answer: B\n\nExample:\nMedical question: 浮取、中取均不见，用重指力直接按至骨上，推动筋肉才能触到脉动者是\nA: 沉脉\nB: 伏脉\nC: 牢脉\nD: 微脉\nE: 短脉\nCorrect answer: B\n\nExample:\nMedical question: 下列哪项不是证的转化？\nA: 表证转化为里证\nB: 里证转化为表证\nC: 寒证转化为热证\nD: 热证转化为寒证\nE: 实证转化为虚证\nCorrect answer: B\n\nExample:\nMedical question: 13-实热证患者可见\nA: 口唇淡白\nB: 口唇深红\nC: 口唇樱桃红色\nD: 口唇青紫\nE: 口唇青黑\nF: 口唇干裂\nCorrect answer: B\n\n\n\nQuestion: 舌质的荣枯反映了\nA: 舌体运动是否灵活\nB: 舌质有神或无神\nC: 舌色淡红或淡白\nD: 舌质润泽或干枯\nE: 以上均不对\n\nProvide the correct option.",
+        "prediction": [
+            "Correct answer: B"
+        ],
+        "gold": "B"
+    },
+    "100": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 安神药的归经是\nA: 心\nB: 肝\nC: 肺\nD: 肾\nE: \nCorrect answer: AB\n\nExample:\nMedical question: 麻黄杏仁甘草石膏汤中石膏的作用是\nA: 生津\nB: 清肺热\nC: 解肌\nD: 宣肺\nE: \nCorrect answer: AB\n\nExample:\nMedical question: 心悸不宁，心烦少寐，头晕目眩，手足心热，耳鸣腰酸，舌质红，脉细数，治宜选方\nA: 天王补心丹\nB: 朱砂安神丸\nC: 养心汤\nD: 酸枣仁汤\nE: \nCorrect answer: AB\n\nExample:\nMedical question: 内服剂量限定0.3-0.9g的药物是\nA: 胆矾\nB: 瓜蒂\nC: 雄黄\nD: 藜芦\nE: \nCorrect answer: D\n\nExample:\nMedical question: 独语可见于\nA: 心气不足，神失所养\nB: 气郁痰结，阻蔽心窍\nC: 温病热入心包\nD: 阳明腑实证\nE: 伤寒蓄血证\nCorrect answer: AB\n\n\n\nQuestion: 症见恶寒发热，无汗，头痛身痛，口渴引饮，心烦尿黄，咳喘痰黄舌红苔薄黄者，属于\nA: 表寒里热\nB: 表里俱实\nC: 寒郁化热\nD: 真热假寒\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "The correct answer is A: table 寒里热."
+        ],
+        "gold": "AB"
+    },
+    "101": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 治疗休息痢，扶正与祛邪兼顾的方剂有\nA: 温脾汤\nB: 补中益气汤\nC: 连理汤\nD: 四神丸\nE: \nCorrect answer: AC\n\nExample:\nMedical question: 治疗“喑痱”的方剂是\nA: 四物汤\nB: 归脾汤\nC: 补中益气汤\nD: 地黄饮子\nE: \nCorrect answer: D\n\nExample:\nMedical question: 素有伤科要药之称的药物是\nA: 大蓟\nB: 艾叶\nC: 三七\nD: 花蕊石\nE: \nCorrect answer: C\n\nExample:\nMedical question: 龙胆泻肝汤出自下列哪本著作\nA: 《丹溪心法》\nB: 《伤寒论》\nC: 《医方集解》\nD: 《景岳全书》\nE: \nCorrect answer: C\n\nExample:\nMedical question: 下列哪些不是五味子的功效\nA: 收敛固涩\nB: 益气生津\nC: 收湿敛疮\nD: 补肾宁心\nE: \nCorrect answer: C\n\n\n\nQuestion: 患者呃声沉缓有力，膈间及胃脘不舒，得热则减，得寒愈甚，食欲减少，口中和而不渴，舌苔白润，脉象迟缓。 治宜选用\nA: 益胃汤\nB: 补中益气汤\nC: 丁香散\nD: 理中丸\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "C"
+        ],
+        "gold": "C"
+    },
+    "102": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 心悸之阴虚火旺证不宜选用哪个方剂\nA: 知柏地黄丸\nB: 天王补心丹\nC: 当归六黄汤\nD: 朱砂安神丸\nE: \nCorrect answer: C\n\nExample:\nMedical question: 《医学心悟•头痛》中另有一半夏白术天麻汤，较通用方多蔓荆子三钱，减哪位药为一钱，治痰厥头痛、胸膈多痰，动则眩晕之证\nA: 半夏\nB: 天麻\nC: 白术\nD: 茯苓\nE: \nCorrect answer: C\n\nExample:\nMedical question: 多与干姜、细辛、五味子配伍治疗寒痰咳嗽的药物是\nA: 半夏\nB: 桔梗\nC: 陈皮\nD: 紫菀\nE: \nCorrect answer: C\n\nExample:\nMedical question: 下列哪些不是五味子的功效\nA: 收敛固涩\nB: 益气生津\nC: 收湿敛疮\nD: 补肾宁心\nE: \nCorrect answer: C\n\nExample:\nMedical question: 患者头痛，项背强直，恶寒发热，无汗或汗出，肢体酸重，甚至口噤不能语，四肢抽搐。舌苔薄白或白腻，脉浮紧。其诊断为\nA: 中风\nB: 痫证\nC: 痉证\nD: 痿证\nE: \nCorrect answer: C\n\n\n\nQuestion: 下列各药中，治疗风热感冒，症见声音嘶哑或咽喉肿痛者宜选用\nA: 葱白\nB: 鹅不食草\nC: 蝉蜕\nD: 生姜\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "C"
+        ],
+        "gold": "C"
+    },
+    "103": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 成年人的呼吸次数，正常值为\nA: 40次/分钟\nB: 16~20次/分钟\nC: 25次/分钟\nD: 16次/分钟\nE: \nCorrect answer: B\n\nExample:\nMedical question: 1-珍珠母的功效是\nA: 平肝潜阳，清肝明目\nB: 平肝潜阳，清肝明目，镇惊安神\nC: 平肝潜阳，软坚散结，收敛固涩\nD: 平肝潜阳，镇静安神，化痰软坚\nE: \nCorrect answer: B\n\nExample:\nMedical question: 饮证的咯痰特点是\nA: 痰色黄白\nB: 痰清稀如水\nC: 痰中带血\nD: 痰白滑易咯出\nE: \nCorrect answer: B\n\nExample:\nMedical question: 下列哪项属于水火共制法\nA: 炒\nB: 蒸\nC: 炙\nD: 水飞\nE: \nCorrect answer: B\n\nExample:\nMedical question: 下列哪项常见体虚而虚里脉动数\nA: 中气不守\nB: 心阳不足\nC: 心血不足\nD: 心气不足\nE: \nCorrect answer: B\n\n\n\nQuestion: 腹满而吐，食不下，自利，时腹自痛，或苔白腻，脉沉缓，此属\nA: 少阴寒化证\nB: 太阴病证\nC: 厥阴病证\nD: 中焦病证\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "B"
+        ],
+        "gold": "B"
+    },
+    "104": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 患者呃声沉缓有力，膈间及胃脘不舒，得热则减，得寒愈甚，食欲减少，口中和而不渴，舌苔白润，脉象迟缓。证属\nA: 脾胃气血证\nB: 气机郁滞证\nC: 脾胃阳虚证\nD: 胃中寒冷证\nE: \nCorrect answer: D\n\nExample:\nMedical question: 下列属于黄宫绣的脉学专著是\nA: 《濒湖脉学》\nB: 《脉诀汇辨》\nC: 《诊宗三昧》\nD: 《脉理求真》\nE: \nCorrect answer: D\n\nExample:\nMedical question: 既能治肺胃出血，又能消散痈肿、生肌敛疮的药物是\nA: 黄芪\nB: 生地\nC: 仙鹤草\nD: 白及\nE: \nCorrect answer: D\n\nExample:\nMedical question: 不属于按脘腹的部位\nA: 胃脘\nB: 脐腹\nC: 小腹\nD: 虚里\nE: \nCorrect answer: D\n\nExample:\nMedical question: 《伤寒明理论》的作者是\nA: 唐慎微\nB: 王肯堂\nC: 王焘\nD: 成无己\nE: \nCorrect answer: D\n\n\n\nQuestion: 治疗胸胁停饮所致的喘咳宜选用的药物是\nA: 商陆\nB: 京大戟\nC: 甘遂\nD: 芫花\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "The correct answer is C:甘遂."
+        ],
+        "gold": "D"
+    },
+    "105": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 患儿，11个月。母乳喂养，未添加辅食。近来发现食欲不振，面色萎黄，唇甲色淡，大便偏稀，舌淡苔白，指纹淡红。查血: HGB: 92g/L. RBC: 3.5×1012/L。辨证为\nA: 心脾两虚\nB: 脾胃虚弱\nC: 肝肾阴虚\nD: 气血亏虚\nE: 脾肾阳虚\nCorrect answer: B\n\nExample:\nMedical question: 镇肝熄风汤主治证的病机是\nA: 阳亢风动，气血逆乱\nB: 肝肾阳虚，肝阳化风\nC: 真阴大亏，虚风内动\nD: 脾虚生痰，风痰阻络\nE: \nCorrect answer: A\n\nExample:\nMedical question: 噎膈之病位是\nA: 食道\nB: 脾胃\nC: 脾\nD: 胃\nE: \nCorrect answer: A\n\nExample:\nMedical question: 主治食少难消，脘腹痞闷，大便溏薄，倦怠乏力，苔腻微黄，脉虚弱的方剂是\nA: 健脾丸\nB: 保和丸\nC: 枳术丸\nD: 枳术汤\nE: \nCorrect answer: A\n\nExample:\nMedical question: 栀子的归经是\nA: 心、肺、三焦经\nB: 心、肺经\nC: 心、肺、胃经\nD: 心、肺、肾经\nE: \nCorrect answer: A\n\n\n\nQuestion: 琥珀入丸、散服用的一般剂量是\nA: 1.5～3g\nB: 15～30g\nC: 0.15～0.3g\nD: 0. 015～0. 03g\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "A"
+        ],
+        "gold": "A"
+    },
+    "106": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 内关、水沟可以治疗一下哪种疾病\nA: 中风\nB: 郁证\nC: 抽搐\nD: 崩漏\nE: \nCorrect answer: ABC\n\nExample:\nMedical question: 完带汤中具有疏肝解郁作用的药物配伍是\nA: 柴胡\nB: 芥穗\nC: 白芍\nD: 车前子\nE: \nCorrect answer: ABC\n\nExample:\nMedical question: 治疗胸胁停饮所致的喘咳宜选用的药物是\nA: 商陆\nB: 京大戟\nC: 甘遂\nD: 芫花\nE: \nCorrect answer: D\n\nExample:\nMedical question: 升药的功效是\nA: 拔毒，去腐\nB: 杀虫，止痒\nC: 攻毒，杀虫\nD: 敛疮，生肌\nE: \nCorrect answer: A\n\nExample:\nMedical question: 患者腹痛较剧，痛如针刺，痛处不移，经久不愈，舌质紫黯，脉弦或细涩。治当选用\nA: 良附丸\nB: 正气天香散\nC: 桃核承气汤\nD: 少腹逐瘀汤\nE: \nCorrect answer: D\n\n\n\nQuestion: 下列对药物用量的叙述中，正确的是\nA: 五味子煎服，3～6g\nB: 五倍子入丸、散服，每次1～1.5g\nC: 山茱萸煎服，5～10g\nD: 肉豆蔻入丸、散服，每次1～1.5g\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "A: 五味子煎服，3～6g"
+        ],
+        "gold": "ABC"
+    },
+    "107": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 患者呃声沉缓有力，膈间及胃脘不舒，得热则减，得寒愈甚，食欲减少，口中和而不渴，舌苔白润，脉象迟缓。 治宜选用\nA: 益胃汤\nB: 补中益气汤\nC: 丁香散\nD: 理中丸\nE: \nCorrect answer: C\n\nExample:\nMedical question: 治疗休息痢，扶正与祛邪兼顾的方剂有\nA: 温脾汤\nB: 补中益气汤\nC: 连理汤\nD: 四神丸\nE: \nCorrect answer: AC\n\nExample:\nMedical question: “壮水之主，以制阳光”所指的治法是\nA: 阴中求阳\nB: 阴病治阳\nC: 阳中求阴\nD: 阳病治阴\nE: 阴阳互济\nCorrect answer: D\n\nExample:\nMedical question: “阴病治阳”适用于\nA: 实热证\nB: 实寒证\nC: 虚热证\nD: 虚寒证\nE: 寒热错杂证\nCorrect answer: D\n\nExample:\nMedical question: “血之余”指的是\nA: 爪\nB: 皮\nC: 肉\nD: 发\nE: 骨\nCorrect answer: D\n\n\n\nQuestion: 治疗“喑痱”的方剂是\nA: 四物汤\nB: 归脾汤\nC: 补中益气汤\nD: 地黄饮子\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "D"
+        ],
+        "gold": "D"
+    },
+    "108": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 8-上述脏器中，其液为涎的是（）\nA: 心\nB: 肺\nC: 脾\nD: 肝\nE: 肾\nCorrect answer: C\n\nExample:\nMedical question: 房劳过度，易损伤的脏腑是\nA: 心\nB: 脾\nC: 肝\nD: 肺\nE: 肾\nCorrect answer: E\n\nExample:\nMedical question: 以精虚为主的脏有\nA: 心\nB: 肝\nC: 脾\nD: 肺\nE: 肾\nCorrect answer: CE\n\nExample:\nMedical question: 1-使君子善治\nA: 蛔虫病\nB: 钩虫病\nC: 蛲虫病\nD: 绦虫病\nE: \nCorrect answer: A\n\nExample:\nMedical question: 张锡纯在镇肝熄风汤中配伍生麦芽的用意\nA: 舒达肝气（疏肝解郁）\nB: 消食化积\nC: 健脾开胃\nD: 和胃调中\nE: \nCorrect answer: A\n\n\n\nQuestion: 噎膈之病位是\nA: 食道\nB: 脾胃\nC: 脾\nD: 胃\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "A"
+        ],
+        "gold": "A"
+    },
+    "109": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 以下哪些是真热假寒证的表现\nA: 四肢厥冷而胸腹灼热\nB: 面色紫暗而舌红苔黄\nC: 两颧红赤而浮红如妆\nD: 脉象沉迟但切之有力\nE: \nCorrect answer: ABD\n\nExample:\nMedical question: 麝香与冰片功效的共同点有\nA: 开窍醒神\nB: 消肿止痛\nC: 活血散结\nD: 生肌敛疮\nE: \nCorrect answer: ABD\n\nExample:\nMedical question: 《外科正宗》一书中治疗瘿瘤的主要治法是\nA: 行散气血\nB: 行痰顺气\nC: 破气通络\nD: 活血消坚\nE: \nCorrect answer: ABD\n\nExample:\nMedical question: 根据“人与天地相应”的观点，下列选项对人体产生影响的是\nA: 季节气候的变化\nB: 昼夜晨昏的变化\nC: 饮食偏嗜的不同\nD: 地方区域的不同\nE: \nCorrect answer: ABD\n\nExample:\nMedical question: 1-使君子善治\nA: 蛔虫病\nB: 钩虫病\nC: 蛲虫病\nD: 绦虫病\nE: \nCorrect answer: A\n\n\n\nQuestion: 下列选项中，性味甘平的药物有\nA: 党参\nB: 太子参\nC: 西洋参\nD: 山药\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "ABD"
+        ],
+        "gold": "ABD"
+    },
+    "110": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 补阳还五汤中君药黄芪的作用是\nA: 补益元气\nB: 升阳举陷\nC: 益胃固表\nD: 利尿生肌\nE: \nCorrect answer: A\n\nExample:\nMedical question: 1-使君子善治\nA: 蛔虫病\nB: 钩虫病\nC: 蛲虫病\nD: 绦虫病\nE: \nCorrect answer: A\n\nExample:\nMedical question: 升药的功效是\nA: 拔毒，去腐\nB: 杀虫，止痒\nC: 攻毒，杀虫\nD: 敛疮，生肌\nE: \nCorrect answer: A\n\nExample:\nMedical question: 炉甘石和硼砂功效的共同点是\nA: 解毒，明目\nB: 收湿敛疮\nC: 清肺化痰\nD: 止痒\nE: \nCorrect answer: A\n\nExample:\nMedical question: 既能化痰平喘，又能清肠消痔的药物是\nA: 马兜铃\nB: 洋金花\nC: 天竺黄\nD: 礞石\nE: \nCorrect answer: A\n\n\n\nQuestion: 小陷胸汤证邪结的部位是\nA: 心下\nB: 两胁\nC: 心下至少腹\nD: 少腹\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "The correct answer is A: 心下."
+        ],
+        "gold": "A"
+    },
+    "111": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 成年人的呼吸次数，正常值为\nA: 40次/分钟\nB: 16~20次/分钟\nC: 25次/分钟\nD: 16次/分钟\nE: \nCorrect answer: B\n\nExample:\nMedical question: 1-珍珠母的功效是\nA: 平肝潜阳，清肝明目\nB: 平肝潜阳，清肝明目，镇惊安神\nC: 平肝潜阳，软坚散结，收敛固涩\nD: 平肝潜阳，镇静安神，化痰软坚\nE: \nCorrect answer: B\n\nExample:\nMedical question: 饮证的咯痰特点是\nA: 痰色黄白\nB: 痰清稀如水\nC: 痰中带血\nD: 痰白滑易咯出\nE: \nCorrect answer: B\n\nExample:\nMedical question: 腹满而吐，食不下，自利，时腹自痛，或苔白腻，脉沉缓，此属\nA: 少阴寒化证\nB: 太阴病证\nC: 厥阴病证\nD: 中焦病证\nE: \nCorrect answer: B\n\nExample:\nMedical question: 下列哪项常见体虚而虚里脉动数\nA: 中气不守\nB: 心阳不足\nC: 心血不足\nD: 心气不足\nE: \nCorrect answer: B\n\n\n\nQuestion: 脾开窍于\nA: 唇\nB: 口\nC: 舌\nD: 齿\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "B"
+        ],
+        "gold": "B"
+    },
+    "112": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 五苓散的药物组成是（）\nA: 茯苓\nB: 猪苓\nC: 泽泻\nD: 白术\nE: 桂枝\nCorrect answer: ABCDE\n\nExample:\nMedical question: 多与干姜、细辛、五味子配伍治疗寒痰咳嗽的药物是\nA: 半夏\nB: 桔梗\nC: 陈皮\nD: 紫菀\nE: \nCorrect answer: C\n\nExample:\nMedical question: 素有伤科要药之称的药物是\nA: 大蓟\nB: 艾叶\nC: 三七\nD: 花蕊石\nE: \nCorrect answer: C\n\nExample:\nMedical question: 心悸之阴虚火旺证不宜选用哪个方剂\nA: 知柏地黄丸\nB: 天王补心丹\nC: 当归六黄汤\nD: 朱砂安神丸\nE: \nCorrect answer: C\n\nExample:\nMedical question: 下列哪些不是五味子的功效\nA: 收敛固涩\nB: 益气生津\nC: 收湿敛疮\nD: 补肾宁心\nE: \nCorrect answer: C\n\n\n\nQuestion: 《医学心悟•头痛》中另有一半夏白术天麻汤，较通用方多蔓荆子三钱，减哪位药为一钱，治痰厥头痛、胸膈多痰，动则眩晕之证\nA: 半夏\nB: 天麻\nC: 白术\nD: 茯苓\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "E"
+        ],
+        "gold": "C"
+    },
+    "113": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 常作为取穴定位标志的腧穴是\nA: 三阴交\nB: 神阙\nC: 内关\nD: 乳中\nE: \nCorrect answer: BD\n\nExample:\nMedical question: 正常生理状态下，声音的特点为\nA: 发声自然\nB: 声调和畅\nC: 柔和圆润\nD: 语言流畅\nE: \nCorrect answer: ABCD\n\nExample:\nMedical question: 影响药物升降浮沉的因素有\nA: 四气五味\nB: 质地轻重\nC: 炮制\nD: 配伍\nE: \nCorrect answer: ABCD\n\nExample:\nMedical question: 下列属于内伤发热治法的是：\nA: 解郁，活血\nB: 除湿\nC: 益气、养血\nD: 滋阴、温阳\nE: \nCorrect answer: ABCD\n\nExample:\nMedical question: 肺胀后期可出现的危候有\nA: 咯血、吐血、便血\nB: 昏迷，抽搐\nC: 腹胀、脘痞\nD: 汗出肢冷、脉微欲绝\nE: \nCorrect answer: ABCD\n\n\n\nQuestion: 下列选项中，能治疗郁证的腧穴是\nA: 水沟\nB: 百会\nC: 内关\nD: 神门\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "D"
+        ],
+        "gold": "ABCD"
+    },
+    "114": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 成年人的呼吸次数，正常值为\nA: 40次/分钟\nB: 16~20次/分钟\nC: 25次/分钟\nD: 16次/分钟\nE: \nCorrect answer: B\n\nExample:\nMedical question: 1-珍珠母的功效是\nA: 平肝潜阳，清肝明目\nB: 平肝潜阳，清肝明目，镇惊安神\nC: 平肝潜阳，软坚散结，收敛固涩\nD: 平肝潜阳，镇静安神，化痰软坚\nE: \nCorrect answer: B\n\nExample:\nMedical question: 饮证的咯痰特点是\nA: 痰色黄白\nB: 痰清稀如水\nC: 痰中带血\nD: 痰白滑易咯出\nE: \nCorrect answer: B\n\nExample:\nMedical question: 腹满而吐，食不下，自利，时腹自痛，或苔白腻，脉沉缓，此属\nA: 少阴寒化证\nB: 太阴病证\nC: 厥阴病证\nD: 中焦病证\nE: \nCorrect answer: B\n\nExample:\nMedical question: 下列哪项常见体虚而虚里脉动数\nA: 中气不守\nB: 心阳不足\nC: 心血不足\nD: 心气不足\nE: \nCorrect answer: B\n\n\n\nQuestion: 小金丹的功效是\nA: 活血祛瘀\nB: 化痰通络\nC: 托毒溃脓\nD: 化痰散结\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "The correct answer is D: 化痰散结."
+        ],
+        "gold": "B"
+    },
+    "115": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 以下著作专论麻疹的有\nA: 《麻科活人全书》\nB: 《郁谢麻科合璧》\nC: 《麻证新书》\nD: 《麻症集成》\nE: \nCorrect answer: ABCD\n\nExample:\nMedical question: 影响药物升降浮沉的因素有\nA: 四气五味\nB: 质地轻重\nC: 炮制\nD: 配伍\nE: \nCorrect answer: ABCD\n\nExample:\nMedical question: 火与热的主要区别是\nA: 火为热之极，热极能化火\nB: 火为内生，热为外受\nC: 火多脏腑郁发或邪郁化火，其性炎上，热多泛及全身\nD: 火易耗血动血，热易耗伤阴液\nE: \nCorrect answer: ABCD\n\nExample:\nMedical question: 下列选项中，能治疗郁证的腧穴是\nA: 水沟\nB: 百会\nC: 内关\nD: 神门\nE: \nCorrect answer: ABCD\n\nExample:\nMedical question: 下列属于内伤发热治法的是：\nA: 解郁，活血\nB: 除湿\nC: 益气、养血\nD: 滋阴、温阳\nE: \nCorrect answer: ABCD\n\n\n\nQuestion: 肺胀后期可出现的危候有\nA: 咯血、吐血、便血\nB: 昏迷，抽搐\nC: 腹胀、脘痞\nD: 汗出肢冷、脉微欲绝\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "Correct answer: ABCD"
+        ],
+        "gold": "ABCD"
+    },
+    "116": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 形成瘀血的原因是\nA: 三焦气化失司\nB: 气虚、气滞\nC: 血热、血寒\nD: 思虑过度\nE: \nCorrect answer: BCD\n\nExample:\nMedical question: 下列选项中，协助肺通调水道的是\nA: 胃气之和降\nB: 肾气之蒸化\nC: 脾气之运化\nD: 三焦之气化\nE: \nCorrect answer: BCD\n\nExample:\nMedical question: 有“方书之祖”之称的是\nA: 《千金方》\nB: 《五十二病方》\nC: 《伤寒杂病论》\nD: 《黄帝内经》\nE: \nCorrect answer: C\n\nExample:\nMedical question: 治疗“喑痱”的方剂是\nA: 四物汤\nB: 归脾汤\nC: 补中益气汤\nD: 地黄饮子\nE: \nCorrect answer: D\n\nExample:\nMedical question: 提出“泻南方，补北方”的治痿原则的是\nA: 张子和\nB: 朱丹溪\nC: 刘河间\nD: 李杲\nE: \nCorrect answer: B\n\n\n\nQuestion: 中医的“证”包括\nA: 病变的过程\nB: 病变的原因\nC: 病变的部位\nD: 病变的性质\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "The correct answer is: BCD"
+        ],
+        "gold": "BCD"
+    },
+    "117": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 以下哪些是真热假寒证的表现\nA: 四肢厥冷而胸腹灼热\nB: 面色紫暗而舌红苔黄\nC: 两颧红赤而浮红如妆\nD: 脉象沉迟但切之有力\nE: \nCorrect answer: ABD\n\nExample:\nMedical question: 下列选项中，性味甘平的药物有\nA: 党参\nB: 太子参\nC: 西洋参\nD: 山药\nE: \nCorrect answer: ABD\n\nExample:\nMedical question: 《外科正宗》一书中治疗瘿瘤的主要治法是\nA: 行散气血\nB: 行痰顺气\nC: 破气通络\nD: 活血消坚\nE: \nCorrect answer: ABD\n\nExample:\nMedical question: 根据“人与天地相应”的观点，下列选项对人体产生影响的是\nA: 季节气候的变化\nB: 昼夜晨昏的变化\nC: 饮食偏嗜的不同\nD: 地方区域的不同\nE: \nCorrect answer: ABD\n\nExample:\nMedical question: 1-使君子善治\nA: 蛔虫病\nB: 钩虫病\nC: 蛲虫病\nD: 绦虫病\nE: \nCorrect answer: A\n\n\n\nQuestion: 麝香与冰片功效的共同点有\nA: 开窍醒神\nB: 消肿止痛\nC: 活血散结\nD: 生肌敛疮\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "A: 开窍醒神"
+        ],
+        "gold": "ABD"
+    },
+    "118": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 补阳还五汤中君药黄芪的作用是\nA: 补益元气\nB: 升阳举陷\nC: 益胃固表\nD: 利尿生肌\nE: \nCorrect answer: A\n\nExample:\nMedical question: 1-使君子善治\nA: 蛔虫病\nB: 钩虫病\nC: 蛲虫病\nD: 绦虫病\nE: \nCorrect answer: A\n\nExample:\nMedical question: 升药的功效是\nA: 拔毒，去腐\nB: 杀虫，止痒\nC: 攻毒，杀虫\nD: 敛疮，生肌\nE: \nCorrect answer: A\n\nExample:\nMedical question: 炉甘石和硼砂功效的共同点是\nA: 解毒，明目\nB: 收湿敛疮\nC: 清肺化痰\nD: 止痒\nE: \nCorrect answer: A\n\nExample:\nMedical question: 既能化痰平喘，又能清肠消痔的药物是\nA: 马兜铃\nB: 洋金花\nC: 天竺黄\nD: 礞石\nE: \nCorrect answer: A\n\n\n\nQuestion: 既能消食除胀，又能降气化痰的药物为\nA: 莱菔子\nB: 子青\nC: 皮枳\nD: 厚朴\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "A"
+        ],
+        "gold": "A"
+    },
+    "119": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 主治食少难消，脘腹痞闷，大便溏薄，倦怠乏力，苔腻微黄，脉虚弱的方剂是\nA: 健脾丸\nB: 保和丸\nC: 枳术丸\nD: 枳术汤\nE: \nCorrect answer: A\n\nExample:\nMedical question: 1-使君子善治\nA: 蛔虫病\nB: 钩虫病\nC: 蛲虫病\nD: 绦虫病\nE: \nCorrect answer: A\n\nExample:\nMedical question: 升药的功效是\nA: 拔毒，去腐\nB: 杀虫，止痒\nC: 攻毒，杀虫\nD: 敛疮，生肌\nE: \nCorrect answer: A\n\nExample:\nMedical question: 既能化痰平喘，又能清肠消痔的药物是\nA: 马兜铃\nB: 洋金花\nC: 天竺黄\nD: 礞石\nE: \nCorrect answer: A\n\nExample:\nMedical question: 炉甘石和硼砂功效的共同点是\nA: 解毒，明目\nB: 收湿敛疮\nC: 清肺化痰\nD: 止痒\nE: \nCorrect answer: A\n\n\n\nQuestion: 大黄，枳实，神曲，茯苓，黄芩，黄连，白术，泽泻，以上是哪个方剂的药物组成\nA: 枳实导滞丸\nB: 枳术丸\nC: 健脾丸\nD: 木香槟榔丸\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "A: 枳实导滞丸"
+        ],
+        "gold": "A"
+    },
+    "120": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 补阳还五汤中君药黄芪的作用是\nA: 补益元气\nB: 升阳举陷\nC: 益胃固表\nD: 利尿生肌\nE: \nCorrect answer: A\n\nExample:\nMedical question: 1-使君子善治\nA: 蛔虫病\nB: 钩虫病\nC: 蛲虫病\nD: 绦虫病\nE: \nCorrect answer: A\n\nExample:\nMedical question: 大黄，枳实，神曲，茯苓，黄芩，黄连，白术，泽泻，以上是哪个方剂的药物组成\nA: 枳实导滞丸\nB: 枳术丸\nC: 健脾丸\nD: 木香槟榔丸\nE: \nCorrect answer: A\n\nExample:\nMedical question: 既能化痰平喘，又能清肠消痔的药物是\nA: 马兜铃\nB: 洋金花\nC: 天竺黄\nD: 礞石\nE: \nCorrect answer: A\n\nExample:\nMedical question: 炉甘石和硼砂功效的共同点是\nA: 解毒，明目\nB: 收湿敛疮\nC: 清肺化痰\nD: 止痒\nE: \nCorrect answer: A\n\n\n\nQuestion: 升药的功效是\nA: 拔毒，去腐\nB: 杀虫，止痒\nC: 攻毒，杀虫\nD: 敛疮，生肌\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "A"
+        ],
+        "gold": "A"
+    },
+    "121": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 心悸之阴虚火旺证不宜选用哪个方剂\nA: 知柏地黄丸\nB: 天王补心丹\nC: 当归六黄汤\nD: 朱砂安神丸\nE: \nCorrect answer: C\n\nExample:\nMedical question: 内服剂量限定0.3-0.9g的药物是\nA: 胆矾\nB: 瓜蒂\nC: 雄黄\nD: 藜芦\nE: \nCorrect answer: D\n\nExample:\nMedical question: 温病后期，“夜热早凉，热退无汗，热自阴来者”，治用\nA: 六味地黄丸\nB: 青蒿鳖甲汤\nC: 大定风珠\nD: 加减复脉汤\nE: 复脉汤\nCorrect answer: B\n\nExample:\nMedical question: 川牛膝与怀牛膝功效的主要不同点是\nA: 川牛膝偏清上部火热，怀牛膝偏清下部湿热\nB: 川牛膝偏补肝肾，怀牛膝偏祛风湿\nC: 川牛膝偏于活血通经，怀牛膝偏于利尿通淋\nD: 川牛膝偏强腰膝，怀牛膝偏于活血通经\nE: 以上都不是\nCorrect answer: E\n\nExample:\nMedical question: 牙本质非胶原成分中，属于成牙本质细胞源性蛋白的是\nA: IgG\nB: 白蛋白\nC: αHS-糖蛋白\nD: 矿化组织特异性蛋白\nE: 骨形成蛋白\nCorrect answer: D\n\n\n\nQuestion: 尿频量多，浑浊如脂膏，尿有甜味，口干唇燥，舌质红，脉沉细数者，治疗主首选\nA: 程氏萆薢分清饮\nB: 水陆二仙丹\nC: 六味地黄丸\nD: 左归丸\nE: 知柏地黄丸\n\nProvide the correct option.",
+        "prediction": [
+            "The correct answer is C: 六味地黄丸."
+        ],
+        "gold": "C"
+    },
+    "122": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 患者呃声沉缓有力，膈间及胃脘不舒，得热则减，得寒愈甚，食欲减少，口中和而不渴，舌苔白润，脉象迟缓。 治宜选用\nA: 益胃汤\nB: 补中益气汤\nC: 丁香散\nD: 理中丸\nE: \nCorrect answer: C\n\nExample:\nMedical question: 常用苍术而不用厚朴治疗的病证有\nA: 风湿痹症\nB: 梅核气\nC: 夜盲症\nD: 热结便秘\nE: \nCorrect answer: AC\n\nExample:\nMedical question: 健脾丸的功用\nA: 健脾和胃\nB: 行气导滞\nC: 消食止泻\nD: 攻积泄热\nE: \nCorrect answer: AC\n\nExample:\nMedical question: 治疗“喑痱”的方剂是\nA: 四物汤\nB: 归脾汤\nC: 补中益气汤\nD: 地黄饮子\nE: \nCorrect answer: D\n\nExample:\nMedical question: 补阳还五汤中君药黄芪的作用是\nA: 补益元气\nB: 升阳举陷\nC: 益胃固表\nD: 利尿生肌\nE: \nCorrect answer: A\n\n\n\nQuestion: 治疗休息痢，扶正与祛邪兼顾的方剂有\nA: 温脾汤\nB: 补中益气汤\nC: 连理汤\nD: 四神丸\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "C"
+        ],
+        "gold": "AC"
+    },
+    "123": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 牙本质非胶原成分中，属于成牙本质细胞源性蛋白的是\nA: IgG\nB: 白蛋白\nC: αHS-糖蛋白\nD: 矿化组织特异性蛋白\nE: 骨形成蛋白\nCorrect answer: D\n\nExample:\nMedical question: 患者喘促，不能平卧，心悸尿少，肢体浮肿，舌质淡胖，脉沉细，宜用何方治疗\nA: 苓桂术甘汤\nB: 五苓散\nC: 苏子降气汤\nD: 真武汤\nE: 以上均不是\nCorrect answer: D\n\nExample:\nMedical question: 乳牙（牙合）时期是\nA: 0.5~1.0岁\nB: 1.0~2.0岁\nC: 2.0~4.0岁\nD: 2.5~6.0岁\nE: 4.0~6.0岁\nCorrect answer: D\n\nExample:\nMedical question: 吴某，因为愤怒之极，突然昏倒，四肢不温，面色苍白，约五分钟后清醒，现在仍然头昏脑胀，胸肋胀满，善太息，不思饮食，失眠，苔薄腻，脉沉弦，此证宜有何法治疗\nA: 理气化痰，养心宁神\nB: 平肝降逆，养血安神\nC: 理气宽中，化痰宁神\nD: 理气达郁，调和肝脾\nE: 顺气开郁，安神宁志\nCorrect answer: E\n\nExample:\nMedical question: 川牛膝与怀牛膝功效的主要不同点是\nA: 川牛膝偏清上部火热，怀牛膝偏清下部湿热\nB: 川牛膝偏补肝肾，怀牛膝偏祛风湿\nC: 川牛膝偏于活血通经，怀牛膝偏于利尿通淋\nD: 川牛膝偏强腰膝，怀牛膝偏于活血通经\nE: 以上都不是\nCorrect answer: E\n\n\n\nQuestion: 内服剂量限定0.3-0.9g的药物是\nA: 胆矾\nB: 瓜蒂\nC: 雄黄\nD: 藜芦\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "C: 雄黄"
+        ],
+        "gold": "D"
+    },
+    "124": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 内关、水沟可以治疗一下哪种疾病\nA: 中风\nB: 郁证\nC: 抽搐\nD: 崩漏\nE: \nCorrect answer: ABC\n\nExample:\nMedical question: 下列对药物用量的叙述中，正确的是\nA: 五味子煎服，3～6g\nB: 五倍子入丸、散服，每次1～1.5g\nC: 山茱萸煎服，5～10g\nD: 肉豆蔻入丸、散服，每次1～1.5g\nE: \nCorrect answer: ABC\n\nExample:\nMedical question: 治疗胸胁停饮所致的喘咳宜选用的药物是\nA: 商陆\nB: 京大戟\nC: 甘遂\nD: 芫花\nE: \nCorrect answer: D\n\nExample:\nMedical question: 升药的功效是\nA: 拔毒，去腐\nB: 杀虫，止痒\nC: 攻毒，杀虫\nD: 敛疮，生肌\nE: \nCorrect answer: A\n\nExample:\nMedical question: 患者腹痛较剧，痛如针刺，痛处不移，经久不愈，舌质紫黯，脉弦或细涩。治当选用\nA: 良附丸\nB: 正气天香散\nC: 桃核承气汤\nD: 少腹逐瘀汤\nE: \nCorrect answer: D\n\n\n\nQuestion: 完带汤中具有疏肝解郁作用的药物配伍是\nA: 柴胡\nB: 芥穗\nC: 白芍\nD: 车前子\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "A: 柴胡"
+        ],
+        "gold": "ABC"
+    },
+    "125": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 以下哪些是真热假寒证的表现\nA: 四肢厥冷而胸腹灼热\nB: 面色紫暗而舌红苔黄\nC: 两颧红赤而浮红如妆\nD: 脉象沉迟但切之有力\nE: \nCorrect answer: ABD\n\nExample:\nMedical question: 麝香与冰片功效的共同点有\nA: 开窍醒神\nB: 消肿止痛\nC: 活血散结\nD: 生肌敛疮\nE: \nCorrect answer: ABD\n\nExample:\nMedical question: 下列选项中，性味甘平的药物有\nA: 党参\nB: 太子参\nC: 西洋参\nD: 山药\nE: \nCorrect answer: ABD\n\nExample:\nMedical question: 提出“泻南方，补北方”的治痿原则的是\nA: 张子和\nB: 朱丹溪\nC: 刘河间\nD: 李杲\nE: \nCorrect answer: B\n\nExample:\nMedical question: 有“方书之祖”之称的是\nA: 《千金方》\nB: 《五十二病方》\nC: 《伤寒杂病论》\nD: 《黄帝内经》\nE: \nCorrect answer: C\n\n\n\nQuestion: 根据“人与天地相应”的观点，下列选项对人体产生影响的是\nA: 季节气候的变化\nB: 昼夜晨昏的变化\nC: 饮食偏嗜的不同\nD: 地方区域的不同\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "A: 季节气候的变化"
+        ],
+        "gold": "ABD"
+    },
+    "126": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 补阳还五汤中君药黄芪的作用是\nA: 补益元气\nB: 升阳举陷\nC: 益胃固表\nD: 利尿生肌\nE: \nCorrect answer: A\n\nExample:\nMedical question: 1-使君子善治\nA: 蛔虫病\nB: 钩虫病\nC: 蛲虫病\nD: 绦虫病\nE: \nCorrect answer: A\n\nExample:\nMedical question: 升药的功效是\nA: 拔毒，去腐\nB: 杀虫，止痒\nC: 攻毒，杀虫\nD: 敛疮，生肌\nE: \nCorrect answer: A\n\nExample:\nMedical question: 炉甘石和硼砂功效的共同点是\nA: 解毒，明目\nB: 收湿敛疮\nC: 清肺化痰\nD: 止痒\nE: \nCorrect answer: A\n\nExample:\nMedical question: 既能化痰平喘，又能清肠消痔的药物是\nA: 马兜铃\nB: 洋金花\nC: 天竺黄\nD: 礞石\nE: \nCorrect answer: A\n\n\n\nQuestion: 身热较著，微恶风，汗泄不畅，头胀，咳嗽，痰粘或黄，口干，舌红苔薄黄，脉浮数者，治宜选用\nA: 银翘散\nB: 荆防败毒散\nC: 新加香薷饮\nD: 加减葳蕤汤\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "The correct answer is C: 新加香薷饮."
+        ],
+        "gold": "A"
+    },
+    "127": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 补阳还五汤中君药黄芪的作用是\nA: 补益元气\nB: 升阳举陷\nC: 益胃固表\nD: 利尿生肌\nE: \nCorrect answer: A\n\nExample:\nMedical question: 1-使君子善治\nA: 蛔虫病\nB: 钩虫病\nC: 蛲虫病\nD: 绦虫病\nE: \nCorrect answer: A\n\nExample:\nMedical question: 升药的功效是\nA: 拔毒，去腐\nB: 杀虫，止痒\nC: 攻毒，杀虫\nD: 敛疮，生肌\nE: \nCorrect answer: A\n\nExample:\nMedical question: 炉甘石和硼砂功效的共同点是\nA: 解毒，明目\nB: 收湿敛疮\nC: 清肺化痰\nD: 止痒\nE: \nCorrect answer: A\n\nExample:\nMedical question: 既能化痰平喘，又能清肠消痔的药物是\nA: 马兜铃\nB: 洋金花\nC: 天竺黄\nD: 礞石\nE: \nCorrect answer: A\n\n\n\nQuestion: 1-易侵袭人体上部的邪气是\nA: 火邪\nB: 湿邪\nC: 暑邪\nD: 寒邪\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "The correct answer is A: Fire邪. Fire邪具有炎上特性，易侵犯人体上部，如头面、咽喉等部位，引起红肿热痛等症状。"
+        ],
+        "gold": "A"
+    },
+    "128": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 成年人的呼吸次数，正常值为\nA: 40次/分钟\nB: 16~20次/分钟\nC: 25次/分钟\nD: 16次/分钟\nE: \nCorrect answer: B\n\nExample:\nMedical question: 1-珍珠母的功效是\nA: 平肝潜阳，清肝明目\nB: 平肝潜阳，清肝明目，镇惊安神\nC: 平肝潜阳，软坚散结，收敛固涩\nD: 平肝潜阳，镇静安神，化痰软坚\nE: \nCorrect answer: B\n\nExample:\nMedical question: 饮证的咯痰特点是\nA: 痰色黄白\nB: 痰清稀如水\nC: 痰中带血\nD: 痰白滑易咯出\nE: \nCorrect answer: B\n\nExample:\nMedical question: 下列哪项属于水火共制法\nA: 炒\nB: 蒸\nC: 炙\nD: 水飞\nE: \nCorrect answer: B\n\nExample:\nMedical question: 腹满而吐，食不下，自利，时腹自痛，或苔白腻，脉沉缓，此属\nA: 少阴寒化证\nB: 太阴病证\nC: 厥阴病证\nD: 中焦病证\nE: \nCorrect answer: B\n\n\n\nQuestion: 1-《本草经集注》的载药数是\nA: 载药365种\nB: 载药730种\nC: 载药1892种\nD: 载药1500种\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "The correct answer is B: 730种."
+        ],
+        "gold": "B"
+    },
+    "129": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 炉甘石和硼砂功效的共同点是\nA: 解毒，明目\nB: 收湿敛疮\nC: 清肺化痰\nD: 止痒\nE: \nCorrect answer: A\n\nExample:\nMedical question: 百合病的基本治则是\nA: 益气生津\nB: 滋养肺胃\nC: 养阴清热\nD: 养心安神\nE: 清心润燥\nCorrect answer: C\n\nExample:\nMedical question: 《医学心悟•头痛》中另有一半夏白术天麻汤，较通用方多蔓荆子三钱，减哪位药为一钱，治痰厥头痛、胸膈多痰，动则眩晕之证\nA: 半夏\nB: 天麻\nC: 白术\nD: 茯苓\nE: \nCorrect answer: C\n\nExample:\nMedical question: 龙胆泻肝汤出自下列哪本著作\nA: 《丹溪心法》\nB: 《伤寒论》\nC: 《医方集解》\nD: 《景岳全书》\nE: \nCorrect answer: C\n\nExample:\nMedical question: 下列各药中，治疗风热感冒，症见声音嘶哑或咽喉肿痛者宜选用\nA: 葱白\nB: 鹅不食草\nC: 蝉蜕\nD: 生姜\nE: \nCorrect answer: C\n\n\n\nQuestion: 下列哪些不是五味子的功效\nA: 收敛固涩\nB: 益气生津\nC: 收湿敛疮\nD: 补肾宁心\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "The correct answer is C: 收湿敛疮."
+        ],
+        "gold": "C"
+    },
+    "130": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 心悸不宁，心烦少寐，头晕目眩，手足心热，耳鸣腰酸，舌质红，脉细数，治宜选方\nA: 天王补心丹\nB: 朱砂安神丸\nC: 养心汤\nD: 酸枣仁汤\nE: \nCorrect answer: AB\n\nExample:\nMedical question: 尿频量多，浑浊如脂膏，尿有甜味，口干唇燥，舌质红，脉沉细数者，治疗主首选\nA: 程氏萆薢分清饮\nB: 水陆二仙丹\nC: 六味地黄丸\nD: 左归丸\nE: 知柏地黄丸\nCorrect answer: C\n\nExample:\nMedical question: 《医学心悟•头痛》中另有一半夏白术天麻汤，较通用方多蔓荆子三钱，减哪位药为一钱，治痰厥头痛、胸膈多痰，动则眩晕之证\nA: 半夏\nB: 天麻\nC: 白术\nD: 茯苓\nE: \nCorrect answer: C\n\nExample:\nMedical question: 龙胆泻肝汤出自下列哪本著作\nA: 《丹溪心法》\nB: 《伤寒论》\nC: 《医方集解》\nD: 《景岳全书》\nE: \nCorrect answer: C\n\nExample:\nMedical question: 下列各药中，治疗风热感冒，症见声音嘶哑或咽喉肿痛者宜选用\nA: 葱白\nB: 鹅不食草\nC: 蝉蜕\nD: 生姜\nE: \nCorrect answer: C\n\n\n\nQuestion: 心悸之阴虚火旺证不宜选用哪个方剂\nA: 知柏地黄丸\nB: 天王补心丹\nC: 当归六黄汤\nD: 朱砂安神丸\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "E"
+        ],
+        "gold": "C"
+    },
+    "131": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 心悸之阴虚火旺证不宜选用哪个方剂\nA: 知柏地黄丸\nB: 天王补心丹\nC: 当归六黄汤\nD: 朱砂安神丸\nE: \nCorrect answer: C\n\nExample:\nMedical question: 麻黄杏仁甘草石膏汤中石膏的作用是\nA: 生津\nB: 清肺热\nC: 解肌\nD: 宣肺\nE: \nCorrect answer: AB\n\nExample:\nMedical question: 安神药的归经是\nA: 心\nB: 肝\nC: 肺\nD: 肾\nE: \nCorrect answer: AB\n\nExample:\nMedical question: 症见恶寒发热，无汗，头痛身痛，口渴引饮，心烦尿黄，咳喘痰黄舌红苔薄黄者，属于\nA: 表寒里热\nB: 表里俱实\nC: 寒郁化热\nD: 真热假寒\nE: \nCorrect answer: AB\n\nExample:\nMedical question: 反映西汉以前医药养生保健的发展状况，对今天的养生学、性医学、老年病学研究有一定参考意义的著作有\nA: 《养生方》\nB: 《杂疗方》\nC: 《胎产书》\nD: 《五十二病方》\nE: 《治百病方》\nCorrect answer: AB\n\n\n\nQuestion: 心悸不宁，心烦少寐，头晕目眩，手足心热，耳鸣腰酸，舌质红，脉细数，治宜选方\nA: 天王补心丹\nB: 朱砂安神丸\nC: 养心汤\nD: 酸枣仁汤\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "The correct answer is A: 天王补心丹."
+        ],
+        "gold": "AB"
+    },
+    "132": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 患者呃声沉缓有力，膈间及胃脘不舒，得热则减，得寒愈甚，食欲减少，口中和而不渴，舌苔白润，脉象迟缓。证属\nA: 脾胃气血证\nB: 气机郁滞证\nC: 脾胃阳虚证\nD: 胃中寒冷证\nE: \nCorrect answer: D\n\nExample:\nMedical question: 苍术和厚朴均可治疗的病症有\nA: 风湿痹痛\nB: 梅核气\nC: 痰饮喘咳\nD: 湿阻中焦\nE: \nCorrect answer: D\n\nExample:\nMedical question: 既能治肺胃出血，又能消散痈肿、生肌敛疮的药物是\nA: 黄芪\nB: 生地\nC: 仙鹤草\nD: 白及\nE: \nCorrect answer: D\n\nExample:\nMedical question: 不属于按脘腹的部位\nA: 胃脘\nB: 脐腹\nC: 小腹\nD: 虚里\nE: \nCorrect answer: D\n\nExample:\nMedical question: 《伤寒明理论》的作者是\nA: 唐慎微\nB: 王肯堂\nC: 王焘\nD: 成无己\nE: \nCorrect answer: D\n\n\n\nQuestion: 下列属于黄宫绣的脉学专著是\nA: 《濒湖脉学》\nB: 《脉诀汇辨》\nC: 《诊宗三昧》\nD: 《脉理求真》\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "E"
+        ],
+        "gold": "D"
+    },
+    "133": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 正常生理状态下，声音的特点为\nA: 发声自然\nB: 声调和畅\nC: 柔和圆润\nD: 语言流畅\nE: \nCorrect answer: ABCD\n\nExample:\nMedical question: 火与热的主要区别是\nA: 火为热之极，热极能化火\nB: 火为内生，热为外受\nC: 火多脏腑郁发或邪郁化火，其性炎上，热多泛及全身\nD: 火易耗血动血，热易耗伤阴液\nE: \nCorrect answer: ABCD\n\nExample:\nMedical question: 下列选项中，能治疗郁证的腧穴是\nA: 水沟\nB: 百会\nC: 内关\nD: 神门\nE: \nCorrect answer: ABCD\n\nExample:\nMedical question: 下列属于内伤发热治法的是：\nA: 解郁，活血\nB: 除湿\nC: 益气、养血\nD: 滋阴、温阳\nE: \nCorrect answer: ABCD\n\nExample:\nMedical question: 以下著作专论麻疹的有\nA: 《麻科活人全书》\nB: 《郁谢麻科合璧》\nC: 《麻证新书》\nD: 《麻症集成》\nE: \nCorrect answer: ABCD\n\n\n\nQuestion: 影响药物升降浮沉的因素有\nA: 四气五味\nB: 质地轻重\nC: 炮制\nD: 配伍\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "Correct answer: ABCD"
+        ],
+        "gold": "ABCD"
+    },
+    "134": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 下列选项中，性味甘平的药物有\nA: 党参\nB: 太子参\nC: 西洋参\nD: 山药\nE: \nCorrect answer: ABD\n\nExample:\nMedical question: 麝香与冰片功效的共同点有\nA: 开窍醒神\nB: 消肿止痛\nC: 活血散结\nD: 生肌敛疮\nE: \nCorrect answer: ABD\n\nExample:\nMedical question: 《外科正宗》一书中治疗瘿瘤的主要治法是\nA: 行散气血\nB: 行痰顺气\nC: 破气通络\nD: 活血消坚\nE: \nCorrect answer: ABD\n\nExample:\nMedical question: 根据“人与天地相应”的观点，下列选项对人体产生影响的是\nA: 季节气候的变化\nB: 昼夜晨昏的变化\nC: 饮食偏嗜的不同\nD: 地方区域的不同\nE: \nCorrect answer: ABD\n\nExample:\nMedical question: 1-使君子善治\nA: 蛔虫病\nB: 钩虫病\nC: 蛲虫病\nD: 绦虫病\nE: \nCorrect answer: A\n\n\n\nQuestion: 以下哪些是真热假寒证的表现\nA: 四肢厥冷而胸腹灼热\nB: 面色紫暗而舌红苔黄\nC: 两颧红赤而浮红如妆\nD: 脉象沉迟但切之有力\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "The correct answer is ABD."
+        ],
+        "gold": "ABD"
+    },
+    "135": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 成年人的呼吸次数，正常值为\nA: 40次/分钟\nB: 16~20次/分钟\nC: 25次/分钟\nD: 16次/分钟\nE: \nCorrect answer: B\n\nExample:\nMedical question: 1-珍珠母的功效是\nA: 平肝潜阳，清肝明目\nB: 平肝潜阳，清肝明目，镇惊安神\nC: 平肝潜阳，软坚散结，收敛固涩\nD: 平肝潜阳，镇静安神，化痰软坚\nE: \nCorrect answer: B\n\nExample:\nMedical question: 饮证的咯痰特点是\nA: 痰色黄白\nB: 痰清稀如水\nC: 痰中带血\nD: 痰白滑易咯出\nE: \nCorrect answer: B\n\nExample:\nMedical question: 下列哪项属于水火共制法\nA: 炒\nB: 蒸\nC: 炙\nD: 水飞\nE: \nCorrect answer: B\n\nExample:\nMedical question: 腹满而吐，食不下，自利，时腹自痛，或苔白腻，脉沉缓，此属\nA: 少阴寒化证\nB: 太阴病证\nC: 厥阴病证\nD: 中焦病证\nE: \nCorrect answer: B\n\n\n\nQuestion: 下列哪项常见体虚而虚里脉动数\nA: 中气不守\nB: 心阳不足\nC: 心血不足\nD: 心气不足\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "B"
+        ],
+        "gold": "B"
+    },
+    "136": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 常用苍术而不用厚朴治疗的病证有\nA: 风湿痹症\nB: 梅核气\nC: 夜盲症\nD: 热结便秘\nE: \nCorrect answer: AC\n\nExample:\nMedical question: 治疗休息痢，扶正与祛邪兼顾的方剂有\nA: 温脾汤\nB: 补中益气汤\nC: 连理汤\nD: 四神丸\nE: \nCorrect answer: AC\n\nExample:\nMedical question: 升药的功效是\nA: 拔毒，去腐\nB: 杀虫，止痒\nC: 攻毒，杀虫\nD: 敛疮，生肌\nE: \nCorrect answer: A\n\nExample:\nMedical question: 患者胃脘疼痛，痛有定处而拒按，或痛有针刺感，食后痛甚，或见吐血便黑，舌质紫黯，脉涩。治宜选用\nA: 丹栀逍遥散\nB: 清中汤\nC: 化肝煎\nD: 失笑散合丹参饮\nE: \nCorrect answer: D\n\nExample:\nMedical question: 既能消食除胀，又能降气化痰的药物为\nA: 莱菔子\nB: 子青\nC: 皮枳\nD: 厚朴\nE: \nCorrect answer: A\n\n\n\nQuestion: 健脾丸的功用\nA: 健脾和胃\nB: 行气导滞\nC: 消食止泻\nD: 攻积泄热\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "The correct answer is C: 消食止泻."
+        ],
+        "gold": "AC"
+    },
+    "137": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 问病人口渴与饮水情况，可以了解\nA: 津液的盛衰\nB: 津液的输布障碍\nC: 病性的寒热\nD: 邪正的盛衰\nE: \nCorrect answer: ABCD\n\nExample:\nMedical question: 常作为取穴定位标志的腧穴是\nA: 三阴交\nB: 神阙\nC: 内关\nD: 乳中\nE: \nCorrect answer: BD\n\nExample:\nMedical question: 内服剂量限定0.3-0.9g的药物是\nA: 胆矾\nB: 瓜蒂\nC: 雄黄\nD: 藜芦\nE: \nCorrect answer: D\n\nExample:\nMedical question: 川牛膝与怀牛膝功效的主要不同点是\nA: 川牛膝偏清上部火热，怀牛膝偏清下部湿热\nB: 川牛膝偏补肝肾，怀牛膝偏祛风湿\nC: 川牛膝偏于活血通经，怀牛膝偏于利尿通淋\nD: 川牛膝偏强腰膝，怀牛膝偏于活血通经\nE: 以上都不是\nCorrect answer: E\n\nExample:\nMedical question: 牙本质非胶原成分中，属于成牙本质细胞源性蛋白的是\nA: IgG\nB: 白蛋白\nC: αHS-糖蛋白\nD: 矿化组织特异性蛋白\nE: 骨形成蛋白\nCorrect answer: D\n\n\n\nQuestion: 表里辨证主要是辨别\nA: 疾病的性质\nB: 病位的深浅\nC: 邪正的盛衰\nD: 外感与内伤\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "E"
+        ],
+        "gold": "BD"
+    },
+    "138": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 既能治肺胃出血，又能消散痈肿、生肌敛疮的药物是\nA: 黄芪\nB: 生地\nC: 仙鹤草\nD: 白及\nE: \nCorrect answer: D\n\nExample:\nMedical question: 素有伤科要药之称的药物是\nA: 大蓟\nB: 艾叶\nC: 三七\nD: 花蕊石\nE: \nCorrect answer: C\n\nExample:\nMedical question: 患者呃声沉缓有力，膈间及胃脘不舒，得热则减，得寒愈甚，食欲减少，口中和而不渴，舌苔白润，脉象迟缓。证属\nA: 脾胃气血证\nB: 气机郁滞证\nC: 脾胃阳虚证\nD: 胃中寒冷证\nE: \nCorrect answer: D\n\nExample:\nMedical question: 不属于按脘腹的部位\nA: 胃脘\nB: 脐腹\nC: 小腹\nD: 虚里\nE: \nCorrect answer: D\n\nExample:\nMedical question: 《伤寒明理论》的作者是\nA: 唐慎微\nB: 王肯堂\nC: 王焘\nD: 成无己\nE: \nCorrect answer: D\n\n\n\nQuestion: 既能温中止血，又可治疗胃寒呕吐、脾虚久泻的药物是\nA: 艾叶\nB: 仙鹤草\nC: 降香\nD: 灶心土\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "D"
+        ],
+        "gold": "D"
+    },
+    "139": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 内服剂量限定0.3-0.9g的药物是\nA: 胆矾\nB: 瓜蒂\nC: 雄黄\nD: 藜芦\nE: \nCorrect answer: D\n\nExample:\nMedical question: 患者喘促，不能平卧，心悸尿少，肢体浮肿，舌质淡胖，脉沉细，宜用何方治疗\nA: 苓桂术甘汤\nB: 五苓散\nC: 苏子降气汤\nD: 真武汤\nE: 以上均不是\nCorrect answer: D\n\nExample:\nMedical question: 牙本质非胶原成分中，属于成牙本质细胞源性蛋白的是\nA: IgG\nB: 白蛋白\nC: αHS-糖蛋白\nD: 矿化组织特异性蛋白\nE: 骨形成蛋白\nCorrect answer: D\n\nExample:\nMedical question: 吴某，因为愤怒之极，突然昏倒，四肢不温，面色苍白，约五分钟后清醒，现在仍然头昏脑胀，胸肋胀满，善太息，不思饮食，失眠，苔薄腻，脉沉弦，此证宜有何法治疗\nA: 理气化痰，养心宁神\nB: 平肝降逆，养血安神\nC: 理气宽中，化痰宁神\nD: 理气达郁，调和肝脾\nE: 顺气开郁，安神宁志\nCorrect answer: E\n\nExample:\nMedical question: 川牛膝与怀牛膝功效的主要不同点是\nA: 川牛膝偏清上部火热，怀牛膝偏清下部湿热\nB: 川牛膝偏补肝肾，怀牛膝偏祛风湿\nC: 川牛膝偏于活血通经，怀牛膝偏于利尿通淋\nD: 川牛膝偏强腰膝，怀牛膝偏于活血通经\nE: 以上都不是\nCorrect answer: E\n\n\n\nQuestion: 乳牙（牙合）时期是\nA: 0.5~1.0岁\nB: 1.0~2.0岁\nC: 2.0~4.0岁\nD: 2.5~6.0岁\nE: 4.0~6.0岁\n\nProvide the correct option.",
+        "prediction": [
+            "The correct answer is D: 2.5~6.0岁."
+        ],
+        "gold": "D"
+    },
+    "140": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 正常生理状态下，声音的特点为\nA: 发声自然\nB: 声调和畅\nC: 柔和圆润\nD: 语言流畅\nE: \nCorrect answer: ABCD\n\nExample:\nMedical question: 影响药物升降浮沉的因素有\nA: 四气五味\nB: 质地轻重\nC: 炮制\nD: 配伍\nE: \nCorrect answer: ABCD\n\nExample:\nMedical question: 火与热的主要区别是\nA: 火为热之极，热极能化火\nB: 火为内生，热为外受\nC: 火多脏腑郁发或邪郁化火，其性炎上，热多泛及全身\nD: 火易耗血动血，热易耗伤阴液\nE: \nCorrect answer: ABCD\n\nExample:\nMedical question: 下列选项中，能治疗郁证的腧穴是\nA: 水沟\nB: 百会\nC: 内关\nD: 神门\nE: \nCorrect answer: ABCD\n\nExample:\nMedical question: 下列属于内伤发热治法的是：\nA: 解郁，活血\nB: 除湿\nC: 益气、养血\nD: 滋阴、温阳\nE: \nCorrect answer: ABCD\n\n\n\nQuestion: 以下著作专论麻疹的有\nA: 《麻科活人全书》\nB: 《郁谢麻科合璧》\nC: 《麻证新书》\nD: 《麻症集成》\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "The correct answer is ABCD."
+        ],
+        "gold": "ABCD"
+    },
+    "141": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 可导致瘀血的发生的常见因素是\nA: 气虚\nB: 气滞\nC: 血寒\nD: 血热\nE: 外伤\nCorrect answer: ABCDE\n\nExample:\nMedical question: 1-珍珠母的功效是\nA: 平肝潜阳，清肝明目\nB: 平肝潜阳，清肝明目，镇惊安神\nC: 平肝潜阳，软坚散结，收敛固涩\nD: 平肝潜阳，镇静安神，化痰软坚\nE: \nCorrect answer: B\n\nExample:\nMedical question: 下列哪项属于水火共制法\nA: 炒\nB: 蒸\nC: 炙\nD: 水飞\nE: \nCorrect answer: B\n\nExample:\nMedical question: 脾开窍于\nA: 唇\nB: 口\nC: 舌\nD: 齿\nE: \nCorrect answer: B\n\nExample:\nMedical question: 谵语的病机是\nA: 心气大伤，精神散乱\nB: 热扰心神，神明失主\nC: 心气不足，神失所养\nD: 气郁痰结，阻蔽心窍\nE: \nCorrect answer: B\n\n\n\nQuestion: 1-月经后期，量少色淡是\nA: 气虚\nB: 血虚\nC: 血瘀\nD: 肝郁\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "B"
+        ],
+        "gold": "B"
+    },
+    "142": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 成年人的呼吸次数，正常值为\nA: 40次/分钟\nB: 16~20次/分钟\nC: 25次/分钟\nD: 16次/分钟\nE: \nCorrect answer: B\n\nExample:\nMedical question: 1-珍珠母的功效是\nA: 平肝潜阳，清肝明目\nB: 平肝潜阳，清肝明目，镇惊安神\nC: 平肝潜阳，软坚散结，收敛固涩\nD: 平肝潜阳，镇静安神，化痰软坚\nE: \nCorrect answer: B\n\nExample:\nMedical question: 饮证的咯痰特点是\nA: 痰色黄白\nB: 痰清稀如水\nC: 痰中带血\nD: 痰白滑易咯出\nE: \nCorrect answer: B\n\nExample:\nMedical question: 腹满而吐，食不下，自利，时腹自痛，或苔白腻，脉沉缓，此属\nA: 少阴寒化证\nB: 太阴病证\nC: 厥阴病证\nD: 中焦病证\nE: \nCorrect answer: B\n\nExample:\nMedical question: 下列哪项常见体虚而虚里脉动数\nA: 中气不守\nB: 心阳不足\nC: 心血不足\nD: 心气不足\nE: \nCorrect answer: B\n\n\n\nQuestion: 位于乳头直下第6肋间隙的穴位为\nA: 章门\nB: 期门\nC: 乳根\nD: 日月\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "The correct answer is C: 乳根."
+        ],
+        "gold": "B"
+    },
+    "143": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 患者头痛，项背强直，恶寒发热，无汗或汗出，肢体酸重，甚至口噤不能语，四肢抽搐。舌苔薄白或白腻，脉浮紧。其诊断为\nA: 中风\nB: 痫证\nC: 痉证\nD: 痿证\nE: \nCorrect answer: C\n\nExample:\nMedical question: 完带汤中具有疏肝解郁作用的药物配伍是\nA: 柴胡\nB: 芥穗\nC: 白芍\nD: 车前子\nE: \nCorrect answer: ABC\n\nExample:\nMedical question: 下列对药物用量的叙述中，正确的是\nA: 五味子煎服，3～6g\nB: 五倍子入丸、散服，每次1～1.5g\nC: 山茱萸煎服，5～10g\nD: 肉豆蔻入丸、散服，每次1～1.5g\nE: \nCorrect answer: ABC\n\nExample:\nMedical question: 手足蠕动多缘于\nA: 热极生风\nB: 虚风内动\nC: 痫证\nD: 破伤风\nE: 中风\nCorrect answer: B\n\nExample:\nMedical question: 患者胃脘疼痛，痛有定处而拒按，或痛有针刺感，食后痛甚，或见吐血便黑，舌质紫黯，脉涩。治宜选用\nA: 丹栀逍遥散\nB: 清中汤\nC: 化肝煎\nD: 失笑散合丹参饮\nE: \nCorrect answer: D\n\n\n\nQuestion: 内关、水沟可以治疗一下哪种疾病\nA: 中风\nB: 郁证\nC: 抽搐\nD: 崩漏\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "The correct answer is A: 中风."
+        ],
+        "gold": "ABC"
+    },
+    "144": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 成年人的呼吸次数，正常值为\nA: 40次/分钟\nB: 16~20次/分钟\nC: 25次/分钟\nD: 16次/分钟\nE: \nCorrect answer: B\n\nExample:\nMedical question: 1-珍珠母的功效是\nA: 平肝潜阳，清肝明目\nB: 平肝潜阳，清肝明目，镇惊安神\nC: 平肝潜阳，软坚散结，收敛固涩\nD: 平肝潜阳，镇静安神，化痰软坚\nE: \nCorrect answer: B\n\nExample:\nMedical question: 饮证的咯痰特点是\nA: 痰色黄白\nB: 痰清稀如水\nC: 痰中带血\nD: 痰白滑易咯出\nE: \nCorrect answer: B\n\nExample:\nMedical question: 腹满而吐，食不下，自利，时腹自痛，或苔白腻，脉沉缓，此属\nA: 少阴寒化证\nB: 太阴病证\nC: 厥阴病证\nD: 中焦病证\nE: \nCorrect answer: B\n\nExample:\nMedical question: 下列哪项常见体虚而虚里脉动数\nA: 中气不守\nB: 心阳不足\nC: 心血不足\nD: 心气不足\nE: \nCorrect answer: B\n\n\n\nQuestion: 属于湿淫证特性的是\nA: 其性收引，凝滞\nB: 阻遏气机\nC: 易伤阳气\nD: 其性清冷\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "The correct answer is B: 阻遏气机."
+        ],
+        "gold": "B"
+    },
+    "145": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 内服剂量限定0.3-0.9g的药物是\nA: 胆矾\nB: 瓜蒂\nC: 雄黄\nD: 藜芦\nE: \nCorrect answer: D\n\nExample:\nMedical question: 患者喘促，不能平卧，心悸尿少，肢体浮肿，舌质淡胖，脉沉细，宜用何方治疗\nA: 苓桂术甘汤\nB: 五苓散\nC: 苏子降气汤\nD: 真武汤\nE: 以上均不是\nCorrect answer: D\n\nExample:\nMedical question: 乳牙（牙合）时期是\nA: 0.5~1.0岁\nB: 1.0~2.0岁\nC: 2.0~4.0岁\nD: 2.5~6.0岁\nE: 4.0~6.0岁\nCorrect answer: D\n\nExample:\nMedical question: 吴某，因为愤怒之极，突然昏倒，四肢不温，面色苍白，约五分钟后清醒，现在仍然头昏脑胀，胸肋胀满，善太息，不思饮食，失眠，苔薄腻，脉沉弦，此证宜有何法治疗\nA: 理气化痰，养心宁神\nB: 平肝降逆，养血安神\nC: 理气宽中，化痰宁神\nD: 理气达郁，调和肝脾\nE: 顺气开郁，安神宁志\nCorrect answer: E\n\nExample:\nMedical question: 川牛膝与怀牛膝功效的主要不同点是\nA: 川牛膝偏清上部火热，怀牛膝偏清下部湿热\nB: 川牛膝偏补肝肾，怀牛膝偏祛风湿\nC: 川牛膝偏于活血通经，怀牛膝偏于利尿通淋\nD: 川牛膝偏强腰膝，怀牛膝偏于活血通经\nE: 以上都不是\nCorrect answer: E\n\n\n\nQuestion: 牙本质非胶原成分中，属于成牙本质细胞源性蛋白的是\nA: IgG\nB: 白蛋白\nC: αHS-糖蛋白\nD: 矿化组织特异性蛋白\nE: 骨形成蛋白\n\nProvide the correct option.",
+        "prediction": [
+            "The correct answer is: D"
+        ],
+        "gold": "D"
+    },
+    "146": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 《医学心悟•头痛》中另有一半夏白术天麻汤，较通用方多蔓荆子三钱，减哪位药为一钱，治痰厥头痛、胸膈多痰，动则眩晕之证\nA: 半夏\nB: 天麻\nC: 白术\nD: 茯苓\nE: \nCorrect answer: C\n\nExample:\nMedical question: 心悸之阴虚火旺证不宜选用哪个方剂\nA: 知柏地黄丸\nB: 天王补心丹\nC: 当归六黄汤\nD: 朱砂安神丸\nE: \nCorrect answer: C\n\nExample:\nMedical question: 龙胆泻肝汤出自下列哪本著作\nA: 《丹溪心法》\nB: 《伤寒论》\nC: 《医方集解》\nD: 《景岳全书》\nE: \nCorrect answer: C\n\nExample:\nMedical question: 下列各药中，治疗风热感冒，症见声音嘶哑或咽喉肿痛者宜选用\nA: 葱白\nB: 鹅不食草\nC: 蝉蜕\nD: 生姜\nE: \nCorrect answer: C\n\nExample:\nMedical question: 患者头痛，项背强直，恶寒发热，无汗或汗出，肢体酸重，甚至口噤不能语，四肢抽搐。舌苔薄白或白腻，脉浮紧。其诊断为\nA: 中风\nB: 痫证\nC: 痉证\nD: 痿证\nE: \nCorrect answer: C\n\n\n\nQuestion: 多与干姜、细辛、五味子配伍治疗寒痰咳嗽的药物是\nA: 半夏\nB: 桔梗\nC: 陈皮\nD: 紫菀\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "The correct answer is A: half夏."
+        ],
+        "gold": "C"
+    },
+    "147": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 房劳过度，易损伤的脏腑是\nA: 心\nB: 脾\nC: 肝\nD: 肺\nE: 肾\nCorrect answer: E\n\nExample:\nMedical question: 8-上述脏器中，其液为涎的是（）\nA: 心\nB: 肺\nC: 脾\nD: 肝\nE: 肾\nCorrect answer: C\n\nExample:\nMedical question: 以精虚为主的脏有\nA: 心\nB: 肝\nC: 脾\nD: 肺\nE: 肾\nCorrect answer: CE\n\nExample:\nMedical question: 麻黄杏仁甘草石膏汤中石膏的作用是\nA: 生津\nB: 清肺热\nC: 解肌\nD: 宣肺\nE: \nCorrect answer: AB\n\nExample:\nMedical question: 心悸不宁，心烦少寐，头晕目眩，手足心热，耳鸣腰酸，舌质红，脉细数，治宜选方\nA: 天王补心丹\nB: 朱砂安神丸\nC: 养心汤\nD: 酸枣仁汤\nE: \nCorrect answer: AB\n\n\n\nQuestion: 安神药的归经是\nA: 心\nB: 肝\nC: 肺\nD: 肾\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "A: 心"
+        ],
+        "gold": "AB"
+    },
+    "148": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 内服剂量限定0.3-0.9g的药物是\nA: 胆矾\nB: 瓜蒂\nC: 雄黄\nD: 藜芦\nE: \nCorrect answer: D\n\nExample:\nMedical question: 牙本质非胶原成分中，属于成牙本质细胞源性蛋白的是\nA: IgG\nB: 白蛋白\nC: αHS-糖蛋白\nD: 矿化组织特异性蛋白\nE: 骨形成蛋白\nCorrect answer: D\n\nExample:\nMedical question: 乳牙（牙合）时期是\nA: 0.5~1.0岁\nB: 1.0~2.0岁\nC: 2.0~4.0岁\nD: 2.5~6.0岁\nE: 4.0~6.0岁\nCorrect answer: D\n\nExample:\nMedical question: 吴某，因为愤怒之极，突然昏倒，四肢不温，面色苍白，约五分钟后清醒，现在仍然头昏脑胀，胸肋胀满，善太息，不思饮食，失眠，苔薄腻，脉沉弦，此证宜有何法治疗\nA: 理气化痰，养心宁神\nB: 平肝降逆，养血安神\nC: 理气宽中，化痰宁神\nD: 理气达郁，调和肝脾\nE: 顺气开郁，安神宁志\nCorrect answer: E\n\nExample:\nMedical question: 川牛膝与怀牛膝功效的主要不同点是\nA: 川牛膝偏清上部火热，怀牛膝偏清下部湿热\nB: 川牛膝偏补肝肾，怀牛膝偏祛风湿\nC: 川牛膝偏于活血通经，怀牛膝偏于利尿通淋\nD: 川牛膝偏强腰膝，怀牛膝偏于活血通经\nE: 以上都不是\nCorrect answer: E\n\n\n\nQuestion: 患者喘促，不能平卧，心悸尿少，肢体浮肿，舌质淡胖，脉沉细，宜用何方治疗\nA: 苓桂术甘汤\nB: 五苓散\nC: 苏子降气汤\nD: 真武汤\nE: 以上均不是\n\nProvide the correct option.",
+        "prediction": [
+            "The correct answer is D: 真武汤."
+        ],
+        "gold": "D"
+    },
+    "149": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 成年人的呼吸次数，正常值为\nA: 40次/分钟\nB: 16~20次/分钟\nC: 25次/分钟\nD: 16次/分钟\nE: \nCorrect answer: B\n\nExample:\nMedical question: 1-珍珠母的功效是\nA: 平肝潜阳，清肝明目\nB: 平肝潜阳，清肝明目，镇惊安神\nC: 平肝潜阳，软坚散结，收敛固涩\nD: 平肝潜阳，镇静安神，化痰软坚\nE: \nCorrect answer: B\n\nExample:\nMedical question: 饮证的咯痰特点是\nA: 痰色黄白\nB: 痰清稀如水\nC: 痰中带血\nD: 痰白滑易咯出\nE: \nCorrect answer: B\n\nExample:\nMedical question: 下列哪项属于水火共制法\nA: 炒\nB: 蒸\nC: 炙\nD: 水飞\nE: \nCorrect answer: B\n\nExample:\nMedical question: 腹满而吐，食不下，自利，时腹自痛，或苔白腻，脉沉缓，此属\nA: 少阴寒化证\nB: 太阴病证\nC: 厥阴病证\nD: 中焦病证\nE: \nCorrect answer: B\n\n\n\nQuestion: 在治疗风寒咳嗽时，苦杏仁配伍麻黄主要起下列何项作用\nA: 止咳化痰，降气平喘\nB: 发散风寒，宣肺平喘\nC: 发汗解表，化痰止咳\nD: 发散风寒，泻肺平喘\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "The correct answer is B: 发散风寒，宣肺平喘."
+        ],
+        "gold": "B"
+    },
+    "150": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 感冒之名最早见于\nA: 《仁斋直指方》\nB: 《诸病源候论》\nC: 《医学源流论》\nD: 《丹溪心法》\nE: 《证治汇补》\nCorrect answer: A\n\nExample:\nMedical question: 明确提出“时行感冒”的医学著作为\nA: 《医学源流论》\nB: 《丹溪心法》\nC: 《仁斋直指方》\nD: «类证治裁》\nE: \nCorrect answer: D\n\nExample:\nMedical question: 《医学心悟•头痛》中另有一半夏白术天麻汤，较通用方多蔓荆子三钱，减哪位药为一钱，治痰厥头痛、胸膈多痰，动则眩晕之证\nA: 半夏\nB: 天麻\nC: 白术\nD: 茯苓\nE: \nCorrect answer: C\n\nExample:\nMedical question: 下列各药中，治疗风热感冒，症见声音嘶哑或咽喉肿痛者宜选用\nA: 葱白\nB: 鹅不食草\nC: 蝉蜕\nD: 生姜\nE: \nCorrect answer: C\n\nExample:\nMedical question: 心悸之阴虚火旺证不宜选用哪个方剂\nA: 知柏地黄丸\nB: 天王补心丹\nC: 当归六黄汤\nD: 朱砂安神丸\nE: \nCorrect answer: C\n\n\n\nQuestion: 龙胆泻肝汤出自下列哪本著作\nA: 《丹溪心法》\nB: 《伤寒论》\nC: 《医方集解》\nD: 《景岳全书》\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "E"
+        ],
+        "gold": "C"
+    },
+    "151": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 独语可见于\nA: 心气不足，神失所养\nB: 气郁痰结，阻蔽心窍\nC: 温病热入心包\nD: 阳明腑实证\nE: 伤寒蓄血证\nCorrect answer: AB\n\nExample:\nMedical question: 下列哪项属于水火共制法\nA: 炒\nB: 蒸\nC: 炙\nD: 水飞\nE: \nCorrect answer: B\n\nExample:\nMedical question: 脾开窍于\nA: 唇\nB: 口\nC: 舌\nD: 齿\nE: \nCorrect answer: B\n\nExample:\nMedical question: 诸病有声，鼓之如鼓，皆属于\nA: 寒\nB: 热\nC: 火\nD: 湿\nE: \nCorrect answer: B\n\nExample:\nMedical question: 下列各项中，不属于阳证的临床表现的是\nA: 面红目赤\nB: 呼吸微弱\nC: 躁动不安\nD: 口渴饮冷\nE: \nCorrect answer: B\n\n\n\nQuestion: 谵语的病机是\nA: 心气大伤，精神散乱\nB: 热扰心神，神明失主\nC: 心气不足，神失所养\nD: 气郁痰结，阻蔽心窍\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "B"
+        ],
+        "gold": "B"
+    },
+    "152": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 成年人的呼吸次数，正常值为\nA: 40次/分钟\nB: 16~20次/分钟\nC: 25次/分钟\nD: 16次/分钟\nE: \nCorrect answer: B\n\nExample:\nMedical question: 1-珍珠母的功效是\nA: 平肝潜阳，清肝明目\nB: 平肝潜阳，清肝明目，镇惊安神\nC: 平肝潜阳，软坚散结，收敛固涩\nD: 平肝潜阳，镇静安神，化痰软坚\nE: \nCorrect answer: B\n\nExample:\nMedical question: 饮证的咯痰特点是\nA: 痰色黄白\nB: 痰清稀如水\nC: 痰中带血\nD: 痰白滑易咯出\nE: \nCorrect answer: B\n\nExample:\nMedical question: 腹满而吐，食不下，自利，时腹自痛，或苔白腻，脉沉缓，此属\nA: 少阴寒化证\nB: 太阴病证\nC: 厥阴病证\nD: 中焦病证\nE: \nCorrect answer: B\n\nExample:\nMedical question: 下列哪项常见体虚而虚里脉动数\nA: 中气不守\nB: 心阳不足\nC: 心血不足\nD: 心气不足\nE: \nCorrect answer: B\n\n\n\nQuestion: 下列各项中，不属于阳证的临床表现的是\nA: 面红目赤\nB: 呼吸微弱\nC: 躁动不安\nD: 口渴饮冷\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "B"
+        ],
+        "gold": "B"
+    },
+    "153": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 补阳还五汤中君药黄芪的作用是\nA: 补益元气\nB: 升阳举陷\nC: 益胃固表\nD: 利尿生肌\nE: \nCorrect answer: A\n\nExample:\nMedical question: 1-使君子善治\nA: 蛔虫病\nB: 钩虫病\nC: 蛲虫病\nD: 绦虫病\nE: \nCorrect answer: A\n\nExample:\nMedical question: 升药的功效是\nA: 拔毒，去腐\nB: 杀虫，止痒\nC: 攻毒，杀虫\nD: 敛疮，生肌\nE: \nCorrect answer: A\n\nExample:\nMedical question: 炉甘石和硼砂功效的共同点是\nA: 解毒，明目\nB: 收湿敛疮\nC: 清肺化痰\nD: 止痒\nE: \nCorrect answer: A\n\nExample:\nMedical question: 既能化痰平喘，又能清肠消痔的药物是\nA: 马兜铃\nB: 洋金花\nC: 天竺黄\nD: 礞石\nE: \nCorrect answer: A\n\n\n\nQuestion: 真人养脏汤中当归芍药的作用\nA: 养血和血\nB: 活血止痛\nC: 收敛活血\nD: 养血止痛\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "The correct answer is A: 养血和血."
+        ],
+        "gold": "A"
+    },
+    "154": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 治疗胸胁停饮所致的喘咳宜选用的药物是\nA: 商陆\nB: 京大戟\nC: 甘遂\nD: 芫花\nE: \nCorrect answer: D\n\nExample:\nMedical question: 患者胃脘疼痛，痛有定处而拒按，或痛有针刺感，食后痛甚，或见吐血便黑，舌质紫黯，脉涩。治宜选用\nA: 丹栀逍遥散\nB: 清中汤\nC: 化肝煎\nD: 失笑散合丹参饮\nE: \nCorrect answer: D\n\nExample:\nMedical question: 大黄，枳实，神曲，茯苓，黄芩，黄连，白术，泽泻，以上是哪个方剂的药物组成\nA: 枳实导滞丸\nB: 枳术丸\nC: 健脾丸\nD: 木香槟榔丸\nE: \nCorrect answer: A\n\nExample:\nMedical question: 既能消食除胀，又能降气化痰的药物为\nA: 莱菔子\nB: 子青\nC: 皮枳\nD: 厚朴\nE: \nCorrect answer: A\n\nExample:\nMedical question: 患者腹痛较剧，痛如针刺，痛处不移，经久不愈，舌质紫黯，脉弦或细涩。治当选用\nA: 良附丸\nB: 正气天香散\nC: 桃核承气汤\nD: 少腹逐瘀汤\nE: \nCorrect answer: D\n\n\n\nQuestion: 以苓桂术甘汤为主方治疗的病症有\nA: 呕吐之痰饮内阻证\nB: 肺胀之阳虚水泛证\nC: 水肿之脾阳虚衰证\nD: 痰饮之脾阳虚弱证\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "The correct answer is D: 痰饮之脾阳虚弱证."
+        ],
+        "gold": "AD"
+    },
+    "155": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 下列选项中，能治疗郁证的腧穴是\nA: 水沟\nB: 百会\nC: 内关\nD: 神门\nE: \nCorrect answer: ABCD\n\nExample:\nMedical question: 表里辨证主要是辨别\nA: 疾病的性质\nB: 病位的深浅\nC: 邪正的盛衰\nD: 外感与内伤\nE: \nCorrect answer: BD\n\nExample:\nMedical question: 既能消食除胀，又能降气化痰的药物为\nA: 莱菔子\nB: 子青\nC: 皮枳\nD: 厚朴\nE: \nCorrect answer: A\n\nExample:\nMedical question: 补阳还五汤中君药黄芪的作用是\nA: 补益元气\nB: 升阳举陷\nC: 益胃固表\nD: 利尿生肌\nE: \nCorrect answer: A\n\nExample:\nMedical question: 小金丹的功效是\nA: 活血祛瘀\nB: 化痰通络\nC: 托毒溃脓\nD: 化痰散结\nE: \nCorrect answer: B\n\n\n\nQuestion: 常作为取穴定位标志的腧穴是\nA: 三阴交\nB: 神阙\nC: 内关\nD: 乳中\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "The correct answer is B: 神阙."
+        ],
+        "gold": "BD"
+    },
+    "156": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 创立“三焦辨证”理论的医家是\nA: 朱丹溪\nB: 吴鞠通\nC: 吴又可\nD: 刘完素\nE: 薛生白\nCorrect answer: B\n\nExample:\nMedical question: 哪位医家认识到七情、饱食、体虚等皆可成为内伤致喘之因\nA: 朱丹溪\nB: 张景岳\nC: 陈修园\nD: 叶天士\nE: \nCorrect answer: A\n\nExample:\nMedical question: 有“方书之祖”之称的是\nA: 《千金方》\nB: 《五十二病方》\nC: 《伤寒杂病论》\nD: 《黄帝内经》\nE: \nCorrect answer: C\n\nExample:\nMedical question: 治疗“喑痱”的方剂是\nA: 四物汤\nB: 归脾汤\nC: 补中益气汤\nD: 地黄饮子\nE: \nCorrect answer: D\n\nExample:\nMedical question: 温病后期，“夜热早凉，热退无汗，热自阴来者”，治用\nA: 六味地黄丸\nB: 青蒿鳖甲汤\nC: 大定风珠\nD: 加减复脉汤\nE: 复脉汤\nCorrect answer: B\n\n\n\nQuestion: 提出“泻南方，补北方”的治痿原则的是\nA: 张子和\nB: 朱丹溪\nC: 刘河间\nD: 李杲\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "The correct answer is B: 朱丹溪."
+        ],
+        "gold": "B"
+    },
+    "157": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 安神药的归经是\nA: 心\nB: 肝\nC: 肺\nD: 肾\nE: \nCorrect answer: AB\n\nExample:\nMedical question: 心悸不宁，心烦少寐，头晕目眩，手足心热，耳鸣腰酸，舌质红，脉细数，治宜选方\nA: 天王补心丹\nB: 朱砂安神丸\nC: 养心汤\nD: 酸枣仁汤\nE: \nCorrect answer: AB\n\nExample:\nMedical question: 症见恶寒发热，无汗，头痛身痛，口渴引饮，心烦尿黄，咳喘痰黄舌红苔薄黄者，属于\nA: 表寒里热\nB: 表里俱实\nC: 寒郁化热\nD: 真热假寒\nE: \nCorrect answer: AB\n\nExample:\nMedical question: 独语可见于\nA: 心气不足，神失所养\nB: 气郁痰结，阻蔽心窍\nC: 温病热入心包\nD: 阳明腑实证\nE: 伤寒蓄血证\nCorrect answer: AB\n\nExample:\nMedical question: 反映西汉以前医药养生保健的发展状况，对今天的养生学、性医学、老年病学研究有一定参考意义的著作有\nA: 《养生方》\nB: 《杂疗方》\nC: 《胎产书》\nD: 《五十二病方》\nE: 《治百病方》\nCorrect answer: AB\n\n\n\nQuestion: 麻黄杏仁甘草石膏汤中石膏的作用是\nA: 生津\nB: 清肺热\nC: 解肌\nD: 宣肺\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "The correct answer is B: clear肺热."
+        ],
+        "gold": "AB"
+    },
+    "158": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 下列哪些不是五味子的功效\nA: 收敛固涩\nB: 益气生津\nC: 收湿敛疮\nD: 补肾宁心\nE: \nCorrect answer: C\n\nExample:\nMedical question: 1-使君子善治\nA: 蛔虫病\nB: 钩虫病\nC: 蛲虫病\nD: 绦虫病\nE: \nCorrect answer: A\n\nExample:\nMedical question: 大黄，枳实，神曲，茯苓，黄芩，黄连，白术，泽泻，以上是哪个方剂的药物组成\nA: 枳实导滞丸\nB: 枳术丸\nC: 健脾丸\nD: 木香槟榔丸\nE: \nCorrect answer: A\n\nExample:\nMedical question: 既能化痰平喘，又能清肠消痔的药物是\nA: 马兜铃\nB: 洋金花\nC: 天竺黄\nD: 礞石\nE: \nCorrect answer: A\n\nExample:\nMedical question: 升药的功效是\nA: 拔毒，去腐\nB: 杀虫，止痒\nC: 攻毒，杀虫\nD: 敛疮，生肌\nE: \nCorrect answer: A\n\n\n\nQuestion: 炉甘石和硼砂功效的共同点是\nA: 解毒，明目\nB: 收湿敛疮\nC: 清肺化痰\nD: 止痒\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "B"
+        ],
+        "gold": "A"
+    },
+    "159": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 补阳还五汤中君药黄芪的作用是\nA: 补益元气\nB: 升阳举陷\nC: 益胃固表\nD: 利尿生肌\nE: \nCorrect answer: A\n\nExample:\nMedical question: 1-使君子善治\nA: 蛔虫病\nB: 钩虫病\nC: 蛲虫病\nD: 绦虫病\nE: \nCorrect answer: A\n\nExample:\nMedical question: 大黄，枳实，神曲，茯苓，黄芩，黄连，白术，泽泻，以上是哪个方剂的药物组成\nA: 枳实导滞丸\nB: 枳术丸\nC: 健脾丸\nD: 木香槟榔丸\nE: \nCorrect answer: A\n\nExample:\nMedical question: 炉甘石和硼砂功效的共同点是\nA: 解毒，明目\nB: 收湿敛疮\nC: 清肺化痰\nD: 止痒\nE: \nCorrect answer: A\n\nExample:\nMedical question: 升药的功效是\nA: 拔毒，去腐\nB: 杀虫，止痒\nC: 攻毒，杀虫\nD: 敛疮，生肌\nE: \nCorrect answer: A\n\n\n\nQuestion: 既能化痰平喘，又能清肠消痔的药物是\nA: 马兜铃\nB: 洋金花\nC: 天竺黄\nD: 礞石\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "The correct answer is A: 马兜铃."
+        ],
+        "gold": "A"
+    },
+    "160": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 苍术和厚朴均可治疗的病症有\nA: 风湿痹痛\nB: 梅核气\nC: 痰饮喘咳\nD: 湿阻中焦\nE: \nCorrect answer: D\n\nExample:\nMedical question: 治疗休息痢，扶正与祛邪兼顾的方剂有\nA: 温脾汤\nB: 补中益气汤\nC: 连理汤\nD: 四神丸\nE: \nCorrect answer: AC\n\nExample:\nMedical question: 健脾丸的功用\nA: 健脾和胃\nB: 行气导滞\nC: 消食止泻\nD: 攻积泄热\nE: \nCorrect answer: AC\n\nExample:\nMedical question: 升药的功效是\nA: 拔毒，去腐\nB: 杀虫，止痒\nC: 攻毒，杀虫\nD: 敛疮，生肌\nE: \nCorrect answer: A\n\nExample:\nMedical question: 大黄，枳实，神曲，茯苓，黄芩，黄连，白术，泽泻，以上是哪个方剂的药物组成\nA: 枳实导滞丸\nB: 枳术丸\nC: 健脾丸\nD: 木香槟榔丸\nE: \nCorrect answer: A\n\n\n\nQuestion: 常用苍术而不用厚朴治疗的病证有\nA: 风湿痹症\nB: 梅核气\nC: 夜盲症\nD: 热结便秘\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "C"
+        ],
+        "gold": "AC"
+    },
+    "161": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 下列选项中，性味甘平的药物有\nA: 党参\nB: 太子参\nC: 西洋参\nD: 山药\nE: \nCorrect answer: ABD\n\nExample:\nMedical question: 以下哪些是真热假寒证的表现\nA: 四肢厥冷而胸腹灼热\nB: 面色紫暗而舌红苔黄\nC: 两颧红赤而浮红如妆\nD: 脉象沉迟但切之有力\nE: \nCorrect answer: ABD\n\nExample:\nMedical question: 麝香与冰片功效的共同点有\nA: 开窍醒神\nB: 消肿止痛\nC: 活血散结\nD: 生肌敛疮\nE: \nCorrect answer: ABD\n\nExample:\nMedical question: 内服剂量限定0.3-0.9g的药物是\nA: 胆矾\nB: 瓜蒂\nC: 雄黄\nD: 藜芦\nE: \nCorrect answer: D\n\nExample:\nMedical question: 川牛膝与怀牛膝功效的主要不同点是\nA: 川牛膝偏清上部火热，怀牛膝偏清下部湿热\nB: 川牛膝偏补肝肾，怀牛膝偏祛风湿\nC: 川牛膝偏于活血通经，怀牛膝偏于利尿通淋\nD: 川牛膝偏强腰膝，怀牛膝偏于活血通经\nE: 以上都不是\nCorrect answer: E\n\n\n\nQuestion: 《外科正宗》一书中治疗瘿瘤的主要治法是\nA: 行散气血\nB: 行痰顺气\nC: 破气通络\nD: 活血消坚\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "E"
+        ],
+        "gold": "ABD"
+    },
+    "162": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 成年人的呼吸次数，正常值为\nA: 40次/分钟\nB: 16~20次/分钟\nC: 25次/分钟\nD: 16次/分钟\nE: \nCorrect answer: B\n\nExample:\nMedical question: 1-珍珠母的功效是\nA: 平肝潜阳，清肝明目\nB: 平肝潜阳，清肝明目，镇惊安神\nC: 平肝潜阳，软坚散结，收敛固涩\nD: 平肝潜阳，镇静安神，化痰软坚\nE: \nCorrect answer: B\n\nExample:\nMedical question: 饮证的咯痰特点是\nA: 痰色黄白\nB: 痰清稀如水\nC: 痰中带血\nD: 痰白滑易咯出\nE: \nCorrect answer: B\n\nExample:\nMedical question: 腹满而吐，食不下，自利，时腹自痛，或苔白腻，脉沉缓，此属\nA: 少阴寒化证\nB: 太阴病证\nC: 厥阴病证\nD: 中焦病证\nE: \nCorrect answer: B\n\nExample:\nMedical question: 下列哪项常见体虚而虚里脉动数\nA: 中气不守\nB: 心阳不足\nC: 心血不足\nD: 心气不足\nE: \nCorrect answer: B\n\n\n\nQuestion: 诸病有声，鼓之如鼓，皆属于\nA: 寒\nB: 热\nC: 火\nD: 湿\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "E"
+        ],
+        "gold": "B"
+    },
+    "163": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 苍术和厚朴均可治疗的病症有\nA: 风湿痹痛\nB: 梅核气\nC: 痰饮喘咳\nD: 湿阻中焦\nE: \nCorrect answer: D\n\nExample:\nMedical question: 下列属于黄宫绣的脉学专著是\nA: 《濒湖脉学》\nB: 《脉诀汇辨》\nC: 《诊宗三昧》\nD: 《脉理求真》\nE: \nCorrect answer: D\n\nExample:\nMedical question: 患者呃声沉缓有力，膈间及胃脘不舒，得热则减，得寒愈甚，食欲减少，口中和而不渴，舌苔白润，脉象迟缓。证属\nA: 脾胃气血证\nB: 气机郁滞证\nC: 脾胃阳虚证\nD: 胃中寒冷证\nE: \nCorrect answer: D\n\nExample:\nMedical question: 既能治肺胃出血，又能消散痈肿、生肌敛疮的药物是\nA: 黄芪\nB: 生地\nC: 仙鹤草\nD: 白及\nE: \nCorrect answer: D\n\nExample:\nMedical question: 不属于按脘腹的部位\nA: 胃脘\nB: 脐腹\nC: 小腹\nD: 虚里\nE: \nCorrect answer: D\n\n\n\nQuestion: 《伤寒明理论》的作者是\nA: 唐慎微\nB: 王肯堂\nC: 王焘\nD: 成无己\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "D"
+        ],
+        "gold": "D"
+    },
+    "164": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 既能温中止血，又可治疗胃寒呕吐、脾虚久泻的药物是\nA: 艾叶\nB: 仙鹤草\nC: 降香\nD: 灶心土\nE: \nCorrect answer: D\n\nExample:\nMedical question: 苍术和厚朴均可治疗的病症有\nA: 风湿痹痛\nB: 梅核气\nC: 痰饮喘咳\nD: 湿阻中焦\nE: \nCorrect answer: D\n\nExample:\nMedical question: 患者呃声沉缓有力，膈间及胃脘不舒，得热则减，得寒愈甚，食欲减少，口中和而不渴，舌苔白润，脉象迟缓。证属\nA: 脾胃气血证\nB: 气机郁滞证\nC: 脾胃阳虚证\nD: 胃中寒冷证\nE: \nCorrect answer: D\n\nExample:\nMedical question: 不属于按脘腹的部位\nA: 胃脘\nB: 脐腹\nC: 小腹\nD: 虚里\nE: \nCorrect answer: D\n\nExample:\nMedical question: 《伤寒明理论》的作者是\nA: 唐慎微\nB: 王肯堂\nC: 王焘\nD: 成无己\nE: \nCorrect answer: D\n\n\n\nQuestion: 既能治肺胃出血，又能消散痈肿、生肌敛疮的药物是\nA: 黄芪\nB: 生地\nC: 仙鹤草\nD: 白及\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "D"
+        ],
+        "gold": "D"
+    },
+    "165": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 苍术和厚朴均可治疗的病症有\nA: 风湿痹痛\nB: 梅核气\nC: 痰饮喘咳\nD: 湿阻中焦\nE: \nCorrect answer: D\n\nExample:\nMedical question: 下列属于黄宫绣的脉学专著是\nA: 《濒湖脉学》\nB: 《脉诀汇辨》\nC: 《诊宗三昧》\nD: 《脉理求真》\nE: \nCorrect answer: D\n\nExample:\nMedical question: 患者呃声沉缓有力，膈间及胃脘不舒，得热则减，得寒愈甚，食欲减少，口中和而不渴，舌苔白润，脉象迟缓。证属\nA: 脾胃气血证\nB: 气机郁滞证\nC: 脾胃阳虚证\nD: 胃中寒冷证\nE: \nCorrect answer: D\n\nExample:\nMedical question: 既能治肺胃出血，又能消散痈肿、生肌敛疮的药物是\nA: 黄芪\nB: 生地\nC: 仙鹤草\nD: 白及\nE: \nCorrect answer: D\n\nExample:\nMedical question: 《伤寒明理论》的作者是\nA: 唐慎微\nB: 王肯堂\nC: 王焘\nD: 成无己\nE: \nCorrect answer: D\n\n\n\nQuestion: 不属于按脘腹的部位\nA: 胃脘\nB: 脐腹\nC: 小腹\nD: 虚里\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "The correct answer is D: 虚里."
+        ],
+        "gold": "D"
+    },
+    "166": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 补阳还五汤中君药黄芪的作用是\nA: 补益元气\nB: 升阳举陷\nC: 益胃固表\nD: 利尿生肌\nE: \nCorrect answer: A\n\nExample:\nMedical question: 1-使君子善治\nA: 蛔虫病\nB: 钩虫病\nC: 蛲虫病\nD: 绦虫病\nE: \nCorrect answer: A\n\nExample:\nMedical question: 升药的功效是\nA: 拔毒，去腐\nB: 杀虫，止痒\nC: 攻毒，杀虫\nD: 敛疮，生肌\nE: \nCorrect answer: A\n\nExample:\nMedical question: 炉甘石和硼砂功效的共同点是\nA: 解毒，明目\nB: 收湿敛疮\nC: 清肺化痰\nD: 止痒\nE: \nCorrect answer: A\n\nExample:\nMedical question: 既能化痰平喘，又能清肠消痔的药物是\nA: 马兜铃\nB: 洋金花\nC: 天竺黄\nD: 礞石\nE: \nCorrect answer: A\n\n\n\nQuestion: 不宜与赤石脂同用的是\nA: 肉桂\nB: 附子\nC: 干姜\nD: 吴茱萸\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "E"
+        ],
+        "gold": "A"
+    },
+    "167": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 感冒之名最早见于\nA: 《仁斋直指方》\nB: 《诸病源候论》\nC: 《医学源流论》\nD: 《丹溪心法》\nE: 《证治汇补》\nCorrect answer: A\n\nExample:\nMedical question: 龙胆泻肝汤出自下列哪本著作\nA: 《丹溪心法》\nB: 《伤寒论》\nC: 《医方集解》\nD: 《景岳全书》\nE: \nCorrect answer: C\n\nExample:\nMedical question: 治疗“喑痱”的方剂是\nA: 四物汤\nB: 归脾汤\nC: 补中益气汤\nD: 地黄饮子\nE: \nCorrect answer: D\n\nExample:\nMedical question: “血之余”指的是\nA: 爪\nB: 皮\nC: 肉\nD: 发\nE: 骨\nCorrect answer: D\n\nExample:\nMedical question: “阴病治阳”适用于\nA: 实热证\nB: 实寒证\nC: 虚热证\nD: 虚寒证\nE: 寒热错杂证\nCorrect answer: D\n\n\n\nQuestion: 明确提出“时行感冒”的医学著作为\nA: 《医学源流论》\nB: 《丹溪心法》\nC: 《仁斋直指方》\nD: «类证治裁》\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "The correct answer is D: «类证治裁》."
+        ],
+        "gold": "D"
+    },
+    "168": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 影响药物升降浮沉的因素有\nA: 四气五味\nB: 质地轻重\nC: 炮制\nD: 配伍\nE: \nCorrect answer: ABCD\n\nExample:\nMedical question: 火与热的主要区别是\nA: 火为热之极，热极能化火\nB: 火为内生，热为外受\nC: 火多脏腑郁发或邪郁化火，其性炎上，热多泛及全身\nD: 火易耗血动血，热易耗伤阴液\nE: \nCorrect answer: ABCD\n\nExample:\nMedical question: 下列选项中，能治疗郁证的腧穴是\nA: 水沟\nB: 百会\nC: 内关\nD: 神门\nE: \nCorrect answer: ABCD\n\nExample:\nMedical question: 下列属于内伤发热治法的是：\nA: 解郁，活血\nB: 除湿\nC: 益气、养血\nD: 滋阴、温阳\nE: \nCorrect answer: ABCD\n\nExample:\nMedical question: 以下著作专论麻疹的有\nA: 《麻科活人全书》\nB: 《郁谢麻科合璧》\nC: 《麻证新书》\nD: 《麻症集成》\nE: \nCorrect answer: ABCD\n\n\n\nQuestion: 正常生理状态下，声音的特点为\nA: 发声自然\nB: 声调和畅\nC: 柔和圆润\nD: 语言流畅\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "The correct answer is ABCD. In normal physiological conditions, the voice is characterized as natural, harmonious, soft, and fluent."
+        ],
+        "gold": "ABCD"
+    },
+    "169": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 补阳还五汤中君药黄芪的作用是\nA: 补益元气\nB: 升阳举陷\nC: 益胃固表\nD: 利尿生肌\nE: \nCorrect answer: A\n\nExample:\nMedical question: 1-使君子善治\nA: 蛔虫病\nB: 钩虫病\nC: 蛲虫病\nD: 绦虫病\nE: \nCorrect answer: A\n\nExample:\nMedical question: 升药的功效是\nA: 拔毒，去腐\nB: 杀虫，止痒\nC: 攻毒，杀虫\nD: 敛疮，生肌\nE: \nCorrect answer: A\n\nExample:\nMedical question: 炉甘石和硼砂功效的共同点是\nA: 解毒，明目\nB: 收湿敛疮\nC: 清肺化痰\nD: 止痒\nE: \nCorrect answer: A\n\nExample:\nMedical question: 既能化痰平喘，又能清肠消痔的药物是\nA: 马兜铃\nB: 洋金花\nC: 天竺黄\nD: 礞石\nE: \nCorrect answer: A\n\n\n\nQuestion: 张锡纯在镇肝熄风汤中配伍生麦芽的用意\nA: 舒达肝气（疏肝解郁）\nB: 消食化积\nC: 健脾开胃\nD: 和胃调中\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "The correct answer is A: 舒达肝气（疏肝解郁）."
+        ],
+        "gold": "A"
+    },
+    "170": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 苍术和厚朴均可治疗的病症有\nA: 风湿痹痛\nB: 梅核气\nC: 痰饮喘咳\nD: 湿阻中焦\nE: \nCorrect answer: D\n\nExample:\nMedical question: 下列属于黄宫绣的脉学专著是\nA: 《濒湖脉学》\nB: 《脉诀汇辨》\nC: 《诊宗三昧》\nD: 《脉理求真》\nE: \nCorrect answer: D\n\nExample:\nMedical question: 既能治肺胃出血，又能消散痈肿、生肌敛疮的药物是\nA: 黄芪\nB: 生地\nC: 仙鹤草\nD: 白及\nE: \nCorrect answer: D\n\nExample:\nMedical question: 不属于按脘腹的部位\nA: 胃脘\nB: 脐腹\nC: 小腹\nD: 虚里\nE: \nCorrect answer: D\n\nExample:\nMedical question: 《伤寒明理论》的作者是\nA: 唐慎微\nB: 王肯堂\nC: 王焘\nD: 成无己\nE: \nCorrect answer: D\n\n\n\nQuestion: 患者呃声沉缓有力，膈间及胃脘不舒，得热则减，得寒愈甚，食欲减少，口中和而不渴，舌苔白润，脉象迟缓。证属\nA: 脾胃气血证\nB: 气机郁滞证\nC: 脾胃阳虚证\nD: 胃中寒冷证\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "D"
+        ],
+        "gold": "D"
+    },
+    "171": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 素有伤科要药之称的药物是\nA: 大蓟\nB: 艾叶\nC: 三七\nD: 花蕊石\nE: \nCorrect answer: C\n\nExample:\nMedical question: 1-使君子善治\nA: 蛔虫病\nB: 钩虫病\nC: 蛲虫病\nD: 绦虫病\nE: \nCorrect answer: A\n\nExample:\nMedical question: 哪位医家认识到七情、饱食、体虚等皆可成为内伤致喘之因\nA: 朱丹溪\nB: 张景岳\nC: 陈修园\nD: 叶天士\nE: \nCorrect answer: A\n\nExample:\nMedical question: 炉甘石和硼砂功效的共同点是\nA: 解毒，明目\nB: 收湿敛疮\nC: 清肺化痰\nD: 止痒\nE: \nCorrect answer: A\n\nExample:\nMedical question: 既能化痰平喘，又能清肠消痔的药物是\nA: 马兜铃\nB: 洋金花\nC: 天竺黄\nD: 礞石\nE: \nCorrect answer: A\n\n\n\nQuestion: 既能凉血止血，又能解毒杀虫的药物是\nA: 羊蹄\nB: 小蓟\nC: 大蓟\nD: 地榆\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "A"
+        ],
+        "gold": "A"
+    },
+    "172": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 正常生理状态下，声音的特点为\nA: 发声自然\nB: 声调和畅\nC: 柔和圆润\nD: 语言流畅\nE: \nCorrect answer: ABCD\n\nExample:\nMedical question: 影响药物升降浮沉的因素有\nA: 四气五味\nB: 质地轻重\nC: 炮制\nD: 配伍\nE: \nCorrect answer: ABCD\n\nExample:\nMedical question: 下列选项中，能治疗郁证的腧穴是\nA: 水沟\nB: 百会\nC: 内关\nD: 神门\nE: \nCorrect answer: ABCD\n\nExample:\nMedical question: 下列属于内伤发热治法的是：\nA: 解郁，活血\nB: 除湿\nC: 益气、养血\nD: 滋阴、温阳\nE: \nCorrect answer: ABCD\n\nExample:\nMedical question: 以下著作专论麻疹的有\nA: 《麻科活人全书》\nB: 《郁谢麻科合璧》\nC: 《麻证新书》\nD: 《麻症集成》\nE: \nCorrect answer: ABCD\n\n\n\nQuestion: 火与热的主要区别是\nA: 火为热之极，热极能化火\nB: 火为内生，热为外受\nC: 火多脏腑郁发或邪郁化火，其性炎上，热多泛及全身\nD: 火易耗血动血，热易耗伤阴液\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "ABCD"
+        ],
+        "gold": "ABCD"
+    },
+    "173": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 下列选项中，协助肺通调水道的是\nA: 胃气之和降\nB: 肾气之蒸化\nC: 脾气之运化\nD: 三焦之气化\nE: \nCorrect answer: BCD\n\nExample:\nMedical question: 中医的“证”包括\nA: 病变的过程\nB: 病变的原因\nC: 病变的部位\nD: 病变的性质\nE: \nCorrect answer: BCD\n\nExample:\nMedical question: 1-使君子善治\nA: 蛔虫病\nB: 钩虫病\nC: 蛲虫病\nD: 绦虫病\nE: \nCorrect answer: A\n\nExample:\nMedical question: 治疗中风中经络兼见肝阳暴亢者，可选择的配穴是\nA: 丰隆、合谷\nB: 气海、血海、足三里\nC: 太溪、风池\nD: 太冲、太溪\nE: \nCorrect answer: D\n\nExample:\nMedical question: 升药的功效是\nA: 拔毒，去腐\nB: 杀虫，止痒\nC: 攻毒，杀虫\nD: 敛疮，生肌\nE: \nCorrect answer: A\n\n\n\nQuestion: 形成瘀血的原因是\nA: 三焦气化失司\nB: 气虚、气滞\nC: 血热、血寒\nD: 思虑过度\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "The correct answer is BCD.\n\nExplanation:\n瘀血是指血液在体内停滞，不能正常循行，形成瘀血的原因主要有以下几种：\n\n1. 气虚、气滞：气为血之帅，气能行血，若气虚或气滞，推动血液运行的力量不足，则血液运行不畅，易形成瘀血。\n2. 血热、血寒：血热则血液黏稠，血流缓慢，易形成瘀血；血寒则血液凝滞，血流不畅，也可形成瘀血。\n3. 思虑过度：思虑过度伤脾，脾虚则气血生化乏源，血液运行不畅，易形成瘀血。\n\n因此，形成瘀血的原因包括气虚、气滞、血热、血寒和思虑过度。选项A（三焦气化失司）和选项E（）与瘀血形成无关，故正确答案为BCD。"
+        ],
+        "gold": "BCD"
+    },
+    "174": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 补阳还五汤中君药黄芪的作用是\nA: 补益元气\nB: 升阳举陷\nC: 益胃固表\nD: 利尿生肌\nE: \nCorrect answer: A\n\nExample:\nMedical question: 1-使君子善治\nA: 蛔虫病\nB: 钩虫病\nC: 蛲虫病\nD: 绦虫病\nE: \nCorrect answer: A\n\nExample:\nMedical question: 升药的功效是\nA: 拔毒，去腐\nB: 杀虫，止痒\nC: 攻毒，杀虫\nD: 敛疮，生肌\nE: \nCorrect answer: A\n\nExample:\nMedical question: 炉甘石和硼砂功效的共同点是\nA: 解毒，明目\nB: 收湿敛疮\nC: 清肺化痰\nD: 止痒\nE: \nCorrect answer: A\n\nExample:\nMedical question: 既能化痰平喘，又能清肠消痔的药物是\nA: 马兜铃\nB: 洋金花\nC: 天竺黄\nD: 礞石\nE: \nCorrect answer: A\n\n\n\nQuestion: 患者胸膈疼痛，食不得下而复吐出，甚至水饮难下，大便坚如羊屎，或吐出物如赤豆汁，面色晦滞，形体更为消瘦，肌肤枯燥，舌红少津，或带青紫，脉细涩。治宜\nA: 滋阴养血，破血行瘀\nB: 滋阴养血，润燥生津\nC: 开郁化痰，润燥降气\nD: 温补脾肾\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "The correct answer is A: 滋阴养血，破血行瘀."
+        ],
+        "gold": "A"
+    },
+    "175": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 成年人的呼吸次数，正常值为\nA: 40次/分钟\nB: 16~20次/分钟\nC: 25次/分钟\nD: 16次/分钟\nE: \nCorrect answer: B\n\nExample:\nMedical question: 饮证的咯痰特点是\nA: 痰色黄白\nB: 痰清稀如水\nC: 痰中带血\nD: 痰白滑易咯出\nE: \nCorrect answer: B\n\nExample:\nMedical question: 1-珍珠母的功效是\nA: 平肝潜阳，清肝明目\nB: 平肝潜阳，清肝明目，镇惊安神\nC: 平肝潜阳，软坚散结，收敛固涩\nD: 平肝潜阳，镇静安神，化痰软坚\nE: \nCorrect answer: B\n\nExample:\nMedical question: 腹满而吐，食不下，自利，时腹自痛，或苔白腻，脉沉缓，此属\nA: 少阴寒化证\nB: 太阴病证\nC: 厥阴病证\nD: 中焦病证\nE: \nCorrect answer: B\n\nExample:\nMedical question: 下列哪项常见体虚而虚里脉动数\nA: 中气不守\nB: 心阳不足\nC: 心血不足\nD: 心气不足\nE: \nCorrect answer: B\n\n\n\nQuestion: 下列哪项属于水火共制法\nA: 炒\nB: 蒸\nC: 炙\nD: 水飞\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "D: 水飞"
+        ],
+        "gold": "B"
+    },
+    "176": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 大黄，枳实，神曲，茯苓，黄芩，黄连，白术，泽泻，以上是哪个方剂的药物组成\nA: 枳实导滞丸\nB: 枳术丸\nC: 健脾丸\nD: 木香槟榔丸\nE: \nCorrect answer: A\n\nExample:\nMedical question: 1-使君子善治\nA: 蛔虫病\nB: 钩虫病\nC: 蛲虫病\nD: 绦虫病\nE: \nCorrect answer: A\n\nExample:\nMedical question: 升药的功效是\nA: 拔毒，去腐\nB: 杀虫，止痒\nC: 攻毒，杀虫\nD: 敛疮，生肌\nE: \nCorrect answer: A\n\nExample:\nMedical question: 既能化痰平喘，又能清肠消痔的药物是\nA: 马兜铃\nB: 洋金花\nC: 天竺黄\nD: 礞石\nE: \nCorrect answer: A\n\nExample:\nMedical question: 炉甘石和硼砂功效的共同点是\nA: 解毒，明目\nB: 收湿敛疮\nC: 清肺化痰\nD: 止痒\nE: \nCorrect answer: A\n\n\n\nQuestion: 主治食少难消，脘腹痞闷，大便溏薄，倦怠乏力，苔腻微黄，脉虚弱的方剂是\nA: 健脾丸\nB: 保和丸\nC: 枳术丸\nD: 枳术汤\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "A"
+        ],
+        "gold": "A"
+    },
+    "177": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 成年人的呼吸次数，正常值为\nA: 40次/分钟\nB: 16~20次/分钟\nC: 25次/分钟\nD: 16次/分钟\nE: \nCorrect answer: B\n\nExample:\nMedical question: 饮证的咯痰特点是\nA: 痰色黄白\nB: 痰清稀如水\nC: 痰中带血\nD: 痰白滑易咯出\nE: \nCorrect answer: B\n\nExample:\nMedical question: 下列哪项属于水火共制法\nA: 炒\nB: 蒸\nC: 炙\nD: 水飞\nE: \nCorrect answer: B\n\nExample:\nMedical question: 腹满而吐，食不下，自利，时腹自痛，或苔白腻，脉沉缓，此属\nA: 少阴寒化证\nB: 太阴病证\nC: 厥阴病证\nD: 中焦病证\nE: \nCorrect answer: B\n\nExample:\nMedical question: 下列哪项常见体虚而虚里脉动数\nA: 中气不守\nB: 心阳不足\nC: 心血不足\nD: 心气不足\nE: \nCorrect answer: B\n\n\n\nQuestion: 1-珍珠母的功效是\nA: 平肝潜阳，清肝明目\nB: 平肝潜阳，清肝明目，镇惊安神\nC: 平肝潜阳，软坚散结，收敛固涩\nD: 平肝潜阳，镇静安神，化痰软坚\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "B"
+        ],
+        "gold": "B"
+    },
+    "178": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 常用苍术而不用厚朴治疗的病证有\nA: 风湿痹症\nB: 梅核气\nC: 夜盲症\nD: 热结便秘\nE: \nCorrect answer: AC\n\nExample:\nMedical question: 下列属于黄宫绣的脉学专著是\nA: 《濒湖脉学》\nB: 《脉诀汇辨》\nC: 《诊宗三昧》\nD: 《脉理求真》\nE: \nCorrect answer: D\n\nExample:\nMedical question: 既能治肺胃出血，又能消散痈肿、生肌敛疮的药物是\nA: 黄芪\nB: 生地\nC: 仙鹤草\nD: 白及\nE: \nCorrect answer: D\n\nExample:\nMedical question: 患者呃声沉缓有力，膈间及胃脘不舒，得热则减，得寒愈甚，食欲减少，口中和而不渴，舌苔白润，脉象迟缓。证属\nA: 脾胃气血证\nB: 气机郁滞证\nC: 脾胃阳虚证\nD: 胃中寒冷证\nE: \nCorrect answer: D\n\nExample:\nMedical question: 不属于按脘腹的部位\nA: 胃脘\nB: 脐腹\nC: 小腹\nD: 虚里\nE: \nCorrect answer: D\n\n\n\nQuestion: 苍术和厚朴均可治疗的病症有\nA: 风湿痹痛\nB: 梅核气\nC: 痰饮喘咳\nD: 湿阻中焦\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "D"
+        ],
+        "gold": "D"
+    },
+    "179": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 补阳还五汤中君药黄芪的作用是\nA: 补益元气\nB: 升阳举陷\nC: 益胃固表\nD: 利尿生肌\nE: \nCorrect answer: A\n\nExample:\nMedical question: 1-使君子善治\nA: 蛔虫病\nB: 钩虫病\nC: 蛲虫病\nD: 绦虫病\nE: \nCorrect answer: A\n\nExample:\nMedical question: 升药的功效是\nA: 拔毒，去腐\nB: 杀虫，止痒\nC: 攻毒，杀虫\nD: 敛疮，生肌\nE: \nCorrect answer: A\n\nExample:\nMedical question: 炉甘石和硼砂功效的共同点是\nA: 解毒，明目\nB: 收湿敛疮\nC: 清肺化痰\nD: 止痒\nE: \nCorrect answer: A\n\nExample:\nMedical question: 既能化痰平喘，又能清肠消痔的药物是\nA: 马兜铃\nB: 洋金花\nC: 天竺黄\nD: 礞石\nE: \nCorrect answer: A\n\n\n\nQuestion: 栀子的归经是\nA: 心、肺、三焦经\nB: 心、肺经\nC: 心、肺、胃经\nD: 心、肺、肾经\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "E"
+        ],
+        "gold": "A"
+    },
+    "180": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 手足蠕动多缘于\nA: 热极生风\nB: 虚风内动\nC: 痫证\nD: 破伤风\nE: 中风\nCorrect answer: B\n\nExample:\nMedical question: 内关、水沟可以治疗一下哪种疾病\nA: 中风\nB: 郁证\nC: 抽搐\nD: 崩漏\nE: \nCorrect answer: ABC\n\nExample:\nMedical question: 素有伤科要药之称的药物是\nA: 大蓟\nB: 艾叶\nC: 三七\nD: 花蕊石\nE: \nCorrect answer: C\n\nExample:\nMedical question: 多与干姜、细辛、五味子配伍治疗寒痰咳嗽的药物是\nA: 半夏\nB: 桔梗\nC: 陈皮\nD: 紫菀\nE: \nCorrect answer: C\n\nExample:\nMedical question: 《医学心悟•头痛》中另有一半夏白术天麻汤，较通用方多蔓荆子三钱，减哪位药为一钱，治痰厥头痛、胸膈多痰，动则眩晕之证\nA: 半夏\nB: 天麻\nC: 白术\nD: 茯苓\nE: \nCorrect answer: C\n\n\n\nQuestion: 患者头痛，项背强直，恶寒发热，无汗或汗出，肢体酸重，甚至口噤不能语，四肢抽搐。舌苔薄白或白腻，脉浮紧。其诊断为\nA: 中风\nB: 痫证\nC: 痉证\nD: 痿证\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "C"
+        ],
+        "gold": "C"
+    },
+    "181": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 形成瘀血的原因是\nA: 三焦气化失司\nB: 气虚、气滞\nC: 血热、血寒\nD: 思虑过度\nE: \nCorrect answer: BCD\n\nExample:\nMedical question: 内服剂量限定0.3-0.9g的药物是\nA: 胆矾\nB: 瓜蒂\nC: 雄黄\nD: 藜芦\nE: \nCorrect answer: D\n\nExample:\nMedical question: 患者喘促，不能平卧，心悸尿少，肢体浮肿，舌质淡胖，脉沉细，宜用何方治疗\nA: 苓桂术甘汤\nB: 五苓散\nC: 苏子降气汤\nD: 真武汤\nE: 以上均不是\nCorrect answer: D\n\nExample:\nMedical question: 牙本质非胶原成分中，属于成牙本质细胞源性蛋白的是\nA: IgG\nB: 白蛋白\nC: αHS-糖蛋白\nD: 矿化组织特异性蛋白\nE: 骨形成蛋白\nCorrect answer: D\n\nExample:\nMedical question: 乳牙（牙合）时期是\nA: 0.5~1.0岁\nB: 1.0~2.0岁\nC: 2.0~4.0岁\nD: 2.5~6.0岁\nE: 4.0~6.0岁\nCorrect answer: D\n\n\n\nQuestion: 下列选项中，协助肺通调水道的是\nA: 胃气之和降\nB: 肾气之蒸化\nC: 脾气之运化\nD: 三焦之气化\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "D"
+        ],
+        "gold": "BCD"
+    },
+    "182": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 川牛膝与怀牛膝功效的主要不同点是\nA: 川牛膝偏清上部火热，怀牛膝偏清下部湿热\nB: 川牛膝偏补肝肾，怀牛膝偏祛风湿\nC: 川牛膝偏于活血通经，怀牛膝偏于利尿通淋\nD: 川牛膝偏强腰膝，怀牛膝偏于活血通经\nE: 以上都不是\nCorrect answer: E\n\nExample:\nMedical question: 下列可与牙体组织形成化学性结合的水门汀是\nA: 氧化锌丁香酚水门汀\nB: 磷酸锌水门汀\nC: 聚羧酸锌水门汀\nD: 玻璃离子水门汀\nE: C和D\nCorrect answer: E\n\nExample:\nMedical question: 内服剂量限定0.3-0.9g的药物是\nA: 胆矾\nB: 瓜蒂\nC: 雄黄\nD: 藜芦\nE: \nCorrect answer: D\n\nExample:\nMedical question: 尿频量多，浑浊如脂膏，尿有甜味，口干唇燥，舌质红，脉沉细数者，治疗主首选\nA: 程氏萆薢分清饮\nB: 水陆二仙丹\nC: 六味地黄丸\nD: 左归丸\nE: 知柏地黄丸\nCorrect answer: C\n\nExample:\nMedical question: 乳牙（牙合）时期是\nA: 0.5~1.0岁\nB: 1.0~2.0岁\nC: 2.0~4.0岁\nD: 2.5~6.0岁\nE: 4.0~6.0岁\nCorrect answer: D\n\n\n\nQuestion: 吴某，因为愤怒之极，突然昏倒，四肢不温，面色苍白，约五分钟后清醒，现在仍然头昏脑胀，胸肋胀满，善太息，不思饮食，失眠，苔薄腻，脉沉弦，此证宜有何法治疗\nA: 理气化痰，养心宁神\nB: 平肝降逆，养血安神\nC: 理气宽中，化痰宁神\nD: 理气达郁，调和肝脾\nE: 顺气开郁，安神宁志\n\nProvide the correct option.",
+        "prediction": [
+            "E"
+        ],
+        "gold": "E"
+    },
+    "183": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 补阳还五汤中君药黄芪的作用是\nA: 补益元气\nB: 升阳举陷\nC: 益胃固表\nD: 利尿生肌\nE: \nCorrect answer: A\n\nExample:\nMedical question: 1-使君子善治\nA: 蛔虫病\nB: 钩虫病\nC: 蛲虫病\nD: 绦虫病\nE: \nCorrect answer: A\n\nExample:\nMedical question: 升药的功效是\nA: 拔毒，去腐\nB: 杀虫，止痒\nC: 攻毒，杀虫\nD: 敛疮，生肌\nE: \nCorrect answer: A\n\nExample:\nMedical question: 炉甘石和硼砂功效的共同点是\nA: 解毒，明目\nB: 收湿敛疮\nC: 清肺化痰\nD: 止痒\nE: \nCorrect answer: A\n\nExample:\nMedical question: 既能化痰平喘，又能清肠消痔的药物是\nA: 马兜铃\nB: 洋金花\nC: 天竺黄\nD: 礞石\nE: \nCorrect answer: A\n\n\n\nQuestion: 镇肝熄风汤主治证的病机是\nA: 阳亢风动，气血逆乱\nB: 肝肾阳虚，肝阳化风\nC: 真阴大亏，虚风内动\nD: 脾虚生痰，风痰阻络\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "The correct answer is A: Yang hyperactivity and wind disturbance, qi and blood disorder."
+        ],
+        "gold": "A"
+    },
+    "184": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: “阴病治阳”适用于\nA: 实热证\nB: 实寒证\nC: 虚热证\nD: 虚寒证\nE: 寒热错杂证\nCorrect answer: D\n\nExample:\nMedical question: 苍术和厚朴均可治疗的病症有\nA: 风湿痹痛\nB: 梅核气\nC: 痰饮喘咳\nD: 湿阻中焦\nE: \nCorrect answer: D\n\nExample:\nMedical question: 下列属于黄宫绣的脉学专著是\nA: 《濒湖脉学》\nB: 《脉诀汇辨》\nC: 《诊宗三昧》\nD: 《脉理求真》\nE: \nCorrect answer: D\n\nExample:\nMedical question: 患者呃声沉缓有力，膈间及胃脘不舒，得热则减，得寒愈甚，食欲减少，口中和而不渴，舌苔白润，脉象迟缓。证属\nA: 脾胃气血证\nB: 气机郁滞证\nC: 脾胃阳虚证\nD: 胃中寒冷证\nE: \nCorrect answer: D\n\nExample:\nMedical question: 不属于按脘腹的部位\nA: 胃脘\nB: 脐腹\nC: 小腹\nD: 虚里\nE: \nCorrect answer: D\n\n\n\nQuestion: 扶阳以制阴适用于\nA: 实热证\nB: 实寒证\nC: 虚热证\nD: 虚寒证\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "The correct answer is D: 虚寒证."
+        ],
+        "gold": "D"
+    },
+    "185": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 患者呃声沉缓有力，膈间及胃脘不舒，得热则减，得寒愈甚，食欲减少，口中和而不渴，舌苔白润，脉象迟缓。证属\nA: 脾胃气血证\nB: 气机郁滞证\nC: 脾胃阳虚证\nD: 胃中寒冷证\nE: \nCorrect answer: D\n\nExample:\nMedical question: 下列属于黄宫绣的脉学专著是\nA: 《濒湖脉学》\nB: 《脉诀汇辨》\nC: 《诊宗三昧》\nD: 《脉理求真》\nE: \nCorrect answer: D\n\nExample:\nMedical question: 既能治肺胃出血，又能消散痈肿、生肌敛疮的药物是\nA: 黄芪\nB: 生地\nC: 仙鹤草\nD: 白及\nE: \nCorrect answer: D\n\nExample:\nMedical question: 不属于按脘腹的部位\nA: 胃脘\nB: 脐腹\nC: 小腹\nD: 虚里\nE: \nCorrect answer: D\n\nExample:\nMedical question: 《伤寒明理论》的作者是\nA: 唐慎微\nB: 王肯堂\nC: 王焘\nD: 成无己\nE: \nCorrect answer: D\n\n\n\nQuestion: 治疗中风中经络兼见肝阳暴亢者，可选择的配穴是\nA: 丰隆、合谷\nB: 气海、血海、足三里\nC: 太溪、风池\nD: 太冲、太溪\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "The correct answer is D: 太冲、太溪."
+        ],
+        "gold": "D"
+    },
+    "186": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 补阳还五汤中君药黄芪的作用是\nA: 补益元气\nB: 升阳举陷\nC: 益胃固表\nD: 利尿生肌\nE: \nCorrect answer: A\n\nExample:\nMedical question: 1-使君子善治\nA: 蛔虫病\nB: 钩虫病\nC: 蛲虫病\nD: 绦虫病\nE: \nCorrect answer: A\n\nExample:\nMedical question: 升药的功效是\nA: 拔毒，去腐\nB: 杀虫，止痒\nC: 攻毒，杀虫\nD: 敛疮，生肌\nE: \nCorrect answer: A\n\nExample:\nMedical question: 炉甘石和硼砂功效的共同点是\nA: 解毒，明目\nB: 收湿敛疮\nC: 清肺化痰\nD: 止痒\nE: \nCorrect answer: A\n\nExample:\nMedical question: 既能化痰平喘，又能清肠消痔的药物是\nA: 马兜铃\nB: 洋金花\nC: 天竺黄\nD: 礞石\nE: \nCorrect answer: A\n\n\n\nQuestion: 元气是\nA: 先天之精命门处化生，水谷之精滋养补充\nB: 水谷之气的精华部分\nC: 谷气与自然界清气结合\nD: —身之气分布到脏腑或脏腑之精化生\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "The correct answer is A: 先天之精命门处化生，水谷之精滋养补充."
+        ],
+        "gold": "A"
+    },
+    "187": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 患者呃声沉缓有力，膈间及胃脘不舒，得热则减，得寒愈甚，食欲减少，口中和而不渴，舌苔白润，脉象迟缓。证属\nA: 脾胃气血证\nB: 气机郁滞证\nC: 脾胃阳虚证\nD: 胃中寒冷证\nE: \nCorrect answer: D\n\nExample:\nMedical question: 下列属于黄宫绣的脉学专著是\nA: 《濒湖脉学》\nB: 《脉诀汇辨》\nC: 《诊宗三昧》\nD: 《脉理求真》\nE: \nCorrect answer: D\n\nExample:\nMedical question: 既能治肺胃出血，又能消散痈肿、生肌敛疮的药物是\nA: 黄芪\nB: 生地\nC: 仙鹤草\nD: 白及\nE: \nCorrect answer: D\n\nExample:\nMedical question: 不属于按脘腹的部位\nA: 胃脘\nB: 脐腹\nC: 小腹\nD: 虚里\nE: \nCorrect answer: D\n\nExample:\nMedical question: 《伤寒明理论》的作者是\nA: 唐慎微\nB: 王肯堂\nC: 王焘\nD: 成无己\nE: \nCorrect answer: D\n\n\n\nQuestion: 患者胃脘疼痛，痛有定处而拒按，或痛有针刺感，食后痛甚，或见吐血便黑，舌质紫黯，脉涩。治宜选用\nA: 丹栀逍遥散\nB: 清中汤\nC: 化肝煎\nD: 失笑散合丹参饮\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "D"
+        ],
+        "gold": "D"
+    },
+    "188": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 成年人的呼吸次数，正常值为\nA: 40次/分钟\nB: 16~20次/分钟\nC: 25次/分钟\nD: 16次/分钟\nE: \nCorrect answer: B\n\nExample:\nMedical question: 1-珍珠母的功效是\nA: 平肝潜阳，清肝明目\nB: 平肝潜阳，清肝明目，镇惊安神\nC: 平肝潜阳，软坚散结，收敛固涩\nD: 平肝潜阳，镇静安神，化痰软坚\nE: \nCorrect answer: B\n\nExample:\nMedical question: 下列哪项属于水火共制法\nA: 炒\nB: 蒸\nC: 炙\nD: 水飞\nE: \nCorrect answer: B\n\nExample:\nMedical question: 腹满而吐，食不下，自利，时腹自痛，或苔白腻，脉沉缓，此属\nA: 少阴寒化证\nB: 太阴病证\nC: 厥阴病证\nD: 中焦病证\nE: \nCorrect answer: B\n\nExample:\nMedical question: 下列哪项常见体虚而虚里脉动数\nA: 中气不守\nB: 心阳不足\nC: 心血不足\nD: 心气不足\nE: \nCorrect answer: B\n\n\n\nQuestion: 饮证的咯痰特点是\nA: 痰色黄白\nB: 痰清稀如水\nC: 痰中带血\nD: 痰白滑易咯出\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "B"
+        ],
+        "gold": "B"
+    },
+    "189": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 反映西汉以前医药养生保健的发展状况，对今天的养生学、性医学、老年病学研究有一定参考意义的著作有\nA: 《养生方》\nB: 《杂疗方》\nC: 《胎产书》\nD: 《五十二病方》\nE: 《治百病方》\nCorrect answer: AB\n\nExample:\nMedical question: 提出“泻南方，补北方”的治痿原则的是\nA: 张子和\nB: 朱丹溪\nC: 刘河间\nD: 李杲\nE: \nCorrect answer: B\n\nExample:\nMedical question: 治疗“喑痱”的方剂是\nA: 四物汤\nB: 归脾汤\nC: 补中益气汤\nD: 地黄饮子\nE: \nCorrect answer: D\n\nExample:\nMedical question: 《灵枢•经脉》所说“以经取之”的治疗原则适用于\nA: 虚证\nB: 实证\nC: 不盛不虚之证\nD: 寒证\nE: 热证\nCorrect answer: C\n\nExample:\nMedical question: 据《灵枢•官能》针灸方法中“阴阳皆虚”则\nA: 推而扬之\nB: 积而从之\nC: 火自当之\nD: 推而行之\nE: 火所治之\nCorrect answer: C\n\n\n\nQuestion: 有“方书之祖”之称的是\nA: 《千金方》\nB: 《五十二病方》\nC: 《伤寒杂病论》\nD: 《黄帝内经》\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "C"
+        ],
+        "gold": "C"
+    },
+    "190": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 吴某，因为愤怒之极，突然昏倒，四肢不温，面色苍白，约五分钟后清醒，现在仍然头昏脑胀，胸肋胀满，善太息，不思饮食，失眠，苔薄腻，脉沉弦，此证宜有何法治疗\nA: 理气化痰，养心宁神\nB: 平肝降逆，养血安神\nC: 理气宽中，化痰宁神\nD: 理气达郁，调和肝脾\nE: 顺气开郁，安神宁志\nCorrect answer: E\n\nExample:\nMedical question: 川牛膝与怀牛膝功效的主要不同点是\nA: 川牛膝偏清上部火热，怀牛膝偏清下部湿热\nB: 川牛膝偏补肝肾，怀牛膝偏祛风湿\nC: 川牛膝偏于活血通经，怀牛膝偏于利尿通淋\nD: 川牛膝偏强腰膝，怀牛膝偏于活血通经\nE: 以上都不是\nCorrect answer: E\n\nExample:\nMedical question: 内服剂量限定0.3-0.9g的药物是\nA: 胆矾\nB: 瓜蒂\nC: 雄黄\nD: 藜芦\nE: \nCorrect answer: D\n\nExample:\nMedical question: 尿频量多，浑浊如脂膏，尿有甜味，口干唇燥，舌质红，脉沉细数者，治疗主首选\nA: 程氏萆薢分清饮\nB: 水陆二仙丹\nC: 六味地黄丸\nD: 左归丸\nE: 知柏地黄丸\nCorrect answer: C\n\nExample:\nMedical question: 乳牙（牙合）时期是\nA: 0.5~1.0岁\nB: 1.0~2.0岁\nC: 2.0~4.0岁\nD: 2.5~6.0岁\nE: 4.0~6.0岁\nCorrect answer: D\n\n\n\nQuestion: 下列可与牙体组织形成化学性结合的水门汀是\nA: 氧化锌丁香酚水门汀\nB: 磷酸锌水门汀\nC: 聚羧酸锌水门汀\nD: 玻璃离子水门汀\nE: C和D\n\nProvide the correct option.",
+        "prediction": [
+            "E"
+        ],
+        "gold": "E"
+    },
+    "191": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 提出“泻南方，补北方”的治痿原则的是\nA: 张子和\nB: 朱丹溪\nC: 刘河间\nD: 李杲\nE: \nCorrect answer: B\n\nExample:\nMedical question: 创立“三焦辨证”理论的医家是\nA: 朱丹溪\nB: 吴鞠通\nC: 吴又可\nD: 刘完素\nE: 薛生白\nCorrect answer: B\n\nExample:\nMedical question: 噎膈之病位是\nA: 食道\nB: 脾胃\nC: 脾\nD: 胃\nE: \nCorrect answer: A\n\nExample:\nMedical question: 主治食少难消，脘腹痞闷，大便溏薄，倦怠乏力，苔腻微黄，脉虚弱的方剂是\nA: 健脾丸\nB: 保和丸\nC: 枳术丸\nD: 枳术汤\nE: \nCorrect answer: A\n\nExample:\nMedical question: 栀子的归经是\nA: 心、肺、三焦经\nB: 心、肺经\nC: 心、肺、胃经\nD: 心、肺、肾经\nE: \nCorrect answer: A\n\n\n\nQuestion: 哪位医家认识到七情、饱食、体虚等皆可成为内伤致喘之因\nA: 朱丹溪\nB: 张景岳\nC: 陈修园\nD: 叶天士\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "The correct answer is A: 朱丹溪."
+        ],
+        "gold": "A"
+    },
+    "192": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 最早的麻风隔离病院建在（）\nA: 唐代\nB: 宋代\nC: 秦代\nD: 明代\nE: 以上都不是\nCorrect answer: C\n\nExample:\nMedical question: 患者目赤而痒，迎风尤甚，多为\nA: 外感风寒\nB: 外感风热\nC: 湿热兼风\nD: 血虚生风\nE: 以上都不是\nCorrect answer: B\n\nExample:\nMedical question: 下列可与牙体组织形成化学性结合的水门汀是\nA: 氧化锌丁香酚水门汀\nB: 磷酸锌水门汀\nC: 聚羧酸锌水门汀\nD: 玻璃离子水门汀\nE: C和D\nCorrect answer: E\n\nExample:\nMedical question: 吴某，因为愤怒之极，突然昏倒，四肢不温，面色苍白，约五分钟后清醒，现在仍然头昏脑胀，胸肋胀满，善太息，不思饮食，失眠，苔薄腻，脉沉弦，此证宜有何法治疗\nA: 理气化痰，养心宁神\nB: 平肝降逆，养血安神\nC: 理气宽中，化痰宁神\nD: 理气达郁，调和肝脾\nE: 顺气开郁，安神宁志\nCorrect answer: E\n\nExample:\nMedical question: 内服剂量限定0.3-0.9g的药物是\nA: 胆矾\nB: 瓜蒂\nC: 雄黄\nD: 藜芦\nE: \nCorrect answer: D\n\n\n\nQuestion: 川牛膝与怀牛膝功效的主要不同点是\nA: 川牛膝偏清上部火热，怀牛膝偏清下部湿热\nB: 川牛膝偏补肝肾，怀牛膝偏祛风湿\nC: 川牛膝偏于活血通经，怀牛膝偏于利尿通淋\nD: 川牛膝偏强腰膝，怀牛膝偏于活血通经\nE: 以上都不是\n\nProvide the correct option.",
+        "prediction": [
+            "The correct answer is C: 川牛膝偏于活血通经，怀牛膝偏于利尿通淋."
+        ],
+        "gold": "E"
+    },
+    "193": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 哪位医家认识到七情、饱食、体虚等皆可成为内伤致喘之因\nA: 朱丹溪\nB: 张景岳\nC: 陈修园\nD: 叶天士\nE: \nCorrect answer: A\n\nExample:\nMedical question: 1-使君子善治\nA: 蛔虫病\nB: 钩虫病\nC: 蛲虫病\nD: 绦虫病\nE: \nCorrect answer: A\n\nExample:\nMedical question: 升药的功效是\nA: 拔毒，去腐\nB: 杀虫，止痒\nC: 攻毒，杀虫\nD: 敛疮，生肌\nE: \nCorrect answer: A\n\nExample:\nMedical question: 炉甘石和硼砂功效的共同点是\nA: 解毒，明目\nB: 收湿敛疮\nC: 清肺化痰\nD: 止痒\nE: \nCorrect answer: A\n\nExample:\nMedical question: 既能化痰平喘，又能清肠消痔的药物是\nA: 马兜铃\nB: 洋金花\nC: 天竺黄\nD: 礞石\nE: \nCorrect answer: A\n\n\n\nQuestion: 补阳还五汤中君药黄芪的作用是\nA: 补益元气\nB: 升阳举陷\nC: 益胃固表\nD: 利尿生肌\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "A"
+        ],
+        "gold": "A"
+    },
+    "194": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 饮证的咯痰特点是\nA: 痰色黄白\nB: 痰清稀如水\nC: 痰中带血\nD: 痰白滑易咯出\nE: \nCorrect answer: B\n\nExample:\nMedical question: 1-珍珠母的功效是\nA: 平肝潜阳，清肝明目\nB: 平肝潜阳，清肝明目，镇惊安神\nC: 平肝潜阳，软坚散结，收敛固涩\nD: 平肝潜阳，镇静安神，化痰软坚\nE: \nCorrect answer: B\n\nExample:\nMedical question: 下列哪项属于水火共制法\nA: 炒\nB: 蒸\nC: 炙\nD: 水飞\nE: \nCorrect answer: B\n\nExample:\nMedical question: 腹满而吐，食不下，自利，时腹自痛，或苔白腻，脉沉缓，此属\nA: 少阴寒化证\nB: 太阴病证\nC: 厥阴病证\nD: 中焦病证\nE: \nCorrect answer: B\n\nExample:\nMedical question: 下列哪项常见体虚而虚里脉动数\nA: 中气不守\nB: 心阳不足\nC: 心血不足\nD: 心气不足\nE: \nCorrect answer: B\n\n\n\nQuestion: 成年人的呼吸次数，正常值为\nA: 40次/分钟\nB: 16~20次/分钟\nC: 25次/分钟\nD: 16次/分钟\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "B"
+        ],
+        "gold": "B"
+    },
+    "195": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 温病或伤寒邪正剧争阶段，病变发生转折时，可表现为\nA: 大汗\nB: 自汗\nC: 盗汗\nD: 战汗\nE: 心胸汗\nCorrect answer: D\n\nExample:\nMedical question: 16-亡阴患者出汗的特点是\nA: 自汗\nB: 盗汗\nC: 大汗\nD: 半身汗出\nE: 以上均不对\nCorrect answer: E\n\nExample:\nMedical question: 既能治肺胃出血，又能消散痈肿、生肌敛疮的药物是\nA: 黄芪\nB: 生地\nC: 仙鹤草\nD: 白及\nE: \nCorrect answer: D\n\nExample:\nMedical question: 患者呃声沉缓有力，膈间及胃脘不舒，得热则减，得寒愈甚，食欲减少，口中和而不渴，舌苔白润，脉象迟缓。证属\nA: 脾胃气血证\nB: 气机郁滞证\nC: 脾胃阳虚证\nD: 胃中寒冷证\nE: \nCorrect answer: D\n\nExample:\nMedical question: 《伤寒明理论》的作者是\nA: 唐慎微\nB: 王肯堂\nC: 王焘\nD: 成无己\nE: \nCorrect answer: D\n\n\n\nQuestion: 下列哪项不是气随液脱的形成原因\nA: 高热\nB: 大汗\nC: 严重吐泻\nD: 大量失血\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "E"
+        ],
+        "gold": "D"
+    },
+    "196": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 既能凉血止血，又能解毒杀虫的药物是\nA: 羊蹄\nB: 小蓟\nC: 大蓟\nD: 地榆\nE: \nCorrect answer: A\n\nExample:\nMedical question: 既能温中止血，又可治疗胃寒呕吐、脾虚久泻的药物是\nA: 艾叶\nB: 仙鹤草\nC: 降香\nD: 灶心土\nE: \nCorrect answer: D\n\nExample:\nMedical question: 下列哪些不是五味子的功效\nA: 收敛固涩\nB: 益气生津\nC: 收湿敛疮\nD: 补肾宁心\nE: \nCorrect answer: C\n\nExample:\nMedical question: 龙胆泻肝汤出自下列哪本著作\nA: 《丹溪心法》\nB: 《伤寒论》\nC: 《医方集解》\nD: 《景岳全书》\nE: \nCorrect answer: C\n\nExample:\nMedical question: 下列各药中，治疗风热感冒，症见声音嘶哑或咽喉肿痛者宜选用\nA: 葱白\nB: 鹅不食草\nC: 蝉蜕\nD: 生姜\nE: \nCorrect answer: C\n\n\n\nQuestion: 素有伤科要药之称的药物是\nA: 大蓟\nB: 艾叶\nC: 三七\nD: 花蕊石\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "The correct answer is C: 三七."
+        ],
+        "gold": "C"
+    },
+    "197": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 正常生理状态下，声音的特点为\nA: 发声自然\nB: 声调和畅\nC: 柔和圆润\nD: 语言流畅\nE: \nCorrect answer: ABCD\n\nExample:\nMedical question: 影响药物升降浮沉的因素有\nA: 四气五味\nB: 质地轻重\nC: 炮制\nD: 配伍\nE: \nCorrect answer: ABCD\n\nExample:\nMedical question: 火与热的主要区别是\nA: 火为热之极，热极能化火\nB: 火为内生，热为外受\nC: 火多脏腑郁发或邪郁化火，其性炎上，热多泛及全身\nD: 火易耗血动血，热易耗伤阴液\nE: \nCorrect answer: ABCD\n\nExample:\nMedical question: 下列选项中，能治疗郁证的腧穴是\nA: 水沟\nB: 百会\nC: 内关\nD: 神门\nE: \nCorrect answer: ABCD\n\nExample:\nMedical question: 以下著作专论麻疹的有\nA: 《麻科活人全书》\nB: 《郁谢麻科合璧》\nC: 《麻证新书》\nD: 《麻症集成》\nE: \nCorrect answer: ABCD\n\n\n\nQuestion: 下列属于内伤发热治法的是：\nA: 解郁，活血\nB: 除湿\nC: 益气、养血\nD: 滋阴、温阳\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "The correct answer is: ABCDE"
+        ],
+        "gold": "ABCD"
+    },
+    "198": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 补阳还五汤中君药黄芪的作用是\nA: 补益元气\nB: 升阳举陷\nC: 益胃固表\nD: 利尿生肌\nE: \nCorrect answer: A\n\nExample:\nMedical question: 哪位医家认识到七情、饱食、体虚等皆可成为内伤致喘之因\nA: 朱丹溪\nB: 张景岳\nC: 陈修园\nD: 叶天士\nE: \nCorrect answer: A\n\nExample:\nMedical question: 升药的功效是\nA: 拔毒，去腐\nB: 杀虫，止痒\nC: 攻毒，杀虫\nD: 敛疮，生肌\nE: \nCorrect answer: A\n\nExample:\nMedical question: 炉甘石和硼砂功效的共同点是\nA: 解毒，明目\nB: 收湿敛疮\nC: 清肺化痰\nD: 止痒\nE: \nCorrect answer: A\n\nExample:\nMedical question: 既能化痰平喘，又能清肠消痔的药物是\nA: 马兜铃\nB: 洋金花\nC: 天竺黄\nD: 礞石\nE: \nCorrect answer: A\n\n\n\nQuestion: 1-使君子善治\nA: 蛔虫病\nB: 钩虫病\nC: 蛲虫病\nD: 绦虫病\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "The correct answer is A:蛔虫病."
+        ],
+        "gold": "A"
+    },
+    "199": {
+        "origin_prompt": "Answer the following multiple-choice question.\n\nExample:\nMedical question: 患者呃声沉缓有力，膈间及胃脘不舒，得热则减，得寒愈甚，食欲减少，口中和而不渴，舌苔白润，脉象迟缓。证属\nA: 脾胃气血证\nB: 气机郁滞证\nC: 脾胃阳虚证\nD: 胃中寒冷证\nE: \nCorrect answer: D\n\nExample:\nMedical question: 下列属于黄宫绣的脉学专著是\nA: 《濒湖脉学》\nB: 《脉诀汇辨》\nC: 《诊宗三昧》\nD: 《脉理求真》\nE: \nCorrect answer: D\n\nExample:\nMedical question: 既能治肺胃出血，又能消散痈肿、生肌敛疮的药物是\nA: 黄芪\nB: 生地\nC: 仙鹤草\nD: 白及\nE: \nCorrect answer: D\n\nExample:\nMedical question: 不属于按脘腹的部位\nA: 胃脘\nB: 脐腹\nC: 小腹\nD: 虚里\nE: \nCorrect answer: D\n\nExample:\nMedical question: 《伤寒明理论》的作者是\nA: 唐慎微\nB: 王肯堂\nC: 王焘\nD: 成无己\nE: \nCorrect answer: D\n\n\n\nQuestion: 患者腹痛较剧，痛如针刺，痛处不移，经久不愈，舌质紫黯，脉弦或细涩。治当选用\nA: 良附丸\nB: 正气天香散\nC: 桃核承气汤\nD: 少腹逐瘀汤\nE: \n\nProvide the correct option.",
+        "prediction": [
+            "D"
+        ],
+        "gold": "D"
+    }
+}

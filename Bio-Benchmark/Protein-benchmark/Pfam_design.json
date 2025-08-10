@@ -1,0 +1,1404 @@
+{
+    "Protein family sequence design": [
+        {
+            "no": "Protein_1",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF01713.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_2",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF02912.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_3",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF05703.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_4",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF05228.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_5",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF02498.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_6",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF04818.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_7",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF03323.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_8",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF01066.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_9",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF18005.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_10",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF02397.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_11",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF04810.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_12",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF12455.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_13",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF04408.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_14",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF00300.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_15",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF05198.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_16",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF18576.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_17",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF09578.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_18",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF00593.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_19",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF12254.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_20",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF11799.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_21",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF12637.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_22",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF01119.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_23",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF00268.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_24",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF07007.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_25",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF14231.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_26",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF06584.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_27",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF10288.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_28",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF06580.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_29",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF04287.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_30",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF11962.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_31",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF16954.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_32",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF07332.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_33",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF17755.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_34",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF01436.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_35",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF02561.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_36",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF09268.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_37",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF05192.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_38",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF01809.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_39",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF12539.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_40",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF03719.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_41",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF00683.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_42",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF13928.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_43",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF13649.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_44",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF17962.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_45",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF13089.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_46",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF00596.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_47",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF09827.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_48",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF12200.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_49",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF13424.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_50",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF00281.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_51",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF02654.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_52",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF07398.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_53",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF00842.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_54",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF08293.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_55",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF03458.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_56",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF00677.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_57",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF12816.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_58",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF06059.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_59",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF05736.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_60",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF01200.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_61",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF03458.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_62",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF05802.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_63",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF02391.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_64",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF00329.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_65",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF05575.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_66",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF00684.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_67",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF03706.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_68",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF14012.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_69",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF13617.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_70",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF01016.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_71",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF01725.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_72",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF16178.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_73",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF01342.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_74",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF07486.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_75",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF02495.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_76",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF16321.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_77",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF00381.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_78",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF18818.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_79",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF08490.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_80",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF13677.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_81",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF07312.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_82",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF05222.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_83",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF17759.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_84",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF01728.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_85",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF14167.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_86",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF03722.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_87",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF01944.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_88",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF06612.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_89",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF05916.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_90",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF00878.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_91",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF06541.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_92",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF13565.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_93",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF00233.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_94",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF15951.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_95",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF00281.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_96",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF04336.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_97",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF18075.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_98",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF05792.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_99",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF16490.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_100",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF10135.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_101",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF00447.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_102",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF01823.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_103",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF02502.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_104",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF07331.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_105",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF13561.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_106",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF12673.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_107",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF00234.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_108",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF02817.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_109",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF16116.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_110",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF06230.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_111",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF01149.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_112",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF12511.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_113",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF04658.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_114",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF15575.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_115",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF11841.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_116",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF01944.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_117",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF00902.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_118",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF05910.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_119",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF07797.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_120",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF02675.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_121",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF00139.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_122",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF03865.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_123",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF03993.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_124",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF13439.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_125",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF08486.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_126",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF18158.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_127",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF14500.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_128",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF01967.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_129",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF04542.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_130",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF12046.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_131",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF01924.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_132",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF06187.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_133",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF00484.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_134",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF02673.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_135",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF05351.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_136",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF08337.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_137",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF11967.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_138",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF00560.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_139",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF02365.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_140",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF02934.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_141",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF16916.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_142",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF08349.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_143",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF16403.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_144",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF04471.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_145",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF02445.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_146",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF01510.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_147",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF13194.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_148",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF06303.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_149",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF04025.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_150",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF01346.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_151",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF10566.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_152",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF11931.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_153",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF07700.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_154",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF01556.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_155",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF07845.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_156",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF07730.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_157",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF14625.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_158",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF13472.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_159",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF00636.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_160",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF00605.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_161",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF01929.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_162",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF13976.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_163",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF07890.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_164",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF10370.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_165",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF00036.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_166",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF05257.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_167",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF01967.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_168",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF18074.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_169",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF11374.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_170",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF11755.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_171",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF15519.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_172",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF11625.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_173",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF16685.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_174",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF00497.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_175",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF04371.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_176",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF08806.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_177",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF13649.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_178",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF01455.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_179",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF06775.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_180",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF04463.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_181",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF07059.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_182",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF15010.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_183",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF07650.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_184",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF11987.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_185",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF01556.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_186",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF16486.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_187",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF12828.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_188",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF01040.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_189",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF08235.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_190",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF11871.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_191",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF17721.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_192",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF18052.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_193",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF03106.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_194",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF03652.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_195",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF13932.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_196",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF04675.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_197",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF03974.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_198",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF01424.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_199",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF03734.",
+            "answer": null,
+            "eval": "Hmmscan"
+        },
+        {
+            "no": "Protein_200",
+            "category": "Protein family sequence design",
+            "question": "Please design a protein sequence for the protein family PF15637.",
+            "answer": null,
+            "eval": "Hmmscan"
+        }
+    ]
+}

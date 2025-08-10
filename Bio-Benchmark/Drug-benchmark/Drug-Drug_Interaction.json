@@ -1,0 +1,604 @@
+[
+    {
+        "no": "DRUG_61",
+        "category": "Drug-drug interaction",
+        "question": "What type of drug-drug interaction is for the drug pair (#Drug1) and (#Drug2)?\n#Drug1: NCC(=O)CCC(O)=O\n#Drug2: COC(=O)CCC1=C2NC(\\C=C3/N=C(/C=C4\\N\\C(=C/C5=N/C(=C\\2)/C(CCC(O)=O)=C5C)C(C=C)=C4C)C2=CC=C([C@@H](C(=O)OC)[C@@]32C)C(=O)OC)=C1C\n\nA. #Drug1 may increase the respiratory depressant activities of #Drug2.\nB. #Drug1 may decrease the analgesic activities of #Drug2.\nC. The serum concentration of the active metabolites of #Drug2 can be increased when #Drug2 is used in combination with #Drug1.\nD. #Drug1 may increase the photosensitizing activities of #Drug2.",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_62",
+        "category": "Drug-drug interaction",
+        "question": "What type of drug-drug interaction is for the drug pair (#Drug1) and (#Drug2)?\n#Drug1: OC(C1=CC=CC=C1)(C1=CC=CC=C1)C12CC[N+](CCOCC3=CC=CC=C3)(CC1)CC2\n#Drug2: CCCC[N+]1(C)[C@H]2C[C@@H](C[C@@H]1[C@H]1O[C@@H]21)OC(=O)[C@H](CO)C1=CC=CC=C1\n\nA. #Drug1 may increase the hyperglycemic activities of #Drug2.\nB. #Drug1 may decrease the bronchodilatory activities of #Drug2.\nC. #Drug1 may decrease the antiplatelet activities of #Drug2.\nD. #Drug1 may increase the anticholinergic activities of #Drug2.",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_63",
+        "category": "Drug-drug interaction",
+        "question": "What type of drug-drug interaction is for the drug pair (#Drug1) and (#Drug2)?\n#Drug1: NC(CO)(CO)CO\n#Drug2: [H][C@@]12C[C@@H](C)[C@H](C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1(F)[C@@]2([H])CCC2=CC(=O)C=C[C@]12C\n\nA. The bioavailability of #Drug2 can be decreased when combined with #Drug1.\nB. #Drug1 may increase the neurotoxic activities of #Drug2.\nC. The absorption of #Drug2 can be decreased when combined with #Drug1.\nD. #Drug1 may increase the serotonergic activities of #Drug2.",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_64",
+        "category": "Drug-drug interaction",
+        "question": "What type of drug-drug interaction is for the drug pair (#Drug1) and (#Drug2)?\n#Drug1: CCC1(C(=O)NCNC1=O)C1=CC=CC=C1\n#Drug2: CC(C)C1=C(C(=O)NC2=CC=CC=C2)C(=C(N1CC[C@@H](O)C[C@@H](O)CC(O)=O)C1=CC=C(F)C=C1)C1=CC=CC=C1\n\nA. The metabolism of #Drug2 can be increased when combined with #Drug1.\nB. #Drug1 may increase the ulcerogenic activities of #Drug2.\nC. The risk of a hypersensitivity reaction to #Drug2 is increased when it is combined with #Drug1.\nD. The bioavailability of #Drug2 can be increased when combined with #Drug1.",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_65",
+        "category": "Drug-drug interaction",
+        "question": "What type of drug-drug interaction is for the drug pair (#Drug1) and (#Drug2)?\n#Drug1: C[C@H](CC1=CC2=C(N(CCCO)CC2)C(=C1)C(N)=O)NCCOC1=CC=CC=C1OCC(F)(F)F\n#Drug2: COC1=CC=C(C[C@@H](C)NC[C@H](O)C2=CC(NC=O)=C(O)C=C2)C=C1\n\nA. #Drug1 may decrease the vasoconstricting activities of #Drug2.\nB. #Drug1 may increase the hypocalcemic activities of #Drug2.\nC. #Drug1 may increase the hypotensive activities of #Drug2.\nD. The serum concentration of the active metabolites of #Drug2 can be increased when #Drug2 is used in combination with #Drug1.",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_66",
+        "category": "Drug-drug interaction",
+        "question": "What type of drug-drug interaction is for the drug pair (#Drug1) and (#Drug2)?\n#Drug1: CC(=O)CC(C1=CC=CC=C1)C1=C(O)C2=C(OC1=O)C=CC=C2\n#Drug2: [H][C@@]12C[C@@H](C)[C@](C)(C(=O)CC)[C@@]1(C)C[C@H](O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)C=C[C@]12C\n\nA. #Drug1 may increase the anticoagulant activities of #Drug2.\nB. #Drug1 may decrease the vasoconstricting activities of #Drug2.\nC. The bioavailability of #Drug2 can be decreased when combined with #Drug1.\nD. #Drug1 may increase the hyperkalemic activities of #Drug2.",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_67",
+        "category": "Drug-drug interaction",
+        "question": "What type of drug-drug interaction is for the drug pair (#Drug1) and (#Drug2)?\n#Drug1: [H][N]([H])([H])[Pt]1(OC(=O)C2(CCC2)C(=O)O1)[N]([H])([H])[H]\n#Drug2: CCN[C@@H]1C[C@H](N)[C@@H](O[C@H]2OC(CN)=CC[C@H]2N)[C@H](O)[C@H]1O[C@H]1OC[C@](C)(O)[C@H](NC)[C@H]1O\n\nA. #Drug1 may increase the atrioventricular blocking (AV block) activities of #Drug2.\nB. #Drug1 may increase the vasopressor activities of #Drug2.\nC. The therapeutic efficacy of #Drug2 can be decreased when used in combination with #Drug1.\nD. #Drug1 may increase the ototoxic activities of #Drug2.",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_68",
+        "category": "Drug-drug interaction",
+        "question": "What type of drug-drug interaction is for the drug pair (#Drug1) and (#Drug2)?\n#Drug1: CC(C)C[C@H](CN)CC(O)=O\n#Drug2: CNCCC=C1C2=CC=CC=C2CCC2=CC=CC=C12\n\nA. #Drug1 may increase the adverse neuromuscular activities of #Drug2.\nB. The metabolism of #Drug2 can be increased when combined with #Drug1.\nC. The therapeutic efficacy of #Drug2 can be increased when used in combination with #Drug1.\nD. #Drug1 may decrease the bronchodilatory activities of #Drug2.",
+        "answer": "C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_69",
+        "category": "Drug-drug interaction",
+        "question": "What type of drug-drug interaction is for the drug pair (#Drug1) and (#Drug2)?\n#Drug1: CCCCNC(=O)NS(=O)(=O)C1=CC=C(C)C=C1\n#Drug2: CC(C)NCC(O)COC1=CC=CC=C1OCC=C\n\nA. #Drug1 may increase the hypoglycemic activities of #Drug2.\nB. #Drug1 may increase the antipsychotic activities of #Drug2.\nC. #Drug1 may increase the cardiotoxic activities of #Drug2.\nD. #Drug1 may increase the central neurotoxic activities of #Drug2.",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_70",
+        "category": "Drug-drug interaction",
+        "question": "What type of drug-drug interaction is for the drug pair (#Drug1) and (#Drug2)?\n#Drug1: CCCOC1=C(C=C(C=C1)S(=O)(=O)NCCC1CCCN1C)C1=NC(=O)C2=C(N1)C(CCC)=NN2C\n#Drug2: [H][C@@]12C[C@H](N(C(=O)[C@H](C)N[C@@H](CCC3=CC=CC=C3)C(=O)OCC)[C@@]1([H])CCCC2)C(O)=O\n\nA. #Drug1 may increase the antipsychotic activities of #Drug2.\nB. #Drug1 may increase the antihypertensive activities of #Drug2.\nC. #Drug1 may increase the anticoagulant activities of #Drug2.\nD. #Drug1 may decrease the stimulatory activities of #Drug2.",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_71",
+        "category": "Drug-drug interaction",
+        "question": "What type of drug-drug interaction is for the drug pair (#Drug1) and (#Drug2)?\n#Drug1: CNCC[C@@H](OC1=CC=CC=C1C)C1=CC=CC=C1\n#Drug2: CC\\C(=C(/C1=CC=CC=C1)C1=CC=C(OCCN(C)C)C=C1)C1=CC=CC=C1\n\nA. #Drug1 may increase the hypercalcemic activities of #Drug2.\nB. The serum concentration of the active metabolites of #Drug2 can be reduced when #Drug2 is used in combination with #Drug1 resulting in a loss in efficacy.\nC. #Drug1 may decrease the bronchodilatory activities of #Drug2.\nD. #Drug1 may increase the neurotoxic activities of #Drug2.",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_72",
+        "category": "Drug-drug interaction",
+        "question": "What type of drug-drug interaction is for the drug pair (#Drug1) and (#Drug2)?\n#Drug1: OC1=C(CC2=C(O)C3=C(OC2=O)C=CC=C3)C(=O)OC2=C1C=CC=C2\n#Drug2: [H][C@@]12CC[C@@](O)(C#C)[C@@]1(CC)CC[C@]1([H])[C@@]3([H])CCC(=O)C=C3CC[C@@]21[H]\n\nA. #Drug1 may increase the antiplatelet activities of #Drug2.\nB. The risk or severity of hypertension can be increased when #Drug2 is combined with #Drug1.\nC. #Drug1 may decrease the anticoagulant activities of #Drug2.\nD. #Drug1 may increase the neuromuscular blocking activities of #Drug2.",
+        "answer": "C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_73",
+        "category": "Drug-drug interaction",
+        "question": "What type of drug-drug interaction is for the drug pair (#Drug1) and (#Drug2)?\n#Drug1: ClC1=CC(Cl)=C(Cl)C=C1OCC#CI\n#Drug2: [H][C@@]12CC[C@H](C(C)=O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C\n\nA. #Drug1 may increase the central nervous system depressant (CNS depressant) and hypertensive activities of #Drug2.\nB. The risk or severity of hypertension can be increased when #Drug2 is combined with #Drug1.\nC. The absorption of #Drug2 can be decreased when combined with #Drug1.\nD. The metabolism of #Drug2 can be increased when combined with #Drug1.",
+        "answer": "C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_74",
+        "category": "Drug-drug interaction",
+        "question": "What type of drug-drug interaction is for the drug pair (#Drug1) and (#Drug2)?\n#Drug1: [H][C@](O)(CNC(C)(C)C)COC1=NSN=C1N1CCOCC1\n#Drug2: CC(C)(C)NCC(O)C1=CC(O)=CC(O)=C1\n\nA. #Drug1 may decrease the bronchodilatory activities of #Drug2.\nB. #Drug1 can cause a decrease in the absorption of #Drug2 resulting in a reduced serum concentration and potentially a decrease in efficacy.\nC. #Drug1 may increase the antipsychotic activities of #Drug2.\nD. The risk or severity of hyperkalemia can be increased when #Drug1 is combined with #Drug2.",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_75",
+        "category": "Drug-drug interaction",
+        "question": "What type of drug-drug interaction is for the drug pair (#Drug1) and (#Drug2)?\n#Drug1: ClCCN(CCCl)P1(=O)NCCCO1\n#Drug2: ONC(=O)\\C=C\\C1=CC=CC(=C1)S(=O)(=O)NC1=CC=CC=C1\n\nA. #Drug1 may increase the cardiotoxic activities of #Drug2.\nB. The serum concentration of the active metabolites of #Drug2 can be reduced when #Drug2 is used in combination with #Drug1 resulting in a loss in efficacy.\nC. #Drug1 can cause a decrease in the absorption of #Drug2 resulting in a reduced serum concentration and potentially a decrease in efficacy.\nD. #Drug1 may increase the thrombogenic activities of #Drug2.",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_76",
+        "category": "Drug-drug interaction",
+        "question": "What type of drug-drug interaction is for the drug pair (#Drug1) and (#Drug2)?\n#Drug1: CC1OC(C)OC(C)O1\n#Drug2: CN1C2=C(C=C(Cl)C=C2)C(=NCC1=O)C1=CC=CC=C1\n\nA. #Drug1 may increase the neuromuscular blocking activities of #Drug2.\nB. #Drug1 may increase the antiplatelet activities of #Drug2.\nC. #Drug1 may increase the central nervous system depressant (CNS depressant) activities of #Drug2.\nD. #Drug1 may decrease the vasoconstricting activities of #Drug2.",
+        "answer": "C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_77",
+        "category": "Drug-drug interaction",
+        "question": "What type of drug-drug interaction is for the drug pair (#Drug1) and (#Drug2)?\n#Drug1: CCC(=C)C(=O)C1=C(Cl)C(Cl)=C(OCC(O)=O)C=C1\n#Drug2: COC1=CC(CC2C3=C(OC)C(OC)=C(OC)C=C3CC[N+]2(C)CCCOC(=O)CCC(=O)OCCC[N+]2(C)CCC3=CC(OC)=C(OC)C(OC)=C3C2CC2=CC(OC)=C(OC)C(OC)=C2)=CC(OC)=C1OC\n\nA. #Drug1 may decrease the antihypertensive activities of #Drug2.\nB. #Drug1 may decrease the vasoconstricting activities of #Drug2.\nC. #Drug1 may increase the ototoxic activities of #Drug2.\nD. #Drug1 may decrease the neuromuscular blocking activities of #Drug2.",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_78",
+        "category": "Drug-drug interaction",
+        "question": "What type of drug-drug interaction is for the drug pair (#Drug1) and (#Drug2)?\n#Drug1: COC1=C(OC)C(CS(=O)C2=NC3=C(N2)C=C(OC(F)F)C=C3)=NC=C1\n#Drug2: [H][C@@](C(=O)OC)(C1=CC=CC=C1)[C@@]1([H])CCCCN1\n\nA. #Drug1 can cause an increase in the absorption of #Drug2 resulting in an increased serum concentration and potentially a worsening of adverse effects.\nB. The risk of a hypersensitivity reaction to #Drug2 is increased when it is combined with #Drug1.\nC. #Drug1 may increase the hypoglycemic activities of #Drug2.\nD. #Drug1 may increase the fluid retaining activities of #Drug2.",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_79",
+        "category": "Drug-drug interaction",
+        "question": "What type of drug-drug interaction is for the drug pair (#Drug1) and (#Drug2)?\n#Drug1: [H][C@@]12CC3=CNC4=CC=CC(=C34)C1=C[C@H](CN2C)C(=O)N[C@@H](CC)CO\n#Drug2: CCN(CC)C(=O)NC1=CC=C(OCC(O)CNC(C)(C)C)C(=C1)C(C)=O\n\nA. #Drug1 may increase the vasoconstricting activities of #Drug2.\nB. #Drug1 may increase the hypertensive activities of #Drug2.\nC. The risk or severity of hypotension can be increased when #Drug1 is combined with #Drug2.\nD. The absorption of #Drug2 can be decreased when combined with #Drug1.",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_80",
+        "category": "Drug-drug interaction",
+        "question": "What type of drug-drug interaction is for the drug pair (#Drug1) and (#Drug2)?\n#Drug1: CN(C)CCCN1C2=CC=CC=C2SC2=CC=CC=C12\n#Drug2: CNCCC=C1C2=CC=CC=C2CCC2=CC=CC=C12\n\nA. #Drug1 may increase the QTc-prolonging activities of #Drug2.\nB. The serum concentration of the active metabolites of #Drug2 can be reduced when #Drug2 is used in combination with #Drug1 resulting in a loss in efficacy.\nC. The metabolism of #Drug2 can be increased when combined with #Drug1.\nD. #Drug1 may increase the photosensitizing activities of #Drug2.",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_81",
+        "category": "Drug-drug interaction",
+        "question": "What type of drug-drug interaction is for the drug pair (#Drug1) and (#Drug2)?\n#Drug1: C[N+](C)(C)CCCCCCCCCC[N+](C)(C)C\n#Drug2: [H][C@@]1(CCN=C(N)N1)[C@]1([H])NC(=O)\\C(NC(=O)[C@H](CNC(=O)C[C@@H](N)CCCN)NC(=O)[C@H](C)NC(=O)[C@@H](N)CNC1=O)=C/NC(N)=O.[H][C@@]1(CCN=C(N)N1)[C@]1([H])NC(=O)\\C(NC(=O)[C@H](CNC(=O)C[C@@H](N)CCCN)NC(=O)[C@H](CO)NC(=O)[C@@H](N)CNC1=O)=C/NC(N)=O\n\nA. #Drug1 may increase the atrioventricular blocking (AV block) activities of #Drug2.\nB. The serum concentration of #Drug2 can be increased when it is combined with #Drug1.\nC. #Drug1 may increase the neuromuscular blocking activities of #Drug2.\nD. #Drug1 may increase the anticholinergic activities of #Drug2.",
+        "answer": "C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_82",
+        "category": "Drug-drug interaction",
+        "question": "What type of drug-drug interaction is for the drug pair (#Drug1) and (#Drug2)?\n#Drug1: [H][C@@]12C[C@@H](C)[C@](OC(=O)CC)(C(=O)SCF)[C@@]1(C)C[C@H](O)[C@@]1(F)[C@@]2([H])C[C@H](F)C2=CC(=O)C=C[C@]12C\n#Drug2: [O-]S(=O)(=O)C1=CC=CC=C1.[O-]S(=O)(=O)C1=CC=CC=C1.COC1=CC2=C(C=C1OC)C(CC1=CC(OC)=C(OC)C=C1)[N+](C)(CCC(=O)OCCCCCOC(=O)CC[N+]1(C)CCC3=C(C=C(OC)C(OC)=C3)C1CC1=CC(OC)=C(OC)C=C1)CC2\n\nA. #Drug1 may increase the adverse neuromuscular activities of #Drug2.\nB. The bioavailability of #Drug2 can be increased when combined with #Drug1.\nC. The therapeutic efficacy of #Drug2 can be decreased when used in combination with #Drug1.\nD. #Drug1 may increase the nephrotoxic activities of #Drug2.",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_83",
+        "category": "Drug-drug interaction",
+        "question": "What type of drug-drug interaction is for the drug pair (#Drug1) and (#Drug2)?\n#Drug1: C[C@@H](CC1=CC=CC=C1)NC(=O)[C@@H](N)CCCCN\n#Drug2: CN(C)CCC=C1C2=CC=CC=C2CCC2=CC=CC=C12\n\nA. #Drug1 may increase the stimulatory activities of #Drug2.\nB. #Drug1 may increase the thrombogenic activities of #Drug2.\nC. The risk of a hypersensitivity reaction to #Drug2 is increased when it is combined with #Drug1.\nD. #Drug1 may decrease the antiplatelet activities of #Drug2.",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_84",
+        "category": "Drug-drug interaction",
+        "question": "What type of drug-drug interaction is for the drug pair (#Drug1) and (#Drug2)?\n#Drug1: CC(O)(P(O)(O)=O)P(O)(O)=O\n#Drug2: COC1=CC=CC2=C1C(=O)C1=C(O)C3=C(C[C@](O)(C[C@@H]3O[C@H]3C[C@H](N)[C@H](O)[C@H](C)O3)C(=O)CO)C(O)=C1C2=O\n\nA. #Drug1 may increase the excretion rate of #Drug2 which could result in a lower serum level and potentially a reduction in efficacy.\nB. #Drug1 may increase the myopathic rhabdomyolysis activities of #Drug2.\nC. #Drug1 may increase the fluid retaining activities of #Drug2.\nD. #Drug1 may increase the hypocalcemic activities of #Drug2.",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_85",
+        "category": "Drug-drug interaction",
+        "question": "What type of drug-drug interaction is for the drug pair (#Drug1) and (#Drug2)?\n#Drug1: NC(=N)NC(=O)CC1=C(Cl)C=CC=C1Cl\n#Drug2: OC(CNCC(O)C1CCC2=C(O1)C=CC(F)=C2)C1CCC2=C(O1)C=CC(F)=C2\n\nA. #Drug1 may increase the hypotensive activities of #Drug2.\nB. #Drug1 may increase the atrioventricular blocking (AV block) activities of #Drug2.\nC. The therapeutic efficacy of #Drug2 can be decreased when used in combination with #Drug1.\nD. #Drug1 may increase the bradycardic activities of #Drug2.",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_86",
+        "category": "Drug-drug interaction",
+        "question": "What type of drug-drug interaction is for the drug pair (#Drug1) and (#Drug2)?\n#Drug1: CSCCNC1=C2N=CN([C@@H]3O[C@H](COP(O)(=O)OP(O)(=O)C(Cl)(Cl)P(O)(O)=O)[C@@H](O)[C@H]3O)C2=NC(SCCC(F)(F)F)=N1\n#Drug2: [H][C@@](N1CCC2=C(C1)C=CS2)(C(=O)OC)C1=CC=CC=C1Cl\n\nA. #Drug1 may decrease the antiplatelet activities of #Drug2.\nB. #Drug1 may decrease the diuretic activities of #Drug2.\nC. The risk or severity of heart failure can be increased when #Drug2 is combined with #Drug1.\nD. #Drug1 may increase the anticholinergic activities of #Drug2.",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_87",
+        "category": "Drug-drug interaction",
+        "question": "What type of drug-drug interaction is for the drug pair (#Drug1) and (#Drug2)?\n#Drug1: CC1=CN(C(=O)C=C1)C1=CC=CC=C1\n#Drug2: CO\\N=C1/CN(CC1CN)C1=NC2=C(C=C1F)C(=O)C(=CN2C1CC1)C(O)=O\n\nA. #Drug1 may increase the thrombogenic activities of #Drug2.\nB. #Drug1 may increase the neuroexcitatory activities of #Drug2.\nC. The risk or severity of hypertension can be increased when #Drug2 is combined with #Drug1.\nD. #Drug1 may increase the sedative activities of #Drug2.",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_88",
+        "category": "Drug-drug interaction",
+        "question": "What type of drug-drug interaction is for the drug pair (#Drug1) and (#Drug2)?\n#Drug1: [H][C@@](CC)(C1=CC(NS(=O)(=O)C2=NC=C(C=C2)C(F)(F)F)=CC=C1)C1=C(O)C[C@@](CCC)(CCC2=CC=CC=C2)OC1=O\n#Drug2: [H]\\C(C)=C(/C(=C(\\[H])C)/C1=CC=C(O)C=C1)\\C1=CC=C(O)C=C1\n\nA. #Drug1 may increase the myopathic rhabdomyolysis activities of #Drug2.\nB. #Drug1 may decrease the anticoagulant activities of #Drug2.\nC. The absorption of #Drug2 can be decreased when combined with #Drug1.\nD. #Drug1 may increase the dermatologic adverse activities of #Drug2.",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_89",
+        "category": "Drug-drug interaction",
+        "question": "What type of drug-drug interaction is for the drug pair (#Drug1) and (#Drug2)?\n#Drug1: OCC(O)COC(=O)C1=CC=CC=C1NC1=CC=NC2=C(C=CC=C12)C(F)(F)F\n#Drug2: CC(C)NC(=O)NS(=O)(=O)C1=C(NC2=CC=CC(C)=C2)C=CN=C1\n\nA. #Drug1 may decrease the diuretic activities of #Drug2.\nB. The risk or severity of hyperkalemia can be increased when #Drug1 is combined with #Drug2.\nC. #Drug1 may increase the antipsychotic activities of #Drug2.\nD. #Drug1 may increase the analgesic activities of #Drug2.",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_90",
+        "category": "Drug-drug interaction",
+        "question": "What type of drug-drug interaction is for the drug pair (#Drug1) and (#Drug2)?\n#Drug1: CCCC(C)C1(CC)C(=O)NC(=S)NC1=O\n#Drug2: NS(=O)(=O)C1=C(Cl)C=C2NC=NS(=O)(=O)C2=C1\n\nA. #Drug1 may increase the hypocalcemic activities of #Drug2.\nB. #Drug1 may increase the neuroexcitatory activities of #Drug2.\nC. #Drug1 may increase the orthostatic hypotensive activities of #Drug2.\nD. #Drug1 may increase the anticholinergic activities of #Drug2.",
+        "answer": "C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_91",
+        "category": "Drug-drug interaction",
+        "question": "What type of drug-drug interaction is for the drug pair (#Drug1) and (#Drug2)?\n#Drug1: C[C@](N)(CC1=CC=C(O)C(O)=C1)C(O)=O\n#Drug2: C#CCN[C@@H]1CCC2=CC=CC=C12\n\nA. #Drug1 may increase the hyponatremic activities of #Drug2.\nB. #Drug1 may increase the antipsychotic activities of #Drug2.\nC. The risk or severity of hypertension can be increased when #Drug2 is combined with #Drug1.\nD. #Drug1 may decrease the stimulatory activities of #Drug2.",
+        "answer": "C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_92",
+        "category": "Drug-drug interaction",
+        "question": "What type of drug-drug interaction is for the drug pair (#Drug1) and (#Drug2)?\n#Drug1: CC(C)C1=CC=CC(C(C)C)=C1O\n#Drug2: C[C@](N)(CC1=CC=C(O)C=C1)C(O)=O\n\nA. The metabolism of #Drug2 can be increased when combined with #Drug1.\nB. #Drug1 may increase the sedative activities of #Drug2.\nC. #Drug1 may increase the myopathic rhabdomyolysis activities of #Drug2.\nD. #Drug1 may increase the immunosuppressive activities of #Drug2.",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_93",
+        "category": "Drug-drug interaction",
+        "question": "What type of drug-drug interaction is for the drug pair (#Drug1) and (#Drug2)?\n#Drug1: CC(C)N(CCC(C(N)=O)(C1=CC=CC=C1)C1=NC=CC=C1)C(C)C\n#Drug2: COC1=C(OCC2CCN(C)CC2)C=C2N=CN=C(NC3=C(F)C=C(Br)C=C3)C2=C1\n\nA. The risk or severity of QTc prolongation can be increased when #Drug1 is combined with #Drug2.\nB. #Drug1 may increase the thrombogenic activities of #Drug2.\nC. #Drug1 may increase the myopathic rhabdomyolysis activities of #Drug2.\nD. #Drug1 may increase the neurotoxic activities of #Drug2.",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_94",
+        "category": "Drug-drug interaction",
+        "question": "What type of drug-drug interaction is for the drug pair (#Drug1) and (#Drug2)?\n#Drug1: FC(F)OC1=C(OCC2CC2)C=C(C=C1)C(=O)NC1=C(Cl)C=NC=C1Cl\n#Drug2: [H][C@](C)(NC(=O)[C@@]([H])(NC(=O)C1=NC(=NC(N)=C1C)[C@H](CC(N)=O)NC[C@H](N)C(N)=O)[C@@]([H])(OC1OC(CO)C(O)C(O)C1OC1OC(CO)C(O)C(OC(N)=O)C1O)C1=CNC=N1)[C@@H](O)[C@H](C)C(=O)N[C@]([H])(C(=O)NCCC1=NC(=CS1)C1=NC(=CS1)C(=O)NCCC[S+](C)C)[C@@]([H])(C)O\n\nA. #Drug1 may increase the sedative activities of #Drug2.\nB. #Drug1 may increase the immunosuppressive activities of #Drug2.\nC. #Drug1 may increase the vasodilatory activities of #Drug2.\nD. #Drug1 may increase the hypotensive and central nervous system depressant (CNS depressant) activities of #Drug2.",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_95",
+        "category": "Drug-drug interaction",
+        "question": "What type of drug-drug interaction is for the drug pair (#Drug1) and (#Drug2)?\n#Drug1: [Li+]\n#Drug2: OCCN1CCN(CCCN2C3=CC=CC=C3SC3=C2C=C(Cl)C=C3)CC1\n\nA. #Drug1 can cause an increase in the absorption of #Drug2 resulting in an increased serum concentration and potentially a worsening of adverse effects.\nB. #Drug1 may increase the neurotoxic activities of #Drug2.\nC. #Drug1 may increase the serotonergic activities of #Drug2.\nD. The serum concentration of the active metabolites of #Drug2 can be reduced when #Drug2 is used in combination with #Drug1 resulting in a loss in efficacy.",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_96",
+        "category": "Drug-drug interaction",
+        "question": "What type of drug-drug interaction is for the drug pair (#Drug1) and (#Drug2)?\n#Drug1: CCN1CCCC1CNC(=O)C1=C(OC)C=CC(=C1)S(N)(=O)=O\n#Drug2: CN(C)S(=O)(=O)C1=CC2=C(SC3=CC=CC=C3\\C2=C\\CCN2CCN(C)CC2)C=C1\n\nA. The therapeutic efficacy of #Drug2 can be decreased when used in combination with #Drug1.\nB. #Drug1 may decrease effectiveness of #Drug2 as a diagnostic agent.\nC. The therapeutic efficacy of #Drug2 can be increased when used in combination with #Drug1.\nD. #Drug1 may increase the antipsychotic activities of #Drug2.",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_97",
+        "category": "Drug-drug interaction",
+        "question": "What type of drug-drug interaction is for the drug pair (#Drug1) and (#Drug2)?\n#Drug1: CC1=C(CCN2CCC(CC2)C2=NOC3=C2C=CC(F)=C3)C(=O)N2CCCC(O)C2=N1\n#Drug2: CN(C)CCCN1C2=CC=CC=C2CCC2=CC=CC=C12\n\nA. #Drug1 may decrease the antihypertensive activities of #Drug2.\nB. The serum concentration of the active metabolites of #Drug2 can be increased when #Drug2 is used in combination with #Drug1.\nC. #Drug1 may increase the central neurotoxic activities of #Drug2.\nD. #Drug1 may increase the thrombogenic activities of #Drug2.",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_98",
+        "category": "Drug-drug interaction",
+        "question": "What type of drug-drug interaction is for the drug pair (#Drug1) and (#Drug2)?\n#Drug1: [O-][N+](=O)OCC(CO[N+]([O-])=O)O[N+]([O-])=O\n#Drug2: CCCC1=NN(C)C2=C1N=C(NC2=O)C1=CC(=CC=C1OCC)S(=O)(=O)N1CCN(C)CC1\n\nA. #Drug1 may decrease the diuretic activities of #Drug2.\nB. #Drug1 may increase the vasodilatory activities of #Drug2.\nC. The metabolism of #Drug2 can be increased when combined with #Drug1.\nD. The risk or severity of hypertension can be increased when #Drug2 is combined with #Drug1.",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_99",
+        "category": "Drug-drug interaction",
+        "question": "What type of drug-drug interaction is for the drug pair (#Drug1) and (#Drug2)?\n#Drug1: COC1=C2O[C@H]3C(=O)CC[C@@]4(O)[C@H]5CC(C=C1)=C2[C@@]34CCN5C\n#Drug2: CN1C=C(C(=O)[C@@H]2CCC3=C(C2)N=CN3)C2=C1C=CC=C2\n\nA. #Drug1 may increase the neuromuscular blocking activities of #Drug2.\nB. #Drug1 may increase the immunosuppressive activities of #Drug2.\nC. #Drug1 may increase the constipating activities of #Drug2.\nD. #Drug1 may increase the hypertensive activities of #Drug2.",
+        "answer": "C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_100",
+        "category": "Drug-drug interaction",
+        "question": "What type of drug-drug interaction is for the drug pair (#Drug1) and (#Drug2)?\n#Drug1: [H][C@@]12CC3=CC=C(OC4=C5C(CC[N+](C)(C)[C@]5([H])CC5=CC(OC6=C(OC)C=C(CCN1C)C2=C6)=C(O)C=C5)=CC(OC)=C4O)C=C3\n#Drug2: C[C@@H]1O[C@H](C[C@H](N)[C@@H]1O)O[C@H]1C[C@@](O)(CC2=C1C(O)=C1C(=O)C3=CC=CC=C3C(=O)C1=C2O)C(C)=O\n\nA. The risk or severity of adverse effects can be increased when #Drug1 is combined with #Drug2.\nB. #Drug1 may increase the antihypertensive activities of #Drug2.\nC. #Drug1 may increase the respiratory depressant activities of #Drug2.\nD. The therapeutic efficacy of #Drug2 can be decreased when used in combination with #Drug1.",
+        "answer": "C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_101",
+        "category": "Drug-drug interaction",
+        "question": "What type of drug-drug interaction is for the drug pair (#Drug1) and (#Drug2)?\n#Drug1: NC1CC1C1=CC=CC=C1\n#Drug2: CCOC(=O)C1(CCN(C)CC1)C1=CC=CC=C1\n\nA. #Drug1 may increase the hypotensive and central nervous system depressant (CNS depressant) activities of #Drug2.\nB. #Drug1 may increase the myopathic rhabdomyolysis activities of #Drug2.\nC. #Drug1 may increase the fluid retaining activities of #Drug2.\nD. #Drug1 may increase the anticholinergic activities of #Drug2.",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_102",
+        "category": "Drug-drug interaction",
+        "question": "What type of drug-drug interaction is for the drug pair (#Drug1) and (#Drug2)?\n#Drug1: NC1=NC(N)=C2N=C(C(N)=NC2=N1)C1=CC=CC=C1\n#Drug2: CO[C@@H]1C[C@@H](CC[C@H]1O)\\C=C(/C)[C@H]1OC(=O)[C@@H]2CCCCN2C(=O)C(=O)[C@]2(O)O[C@@H]([C@H](C[C@H]2C)OC)[C@H](C[C@@H](C)C\\C(C)=C\\[C@@H](CC=C)C(=O)C[C@H](O)[C@H]1C)OC\n\nA. #Drug1 may increase the central nervous system depressant (CNS depressant) and hypertensive activities of #Drug2.\nB. #Drug1 may increase the orthostatic hypotensive activities of #Drug2.\nC. The bioavailability of #Drug2 can be decreased when combined with #Drug1.\nD. The risk or severity of hyperkalemia can be increased when #Drug1 is combined with #Drug2.",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_103",
+        "category": "Drug-drug interaction",
+        "question": "What type of drug-drug interaction is for the drug pair (#Drug1) and (#Drug2)?\n#Drug1: CC1=CC=C(C=C1)S(=O)(=O)NC(=O)NN1CC2CCCC2C1\n#Drug2: CCCN(CCC)S(=O)(=O)C1=CC=C(C=C1)C(O)=O\n\nA. The protein binding of #Drug2 can be decreased when combined with #Drug1.\nB. #Drug1 may increase the photosensitizing activities of #Drug2.\nC. The therapeutic efficacy of #Drug2 can be decreased when used in combination with #Drug1.\nD. The risk or severity of QTc prolongation can be increased when #Drug1 is combined with #Drug2.",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_104",
+        "category": "Drug-drug interaction",
+        "question": "What type of drug-drug interaction is for the drug pair (#Drug1) and (#Drug2)?\n#Drug1: CC1=CC=C2N3CCNC4CCCC(=C34)C2=C1\n#Drug2: CNCC[C@@H](OC1=CC=CC=C1C)C1=CC=CC=C1\n\nA. #Drug1 may increase the photosensitizing activities of #Drug2.\nB. #Drug1 may increase the bronchoconstrictory activities of #Drug2.\nC. #Drug1 may increase the central neurotoxic activities of #Drug2.\nD. #Drug1 may increase the neuromuscular blocking activities of #Drug2.",
+        "answer": "C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_105",
+        "category": "Drug-drug interaction",
+        "question": "What type of drug-drug interaction is for the drug pair (#Drug1) and (#Drug2)?\n#Drug1: [H][C@]12CC[C@]([H])([C@H]([C@H](C1)C1=CC=C([123I])C=C1)C(=O)OC)N2CCCF\n#Drug2: CNC(C)(C)CC1=CC=CC=C1\n\nA. #Drug1 may increase the analgesic activities of #Drug2.\nB. #Drug1 may decrease effectiveness of #Drug2 as a diagnostic agent.\nC. #Drug1 may increase the central nervous system depressant (CNS depressant) activities of #Drug2.\nD. #Drug1 may decrease the diuretic activities of #Drug2.",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_106",
+        "category": "Drug-drug interaction",
+        "question": "What type of drug-drug interaction is for the drug pair (#Drug1) and (#Drug2)?\n#Drug1: OC(CNCC(O)C1CCC2=C(O1)C=CC(F)=C2)C1CCC2=C(O1)C=CC(F)=C2\n#Drug2: CC(C[N+](C)(C)C)OC(C)=O\n\nA. #Drug1 may increase the bronchoconstrictory activities of #Drug2.\nB. #Drug1 may increase the cardiotoxic activities of #Drug2.\nC. #Drug1 may increase the central nervous system depressant (CNS depressant) and hypertensive activities of #Drug2.\nD. The bioavailability of #Drug2 can be increased when combined with #Drug1.",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_107",
+        "category": "Drug-drug interaction",
+        "question": "What type of drug-drug interaction is for the drug pair (#Drug1) and (#Drug2)?\n#Drug1: O.OS(=O)(=O)C1=CC2=CC=CC=C2C=C1.CCC(=O)O[C@@](CC1=CC=CC=C1)([C@H](C)CN(C)C)C1=CC=CC=C1\n#Drug2: [H][C@@]12CCCC[C@]1([H])CN(C[C@@H](O)[C@H](CC1=CC=CC=C1)NC(=O)[C@H](CC(N)=O)NC(=O)C1=NC3=C(C=CC=C3)C=C1)[C@@H](C2)C(=O)NC(C)(C)C\n\nA. #Drug1 may increase the excretion rate of #Drug2 which could result in a lower serum level and potentially a reduction in efficacy.\nB. The metabolism of #Drug2 can be decreased when combined with #Drug1.\nC. The bioavailability of #Drug2 can be decreased when combined with #Drug1.\nD. #Drug1 may decrease the anticoagulant activities of #Drug2.",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_108",
+        "category": "Drug-drug interaction",
+        "question": "What type of drug-drug interaction is for the drug pair (#Drug1) and (#Drug2)?\n#Drug1: COC1=CC2=C(C(OC)=C1OC)C1=CC=C(OC)C(=O)C=C1C(CC2)NC(C)=O\n#Drug2: CC(C)(OC1=CC=C(Cl)C=C1)C(=O)OCCOC(=O)C1=CN=CC=C1\n\nA. The therapeutic efficacy of #Drug2 can be increased when used in combination with #Drug1.\nB. #Drug1 may increase the myopathic rhabdomyolysis activities of #Drug2.\nC. The risk or severity of heart failure can be increased when #Drug2 is combined with #Drug1.\nD. #Drug1 may increase the hypotensive and central nervous system depressant (CNS depressant) activities of #Drug2.",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_109",
+        "category": "Drug-drug interaction",
+        "question": "What type of drug-drug interaction is for the drug pair (#Drug1) and (#Drug2)?\n#Drug1: CC12CC3CC(C)(C1)CC(N)(C3)C2\n#Drug2: CC(C[N+](C)(C)C)OC(N)=O\n\nA. #Drug1 may increase the hyperglycemic activities of #Drug2.\nB. The risk or severity of adverse effects can be increased when #Drug1 is combined with #Drug2.\nC. #Drug1 may increase the arrhythmogenic activities of #Drug2.\nD. #Drug1 may increase the ulcerogenic activities of #Drug2.",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_110",
+        "category": "Drug-drug interaction",
+        "question": "What type of drug-drug interaction is for the drug pair (#Drug1) and (#Drug2)?\n#Drug1: CCCNC(=O)NS(=O)(=O)C1=CC=C(Cl)C=C1\n#Drug2: CC(C)C[C@H](CN)CC(O)=O\n\nA. #Drug1 may increase the arrhythmogenic activities of #Drug2.\nB. #Drug1 may decrease the cardiotoxic activities of #Drug2.\nC. The risk or severity of heart failure can be increased when #Drug2 is combined with #Drug1.\nD. The therapeutic efficacy of #Drug2 can be increased when used in combination with #Drug1.",
+        "answer": "C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_111",
+        "category": "Drug-drug interaction",
+        "question": "What type of drug-drug interaction is for the drug pair (#Drug1) and (#Drug2)?\n#Drug1: [H][C@@]1(CC[C@@]2([H])\\C(CCC[C@]12C)=C\\C=C1\\C[C@@H](O)C[C@H](O)C1=C)[C@H](C)\\C=C\\[C@H](C)C(C)C\n#Drug2: NS(=O)(=O)C1=C(Cl)C=CC(=C1)C1(O)NC(=O)C2=CC=CC=C12\n\nA. #Drug1 may increase the vasoconstricting activities of #Drug2.\nB. #Drug1 may decrease the vasoconstricting activities of #Drug2.\nC. #Drug1 may increase the hypoglycemic activities of #Drug2.\nD. #Drug1 may increase the hypercalcemic activities of #Drug2.",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_112",
+        "category": "Drug-drug interaction",
+        "question": "What type of drug-drug interaction is for the drug pair (#Drug1) and (#Drug2)?\n#Drug1: [H][C@@]12OC3=C4C(C[C@H]5N(C)CC[C@@]14[C@@]5([H])CC[C@@H]2O)=CC=C3OC\n#Drug2: [H][C@@]12CCN(C[C@@H]1C=C)[C@]([H])(C2)[C@@H](O)C1=C2C=C(OC)C=CC2=NC=C1\n\nA. #Drug1 can cause an increase in the absorption of #Drug2 resulting in an increased serum concentration and potentially a worsening of adverse effects.\nB. #Drug1 may decrease the sedative activities of #Drug2.\nC. #Drug1 may decrease the analgesic activities of #Drug2.\nD. #Drug1 may increase the hypokalemic activities of #Drug2.",
+        "answer": "C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_113",
+        "category": "Drug-drug interaction",
+        "question": "What type of drug-drug interaction is for the drug pair (#Drug1) and (#Drug2)?\n#Drug1: CC1=CC=C(C=C1)C1=CC(=NN1C1=CC=C(C=C1)S(N)(=O)=O)C(F)(F)F\n#Drug2: CN(C)CC(C1=CC=C(O)C=C1)C1(O)CCCCC1\n\nA. #Drug1 may increase the adverse neuromuscular activities of #Drug2.\nB. #Drug1 may increase the antiplatelet activities of #Drug2.\nC. #Drug1 may increase the hypotensive activities of #Drug2.\nD. #Drug1 may decrease the bronchodilatory activities of #Drug2.",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_114",
+        "category": "Drug-drug interaction",
+        "question": "What type of drug-drug interaction is for the drug pair (#Drug1) and (#Drug2)?\n#Drug1: CN(C)C(=O)OC1=C[N+](C)=CC=C1\n#Drug2: OC(CNCC(O)C1CCC2=C(O1)C=CC(F)=C2)C1CCC2=C(O1)C=CC(F)=C2\n\nA. #Drug1 may increase the neuroexcitatory activities of #Drug2.\nB. #Drug1 may increase the bradycardic activities of #Drug2.\nC. #Drug1 may increase the hypotensive activities of #Drug2.\nD. #Drug1 may increase the nephrotoxic activities of #Drug2.",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_115",
+        "category": "Drug-drug interaction",
+        "question": "What type of drug-drug interaction is for the drug pair (#Drug1) and (#Drug2)?\n#Drug1: NS(=O)(=O)C1=C(Cl)C=C2NCNS(=O)(=O)C2=C1\n#Drug2: CCC1=NN(CCCN2CCN(CC2)C2=CC(Cl)=CC=C2)C(=O)N1CCOC1=CC=CC=C1\n\nA. #Drug1 may increase the hyponatremic activities of #Drug2.\nB. #Drug1 may increase the central nervous system depressant (CNS depressant) and hypertensive activities of #Drug2.\nC. #Drug1 may increase the analgesic activities of #Drug2.\nD. #Drug1 may increase the excretion rate of #Drug2 which could result in a lower serum level and potentially a reduction in efficacy.",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_116",
+        "category": "Drug-drug interaction",
+        "question": "What type of drug-drug interaction is for the drug pair (#Drug1) and (#Drug2)?\n#Drug1: CCOC1=NC2=C(N1CC1=CC=C(C=C1)C1=CC=CC=C1C1=NN=NN1)C(=CC=C2)C(=O)OC(C)OC(=O)OC1CCCCC1\n#Drug2: CN1C(CCl)NC2=CC(Cl)=C(C=C2S1(=O)=O)S(N)(=O)=O\n\nA. The metabolism of #Drug2 can be decreased when combined with #Drug1.\nB. The risk or severity of hypotension can be increased when #Drug1 is combined with #Drug2.\nC. The absorption of #Drug2 can be decreased when combined with #Drug1.\nD. #Drug1 may increase the neurotoxic activities of #Drug2.",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_117",
+        "category": "Drug-drug interaction",
+        "question": "What type of drug-drug interaction is for the drug pair (#Drug1) and (#Drug2)?\n#Drug1: CC[C@@H]1NC(=O)[C@H]([C@H](O)[C@H](C)C\\C=C\\C)N(C)C(=O)[C@H](C(C)C)N(C)C(=O)[C@H](CC(C)C)N(C)C(=O)[C@H](CC(C)C)N(C)C(=O)[C@@H](C)NC(=O)[C@H](C)NC(=O)[C@H](CC(C)C)N(C)C(=O)[C@@H](NC(=O)[C@H](CC(C)C)N(C)C(=O)CN(C)C1=O)C(C)C\n#Drug2: CN1C(C(=O)NC2=NC=CC=C2)=C(O)C2=C(C=CC=C2)S1(=O)=O\n\nA. #Drug1 may increase the neuromuscular blocking activities of #Drug2.\nB. #Drug1 may increase the hypercalcemic activities of #Drug2.\nC. The therapeutic efficacy of #Drug2 can be increased when used in combination with #Drug1.\nD. #Drug1 may increase the nephrotoxic activities of #Drug2.",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_118",
+        "category": "Drug-drug interaction",
+        "question": "What type of drug-drug interaction is for the drug pair (#Drug1) and (#Drug2)?\n#Drug1: [H][C@@]12C[C@]1([H])[C@@]1(C)C(=CC2=O)C(Cl)=C[C@@]2([H])[C@]3([H])CC[C@](OC(C)=O)(C(C)=O)[C@@]3(C)CC[C@]12[H]\n#Drug2: [H][C@@]1(CC[C@]2(O)[C@]3([H])CC[C@]4([H])C[C@H](CC[C@]4(C)[C@@]3([H])CC[C@]12C)O[C@H]1C[C@H](O)[C@H](O[C@H]2C[C@H](O)[C@H](O[C@H]3C[C@H](OC(C)=O)[C@H](O)[C@@H](C)O3)[C@@H](C)O2)[C@@H](C)O1)C1=CC(=O)OC1\n\nA. #Drug1 may decrease the vasoconstricting activities of #Drug2.\nB. #Drug1 may increase the neurotoxic activities of #Drug2.\nC. #Drug1 may decrease the cardiotoxic activities of #Drug2.\nD. #Drug1 may increase the neuromuscular blocking activities of #Drug2.",
+        "answer": "C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_119",
+        "category": "Drug-drug interaction",
+        "question": "What type of drug-drug interaction is for the drug pair (#Drug1) and (#Drug2)?\n#Drug1: CC[N+](C)(CC)CCOC(=O)C(O)(C1CCCCC1)C1=CC=CC=C1\n#Drug2: [Cl-].[K+]\n\nA. #Drug1 may increase the ulcerogenic activities of #Drug2.\nB. #Drug1 may increase the myopathic rhabdomyolysis activities of #Drug2.\nC. #Drug1 may increase the hypotensive and central nervous system depressant (CNS depressant) activities of #Drug2.\nD. #Drug1 may increase the anticholinergic activities of #Drug2.",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_120",
+        "category": "Drug-drug interaction",
+        "question": "What type of drug-drug interaction is for the drug pair (#Drug1) and (#Drug2)?\n#Drug1: CC1=NS(=O)(=O)C2=C(N1)C=CC(Cl)=C2\n#Drug2: COC(=O)C1=C(C)NC(C)=C(C1C1=CC=CC=C1[N+]([O-])=O)C(=O)OCC(C)C\n\nA. #Drug1 may increase the orthostatic hypotensive activities of #Drug2.\nB. #Drug1 may increase the hypotensive activities of #Drug2.\nC. #Drug1 may increase the hypotensive and central nervous system depressant (CNS depressant) activities of #Drug2.\nD. #Drug1 may increase the bronchoconstrictory activities of #Drug2.",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_121",
+        "category": "Drug-drug interaction",
+        "question": "What type of drug-drug interaction is for the drug pair (#Drug1) and (#Drug2)?\n#Drug1: CC(N)CC1=CC=CC=C1\n#Drug2: FC1=CC=C(C=C1)C(CCCN1CCC(CC1)N1C(=O)NC2=CC=CC=C12)C1=CC=C(F)C=C1\n\nA. #Drug1 may increase the antihypertensive activities of #Drug2.\nB. The risk or severity of hypotension can be increased when #Drug1 is combined with #Drug2.\nC. #Drug1 may decrease the stimulatory activities of #Drug2.\nD. #Drug1 may increase the analgesic activities of #Drug2.",
+        "answer": "C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_122",
+        "category": "Drug-drug interaction",
+        "question": "What type of drug-drug interaction is for the drug pair (#Drug1) and (#Drug2)?\n#Drug1: [O-][N+](=O)OCC(CO[N+]([O-])=O)O[N+]([O-])=O\n#Drug2: [H][C@@]12CC3=CNC4=CC=CC(=C34)C1=C[C@H](CN2C)C(=O)N[C@@H](CC)CO\n\nA. #Drug1 may increase the ototoxic activities of #Drug2.\nB. #Drug1 may decrease the anticoagulant activities of #Drug2.\nC. The protein binding of #Drug2 can be decreased when combined with #Drug1.\nD. The bioavailability of #Drug2 can be increased when combined with #Drug1.",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_123",
+        "category": "Drug-drug interaction",
+        "question": "What type of drug-drug interaction is for the drug pair (#Drug1) and (#Drug2)?\n#Drug1: CN1C=NC(=C1SC1=NC=NC2=C1NC=N2)[N+]([O-])=O\n#Drug2: CCOC(=O)[C@H](CCC1=CC=CC=C1)N[C@@H](C)C(=O)N1CCC[C@H]1C(O)=O\n\nA. #Drug1 may increase the photosensitizing activities of #Drug2.\nB. #Drug1 may decrease the analgesic activities of #Drug2.\nC. #Drug1 may increase the myelosuppressive activities of #Drug2.\nD. The metabolism of #Drug2 can be increased when combined with #Drug1.",
+        "answer": "C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_124",
+        "category": "Drug-drug interaction",
+        "question": "What type of drug-drug interaction is for the drug pair (#Drug1) and (#Drug2)?\n#Drug1: COC1=CC=C(C=C1)C(CN(C)C)C1(O)CCCCC1\n#Drug2: CN(CC#C)CC1=CC=CC=C1\n\nA. #Drug1 may increase the hypoglycemic activities of #Drug2.\nB. #Drug1 may increase the atrioventricular blocking (AV block) activities of #Drug2.\nC. #Drug1 may increase the serotonergic activities of #Drug2.\nD. #Drug1 may decrease the neuromuscular blocking activities of #Drug2.",
+        "answer": "C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_125",
+        "category": "Drug-drug interaction",
+        "question": "What type of drug-drug interaction is for the drug pair (#Drug1) and (#Drug2)?\n#Drug1: [H][C@]12C=C[C@H](O)[C@@H]3OC4=C5C(C[C@H]1N(C)CC[C@@]235)=CC=C4OC\n#Drug2: [NH4+].[Cl-]\n\nA. #Drug1 may increase the excretion rate of #Drug2 which could result in a lower serum level and potentially a reduction in efficacy.\nB. #Drug1 may increase the hepatotoxic activities of #Drug2.\nC. #Drug1 may increase the hypercalcemic activities of #Drug2.\nD. #Drug1 may increase the hypertensive activities of #Drug2.",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_126",
+        "category": "Drug-drug interaction",
+        "question": "What type of drug-drug interaction is for the drug pair (#Drug1) and (#Drug2)?\n#Drug1: COC1=CC=C(NC(=O)C2=CC=C(C=C2)C(=N)N(C)C)C(=C1)C(=O)NC1=CC=C(Cl)C=N1\n#Drug2: CN(C)CC\\C=C1\\C2=CC=CC=C2COC2=C1C=C(CC(O)=O)C=C2\n\nA. #Drug1 may decrease the analgesic activities of #Drug2.\nB. The risk or severity of bleeding can be increased when #Drug1 is combined with #Drug2.\nC. The risk or severity of hypotension can be increased when #Drug1 is combined with #Drug2.\nD. #Drug1 may increase the excretion rate of #Drug2 which could result in a lower serum level and potentially a reduction in efficacy.",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_127",
+        "category": "Drug-drug interaction",
+        "question": "What type of drug-drug interaction is for the drug pair (#Drug1) and (#Drug2)?\n#Drug1: OC1=NC=NC2=C1C=NN2\n#Drug2: [OH-].[OH-].[Mg++]\n\nA. #Drug1 may increase the neuromuscular blocking activities of #Drug2.\nB. #Drug1 may increase the hypotensive activities of #Drug2.\nC. #Drug1 may increase the hypokalemic activities of #Drug2.\nD. #Drug1 can cause a decrease in the absorption of #Drug2 resulting in a reduced serum concentration and potentially a decrease in efficacy.",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_128",
+        "category": "Drug-drug interaction",
+        "question": "What type of drug-drug interaction is for the drug pair (#Drug1) and (#Drug2)?\n#Drug1: COCCCOC1=C(OC)C=CC(C[C@@H](C[C@H](N)[C@@H](O)C[C@@H](C(C)C)C(=O)NCC(C)(C)C(N)=O)C(C)C)=C1\n#Drug2: [H][C@]1(O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O)C1=CC=C(C)C(CC2=CC=C(S2)C2=CC=C(F)C=C2)=C1\n\nA. #Drug1 may increase the antihypertensive activities of #Drug2.\nB. #Drug1 may increase the hyperkalemic activities of #Drug2.\nC. #Drug1 may increase the myopathic rhabdomyolysis activities of #Drug2.\nD. #Drug1 may increase the dermatologic adverse activities of #Drug2.",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_129",
+        "category": "Drug-drug interaction",
+        "question": "What type of drug-drug interaction is for the drug pair (#Drug1) and (#Drug2)?\n#Drug1: [H][C@@]12CC3=C(C=C(O)C=C3)[C@]3(CCCC[C@@]13O)CCN2CC1CCC1\n#Drug2: CC(N)CC1=CC=C(O)C=C1\n\nA. #Drug1 may increase the arrhythmogenic activities of #Drug2.\nB. #Drug1 may increase the photosensitizing activities of #Drug2.\nC. The serum concentration of #Drug2 can be decreased when it is combined with #Drug1.\nD. #Drug1 may increase the analgesic activities of #Drug2.",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_130",
+        "category": "Drug-drug interaction",
+        "question": "What type of drug-drug interaction is for the drug pair (#Drug1) and (#Drug2)?\n#Drug1: COC1=CC2=C(C=C1)N(C(=O)C1=CC=C(Cl)C=C1)C(C)=C2CC(=O)OCC(O)=O\n#Drug2: NNC1=NN=CC2=CC=CC=C12\n\nA. The therapeutic efficacy of #Drug2 can be decreased when used in combination with #Drug1.\nB. #Drug1 may increase the excretion rate of #Drug2 which could result in a lower serum level and potentially a reduction in efficacy.\nC. The protein binding of #Drug2 can be decreased when combined with #Drug1.\nD. #Drug1 can cause a decrease in the absorption of #Drug2 resulting in a reduced serum concentration and potentially a decrease in efficacy.",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_131",
+        "category": "Drug-drug interaction",
+        "question": "What type of drug-drug interaction is for the drug pair (#Drug1) and (#Drug2)?\n#Drug1: COC1=CC(C(O)CNC(=O)CN)=C(OC)C=C1\n#Drug2: C#CCN[C@@H]1CCC2=CC=CC=C12\n\nA. The serum concentration of #Drug2 can be decreased when it is combined with #Drug1.\nB. #Drug1 may increase the antihypertensive activities of #Drug2.\nC. #Drug1 can cause an increase in the absorption of #Drug2 resulting in an increased serum concentration and potentially a worsening of adverse effects.\nD. #Drug1 may increase the hypertensive activities of #Drug2.",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_132",
+        "category": "Drug-drug interaction",
+        "question": "What type of drug-drug interaction is for the drug pair (#Drug1) and (#Drug2)?\n#Drug1: [H][C@@]1(O[C@@H]2[C@@H](O)[C@H](N)C[C@H](N)[C@H]2O[C@H]2O[C@H](CN)[C@@H](O)[C@H](O)[C@H]2N)O[C@H](CO)[C@@H](O)[C@H]1O\n#Drug2: NC1=C(CC(O)=O)C=CC=C1C(=O)C1=CC=C(Br)C=C1\n\nA. #Drug1 may decrease the cardiotoxic activities of #Drug2.\nB. #Drug1 may decrease the excretion rate of #Drug2 which could result in a higher serum level.\nC. #Drug1 may increase the ototoxic activities of #Drug2.\nD. The serum concentration of the active metabolites of #Drug2 can be increased when #Drug2 is used in combination with #Drug1.",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_133",
+        "category": "Drug-drug interaction",
+        "question": "What type of drug-drug interaction is for the drug pair (#Drug1) and (#Drug2)?\n#Drug1: CCCS(=O)(=O)NC1=C(F)C(C(=O)C2=CNC3=NC=C(C=C23)C2=CC=C(Cl)C=C2)=C(F)C=C1\n#Drug2: [H][C@@]12CCCC[C@]1([H])CN(C[C@@H](O)[C@H](CC1=CC=CC=C1)NC(=O)[C@H](CC(N)=O)NC(=O)C1=NC3=C(C=CC=C3)C=C1)[C@@H](C2)C(=O)NC(C)(C)C\n\nA. The serum concentration of #Drug2 can be increased when it is combined with #Drug1.\nB. The risk or severity of QTc prolongation can be increased when #Drug1 is combined with #Drug2.\nC. #Drug1 may decrease the bronchodilatory activities of #Drug2.\nD. #Drug1 may increase the hepatotoxic activities of #Drug2.",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_134",
+        "category": "Drug-drug interaction",
+        "question": "What type of drug-drug interaction is for the drug pair (#Drug1) and (#Drug2)?\n#Drug1: [H][C@@]12C[C@@H](C)[C@H](C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1(Cl)[C@@]2([H])C[C@H](F)C2=CC(=O)C=C[C@]12C\n#Drug2: [H][C@@]12CC[C@H](OC(=O)CC)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C\n\nA. #Drug1 may increase the hypercalcemic activities of #Drug2.\nB. #Drug1 may increase the hyponatremic activities of #Drug2.\nC. #Drug1 may increase the fluid retaining activities of #Drug2.\nD. The risk or severity of adverse effects can be increased when #Drug1 is combined with #Drug2.",
+        "answer": "C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_135",
+        "category": "Drug-drug interaction",
+        "question": "What type of drug-drug interaction is for the drug pair (#Drug1) and (#Drug2)?\n#Drug1: CCCC(C)C1(CC)C(=O)NC(=O)NC1=O\n#Drug2: [H][C@]12CC3=C(NC4=CC=CC=C34)[C@H](N1C(=O)CN(C)C2=O)C1=CC2=C(OCO2)C=C1\n\nA. The risk or severity of hypertension can be increased when #Drug2 is combined with #Drug1.\nB. The serum concentration of #Drug2 can be decreased when it is combined with #Drug1.\nC. #Drug1 may decrease the vasoconstricting activities of #Drug2.\nD. #Drug1 may decrease the cardiotoxic activities of #Drug2.",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_136",
+        "category": "Drug-drug interaction",
+        "question": "What type of drug-drug interaction is for the drug pair (#Drug1) and (#Drug2)?\n#Drug1: CC(N)CC1=CC=C(O)C=C1\n#Drug2: COC1=CC=C(CN(CCN(C)C)C2=NC=CC=N2)C=C1\n\nA. #Drug1 may decrease the sedative activities of #Drug2.\nB. #Drug1 may increase the hepatotoxic activities of #Drug2.\nC. The metabolism of #Drug2 can be increased when combined with #Drug1.\nD. The absorption of #Drug2 can be decreased when combined with #Drug1.",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_137",
+        "category": "Drug-drug interaction",
+        "question": "What type of drug-drug interaction is for the drug pair (#Drug1) and (#Drug2)?\n#Drug1: \nCCC(C)N1N=CN(C1=O)C1=CC=C(C=C1)N1CCN(CC1)C1=CC=C(OC[C@H]2CO[C@@](CN3C=NC=N3)(O2)C2=C(Cl)C=C(Cl)C=C2)C=C1\n#Drug2: OCC(C)(CO)C(=O)O[C@@H]1CC[C@@H](C[C@@H](C)[C@]2([H])CC(=O)[C@H](C)\\C=C(C)\\[C@@H](O)[C@@H](OC)C(=O)[C@H](C)C[C@H](C)\\C=C\\C=C\\C=C(C)\\[C@@H](OC)C[C@]3([H])CC[C@@H](C)[C@@](O)(O3)C(=O)C(=O)N3CCCC[C@H]3C(=O)O2)C[C@H]1OC\n\nA. #Drug1 may increase the tachycardic activities of #Drug2.\nB. The protein binding of #Drug2 can be decreased when combined with #Drug1.\nC. #Drug1 may increase the serotonergic activities of #Drug2.\nD. The serum concentration of the active metabolites of #Drug2 can be increased when #Drug2 is used in combination with #Drug1.",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_138",
+        "category": "Drug-drug interaction",
+        "question": "What type of drug-drug interaction is for the drug pair (#Drug1) and (#Drug2)?\n#Drug1: CCC(C)N1N=CN(C1=O)C1=CC=C(C=C1)N1CCN(CC1)C1=CC=C(OC[C@H]2CO[C@@](CN3C=NC=N3)(O2)C2=C(Cl)C=C(Cl)C=C2)C=C1\n#Drug2: [H][C@@]12C[C@@H](C)[C@](O)(C(=O)CCl)[C@@]1(C)C[C@H](O)[C@@]1(Cl)[C@@]2([H])CCC2=CC(=O)C=C[C@]12C\n\nA. #Drug1 may increase the vasodilatory activities of #Drug2.\nB. #Drug1 may increase the hyperglycemic activities of #Drug2.\nC. #Drug1 may increase the hypotensive and central nervous system depressant (CNS depressant) activities of #Drug2.\nD. The risk of a hypersensitivity reaction to #Drug2 is increased when it is combined with #Drug1.",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_139",
+        "category": "Drug-drug interaction",
+        "question": "What type of drug-drug interaction is for the drug pair (#Drug1) and (#Drug2)?\n#Drug1: CC1=CC(=CC=C1)N1CC(CO)OC1=O\n#Drug2: CCC(=O)N(C1=CC=CC=C1)C1(COC)CCN(CCC2=CC=CS2)CC1\n\nA. The serum concentration of #Drug2 can be increased when it is combined with #Drug1.\nB. #Drug1 may increase the central nervous system depressant (CNS depressant) and hypertensive activities of #Drug2.\nC. #Drug1 may increase the hyperkalemic activities of #Drug2.\nD. #Drug1 may increase the neurotoxic activities of #Drug2.",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_140",
+        "category": "Drug-drug interaction",
+        "question": "What type of drug-drug interaction is for the drug pair (#Drug1) and (#Drug2)?\n#Drug1: ClCCN(CCCl)P1(=O)NCCCO1\n#Drug2: CN1C=NC(=C1SC1=NC=NC2=C1NC=N2)[N+]([O-])=O\n\nA. #Drug1 may increase the hepatotoxic activities of #Drug2.\nB. The risk or severity of adverse effects can be increased when #Drug1 is combined with #Drug2.\nC. #Drug1 may increase the adverse neuromuscular activities of #Drug2.\nD. The bioavailability of #Drug2 can be increased when combined with #Drug1.",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_141",
+        "category": "Drug-drug interaction",
+        "question": "What type of drug-drug interaction is for the drug pair (#Drug1) and (#Drug2)?\n#Drug1: [H][C@@]12C[C@@H](O)[C@H](O)[C@@]1(C)CC[C@]1([H])C3=C(CC[C@@]21[H])C=C(O)C=C3\n#Drug2: CC1=NC=C(C=C1)C1=C(C=C(Cl)C=N1)C1=CC=C(C=C1)S(C)(=O)=O\n\nA. #Drug1 may increase the analgesic activities of #Drug2.\nB. #Drug1 may increase the thrombogenic activities of #Drug2.\nC. #Drug1 may increase the neuromuscular blocking activities of #Drug2.\nD. #Drug1 may increase the hypotensive and central nervous system depressant (CNS depressant) activities of #Drug2.",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_142",
+        "category": "Drug-drug interaction",
+        "question": "What type of drug-drug interaction is for the drug pair (#Drug1) and (#Drug2)?\n#Drug1: CNCCCC1C2=CC=CC=C2C=CC2=CC=CC=C12\n#Drug2: N[C@@H](CC1=CC(I)=C(OC2=CC(I)=C(O)C=C2)C(I)=C1)C(O)=O\n\nA. #Drug1 may decrease the excretion rate of #Drug2 which could result in a higher serum level.\nB. #Drug1 may increase the arrhythmogenic activities of #Drug2.\nC. #Drug1 may decrease the diuretic activities of #Drug2.\nD. #Drug1 may decrease the anticoagulant activities of #Drug2.",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_143",
+        "category": "Drug-drug interaction",
+        "question": "What type of drug-drug interaction is for the drug pair (#Drug1) and (#Drug2)?\n#Drug1: [H][C@@]12CCC(=O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CCC2=C(O)C(=O)CC[C@]12C\n#Drug2: [H][C@]12C[C@@H](O[C@@H]3O[C@H](C)[C@@H](O)[C@H](N)[C@@H]3O)\\C=C\\C=C\\C=C\\C=C\\C=C\\C=C\\C=C\\[C@H](C)[C@@H](O)[C@@H](C)[C@H](C)OC(=O)C[C@H](O)C[C@H](O)CC[C@@H](O)[C@H](O)C[C@H](O)C[C@](O)(C[C@H](O)[C@H]1C(O)=O)O2\n\nA. #Drug1 may increase the hypokalemic activities of #Drug2.\nB. #Drug1 may increase the excretion rate of #Drug2 which could result in a lower serum level and potentially a reduction in efficacy.\nC. #Drug1 may increase the immunosuppressive activities of #Drug2.\nD. #Drug1 may increase the constipating activities of #Drug2.",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_144",
+        "category": "Drug-drug interaction",
+        "question": "What type of drug-drug interaction is for the drug pair (#Drug1) and (#Drug2)?\n#Drug1: CN(C)CCC=C1C2=CC=CC=C2CCC2=CC=CC=C12\n#Drug2: CNC[C@H](O)C1=CC(O)=CC=C1\n\nA. #Drug1 may increase the thrombogenic activities of #Drug2.\nB. #Drug1 may increase the analgesic activities of #Drug2.\nC. #Drug1 may increase the vasopressor activities of #Drug2.\nD. The risk or severity of adverse effects can be increased when #Drug1 is combined with #Drug2.",
+        "answer": "C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_145",
+        "category": "Drug-drug interaction",
+        "question": "What type of drug-drug interaction is for the drug pair (#Drug1) and (#Drug2)?\n#Drug1: CN(C)CC(C1=CC=C(O)C=C1)C1(O)CCCCC1\n#Drug2: COC1=CC(C(O)CNC(=O)CN)=C(OC)C=C1\n\nA. #Drug1 may increase the antiplatelet activities of #Drug2.\nB. #Drug1 may increase the tachycardic activities of #Drug2.\nC. #Drug1 may increase the atrioventricular blocking (AV block) activities of #Drug2.\nD. The bioavailability of #Drug2 can be increased when combined with #Drug1.",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_146",
+        "category": "Drug-drug interaction",
+        "question": "What type of drug-drug interaction is for the drug pair (#Drug1) and (#Drug2)?\n#Drug1: OC1=NC=NC2=C1C=NN2\n#Drug2: CCOC(=O)[C@H](CCC1=CC=CC=C1)N[C@@H](C)C(=O)N1CC2=CC(OC)=C(OC)C=C2C[C@H]1C(O)=O\n\nA. #Drug1 may increase the adverse neuromuscular activities of #Drug2.\nB. The risk of a hypersensitivity reaction to #Drug2 is increased when it is combined with #Drug1.\nC. #Drug1 may increase the antihypertensive activities of #Drug2.\nD. #Drug1 may decrease the diuretic activities of #Drug2.",
+        "answer": "B",
+        "eval": "Accuracy"
+    }
+]

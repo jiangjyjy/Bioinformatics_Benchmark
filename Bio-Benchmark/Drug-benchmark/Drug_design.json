@@ -1,0 +1,408 @@
+[
+    {
+        "no": "DRUG_147",
+        "category": "Antibiotic design",
+        "question": "Does this molecular(SMILES) have potent efficacy on A. baumannii?\nSMILES: Cc1c(Br)c(=O)c(C(=O)N2CC(C)S(=O)C(C)C2)cn1C1CC1\nIf there is binding affinity, output Potent directly, otherwise output Not potent directly.",
+        "answer": "Not potent",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_148",
+        "category": "Antibiotic design",
+        "question": "Does this molecular(SMILES) have potent efficacy on A. baumannii?\nSMILES: COc1cccc(F)c1N1CCN(C(=O)c2cccc(S(=O)(=O)C(F)(F)F)c2)CC1\nIf there is binding affinity, output Potent directly, otherwise output Not potent directly.",
+        "answer": "Not potent",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_149",
+        "category": "Antibiotic design",
+        "question": "Does this molecular(SMILES) have potent efficacy on A. baumannii?\nSMILES: O=c1c(N2CCC(Cc3ccc(C(F)F)cc3)C2)nccn1C1CC1\nIf there is binding affinity, output Potent directly, otherwise output Not potent directly.",
+        "answer": "Not potent",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_150",
+        "category": "Antibiotic design",
+        "question": "Does this molecular(SMILES) have potent efficacy on A. baumannii?\nSMILES: FC(F)(F)Oc1ccccc1C1(F)CCN(c2cc(C(F)(F)F)ncc2Br)CC1\nIf there is binding affinity, output Potent directly, otherwise output Not potent directly.",
+        "answer": "Not potent",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_151",
+        "category": "Antibiotic design",
+        "question": "Does this molecular(SMILES) have potent efficacy on A. baumannii?\nSMILES: C=CCCCCCCCNc1ccc(S(=O)(=O)C(F)(F)F)cc1\nIf there is binding affinity, output Potent directly, otherwise output Not potent directly.",
+        "answer": "Not potent",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_152",
+        "category": "Antibiotic design",
+        "question": "Does this molecular(SMILES) have potent efficacy on A. baumannii?\nSMILES: COC(CNc1ccc(S(=O)(=O)C(F)(F)F)cc1[N+](=O)[O-])c1ccccc1F\nIf there is binding affinity, output Potent directly, otherwise output Not potent directly.",
+        "answer": "Not potent",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_153",
+        "category": "Antibiotic design",
+        "question": "Does this molecular(SMILES) have potent efficacy on A. baumannii?\nSMILES: O=S(=O)(c1ccc(C2(C(F)(F)F)N=N2)cc1)N1CCN(c2c(F)cc(F)cc2F)CC1\nIf there is binding affinity, output Potent directly, otherwise output Not potent directly.",
+        "answer": "Not potent",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_154",
+        "category": "Antibiotic design",
+        "question": "Does this molecular(SMILES) have potent efficacy on A. baumannii?\nSMILES: O=C(c1cc(Br)cn(C2CC2)c1=O)N1CCN(c2c(F)cc(F)cc2F)CC1\nIf there is binding affinity, output Potent directly, otherwise output Not potent directly.",
+        "answer": "Not potent",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_155",
+        "category": "Antibiotic design",
+        "question": "Does this molecular(SMILES) have potent efficacy on A. baumannii?\nSMILES: CC(C)(C)CN(CC(=O)OC(C)(C)C)Cc1cccc(S(=O)(=O)C(F)(F)F)c1\nIf there is binding affinity, output Potent directly, otherwise output Not potent directly.",
+        "answer": "Not potent",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_156",
+        "category": "Antibiotic design",
+        "question": "Does this molecular(SMILES) have potent efficacy on A. baumannii?\nSMILES: O=S(=O)(c1ccccc1NCc1cc(F)cc(F)c1O)C(F)(F)F\nIf there is binding affinity, output Potent directly, otherwise output Not potent directly.",
+        "answer": "Potent",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_157",
+        "category": "Antibiotic design",
+        "question": "Does this molecular(SMILES) have potent efficacy on A. baumannii?\nSMILES: Cn1cc(Br)c(=O)c(C(=O)N2CCN(c3ccccc3S(=O)(=O)C(F)(F)F)CC2)c1\nIf there is binding affinity, output Potent directly, otherwise output Not potent directly.",
+        "answer": "Not potent",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_158",
+        "category": "Antibiotic design",
+        "question": "Does this molecular(SMILES) have potent efficacy on A. baumannii?\nSMILES: O=C(c1cccc(S(=O)(=O)C(F)(F)F)c1)N1CCN(c2ccccc2S(=O)(=O)C(F)(F)F)CC1\nIf there is binding affinity, output Potent directly, otherwise output Not potent directly.",
+        "answer": "Not potent",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_159",
+        "category": "Antibiotic design",
+        "question": "Does this molecular(SMILES) have potent efficacy on A. baumannii?\nSMILES: CCc1ccc(CNc2ccc([N+](=O)[O-])c(OC(C)(C)C)c2)c(F)c1\nIf there is binding affinity, output Potent directly, otherwise output Not potent directly.",
+        "answer": "Not potent",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_160",
+        "category": "Antibiotic design",
+        "question": "Does this molecular(SMILES) have potent efficacy on A. baumannii?\nSMILES: Cc1cc(SC(C)(C)C)ccc1NC(=O)C1CN(C(=O)OC(C)(C)C)CC(C)(C)S1(=O)=O\nIf there is binding affinity, output Potent directly, otherwise output Not potent directly.",
+        "answer": "Not potent",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_161",
+        "category": "Antibiotic design",
+        "question": "Does this molecular(SMILES) have potent efficacy on A. baumannii?\nSMILES: O=S(=O)(c1ccc(NCCOc2ccc(Br)cc2C(F)(F)F)cc1)C(F)(F)F\nIf there is binding affinity, output Potent directly, otherwise output Not potent directly.",
+        "answer": "Not potent",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_162",
+        "category": "Antibiotic design",
+        "question": "Does this molecular(SMILES) have potent efficacy on A. baumannii?\nSMILES: CC1(C)CCN(C(=O)CN2C(=O)C(F)(F)Oc3ccccc32)CC(C)(C)S1(=O)=O\nIf there is binding affinity, output Potent directly, otherwise output Not potent directly.",
+        "answer": "Not potent",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_163",
+        "category": "Antibiotic design",
+        "question": "Does this molecular(SMILES) have potent efficacy on A. baumannii?\nSMILES: O=C(c1c[nH]c2c(Cl)cc(Br)cc2c1=O)N1CCN(c2c(F)cncc2F)CC1\nIf there is binding affinity, output Potent directly, otherwise output Not potent directly.",
+        "answer": "Not potent",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_164",
+        "category": "Antibiotic design",
+        "question": "Does this molecular(SMILES) have potent efficacy on A. baumannii?\nSMILES: O=S(=O)(c1ccc(NCC2(c3cccc(C(F)(F)F)c3)CCC2)cc1)C(F)F\nIf there is binding affinity, output Potent directly, otherwise output Not potent directly.",
+        "answer": "Not potent",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_165",
+        "category": "Antibiotic design",
+        "question": "Does this molecular(SMILES) have potent efficacy on A. baumannii?\nSMILES: O=S(=O)(c1ccc(NC(C2CCCC2)C2CCCC2)cc1)C(F)(F)F\nIf there is binding affinity, output Potent directly, otherwise output Not potent directly.",
+        "answer": "Not potent",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_166",
+        "category": "Antibiotic design",
+        "question": "Does this molecular(SMILES) have potent efficacy on A. baumannii?\nSMILES: O=S(=O)(c1cccc(CN2CCN(c3c(F)cc(F)cc3F)CC2)c1)C(F)(F)F\nIf there is binding affinity, output Potent directly, otherwise output Not potent directly.",
+        "answer": "Not potent",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_167",
+        "category": "Antibiotic design",
+        "question": "Does this molecular(SMILES) have potent efficacy on A. baumannii?\nSMILES: CC(CCC(F)(F)F)(NCc1ccc2ccccc2c1Br)c1ccccc1\nIf there is binding affinity, output Potent directly, otherwise output Not potent directly.",
+        "answer": "Not potent",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_168",
+        "category": "Antibiotic design",
+        "question": "Does this molecular(SMILES) have potent efficacy on A. baumannii?\nSMILES: O=S(=O)(c1ccc(N2CCN(c3c(F)cc(F)cc3F)CC2)cc1)C(F)F\nIf there is binding affinity, output Potent directly, otherwise output Not potent directly.",
+        "answer": "Not potent",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_169",
+        "category": "Antibiotic design",
+        "question": "Does this molecular(SMILES) have potent efficacy on A. baumannii?\nSMILES: O=S(=O)(c1cc(F)ccc1NCc1ccccc1O)C(F)(F)F\nIf there is binding affinity, output Potent directly, otherwise output Not potent directly.",
+        "answer": "Potent",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_170",
+        "category": "Antibiotic design",
+        "question": "Does this molecular(SMILES) have potent efficacy on A. baumannii?\nSMILES: O=[N+]([O-])c1cc(S(=O)(=O)C(F)(F)F)ccc1NCCN=S(=O)(c1ccccc1)C(F)(F)F\nIf there is binding affinity, output Potent directly, otherwise output Not potent directly.",
+        "answer": "Not potent",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_171",
+        "category": "Antibiotic design",
+        "question": "Does this molecular(SMILES) have potent efficacy on A. baumannii?\nSMILES: O=C(c1cc(S(=O)(=O)C(F)(F)F)ccc1F)N1CCN(c2c(F)cc(F)cc2F)CC1\nIf there is binding affinity, output Potent directly, otherwise output Not potent directly.",
+        "answer": "Not potent",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_172",
+        "category": "Antibiotic design",
+        "question": "Does this molecular(SMILES) have potent efficacy on A. baumannii?\nSMILES: O=C(CN1C(=O)C(F)(F)Oc2ccccc21)N1CC(C2(C(F)(F)F)N=N2)C1\nIf there is binding affinity, output Potent directly, otherwise output Not potent directly.",
+        "answer": "Not potent",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_173",
+        "category": "Antibiotic design",
+        "question": "Does this molecular(SMILES) have potent efficacy on A. baumannii?\nSMILES: CC1(C)CCN(C(=O)c2cc(F)c(N3CCOCC3)c(F)c2)CC(C)(C)S1(=O)=O\nIf there is binding affinity, output Potent directly, otherwise output Not potent directly.",
+        "answer": "Not potent",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_174",
+        "category": "Antibiotic design",
+        "question": "Does this molecular(SMILES) have potent efficacy on A. baumannii?\nSMILES: O=S(=O)(NC(c1ccc(OC(F)(F)F)cc1)C(F)(F)F)c1cc(C(F)(F)F)cc(C(F)(F)F)c1\nIf there is binding affinity, output Potent directly, otherwise output Not potent directly.",
+        "answer": "Potent",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_175",
+        "category": "Antibiotic design",
+        "question": "Does this molecular(SMILES) have potent efficacy on A. baumannii?\nSMILES: CC(C)(C)OC(=O)C1(C(=O)NCc2ccc(C3(C(F)(F)F)N=N3)cc2)CCCC1\nIf there is binding affinity, output Potent directly, otherwise output Not potent directly.",
+        "answer": "Not potent",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_176",
+        "category": "Antibiotic design",
+        "question": "Does this molecular(SMILES) have potent efficacy on A. baumannii?\nSMILES: CSc1ccc(CN(CC(F)F)CC2CCC2)cc1\nIf there is binding affinity, output Potent directly, otherwise output Not potent directly.",
+        "answer": "Not potent",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_177",
+        "category": "Antibiotic design",
+        "question": "Does this molecular(SMILES) have potent efficacy on A. baumannii?\nSMILES: Brc1cccc(CCCNC2CCc3cccc4cccc2c34)c1\nIf there is binding affinity, output Potent directly, otherwise output Not potent directly.",
+        "answer": "Potent",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_178",
+        "category": "Antibiotic design",
+        "question": "Does this molecular(SMILES) have potent efficacy on A. baumannii?\nSMILES: Cc1cccc(N2CCN(CCN(Cc3ccc4ccccc4c3Br)CC3CC3)CC2)c1\nIf there is binding affinity, output Potent directly, otherwise output Not potent directly.",
+        "answer": "Not potent",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_179",
+        "category": "Antibiotic design",
+        "question": "Does this molecular(SMILES) have potent efficacy on A. baumannii?\nSMILES: c1ccc(CN(CCN(Cc2ccccn2)CC2CCC(c3ccccc3)CC2)Cc2ccccc2)cc1\nIf there is binding affinity, output Potent directly, otherwise output Not potent directly.",
+        "answer": "Not potent",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_180",
+        "category": "Antibiotic design",
+        "question": "Does this molecular(SMILES) have potent efficacy on A. baumannii?\nSMILES: COc1ccc(C(NC[Si](C)(C)c2ccccc2)c2ccc(C(F)(F)F)cc2)cc1\nIf there is binding affinity, output Potent directly, otherwise output Not potent directly.",
+        "answer": "Not potent",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_181",
+        "category": "Antibiotic design",
+        "question": "Does this molecular(SMILES) have potent efficacy on A. baumannii?\nSMILES: O=[N+]([O-])c1cc(S(=O)(=O)C(F)(F)F)ccc1N1CCN(c2c(F)cc(F)cc2F)CC1\nIf there is binding affinity, output Potent directly, otherwise output Not potent directly.",
+        "answer": "Not potent",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_182",
+        "category": "Antibiotic design",
+        "question": "Does this molecular(SMILES) have potent efficacy on A. baumannii?\nSMILES: CC(C)(C)CCCN(Cc1cccc(C(F)(F)F)c1)Cc1cccc(C(F)(F)F)c1\nIf there is binding affinity, output Potent directly, otherwise output Not potent directly.",
+        "answer": "Not potent",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_183",
+        "category": "Antibiotic design",
+        "question": "Does this molecular(SMILES) have potent efficacy on A. baumannii?\nSMILES: O=C(CN1C(=O)C(F)(F)Oc2ccccc21)N1CCC(CC2(C(F)(F)F)N=N2)C1\nIf there is binding affinity, output Potent directly, otherwise output Not potent directly.",
+        "answer": "Not potent",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_184",
+        "category": "Antibiotic design",
+        "question": "Does this molecular(SMILES) have potent efficacy on A. baumannii?\nSMILES: CC(C)(C)OC(=O)N1CC(C(=O)NCc2cccc(C3(C(F)(F)F)N=N3)c2)(S(C)(=O)=O)C1\nIf there is binding affinity, output Potent directly, otherwise output Not potent directly.",
+        "answer": "Not potent",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_185",
+        "category": "Antibiotic design",
+        "question": "Does this molecular(SMILES) have potent efficacy on A. baumannii?\nSMILES: C#CCOCCOCCOC(=O)COc1cccc(C(F)(F)C(F)(F)F)c1\nIf there is binding affinity, output Potent directly, otherwise output Not potent directly.",
+        "answer": "Not potent",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_186",
+        "category": "Antibiotic design",
+        "question": "Does this molecular(SMILES) have potent efficacy on A. baumannii?\nSMILES: O=C(Nc1nc2ccc(S(F)(F)(F)(F)F)cc2s1)C(F)(F)c1ccc(OC(F)(F)F)c(Br)c1\nIf there is binding affinity, output Potent directly, otherwise output Not potent directly.",
+        "answer": "Potent",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_187",
+        "category": "Antibiotic design",
+        "question": "Does this molecular(SMILES) have potent efficacy on A. baumannii?\nSMILES: Cc1cc2ncc(C(=O)N3CCN(CCN4CCN(C(=O)c5cccc(C6(F)CN(C(=O)OC(C)(C)C)C6)c5)CC4)CC3)c(C(F)(F)F)n2n1\nIf there is binding affinity, output Potent directly, otherwise output Not potent directly.",
+        "answer": "Not potent",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_188",
+        "category": "Antibiotic design",
+        "question": "Does this molecular(SMILES) have potent efficacy on A. baumannii?\nSMILES: CC(C)(C)OC(=O)CN(Cc1ccc(CF)cc1)CC1CC1\nIf there is binding affinity, output Potent directly, otherwise output Not potent directly.",
+        "answer": "Not potent",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_189",
+        "category": "Antibiotic design",
+        "question": "Does this molecular(SMILES) have potent efficacy on A. baumannii?\nSMILES: COc1cccc(C2(NCCCCCCSc3ccccc3OC(C)=O)CCCCC2)c1\nIf there is binding affinity, output Potent directly, otherwise output Not potent directly.",
+        "answer": "Potent",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_190",
+        "category": "Antibiotic design",
+        "question": "Does this molecular(SMILES) have potent efficacy on A. baumannii?\nSMILES: CC(C)C(NC(=O)c1cc(Br)cn(C2CC2)c1=O)C(NC(=O)c1cc(F)c(N2CCOCC2)c(F)c1)C1CCCCC1\nIf there is binding affinity, output Potent directly, otherwise output Not potent directly.",
+        "answer": "Not potent",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_191",
+        "category": "Antibiotic design",
+        "question": "Does this molecular(SMILES) have potent efficacy on A. baumannii?\nSMILES: O=C(Nc1ccc(C(F)(C(F)(F)F)C(F)(F)F)cc1)C(Cc1cccc(C(F)(F)F)c1)C1CCCCC1\nIf there is binding affinity, output Potent directly, otherwise output Not potent directly.",
+        "answer": "Not potent",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_192",
+        "category": "Antibiotic design",
+        "question": "Does this molecular(SMILES) have potent efficacy on A. baumannii?\nSMILES: CN(Cc1cc(F)cc(C(F)(F)F)c1)c1ccc(S(=O)(=O)C(F)(F)F)cc1\nIf there is binding affinity, output Potent directly, otherwise output Not potent directly.",
+        "answer": "Not potent",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_193",
+        "category": "Antibiotic design",
+        "question": "Does this molecular(SMILES) have potent efficacy on A. baumannii?\nSMILES: O=C(OCc1cccc(S(=O)(=O)C(F)(F)F)c1)c1c(C(F)(F)F)nn(CCO)c1C(F)(F)F\nIf there is binding affinity, output Potent directly, otherwise output Not potent directly.",
+        "answer": "Not potent",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_194",
+        "category": "Antibiotic design",
+        "question": "Does this molecular(SMILES) have potent efficacy on A. baumannii?\nSMILES: CCCc1cccc(CNC(c2cccc(C(F)(F)F)c2)C2CCCCC2)n1\nIf there is binding affinity, output Potent directly, otherwise output Not potent directly.",
+        "answer": "Not potent",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_195",
+        "category": "Antibiotic design",
+        "question": "Does this molecular(SMILES) have potent efficacy on A. baumannii?\nSMILES: CC(C)(C)OC(=O)c1cccc(NC(CC2CCCC2)CC2CCCC2)n1\nIf there is binding affinity, output Potent directly, otherwise output Not potent directly.",
+        "answer": "Not potent",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_196",
+        "category": "Antibiotic design",
+        "question": "Does this molecular(SMILES) have potent efficacy on A. baumannii?\nSMILES: CC1(c2ccc(C(F)(F)F)cc2)CCN(c2ccc(S(=O)(=O)C(F)(F)F)cc2)C1\nIf there is binding affinity, output Potent directly, otherwise output Not potent directly.",
+        "answer": "Not potent",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_197",
+        "category": "Antibiotic design",
+        "question": "Does this molecular(SMILES) have potent efficacy on A. baumannii?\nSMILES: Cn1nc(C(F)(F)C(F)(F)F)c(C(F)(F)F)c1C(=O)NCc1cc(OC(F)F)ccc1F\nIf there is binding affinity, output Potent directly, otherwise output Not potent directly.",
+        "answer": "Not potent",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_198",
+        "category": "Antibiotic design",
+        "question": "Does this molecular(SMILES) have potent efficacy on A. baumannii?\nSMILES: O=C(NC(C(F)F)C1CC1)N1CCN(c2c(F)cc(F)cc2F)CC1\nIf there is binding affinity, output Potent directly, otherwise output Not potent directly.",
+        "answer": "Not potent",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_199",
+        "category": "Antibiotic design",
+        "question": "Does this molecular(SMILES) have potent efficacy on A. baumannii?\nSMILES: O=C(NC(CC1CCCC1)CC1CCCC1)NC1(c2ccc(C(F)(F)F)cc2)CCC1\nIf there is binding affinity, output Potent directly, otherwise output Not potent directly.",
+        "answer": "Not potent",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_200",
+        "category": "Antibiotic design",
+        "question": "Does this molecular(SMILES) have potent efficacy on A. baumannii?\nSMILES: O=C(NCCCn1ccc2ccccc21)NCc1ccc(O)c(Br)c1\nIf there is binding affinity, output Potent directly, otherwise output Not potent directly.",
+        "answer": "Not potent",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_201",
+        "category": "Antibiotic design",
+        "question": "Does this molecular(SMILES) have potent efficacy on A. baumannii?\nSMILES: Fc1cc(F)c(N2CCN(c3cc(C4CC4)nc4c(Br)cccc34)CC2)c(F)c1\nIf there is binding affinity, output Potent directly, otherwise output Not potent directly.",
+        "answer": "Not potent",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_202",
+        "category": "Antibiotic design",
+        "question": "Does this molecular(SMILES) have potent efficacy on A. baumannii?\nSMILES: O=C(NCCCCc1ccc(C(F)(F)F)cc1)NCC1(c2cc(F)cc(C(F)(F)F)c2)CC1\nIf there is binding affinity, output Potent directly, otherwise output Not potent directly.",
+        "answer": "Not potent",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_203",
+        "category": "Antibiotic design",
+        "question": "Does this molecular(SMILES) have potent efficacy on A. baumannii?\nSMILES: C=CCC(C)(CO)CNc1cnc2c(F)cccc2n1\nIf there is binding affinity, output Potent directly, otherwise output Not potent directly.",
+        "answer": "Not potent",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "DRUG_204",
+        "category": "Antibiotic design",
+        "question": "Does this molecular(SMILES) have potent efficacy on A. baumannii?\nSMILES: CCN(C(=O)c1cccc(S(=O)(=O)C(F)(F)F)c1)c1ccc(S(=O)(=O)C(F)(F)F)cc1\nIf there is binding affinity, output Potent directly, otherwise output Not potent directly.",
+        "answer": "Not potent",
+        "eval": "Accuracy"
+    }
+]

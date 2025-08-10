@@ -1,0 +1,1964 @@
+{
+    "RNA": [
+        {
+            "no": "RNA_601",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GCCCACUUGGCUCAGUGGUAAGAGCGUGUCUAGAGUACCGUCCCUAAGAAUACCUCCCAGUAUCCCUAGCACAGUAUCUCUUCAAGGCAAGAUCAUCAGUUCGAAUCUGAUAGUGGGUA. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "tRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_602",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: AUUUAUAUAGUAUAAAAAUUACUUUUAACUUCCAAUUAAAAAAUCUUAGUUUAGUAUAAAUA. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "tRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_603",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GGGGAUGUGGCGAAAUUGGUAGACGCACUGGAUUUAGGUUCCAGCGCCGCGAGGUGUGAGAGUUCGAGUCUCUCCGUCCCCACCA. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "tRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_604",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GGGGCCUUAGCUGAGCUGGGAGAGCGCCUGCUUUGCACGCAGGAGGUCAGCGGUUCGAUCCCGCUAGGCUCCA. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "tRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_605",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GGCUACAUAGCUCAGGGGUUAGAGCACUGGUCUUGUAAACCAGGGGUCGUGAAUUCAAUUCUCACUGGGGCCU. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "tRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_606",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GGAGAAAGCUCAGUUGGUAGAGUGCUUGCCUCCCAUGCACAAGGCCCUGGGUUCAAUCCCCAGCACCA. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "tRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_607",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GGCUGGGUAGCUCAGUGGAUUGAGAGCUCAGCCUAGAGGUGGGAGGUCCUAGGUUCGAAUCCUUCUUCAGCCA. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "tRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_608",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GUUUAUAUAGUUUAAAAAAAAAAUAUUGAUUUGUGAUUUCAAAGUUAUUUAAUAAUUAUAAGCA. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "tRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_609",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: AACCAAGAAGCUAAUGCAGCACCAACCCUUUAGUGGAAACAGGAACAGCCUCUUCGA. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "tRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_610",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: UAGGCGGCAGAGUAUAGCCCUGUACAGGCGGGUUUAGCCCCGUUCUUAUCAA. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "tRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_611",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: UACGAGGGGUGCAAGCGUUGCUCGGAAUUAUUGGGCGUAAAGGGUAGGUAGGUGGUCUCAUUUGUCUGGGGUGAAAGCCUUGAGCUUAACUCAAGAAGUGCCUCGGAAACGGUGAGACUGGAGUCCUGGAGAGGGUUGUGGAAUUCCCGGUGUAGCGGUGAAAUGCGUAGAGAUCGGGAGGAACACCAGAGGCGAAGGCGGCAACCUGGACAGGCACUGACACUCAACUACGAAAGCGUGGGGAGCAAACAGG. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "rRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_612",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GAUCCUGGCUCAGGAUGAACGCUGGCGGCGUGCUUAACACAUGCAAGUCGAACGGGAAUUACUUUAUUGAAACUUCGGUCGAUUUAAUUUAAUUCUAGUGGCGGACGGGUGAGUAACGCGUGGGUAACCUGCCUUAUACAGGGGGAUAACAGUCAGAAAUGACUGCUAAUACCGCAUAAGCGCACAGGACCGCAUGGUCUGGUGUGAAAAACUCCGGUGGUAUAAGAUGGACCCGCGUUGGAUUAGCUGGUUGGUGGGGG. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "rRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_613",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: UACAGAGACCUCAAGCGUUAUCCGGAAUCACUGGGCGUAAAGCGCACGUAGGCGGAUCGUUAAGUCGGGGGUGAAAUCCCAGGGCUCAACCCUGGAACUGCCUUCGAUACUGGCGAUCUUCGAGUCCGGGAGAGGUGAGUGGAACUCCGAGUGUAGAGGUGAAAUUCGUAGAUAUUCGGAAGAACACCAGUGGCGAAGGCGGCUCACUGGCCCGGUACUGACGCUGAGGUGCGAAAGCGUGGGGAGCAAACAGG. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "rRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_614",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: UCUGGUGCCAGCAGCCGCGGUAAUUCCAGCUCCAAUAGCGUAUAUUAAAGUUGUUGCAGUUAAAAAGCUCGUAGUUGAAUUUCGGAAUUUGUCCGUCGGUCGGGCUUCACUGUCCGUACUGGUGUGAUGGGUUUCUACCUUUCUGAAUAACCGGCCAUGUCAUUAAUUUGGUGCGCCGGGGAAGCAGAACUAUUACCUUGAAAAAAUUAGAGG. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "rRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_615",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GACAGAGGUGCCAAGCGUUAGGCGGAAUCACUGGGCUUAAAGCGUGUGUAGGCGGAUUUGUAAGUACCUUGUGAAAUCCCACGGCUCAACCGUGGAACUGCUCGGUAUACUGCUUAUCUUGAGCCACUUAGGGGCUACCGGAACAAAUGGUGGAGCGGUGAAAAUGCGUAGAUAUCAUUUGGAACGCCAAUGGUGAAAAACAGGUAGCUGGGAGUGUGCUGACGCUGAGACACGAAAGCCAGGGGAGCGAACGGG. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "rRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_616",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: UACAGAGGUCUCAAGCGUUGUUCGGAUUCAUUGGGCGUAAAGGGUGUGUAGGUGGCGCGCUAAGUCGGGUGUGAAAUUUCGGAGCUUAACUCCGAAACUGCAUUCGAUACUGGCGUGCUUGAGGACUGGAGAGGAGACUGGAAUUCCUGGUGUAGCAGUGAAAUGCGUAGAUAUCAGGAGGAACACCUGCGGUGUAGACGGCUUACUGGACCAUAACUGACGCUGAGGCACGAAAGCGUGGGUAGCAAACAGG. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "rRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_617",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: ACGCUCGACACCUACGGAGGCAGCAGUGAGGAAUAUUGCACAAUGGGGGAAACCCUGAUGCAGCGACGCCGCGUGGAGGAAGAAGGUCUUCGGAUUGUAAACUCCUGUUGUUGGGGAAAAAGAGGAUGGUACCCAACAAGGAAGUGACGGCUAACUACGUGCCAACAGCCGCGGUAAUCUGAGCCGGGCUGGCAAGGC. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "rRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_618",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: UACGGAGGGUGCAAGCGUUGUUCGGAAUCAUUGGGCGUAAAGCGCGUGUAGGCGGCUUGGCAAGUCAGUUGUGAAAGCCCGGGGCCCAACCCCGGAACUGCAUCUGGAACUGCCUGGCUAGAGUCCCGGAGAGGAAGGCAGAAUUCCCGGUGUAGGGGUGAAAUCCGUAGAUAUCGGGAGGAAUACCAGCGGCGAAGGCGGCCUUCUGGACGGUGACUGACGCUGAGACGCGAAAGCGUGGGGAGCAAACAGG. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "rRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_619",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: UACGGGGGGAGCAAGCGUUGUUCGGAUUUACUGGGCGUAAAGGGCGCGUAGGCGGCCACCGCAAGUCGACUGUGAAAUCUCCGGGCUUAACUCGGAAAGGUCAGCCGAUACUGCGGGGCUAGAGUGCAGAAGGGGCAACUGGAAUUCUCGGUGUAGCGGUGAAAUGCGUAGAUAUCGAGAGGAACACCUGCGGCGAAGGCGGGUUGCUGGGCUGACACUGACGCUGAGGCGCGAAAGCGUGGGGAGCGAUCCGG. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "rRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_620",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: UACGAGGGGGGCGAGCGUUGUUCGGAAUUAUUGGGCGUAAAGGGUGCGUAGGCGGUUUGGUAAGUCUUAUGUGAAAUCUAUGGGCUCAACUCAUAGUCUGCAUGAGAAACUGCCGGGCUUGAGUGUGGGAGAGGUGAGUGGAAUUCCCAGUGUAGAGGUGAAAUUCGUAGAUAUUGGGAAGAACACCGGUGGCGAAGGCGGCUCUCUGGACCGAUACUGACGCUGAGGCGCGAAAGCGUGGGGAGCAAACAGG. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "rRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_621",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: UACAUAAACAUAGACUGAAGGAUCCCGAG. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "piRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_622",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: UGAGCCAUAGUCAAUUUUUCUUCUAAGUUGU. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "piRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_623",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: UGGCAUGUAAAAGAGAUUUUGUGCUGUGU. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "piRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_624",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: UAGAAAAAGAAUUGCUGCAUGGUUGCUGCC. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "piRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_625",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: UGAGAAGAUGGAUCACAGCCAAGGGCACAAU. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "piRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_626",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: UUACAUUUCUAAUGUUAUUCCCUUUCCUG. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "piRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_627",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: UGAGUUCCAAAAUCUUCUUUU. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "piRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_628",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GAUUAGUUGUCCUCGCACAAAUUGCU. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "piRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_629",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: UAAACUCCGCCUACGUGUGCAUGUGUCUGUGU. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "piRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_630",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: UAGUUUGAGAGUUUUAACACAAAUUGGGUC. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "piRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_631",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GAACAAAAGCAAAUAAAACCAAACUAUAAGAAACUACUGUCUCUUAAAAUUGUAAAUGGCUUUGUUAUUUCUAUGCCACUAAAAAUGUAUCAUUCAAAAGUCCCAUAACGUUACAAUUUUUAAUUAACACUCAAAUCAUCCUCCUACUUAUUAACACUGUGUAGUUACUUGGCUCUCUCAAUGCCAUCCAUUUAAGAUUCUACCUAAACAUUA. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "sRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_632",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: UGACAUAAGUGUCAAAAGUCAAAAAGCGUUCUUGCUUGCAAGAAAAGCUUGUUGACUUUAUGACACGCUGAAACAUGAGGAAAUAGCAAUUUUCGUAGAAAAUUAGCGGUUUCCGAAUGUUUCUAGGAUUGCGAGAAUUGCUUUAGCAAUGGAGCAAUCCGUAUGUCA. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "sRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_633",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GGUCAACGCAAGGAGGCACACAUGGGACUGACCAAUUCAAUUAAUGUCCUGAUCGUCGGUGCAGCGUUUGUUUUCAUCGCGACGAUGCUGUUUAUCUGACACGGGUCUAAACAACUGAAACCCAUGAGUUGGCCAGGUUAGGCCUCUCUCCAGCAGAUACCAUUUCAAAACAAGUAAGAGGCGCAGGACACUUAAGUCCUGCGCCUC. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "sRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_634",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GCCAGGCAUGGUGGCACAUGCCUGUGAUCCCAAGGCCUUGGGAGGCUGAGGCAGGAGGAUUGCAAGUUCAAAGCCAGGCUCAGCAAUAGCAAGGCGCUAAGCAACUCAGUGAGAUCCUGUCUCUG. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "sRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_635",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GCUGGGCGUGGUGGCUCAUGCCUGUAAUCCAGGUACUUUGGGAGGCUGAGACAGGCGGAUCACCUGAGGUCAGGAGUUCGAGACCAGCCUGGCCAACAUGGUGAAACCCCGUCUCUA. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "sRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_636",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: UCAGCCUCUAGCCUCACGCCUCUUGCCCU. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "sRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_637",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: UGUGAUAGCCGGCGGGCGUUGCAUAGUCGGGG. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "sRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_638",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GCCAGGCAUGGUGGUGCAUGCCUGUAAUCCCAGCAGCUCAGGAGGCUGAGGCAGGAGGAUUGUGAGUUCAAAGCUCAGCCUCAGCAAAAGUGAGGUGCUAAAGCAAAUCAGUGAGACCCUGCCUCUA. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "sRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_639",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: CAUAAACACCCUUAUGUCUGAAAUGACUUAUCUCAGUAGUGACUUGGGCUCAGAUUUAUUGUACAGUUCAUCAACUUCUCAGCAUGUUGGAUAAUGAAUGUUUCAUUUACAUUGCUAAUUGCCAAGCCAUGGUUCCUUCAACCUUUAACCCUUACGCUUUAUCACAUUAUCACCAUAUGUCAAUAUAAUUGCAUUUAACAUUCCAAAUAACUAACUUUUUCACUAGGUCAAGAGAUCCUUUCUUCUU. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "sRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_640",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: UGAUAGCCCUGAUUGUAGUGAAAAGCCCGGAGCUCAAAAAAUGUGUUUUUUUUGUGCUAGGCAAAGCGACAAUAGGAGCUCUUGGAAACCACUUAAAAAAACCAUUUUUUGAGCGAGGACUUGUAACGAAAAGCAGGAUUAGCU. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "sRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_641",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: UCUCUAUGAUGAUGAAUAGAGGUUAAGAAUCCUAUGUAAUUUGUUAUACCAAACCAUGUGGAAUAAUGAGGCAUUUGUUUGGGAGAA. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "snoRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_642",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: AAACCUUGCAUCGGGCAUUUUCUAAUUAACUCCUUGAAUCACUCCCAUGCUUCAUAUAAUGUUUCAUCCUCAACUUUCCCAAAGGAUGUAAUAUCAUUCCUUAGUUU. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "snoRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_643",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: CCCCUCUCAGGGUCACACCUGGAGAGUUUCCAGUACUCUAUGAGUCUUGACAAUGAGAGGGAGAGUCAAGCAGAGGCAUAUCCAUUCCAUUCCUAGCGUGGGCAGUGGCUAGCAAGUGGAAGCAAUCUGCUACAAGU. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "snoRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_644",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: CACCCCUGGCAAUGGGCAAAGAGACCCCUUGGUCUUGGUGUUGUCCUUAUAUCAGUCAGGAGCAGAGUAUACAGCAUCCUUUGUUCAUGCCAGCCUGGUGCCUGGCUUGGUGGCCAAAGAUGGUUUAUGCCUAGGACUCAGAA. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "snoRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_645",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: ACCUGCAUCGAAAGUGAUUUUGGUCUUCUUUGUGGCCUGGUCAUUGAUAAUGCAGGAAAAACAUCCUUGAGAGCAUUUCCCGUGUUUGGAGGAUUCCUUUAUUUCCUACCAAACCCUGAGCUUUUCAGACA. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "snoRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_646",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: AACCCAUGGUGAGGGCACCUUUUCAAUAAGUCCUUAUAUCUCUCCUAUGCAUCAUAAAGAGUUUCUAAAUCCAUUUGCACAAAAGAAGAGAUAUCAUUCCUCAAUUU. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "snoRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_647",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: AUCCCAUGAUGAGGACACUUACAAAGUAACUCCUUAAAUCACUCUCAAGCCUUAUACAAAGACUCAUCAUCUAGUUGUUGGAAAUUUGUGAUCUCGUUCCUCAACUU. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "snoRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_648",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: AUUCUCAUAAGGACUGUGCCACCUGAGCAUGAUGAUUGGGUGAUCACGUGGAUGUGUGAGAUCUGCCACCCUUGAACCUUGUUAUGACGUUAGCACAUUACCCAUCUGACC. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "snoRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_649",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: CCCCUCUCAGGGUCCCGCCUGGAGAGUUUCCAGUACACUACCAGUCUCGACUAUGGGAGGGAGAGUCAAACAGAGGCCUAACCAUUCCAUUCCUAGCUUGGGCAGUGGCUAGUGAGAGGAAGGCAAUCUGCUACAAGU. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "snoRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_650",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: UUGCAGUCAAUUAAGCUGACUGUCCUUCCUUCCCCAUGGGGGCCUGGUGUGCAGUGGCUGCAGACAGGGGCUGCUUUUAUGGGCUGCCUGAAGGGACCUUGGAGACAGCC. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "snoRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_651",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: CCAACAGUUGCUGAAUUGGUGAG. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "siRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_652",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GACAAGAGGUUUCCUUAUCCUC. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "siRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_653",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: ACGCAAAAUGUCUCUAAUCAACA. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "siRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_654",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: AGACCUCUGCUCUCCGAAUUCCUC. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "siRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_655",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: UCGAGGUGUACGAGGCUUUUC. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "siRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_656",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: UAAGACAAGGGUGGUAGCAUU. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "siRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_657",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: UGAUAUGAUGCGGUUUUGUACGGA. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "siRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_658",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GUUGAGCCUUGGAGAUGCCCUUA. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "siRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_659",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: UAAUGCCUGUAGCAGUAUUCGACC. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "siRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_660",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: UAAACCGAUUGUCUGCGGUAAAC. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "siRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_661",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: CGCUGGCGGGGCGCCGGGGCCCGGGCCGCGCGGACGCGGGGAGGCGCGGACGGGCGGACGCUGAGCGGCGCGCCGGGCAGAAGGCUCCGGCGCGCCUAGCCGGCC. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "miRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_662",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GGGAAAGCGUGGGAUGUCCAUGAAGUCAGGGGAUGGUGAUAAGGUCAAGGCCUGUUCAUUGGAACCCUGCGCAG. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "miRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_663",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: AUUAGGUUGGUGCAAAAGUAAUCACAGUUUUGCCAUUUCUUUCAAUGGCAAAAACCGCGAUUACUUU. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "miRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_664",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GUAUUAGGUUGGUGCAAAAGUAAUUGCAGUUUUGCCAUUAUUUUCAGUGGUAAAAACUGCGAUUACUUUUGCACCAACCUAAUAU. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "miRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_665",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: AUCUGCCGCUCUGUGGUUUUUUUAGGUUUUGAUUUUUGGACUUGGAUGAGAAAAUCUAAAUCUAAAGAAAAUACAGCGCUGACGAGA. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "miRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_666",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: UCAUGCGUGAACUGUAUAUCCGGAUGGUAGCUGUUAAGUUUAUUUAAAAUCAACCAUCUGAUAUUAACUUGAUUUUAAAUAAACUUAACAGCUACCAUCCGGAUAUACAGUUCAC. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "miRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_667",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GACAAGUAAUGAAGUAUCCAAUUACUUCACUUUUGGAGUUCUGAAUUUUCAGCAAUGAUGAUUCAGAAUUCGAAAGUGGGGUAAAAUAAGGGAUAGAUGAGGGGAAGACAUUGAGUGUUU. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "miRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_668",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: UAGGAGCUAUCAGAACUUAGUGAUCAAGUGAAGUUGUAGUUACUAAUUUCUGAUGCUCUUCCC. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "miRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_669",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: AGAGGCAGGCGGAUCUCUGUGAGUUCGAGGCCAGCCUGCUCUACAGAGCGAGUUCCAGGACAGCCAGAGAUACACAGAGAAACCCUGUCUCAA. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "miRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_670",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: AGUAGAGUUGGGGUUUCACCAUGUUGGUCAGGCUGGUCUCAAACUCCUGAUCUCAGGUGAUCCAUCCACC. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "miRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_671",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: UGUGGGAGGGGGCUUGCCCCCGAUAGCGGUGUGUCAGUCACAGCUAUACAGACUGAUAAACAGCUAUCGGGGGCAAGCCCCCUCCCACU. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "misc_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_672",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GUAGGUGAACCUGCGGAUGGAUCAUUAGAAAGUGUAGAUGCGCGAUCUGAUCGCGCGUCGACCACCCACUCUGUGCACUGUAACGUACCCUGGCGGGAGCCUGCUACGGGCGACCGUCGAAGGGCAGUUAUCCUUCGGGGUAGCGGUCCUCAACAAACUAUUCAACCAAAGUCUGAACCUAAAGAACUAAUGUUAAACAACUUUUGACAACGGAUCUCUUGGCUCUC. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "misc_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_673",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: UAAAAUAAUGGUUGGCGCACCUAGUGAAUGAGUCCGGUUUUUCGACUGGGCACUGCAACUGGGCGCGCUGCUACACCUCUGUGCACUGUAAUAGUAUCGGGUUUAGGUAACGCAGUCUCUCGGGAUAGCGAAACCUAGGCCCAAAAACGGUUUCGACCGUAUAAACAACUUUUAAUUUUGACUGACUUUUGUUUCUAACGAAUCAAAAA. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "misc_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_674",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: AAACAAUUAAAUGAUCCAUUCUAAGAGGCUUUGUGAGCCAAAACAUUCAAGAUCUUAAUGGAUUCCUCUUUGUUGAACACCAAGGGUUGGAAUAGAGAAUUCCAUUUAGAUCUUCAGCUUCUUUUCAGUUUAACUAAAUAGGCUUUUAGGUAGUUUGUUUUUAAGGUAUUUAGAAAUGGCAAAAGCCUUUGCCUUUCAAGUGUAUGCCUGUUUUAGUUGCUCCAAGUCAUUAUGGG. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "misc_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_675",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: AAGUCGUAACAAGGUUUCCGUAGGUGAACCUGCGGAAGGAUCAUUAUCGAAGUUGGGUUCGUCGAGCCCCUAAACUUCCACCCUCUGUCUACUACACUUUGUUGCUUUGGCGAGACGUCCCUCUGGGCCACCGGCCGUUGCUGGUGUGUGCUCGCCAGAGAAAACCCAAAUUCAAACCCUGUUAGUGAAUUGUCUGAAAACAAGUUUAAUAAUUAAAACUUUCAACAACGGAUCUCUUGGCUCUG. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "misc_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_676",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: AAGUCGUAACAAGGUAACCGUAGGUGAACCUGCGGUUGGAUCAUUAACAAUGGUUUUCAAACCUUAUACUGUGCACUCUAUCGUACUUGGUGGUCUCUUGUAGUAUCUCGCAAGGGGUACUUAUUAAGGCCACCGCUUUUUAUAACACCUAUCCAAUGAGUCUUGAAUACCAAGUAAAACAUUAAAACUUUUGACAACGGAUCUCUUGGCUCUC. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "misc_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_677",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: AACUCUCAACCCCCUUGUUUUGUAAUGAAGCAGGCGUGGGCUUGGAUUAUGGCUGUCUGCUGGACUCUUUAAUUAGAGAUCGGCUCGGCUGAAAUAUACGAGUAACCCAGUUUGAACAUUAACGGCUUGACUCGGUGUAAUAGCUUUAUUUCGCUGAGGACGUUUCAGAUCAAGAUAGUGGUGCUUCUAAUGCGUCGUAGCGUCAGCUGCAAAACCUUUAAGC. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "misc_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_678",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: UUUCCGUUGGUGAACCAGCGGAAGGCUUAUUACAGAGAUCAUGCCCAUCGCGGGUAGACCUCCCACUCUGUGUUAUUUACGAUUGUUGCUUUGGCAGGUCGCCUUCGGGCACUCGGCUCCGGCUGAGGUGCGCCUGCCAGAGGACCCCAACUCUGUGUUUAGUGUCGUCUGAGUACUAUUUUAAUACGUUAAAACUUUCAACAACGGAUCUCUUGGUUCUGGCAUCGAUGAAGAACGCAGC. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "misc_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_679",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: UCUCCGUAGGUGAACCUGCGGAGGGAUCAUUACCGAGUGAGGGCUCACGCCCGACCUCCAACCCUUUGUGAACCACACUUGUUGCUUCGGGGGCGACCCUGCCGUUUCGACGGCGAGCGCCCCCGGAGGCCUUCAAACACUGCAUCUUUGCGUCGGAGUUUAAGUAAAUUAAACAAAACUUUGAACAACGGAUCUCUUGGUUCUGGCAACGAUGAAGAACGCAGC. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "misc_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_680",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: AACAAGGCGUACCUGCGGACCUGCGGAAGGAUCAUUACCGGAGAGAGGCGACUCUCGAAGGCCCAAACCCACUGUGAAUCUACCUUGGCUUCUGUGCUUCGGCAGGCGGUCCCAGGGGGGACCUUUGCGUAACAGCGCCUGCCGGAGGACUUGAAAACUCUUUUUUUUGACAUCUGUCUGAGAAGUUAGGCCUCGUUAGGGGUCGAGAAUCGCUAAAAACUUUUAACAACGGAUCUCAGA. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "misc_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_681",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GGAGAGUAAAGCUCAGCAGCAGAGUACAUGCCUAGCAUGCAUGCGGUCCAGGGUUCAAUCCCCAGUAUCUCCA. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "ncRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_682",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GGGGUUGUAGCUCAGUGGUAGAGCACUUGCUUAGCAUGCAUGAGGCACUGGGUUCCAUCCCUGGCACCA. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "ncRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_683",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GGGAAGGUAGCUCAGUGGUAGAGCACUUGCCUUGCCUGCAUGAGGCCCUGGGUUCGAUUCCUCAGCACCA. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "ncRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_684",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: AAGAGCCGUAUGCGGGAAAACUGCACGUACGGUUCUGUGAGGGGCGGCAGUAAUAGAAAUAUUAUGGAAGCCGUCUACUCGAC. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "ncRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_685",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: CUAACGAUACUUCUGUCCAGCCACAGCUUCUUCACGCAAUGGGGGCAGCUCGGAGCGAUCCUCGGAGGGGUUCAAAUCCCAUGG. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "ncRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_686",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: AGACUUGUAGGCGUCACGGGUGGCCCGAGAGGGCCUUCAAAGGGAAGUACGGUGUGAAACCGUCGCGGACCCGCCGCUGUAACCGGAGACGAAAGCCGCAAGACAAGCCACUGUCCGCAAGGACGGGAAGGCGCGGCGAGUAGGAUGACCCGGAAGCCAGAAGACCUGCCCUGAUGUAACAAAUUCGU. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "ncRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_687",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GUCAGGAUGGCCGAGUGGUCUAAGGCGUCAGACUCAAGUUCUAGUCUUCGUGAGAGGGCGUGGGUUCAAAUCCCACUUCUGACA. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "ncRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_688",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GCCUUCGUGGUGAAGUGGUCAGCACACUGAGCCGGUAUUUCAGAGGUCCGUGGUUCGAUUCCCGGCGAAGGCC. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "ncRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_689",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: CCGACCUUAGCUCAGUUGGUAGAGCGGAGGACUAUAGUCGUUGCAGAUUAAUCCUUAGGUCACUGGUUUGAAUCCGGUAGGUCGGA. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "ncRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_690",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GAUUUAUAAAGAAGUGUGGAGAGUACAGGCUCUGUGAAACACUAGCAACCUUCGGCCGGGUAAAACCGGAAAGGAAACGGUGCUAAAUCCUGCUCCCGGCAAGGUGCUGAGGAGAACUAUAAACC. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "ncRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_691",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: AACAGCGGAAGCGUUUCCCGUGGAUGAAUGAU. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "scRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_692",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: AUGCCGACCGAUUCGGCCUGGAUCCGGACCAG. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "scRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_693",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: UGGGUGUUAUGGGCAGAAAGAAUCAUCUAUGCCUCUACUUCCCCGUAGCCGAGCCUAGGGUGGAGAGGCCAGGUAUCCUCUCCUGGGAGAGGUGUUUGAGAAAGGAGCCUUGCCUGGGUUGUCCUAGUCUCACAUUU. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "scRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_694",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: ACCUGAUGCUGCCCCUGCGGUCUGCCGUGCGCGG. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "scRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_695",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GUAGAAUGGCUUUUCGGCGACGCGCUCCGAGA. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "scRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_696",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: UCGUACAUCUGCACCACGGCGGCGUGCCGUUUUUCCU. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "scRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_697",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: CCCCUGGGUCCCCAAUGCAGCUCCCAGAUGAACCUUCAGUAUUUGCCAUAUUGCCAGGUAGCUUCUGAGGCUUAUGAAAAUGUGUCUGGAGAAGGGGGGCCAGAGGACCAGGG. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "scRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_698",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GAGGGUAAUGAACCGUUCACAGGUGUUACCCUAUAUUUUGAUAAACCGUGGGUGUCGA. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "scRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_699",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: AUGGUCUGAGGCAUGAGCUGCCGCGUUUGCGUAUGCUGCAGCUUGCCUAACAGGACCUAUAUUAUACCAGAUGAGGCUAAGAGAAGUUUCACUUGGCAGUUGCAGGUGUGAGCAUGUGUUCAGCUGUUUGAUGCUCAUGUAUGAUACUGCCCACAAUC. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "scRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_700",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GCGGAAGCGAAGACCCAAGC. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "scRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_701",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GGGAGCCGGAUGCGGUAGUUCCGCACGUCCGGUUCUGAGGAGGGGCCCACUCAGGUGACUGAGCGGGUCUACUCACC. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "autocatalytically_spliced_intron",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_702",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: AGAGUUUCUUACGAAGAACGACUAGCCACCGACUUCGGCCUCUGGCGGAGGCGCGACUGCGGUAACAAUGUUGUGCUGAGCGUCCGUACCAGGGAAAUCGCAGGCAAGCUAUUGAGCUCCGAAAUCAGCCUUUUCGCUCGCCGAGGGUGAAAACA. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "autocatalytically_spliced_intron",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_703",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: CUGUUAUUGAGGGCGUUCUAGUGUGCAAUGGGGUUCAUACCUUUAUUUGCCAAAACGGGACCUCUGUUGAGGUAUAAAAUUCUAACGAAUUGAAUAUUCCGUACUAAGGAUUUAAUCCGGAACGUCUAGAGACUACACGGCAAACCAAUUUGGUGGUAUGAAUGGAUAGUCCCUAGUGAACCAUCUAGGCAUCCCAUACAAAAUGGUUA. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "autocatalytically_spliced_intron",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_704",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: AACCGCCGUAUACGGAACCGUUCGUACGGUGGUGUGGGAGGUCGGCGGGGGAGACCCCGCCUCCUACCCGAU. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "autocatalytically_spliced_intron",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_705",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GAAAGCGGAUUACGGGAAAACUGUACGAUCCGUUUGAUUGAGCGGACAGAGGAAGGCGAUUGCCGACCUCUUUCGACUCUAC. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "autocatalytically_spliced_intron",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_706",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: AACCGCCGUAUACUGAACGGUACGUACGGUGGUGUGAGAGGUCGGGGGUUAGUCACCCACUCCUACUCGAU. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "autocatalytically_spliced_intron",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_707",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: AAACGCCGUAUGCGAGGAACUCGCCUGUACGGUGUGAAGUGGGGGAAAGGCUGGCGAUAAUGUCAAAAGCUUACCUAUAACUAU. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "autocatalytically_spliced_intron",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_708",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: AGGAGCCGUAUGCGGUAAUUCCGCACGUAUGGAUCUGUGCGGGGGGUGGCAGGUGACUGCCAUUCCUACCGCGAC. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "autocatalytically_spliced_intron",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_709",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: UUGCGGGUGAAAGCCCCGUCGUAGAAGAUUAGCCAGAUCACUACGUAGCGAGUUUUGCAUCUCCGGCGGUAACAAAGGAGAUGAAGCGUAGACAGCGAAACAUUCGAGCCGAAAUCAAUAGGUGAACGUGA. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "autocatalytically_spliced_intron",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_710",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: AACCGCCGUAUGCCGAACGACACGUACGGUGGUGUGAGAGGGGCUAGAGAUUAUCCCCUACUCGAU. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "autocatalytically_spliced_intron",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_711",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GUGGUCACUCUGGCAGCACACAUACUAAAAAUGGAACAACACAAAGAAAAUUAGUAUGGUCUCUGUGCAAGGAUGACAUGCAAAUCUGUGAAGUUUUCCGUAUUUUA. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "snRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_712",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GUGCUUGCUUCAGCAGCACAUAUACUAAAUUGGAACAAUACGGAGAUUACCGUGGCCCCUGGGCAAGGAUGACAUGCAAAUUUGUGAAGCGUUCUAUAUUUUU. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "snRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_713",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GUGUUCGCUUUGGCAGCACAUAUACUAAAAUUAGAACAUACAGAGAAGAUUAGCAUGGCCCCUGUGCAAGGAUGACAUGCAAAUUCGUGAAGCAUUCCAUAUUUAA. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "snRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_714",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: AUACUUACCUUGUUCCAAAUUUCCCAGCUCAAGAUUCGGGGGAUUUAGUAUGGGAGGCCUGCAUUGCACAGCGCGGAGUCGUUCUGUACUCCAUUGUCCUUCGGGGCCAUGGGGGGCGCAAUUUUUGAUUUC. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "snRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_715",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: AUCUUUGCGCUUGGGGCAAUGACGCAGCUAAUGAGGUACUAACCGAGGCGCGUCUAUUGCUGGUUGAAAACUAUUUCCAAACCCCCUCCUGGGCCUAAGCUUGUCUUGGGCCUUCGAGAAUUUCUGGAAGGGUUCCCUUCGGGGUAAAGCC. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "snRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_716",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GUGCUUGCUGCAGCAGCACAUAUACUAAAAUUGGAACGAUGCAGGGAUUAGCAUGGCCCCUGCACAAGGAUGGCAUGCAAAUUCAUGAAGAACUCAAUGUCAUU. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "snRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_717",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GUGCUCGCUUCGCAGCACAUACACUAAAACUGGAACAACACAGAGAAGAUGAGCUUGGUGCCUGCACAAGGAUGACGCCCAAAUUCGUGCCGCGGUCCAUGUUUUU. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "snRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_718",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: AAAUGUGCUCUUUCAGUAUUUCUCCAGUAGGUUUCCUGAAAGAGAAAGCCUCC. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "snRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_719",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: AUCGCUUCUCGGCCUUUUGGCUAAGAUCAAGUGUAGUAUCUGUUCUUAUCAGUUUAAUAUCUGAUAUUUCCCCUACCCGGGGACCAUAUAUUAAAUUGCUUUUUGGACAAGGGAGAUGGAAUUGGGGCUUGCUCCGUCCACUCCACGCAUCAACCUGGUAUUGCAGUACUUCCAGGAAUGGUGCACCCCCU. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "snRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_720",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: AUGCUCACUUUGGCAGCACAUGUGCUAAAAUUGGAACAACACAGGGACCAUUAGCAUGGCCUCUGCACAAGGAUAACAUGAAAAUUCUUGAAGCAGCCUAUACUUUU. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "snRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_721",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: CAAGUACUACCUCCGUCCGAAAUUACUUGUUAUCAAAAUGGAUGUGUCUAGAACUAAAAUACAUCUAGAUACAUCCAUUUCAAUGACAAGUAUUUUCGGACGGAGGGAGUACAAG. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "pre_miRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_722",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GUCAUUUUUUGACACGCGUGUUAAAAGUAAGUUACUUUUAACACUAGUGUUAAAAGUAACUUACUUUUAACACGCGUGUCAAAAAAUGACAUU. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "pre_miRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_723",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: UAUAUACUCCCUCCGUCCCAAAUUACUUGUCUUAGAUUUAUCUAGAUACGGAUGUAUCUAACAUAAAACAUGUCUAGGUACAUCCAUAUCUAGACAAAUUUAAGACAAGUAAUUUAGGACGGAGGGAGUAUGUU. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "pre_miRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_724",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GAAUUACUCCCUCCGUCUAACAAAAGAUGUCUCGAGUUUGUCAAAAUUUGGAUGUAUCUAGACAUGACUUAGUAUAUAGAUGCAUUCACAUUUGGUCAAAUUCGAGACAUCCUUUGUUGGACGGAGAGAGUACUUG. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "pre_miRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_725",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: AACGUACUUCCUCCGUUCCAUAAUUCUUGUCGAAAUAUUACAUGUAUCUAGACGCAUUUUAGGAAUAGAUACAUCCAUUUUUGGGCAAAUUUGAGACAAGAAUUAUGAAACGGGGGGGAGUAGUUU. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "pre_miRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_726",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: UUCUCCACUUUCUACCCCGUAUUAACAAUGUGGCUGAUGAGGAAUCUUAUGAACCAUCAGCCUCGCUGUCAAUACGAGGUAAGGAGUGACAA. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "pre_miRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_727",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GAAACUGGGCGCAAGGCGAGGGGUGCUAUCUGUGAUUGAGGGACAUGGCAAACGGAAUUGUCUCACACAGAAAUCGCACCCGUCACCUUGGCCCAUCU. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "pre_miRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_728",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GGCUGCGGCUGGAUUCAAGUAAUCCAGGAUAGGCUGUCUCCAUCCGUGAGGCCUAUUCUUGAUUACUUGUUUCCGGAGGCAGCU. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "pre_miRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_729",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: UCUGUACUCUCUCCGAUCCAUAUUACUUGUCACUCAAACGGAUGUAUCUGGACGUAUUUAAGUGUUAGAUACAUCUGUUUGUGCGACACCGACAAGUAAUAUGGAUCGGAGGGAGUACUUU. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "pre_miRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_730",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: AUAGUACUCCCUCCGUCCGAAAAUACUUGUCGGAGGAAUGGAUGUAUCUAAAUGCAAUUUAGUUUUAGAUACAUCCAUUUUCAUUCAUUUCUCCGACAACUAUUUCCGGACGGAGGGAGUAUUCA. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "pre_miRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_731",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: AUCAAUAAAGACUAAAAAAAUACCGUACAAAGAGAGAACAUGGAGGAUCACUUGAGCCCAGGAGUGCUGGGCUGUAGUGGGCUGUGUUGAUCAGGUUUCUGCACUAAGUUCAGCAUCAGAUAGUGAACUUCAAGGAGCUAGAGACCACAAGUUUGCCUAAGGAGGAGUGAAUAGACCCAGGUUGGAAAUGGACCACGUCAAAACUCCUGUGCUGAUCACUAGUGGGAUCAUGCCUGUGAAUAGCCACUACCCUCCAGCUUGGGCAACAAAACAAGACCCCGUCUUUU. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "SRP_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_732",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GCCGGGUGUGGUGGCGCACACCUGUAAUCCCAGCUACUCAGGAGGCUGAGGCAGGAGAAUUGCUUGAACUCAGGAGGUAGAGGUUGCAGUGAGCCAAGAUCGCACCACUGCAUUCCAGCCUGGGUGACAGAGUGAGACUCUGUCUCAA. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "SRP_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_733",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GGCCGGGCCCGGUACACGGGUGGCCCGUGAACCUGGUCAGGGCUUGACCGCAGCAGCCAUAAGCGGCCGUCAUCCGGUGCCGCCGGUGUCCUGGCCGUC. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "SRP_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_734",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GCCGGGUGCGGUGGCGCGCGCCUGUAAUCCAAGUUACCGGGAGGCUGAGGCUGGCGGAUCGUUUGAGCUCAGGAGUUCUGAGCUGCUGCGGACUAUGCCGAUCGGGUGUCCGCACUAAGUUCGGUAUCGAUAUGGUGCUCCUGGGGGAGCCCGGGACCACCAGGUCGUCUAAGGAGGGGUGCACCGGCCCAGGCCGGAGACGGAGCAGGCCAAAGCCCCCGUGCCGCUCAGUAGUGGGAUCGCGCCUGUGAAUAGACGCUGUAGUGCAGCCUGAGUAAUACAGCGGGACCCAGUCUUUU. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "SRP_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_735",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GCUGGGCGCAGUGGCGCGCGCCUGUAGUUCCAGCUACUCGGGAGGCUGAGGCAGGAGGAUCGAUGGGCCCAAGAGUUCUGGGCUGUAGUGCGCUAUGCCAAUUGGGUGUCCGCCCUAAAUUCGGCAUCAAUAUGGUGACUUCCUGGGAGCGGGGGACCACCAGGUUGCCUAAGGAGGAGUGAACCGGCCCAGGUCAGAAGUGGCAGCUAGGGCUUGUUGCUAUUCUGUUCUGUUCAGGGGUGGUAACUACUGGGCAGCUUCCUCAGACUCGGGAUCCCCGCUCUUCCUCCU. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "SRP_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_736",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GCUGGGUGUGGUGGCGUGCACCUGUAGUCCCAGCUACUCAGGAGGCUAAGGCAGGAGAAUCGCUUGAACCUGGGAGGUUGAGGUUGCAGUGAGCCGAGAUGGCGCCACUGCACUCCAGCCUGGGCAAAAGAGCGAGACUCUGUCUCAA. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "SRP_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_737",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GUCGGGCAUGGUGGCAGGUGCCUGUAAUCCUAGCUACAUGGGAGGCUGAGGCAGAAGAAUCACUUGAACCCAGGAUGUGAGGGUUACAGUGAACUGAGAUCACACCACUGUACCCCCGCCUGGGUGACAGAGUGAGACUCUGCCUCUA. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "SRP_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_738",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GCUGGGCACAGUGACUCAUGCCUGUAAUCUCAGUGCUUUGGGAGGCCGAGGCGGGAAGACUGCUGAGCCCAGGAGACGUGGGCUGUAGUGCACUAAGAUUGGCAUCAAUAUGGUGACCUCUUGGGGGAGGCAACCACUAGGUUGCCUAGGGAGGAACGAACUGGCCCAGGUCGUUAACAGAGCAUGUCAAAACUCCCACAAUGAUCAGUAGUGGGAUCCUUCCAGUGAACAGCCAGUGAGCUCCAGCCUGGGCAACAUAGUGAGACCCUGUCUCU. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "SRP_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_739",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: CCGUGCUAGGUGGGGAGCUAGCGGUGCCCUGUAACCCGCAAACCGCUCCAGCGGGGCUCAAUUCCCGUCUGAGGGGUUGUCUCUCCGGGGACUGCCUUCGCAAAGCGGCGUUGAUGAUCUGGUCCUGCGCGGCGGAGCACUACGAACCUGGUCAGAUCCGGAAGGAAGCAGCCAUAAGUAGAAAGCUCCGGGUGCCGCAGAGUCGCCGGGUCUGAGCUGGCUCGCGUAGUGCAUACCAGGAAUUCACUUCGAGGGCGGGUGCACGG. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "SRP_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_740",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GCAGGGUCCGCUCGAGUUCGGGCCCCUGUGAACCCGGUCAGAUCCGGAAGGAAGCAGCCGCAGCAGGAUUCUGGCUGCGAGUGGGUUCGCCCUG. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "SRP_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_741",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: AAUAACCAAAUAUAACACUUGGACUAAGAGUCAAGUUGGUAAUUUUUCUUACAUCUCCCCCUCCCGGAGCCCAGGUAUCAUAUACGCCCCCAAAAUAAAGAUCUUUGAAUACUAGAAGAAAUGCACCUAUACCUAGCAAAACUAAGUGAAUACCAAAAAUUGUGGUCAUUUUAUUACUAUCUUUCCA. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "antisense_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_742",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: UGUCUUAUUAAGGGAUAGCUGUGUCAUUUCAAAUACAGAUGUCAAGGCUGGACGCAGUGGCUCACGCCUGUAAUCCCAGCACUUUAGCAGGCCGAGGCGGGCAGAUCACCUGAAGUCGGGAGUUCGAGAUCAGCCUGACCAACAUGUAGAAAACCUGUCUCUACUAAAAAUACAAAAUUAGCUGGGCGUGGCGGCGUAUGCCUGUAAUCCAGCUACUUGGGAGGCUGAGGCAGGAGAAUCGCUUGAACCUGGGAGGCAGAGGUUGCAGUGAGUUGAGAUGGCGCCAUUGCACUC. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "antisense_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_743",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: CUCGAUGGUAGCUGUGCGCAUGGCGCCCUCGGGCGCGCCGGGCUUUGUGUAUUUCACCGGUCUACUAACUUGCGCACAGCUGCCACCAUU. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "antisense_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_744",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: CUUCAACGAGCCGAGCAGCAGGGGGUGGGCACGGUCCUGCCCAUAGGUGUCCAUGAUCGCCUGCGCCUC. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "antisense_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_745",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: CUUGACGGAGCCGACGAACACCGGGCGGUCCUCCGGCCGGUUCUGGCCGUACGUGGCGAGCAGCGCCUGGGCCUC. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "antisense_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_746",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: CUUCAACGACCCCAGGUACAACGGCGUCUCACGAUCCUGACCGUAGGUCGCCAACAACGCCUGCGCCUC. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "antisense_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_747",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GUAAUGACUUGUCGUCGUCAAACUCACCGUCGUCCACUUUGUGUAGGUAUAGUUUUCGUCUUCGCGGUGGCACACAAAUACUACCACCGGUGGUGUCACCACUAGGGGCACUGUCGG. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "antisense_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_748",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: UUCUAUGACAGGUUGUGCGGGCCAUCUUCGGAUGGGCCGUUGUCCUUGGCGGUCUGCUACCCCGUGCAAUCUGUCUCCACU. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "antisense_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_749",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: CUUGAUCGACCCGAGCCAGAGCGGUUGGUCGUCCCGCCGCUGCUGCCCGUAGGUGGCGAGCAGGGCCUGGGCUUC. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "antisense_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_750",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: ACCUAUGGCGGCUGGUGCGGGGCAGGCUUCGGCCUGGCCGGUUCCUGUUUGCCGGUAUUUCCUACCCCCGAACCAGUCGCCACCAAU. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "antisense_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_751",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GUUCACUGCCGCAUAGGCAGCUUAAAAA. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "other",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_752",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: ACGGUUAUAAAUCAACACCUUGGUUUAUAAGCAUGGAAAUCCCCUGAGUGAAACAACGAAUUGCUGUGUGUAGUCUUUGCCCAUCUCCCACGAUGGGCUUUUUUUUAU. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "other",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_753",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GGAGAGCUGCAGGGUGCGAUCGGCCAUAGCAAUCCCUGGGGCCAAUAAGGACCUCUAGGGAGCUGUCCCUGCCGGGACCGUGGUCUCGGUAAACGGCGCCCACCUGCUUUAGCAGGCCACAGAGGAUCUCUGAGCCACCGGCCCAGGCGGCGCCGCC. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "other",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_754",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: AUUUCCCUGGAGUGUGCGUGAUUUAUGACUCGGUGCUGACCUUACAAGCAUAAAAUCGGGAGCUGUCCCUGCUUUUUGUGAGCACGCCCGUUUACGGGAAGCCUGUAGAAAAGUACACGGCCCCCCCUGGGAAACCAGGUUCUGCAUCGAAGUCAUGACACGGCGCUCUGGGGAUUUU. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "other",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_755",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: CAACCCCUGCCGUGUUCGUUAGUGACCCGGGUAUUUUCUUGAGCCUAAUUAGUGCCCUGGGAACAAAAUGCCGAUGCCGGUGUGCAUGUCCGCCUCGUAGCGGGAAGCCUGAAGCAUCCCUGCUGUUCCCACUUGAACCUACCGGUUCAAGAACAAUGGUUUGCGACGGCACAUGUGGGGGUUGU. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "other",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_756",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: UUUAUCCUAUAGAUUUUGAGGAUCAAUCAUAAAUCCGACUAAGUCGAUAAUUAGGGAACCGAAAGAUAUAGCUGGUGUUUGUGAAUGCCUAUCCAUUAAGUGUUGUAGGAAUCCUAAAAGUUACAUCGUGGUGCCCACCUGUAAUAUGCAGGGGUUUAUCGCAAUUGAUUCUCGUAUCUAUGGGAUUUUU. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "other",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_757",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GUAGGCCUGCAACGCGCGUGAUGGCGCGACGAUCUUUUGAACCAAUGCUGGAUCUCUGUGGUGCCCGGGUCAGACGGCCUGUGCGCAUGGCCCGCAGCCGGGCAUGCCUCGGCGGCGGGAAAGCCUAAGGGCCGGCGCAGGGCGCCCACCUUAUAACAGAGGUUCAGGAUCUAGCUCCACACGGCGAAGUGGACCGCUC. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "other",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_758",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: AGUUACAGACGUAGGGUACAGAGGUAAGAUGUUCUAUCUUUCAGACCUUUUACUUCACGUAAUCGGAUUUGGCUGUAUAUUAGCCGCCCCAGUCAUUUAUUGACUGGGGCGUUUUUUA. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "other",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_759",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GACACCCGGCAGUGUUCGAGGUGCUUUCAAUAACUGCUCUUUGCCUUAGGAAAUAUACGGGAGCCCAAACCGGCGCGAAAGAUGUCAGGCCGUAAAUCGGAAGACAGAGGUCGCGACGGAGGCGCCCACCUUAACUAAAAAAGGUCUUGAGCCUUUGGGCAUACGGCACAGGCGGGGUGUCA. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "other",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_760",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: CGGGUGCUGCGGAUAUCGUCAGGCAACGUUAUCCCUGGGGCCAAUAUCUACCCUUAGGGAGCUGUCCCUGCCGGACUCUUGGGUCCGGUAUAUGGCGCCCACCUGCAACCGCAGGCCACGGUGGAUGCAUCGCCAACGACCCCGCGGCCCCGUU. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "other",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_761",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: UACUUGUUCAAGGGUAGUGAGUUAUCCCAACUGAUUGUUCACAGUCAGAGAUUUGAUUCUUUGUUCUACUCUUUCUCCCAUCUCACUACUGCACUUGACUAGUCUUUU. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "Y_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_762",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GGCUGGUCCAAAGGUACUGAGUUAUCUUAAUUGAUUGUUCACAGUCAGUACAGAUUGAACUCCUUGUUCUACUCUUUCCCCCCUUCUCACUACUGCACUUGACUAGUCUUAA. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "Y_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_763",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GGCUGGUCUGAGUGCAGUGGUGUUUACAACUAAUUGAUCACAACCAGUUACAGAUUCCUUUGUUCCUUCUCCACUCCCACUGCUUCACUUGACUAGCCUUAA. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "Y_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_764",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GGCUGGUCUGAAGGUAGUGAGUUAUCUCACUUGAUUGUUCAUAGUCAGUUACAGAUUGAAUUCCUUGUUCUACUACUUUCCCCCUCCUCACUACUGCACUUGACUAGUCUUAA. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "Y_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_765",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GGCUGGCCCAAGUACAGUGGUAUUUACAACUAGUUGAUCACAGUUACAGAUGCCUUUGUUCCUUCUCCACUCCCACUGUUUCUCUUGACUAGCCUUAA. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "Y_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_766",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GGCUGGUUCAAAGGUAGGGAGUUAUCUCACUUGAUUGUUCACAGUUACAGAUUGAAUUCCUUGUUCUACUUUCCCUCCUUCUCACUACUGCACAUGACUAGUCAAAA. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "Y_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_767",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GGCUGGUCCAGAGGUUGUGGUUUCUCUCAGCUGGCUGCUCUCCGUCAGCUACAGAUCCAACUCCUUGUUCGACCCCCUGCCCUCCUCACUAUUGCACUUGGCUGGUCUAUA. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "Y_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_768",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GGCUUGUGCGAGUGCAGUGGUGUUUACAACUAAUUGAUCACGACCAGUUACAGAUUCCUUUGUUCCUUCUCCACUCCCACUGCUUCACUUGCCUAGCCUAAA. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "Y_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_769",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GGCUGGUCCGAUGGUAGUGGGUUAUCAGAACUUAUUAACAUUAGUGUCACUAAAGUUGGUAUUCAACCCCCCACUGCUAAAUUUGACUGGCUUUGA. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "Y_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_770",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GGCUGGUCUGAAGGUAGUUUUAUUAUCUCAAUUGUUCACAGUCAGUUACAGAUUGAACUCCUUGUUCUACUCUCUUCCCCUUCUCAUUACCGUACUUAACUAGUCUUAA. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "Y_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_771",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: UGACCCCACGGCGCUAGCUAUCCUCGUGGCCUUCCAGGCCUGGCCGCUGUACGCCCGCCCACCAACCGCUUCCAACCACCCCAACAGCACAACCUCUUUGGGCGUUCCAACGCGGCGCCCCCUA. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "lncRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_772",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: CCCCAGCAACAGCAUCUCACUUCCCAGGUUGUCCCCGGGCUGCCUCUGCAGCAAUCCCACUAGAGCUGCCUUUCACCCAGCUAAGAAGUGCUGAUUCCUUAAGCAAAGGAGCCACCGGAAUAAAAGUGUGCAACCAGUGUGACGGGAGAAUGGAAUGAGAUGGUCAGCACUUGACAUCUACAGGGAAAUGUCCCACUAAAGAACUUGAUAUCAGCAACGAAGGGAAAUGA. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "lncRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_773",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GAUCUUCAAGCCAGGGUGAGCCCUACCAGUCUUUGACUCUCCACUUCUUCCUCCAAUCUAGACACCCUGGAUGUGAAUGGUAGAGUUCAUGGGAAGAGCAAUCACUAGCCAGAAAACACUUAUGGACUCUUUGAAGAUCACCUUCUACUACAGGAAAUUUCUAGUACAUCAGGAUUCUCCAUCUGGUCUCUGGUCAUUGGUCCAAGAAGGUCACCCUACAUCCCUAU. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "lncRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_774",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GUUUAACCAACCAACGUGUUUAACCAACAUGUUUAACUAACGUGUUUAACCAACCAACCAACCAACCAAUCAAUCAAUCAAUCAAUGAAUCAAUCAAUCAAUGCAUUUUUCCGUGUCAUGUGUUUCAUACGGGAUCCAAUUUUUUGUUCGCUUGUUUUAAAUGAGCCUAUCCAACGUGUUUUACCAACCAACGUGAUUAACUUACCAACAUGUUUAAGCAACGUGUUUAACCAACCAACAUGUUU. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "lncRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_775",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: UAAGUUUUGUCCAAAUGUACUGACUGAAAAUGUAAUUUACUUUCUUUAUACUUAACUUUAAAUUUACAUAAGCAAGCCCUUUGUUUUAAAGCUACUUUGGAAAGCUGGUGAUUAAAAUGGGCAACUUGGCCAGGCACGGUGGCUCACACCUGUAUUCCCAGCACUUUGGGAGGCAGAGGCAGGCAGAUCACUUGAGGCCAGGAGUU. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "lncRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_776",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: CCCUCCAGAAGACUGUGCUUGUGGACGACAUGGAGCCCCACUUGGGGAUUUUCUGAACCCUGUGGAUUUUACAGUGAGAUGCACUUGCCGAGGAG. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "lncRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_777",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: AACGAUAUUUUCGGAAUAUUUUCUGUCCAUGGAAAAUUUUGUCGAGUGGAAACGGGUCUUUAGACGCUAACAAGGAACAGCUGCAGAAAAUGCAACUAUAGUAUAGGUCUCUGGCAGGACAUGACGUUUAAUAUAUAUAUUAUAUAGGGUACUGCCAUGUUAGGUAAGUUAUGGGUAAAUAUCAAGAUUCUGUUGGCAUCUCAGUCGAUUGAAUAAUAUAGUUAAGGGUCUUGUAUAUGGAAAUUAUCGAGUGGAAAUAUAUGUACUAUU. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "lncRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_778",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: AAGCCUGCCCUCGAAGUCAAUCUUACCUGAAGUGGGCCAUCUGGGGAGAUUCGAACACAGUCAUUGCCCUGUCUUACCUUGAGGCCAGGGGGACCAAGUGUGACCUAAGGGAACAGAAGAAGGAAGAGAAUAUUAACUUUAGGGAGCAACCAGCUGCCCAGAGAGAGCAAGCAAGUCAGCUGGGUUCACACAGCAUGAUGGCAGGGCCAGAGUCCCACCCCCAACUCUGCCUCCUUGGCCAAUUAGCAUGCUGUACUCUGCUUUUCAAGGCAAUAAAGCCAACAUAGGGGUCGACUUUC. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "lncRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_779",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: UGUUCCUGGAAGCCGGGGAAGGAACUUUGGUGAGGGGCAUGGAAGGUUGGAUCUCGGGCAGAUUCGCUCUGCGGGGUGUGAGCUGCUCUUGGAGACCUGCCGGGAUCAGUGGCUGCCAAGACAGCUGGCAUCUGCCACCCCUGAAGGCCAGUGACCUGGCAGACAGGAAGCAGGGGGUCAGGGCCGUUGCCCUACUCCUCCACGUGGCACUUACUGGUCUCCGAUUCCCAAGGACAGCGAUGCUUC. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "lncRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_780",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: CCCAGAAUACUGAGAACUAAGCAGGCCUGGAACAAUGCCAAGGCAGGAUACAGGCAUUUCAGAUGUGCCAGCAGAGGCUAACAAAAUAUGAAUCUAUCCUCUUCUGGAUAAACCCGAGAGAUUUCAGAUGGGUGGGAGUACCUGGAAUGGACUAUGUGGUAAGGACAGACCACAGACAAAUAAAAACCAAGAUAGGCCAGGAGGGGCCGUCAACAUUUCUCGAAUACAACAGUGUGCAGGGCACCAACUUUUUC. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "lncRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_781",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GGGGGCGUUCCUGGAUUCGACGGGGAUGACAAGACUCCAGGUGCAUGUCGAGGAUGAAAGAACCUCGUAAAUCCCUUUCAAAUCAAUAGUUGCAAACGACGACAACUACGCUUUAGCGGCUUAAUUCCCGCUGACGCUC. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "tmRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_782",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: UUGGACCCGGGGGCGGUACCCGGCGCCUCCACCAAAAUAUAAUCAAAAAUUAUAUUUUGGUGGGGGCGAAAUAGGAUCGACAAGAGUGUAAAGAUCGCUCUUUUACUCGGUAUAGUACCACCGUUAUCGGACUAAAUGAGUAGUUGCAAAUGACAACUUCGUGGAAGCAAGUCUCGCUGCUUGAUGUGGUGUGAAUGCUUCAAAUUAAGCCUUAAGCUGUCACAAGUUUAAGCGGGGUUCGGAGGCACC. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "tmRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_783",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GGGGGCGACUUGGCUUCGACGUGGGUUGCAAAACCGGCGGUGCAUGCCGAGGGUGCAGAUUUCCUCGUAAAUCCAUUCUGCUAGCAAGUAAUUGCAAACGACGAAAACUACGCUCUAGCUGCUUAACCC. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "tmRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_784",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GGGGGCGAACUGGAUUCGACGGGGGUAUGGAAGCUUAAGUGGCGUGCCGGGGCCCUGCAACCUCGCAAAAAAGCAGGAAAAAACACACACGCCGACUCUGAUUACGAGUACGCACUGGCCGCUUAGAUCGGCCACAUCUAAUCUGG. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "tmRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_785",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GGGGCCGAACGUGUUGGUUUCGACCGCCAGCAAAGACCGCAUGCGGUAGCUGGUUGGAAACGUGGGUUCGAUUCCCACCGGCUCCAUUA. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "tmRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_786",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GGGGGUGACCUGGCUUCGACGCGGGUAGCAAAACCUUAGGUGCAUGCCGAGCUUUCAGGAAUCUCGUAAAACAUCUGAAAAAUUAUAGUUGCAAACGACGACAACUACGCAAUCGCUGCCUAAACA. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "tmRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_787",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GGGGAUGACAGGAUUCGACACGGGGCAAGGGAUGGGGUGUCAUGCCGAGCGCCCCACGUUAAGGGCACGAAAGGUGCACCAAGUAAUAGGUUCACCAUGGUGACUAACGACAGCAAGUUCGCGUUGGUCGGAAGAGCAGCGGUAUAGUGCGAAGGUACACUGAAGGACUAGGCUGACGGGUAAUAGUGCGAUUGUAAACAAAGCAUGUUGUGCACCCCACAACUCCCCGCUGGACGUGGGUUCAACUCCCACCAUCUCCA. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "tmRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_788",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: CGGGUUAAACUUUAAACGGACUCGUGAGGAUUUGCCCUGGCUACCCGGCAAAAACUCAUUAAAACUACCGGUAGUGCUAAGCAUGUAAAAAACUGAUGGCAGAAGGUUUCUGGACGCGGGUUCGACUCCCGCCAUCUCCACCA. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "tmRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_789",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: UCGCUAUGGUAAAAAUGGACAAUGAAAUAAACCUAUUGGACCGGGGGCGGUACCCGGCGCCUCCACCAAAAUAUAAACCACCAAAAUUAUAUUUUGGUGGGGGCGAAAUAGGAUCGACAAGGGUGUAAAGAUCGCUCUUUUACUCGGCAUUGUACCACCGUUAUCGGGCUAAAUGAGUAGUUGCAAAUGACAACUAUGCGGAAGCACGUCUCGCCGCUUAAGGUGGUGUGAAUGUUUCAAACUGACUCUUAAACCGUCGCAGGUUUAAGCGGGGUUGGAAGGCACCUGCAAACAGAAGC. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "tmRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_790",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: CUGCCAACGCUAAGCGCAGUUCCUUCGCUCUCGCUGCCUGAGCAGUGAUCGAAGCGUCAGACCGGGCAUCCGUCUCCGUCCCGGACCCUGGCGUCAUCUAGGAGACUUGCUCAUCAACUGCUGUCAGGGUGGUUGAUCGGGACUUAAUCCUGACUGGGCCUGUCGGCGACGUGUCUGUGCGAGCGCCGGGGCCGAGAAAAGCGAUAACACUGACUGCACCCGGAGAAGACCUGGAUCGACGCUCGAGGACCGGGGUUCGAUUCCCCGCAGCUCCACCG. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "tmRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_791",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: AAUAUGCGCAUGAUAAUGGGGCUCUGGAAUCCUGGUUUUCUCUGGUGCAUAGAUUAACGCUUUGAAUUUGUGUCUAGCACCAUUUGAAAUCAGUUUUCCUGGGUGCUCACUCUCCUCUCACUUAAU. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "precursor_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_792",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: UGCCACAACUAUUCUAUUCUUUAUUUCACCAGACUAUCUAGGAAAUAUUGAACUAAUACAAAUUUUAGUUCAAUAUACCGGAUGGUCUGGUGAAAGCAACAUGCGUUGUAAGUUCUUUUU. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "precursor_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_793",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: UACAGAUGGUUGUGAGCCACCAUGUGGUUGCUGGGAAUUGAACUCAGGACCUUUGGAAGUGCUCUUAACUGCUGAGCC. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "precursor_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_794",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: AGCCACGAUUAUCAUUUAUAUCUUACCCAGUAGUACUGGCAUAUGGACAUUGGUAUGCAUUGAAACCCCAGUGUUCAUAUUCCAGUACAGCCAGGUGAGGUAUCAUAAGCGCACACAUCCAG. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "precursor_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_795",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: UCGAGACGCAAACUGUAUCGGUUUUCACUCUUCGCAAGCGAACUGAUCAAAACCCACACUCGGUGACGGACGUUUUGUUCGUUUUGCUUGCGAUCAGUGCGAGCGUACGAUAAAUCAUACAUCCAU. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "precursor_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_796",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GGUUGUUCGGUUUGGUCUCGUCAGUAACUGUGAGUAUUACAUCAGGUACUUCAUGAUAUUUGAUAUCGCAGUGCCUUUUGUGAUAAUCACAAAGACAUGACGCAAGAAAUCAACUUCUGAU. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "precursor_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_797",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: CCGCCUUGCCGCAUCCCCUCAGCCUGUGGCACUCAAACUGUGGGGGCACUUUCUGCUCUCUGGUGAAAAAAGUGCCGCCAUGUUUUGAGUGUUACCGAUUGAGAAAACCCGCCAUUUUGGUA. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "precursor_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_798",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: CCCCGUGGGCCCUUCUUGCUGCUGACAGCGGGGGAUUCCUGGAGAUGGGAUUUUAUUUUGGCAGCCAAUAAAUCACAUUGCCAGGGAUUUCCAACUGUCGGCCGCCCGGUCAGCGGCGCAACUU. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "precursor_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_799",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: AGAAGGGGCCGGGUGCACCAGGGCCCUGGCUGAGGUAGUAGUUUGUGCUGUUGGUCGGGUUGUGACAUUGCCCGCUGUGGAGAUAACUGCGCAAGCUACUGCCUUGCUAGUGCUGGUGAUGAUCAGCUGCAGAUGAA. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "precursor_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_800",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: UUUCCUAUCCUUUAACCUCCAGGUGCCCGAUUGUGUAGAGGUAAGAAAUAUGCUGUGUUCUCGCUUGGUAUAUUUCUUGCCUCUACCAAUUGAGCAUCUAGGACUUCGCAGCUGUCCCCUG. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "precursor_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_801",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GGGAUUAGGAGGACCACUGACAGUGUACGACACUGAGGAAAGUCCCCUCUGCACAGGUGCAGGUGGCCCGUCGCAAGGCGGGUGUCCGGGAGGGCAGGCUCUGUAGAAGAAACGAAUCGGCUCGGGCGCACGAUGAAUCCACAAGGAGGAGAUUUCCCGAUGCUGACUGAGACGAACACCCCCACCGCAGCAAGUCCAAACAGUUCUGUUGAAGGCACCGAUAGGAACGGGUAGGAUGCAAAGUUGAAUGUGGUUAACCAGUAAUGGCGAACAGAAAGGGGCUUACUCCCUAAUCCC. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "RNase_P_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_802",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GGGGGUGACUCACAGGCCCCUGUGGCCUCCGUUCCCCCGGGAAGGUCUGAGAAAAGGUCAUUCGGGUUUGAGAAGGACCCCAUUCGUGAGAAUGGGAGGCUGUAACAGAAAAUGUCCCCUGCGGGGUUUGAAGACAGCCUCGACCAGCAAUGUCUGAGUGCGAUCGCCCUGUGUAACACAAUUCAGACUA. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "RNase_P_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_803",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GUUCUUUGUUGGGUAGACGCGUCUACUUUUUAGUGGAUGAGGAAAGUCCGAACACAUCGUCGUAGUAAUACGACAAGCGUAGCGGGUAACGCCCGUCGUGGGUGACCAUCGUGUUGCGAACAGAAACGAUCCGGUUAAGUCCGGCUGAAACGGCUAAAUACAUACGUGUGUGCAAGACCGUACUGGAGCAAUCCUUUGAGUCGCAUGAGGUGAUGGGUAACUAUCAUCCUAGGUACAUGUCUAUACAAAUACAGAAUUCGGCUUAUAGAUAAAGAACAAUA. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "RNase_P_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_804",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: CCUGGAGACAGACGGCUACCCCGCCGAAAGGCGGGGAGGAAAGUCCAGACAGCAGAAGGCAAGGUGUCCGGUGCAAGCCGGAGCGGGAAACCGCCAGUCUAGAGCAACAGUGACGAACCGAGAUAAUGCUCGGGUGAAACGGGCAAUCCUCCCUGCUGCAACCUCCGAUCUGGGUGGGUCGCCUUCCCCAUAACCCUAAAGCUUGAGGGCAUUAGACAGAUGGCCGAUAAAACAGAAUCUGGCUUACUCGUCUCCAGG. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "RNase_P_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_805",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GUGAUGACAAUGCUUGCUUUAAGGGUAACAUACAAGGCACAUGUUGCUAGUAGCACCCUUGGGAAGGUCUGAGACAUAGGUAAUUAACCCUCUUGCAGGGGGCUCUCCUAAUGGAGGAGUGAGUCAAUAGAAACCAGGCUAAGCUGGGAGUUACAGCAUGUGAUGUCUAUAGACUGAUGCAAAGCUUUCAGUUCUAGUUGAAAGAGACUCAUUACCAGCAAAAGUAGUACAAUUCGCAAGAUGGUCCAAGGACCAUAACUCAAUUCAGACUACUCUGCCAUCAC. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "RNase_P_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_806",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: CAAGGUAGACGGGCAGUCGCUUUUUUAAAAAGAGGAAAGUCUGAGCACCAUCGGAUUAGAAUGCCGGCUAACUGCCGGGCAGGGUAACUUGACGGAAAGUGCAACAGAAAGUAAACCGCCAUUUGGUAAGGGUGAAACGGUGAGGUAAGAGCUCACCUCAAUUAAGGAAACUUAAUUGGAU. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "RNase_P_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_807",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GCAGGCCACCUUAUCGCUCCUUAGGGAGAGGAAAGUCCGGGCACCACAGUGUAGUAUAGCGGGUAACACCCGUCCGUCGAAAGGCGAGGACAAGUGCAACAGAAAGGAUGUACAGGUAAUGCUGUAGUGAAAUCAGGUAAACUCUAUACGGUGCAACGCCAUGUAUACCGACGUUUGAGGGCUACACGCUCGAGUUGGAGGGUAGGCGGAUAGAACCUUAGAGCAAUUUAAGGUCUAGAUCAAUGAUAAGGCGUCUUUGGAUGUACAGAACCCGGCUUACGGCCUGCUUUU. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "RNase_P_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_808",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: AGUAGUGGUUGGUUGGCUUACGUUUCGAAUGAAACGAGGAAAGUCCGCUCACCUCUGUUCGCGAGAACAGUUCCCUGUCUGUUAAGGACAAUACCGAAAGGUAGGGGGAGCUCAACAGAAACGAGACCUUUCAGAAAUGAAAGGAUGAAACGGGGGCUUUUAGGUGCAACUCCAUUAGUGGAGGCUUAGGUGAAUGCCAACUUGUGAUGAACUUAUUCAUCAAUACAAGAGAACAGAAAGCGGCUUACACACCACUGCU. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "RNase_P_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_809",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GGGUAAGGGUGAGAAGGUGGGGUAAGAGCCCACCGGCCGUGCAGCGAUGUACGGGCCGUGUGUCUUGGAGGCUGCAAGUUCAUGUAAACCGGCGCUUGAGGGUCGCUCGCCCGAGCCGGAGGGUAGAACGCUUUAGCAUUGUGGUGACACACUGCAUAGAUGAAUGACAGACACCCCGCAAGGGGCACAGAACCCGGCUUAUAAGUUGGCUGUUACA. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "RNase_P_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_810",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: AUGACUUGUAGAGAAUAAUCCCUCUUAGGAGGAGGAAGUUCCACCCAUCCCUUUAAGGCAUAAAAGCAGAAAUGCUUGGAGUCAGAAACAGAAACGAUAUUGGCCAGAAGUAGAUAUAAAGAUGAUACUUCUUUUAACUUCGCGAAAAGCGAAGGGCCAAGUGAAACGGUCUGACUCCUAUGCCGGGAUGCAAGCCUAAAGGCGCUUAGAUAAAUUAUUCAUUACCAUCUAAUGAUUCCUCUUUGAGAGGAUGAAUGGUAUAACAAAAGGUGGACUACUACAAGUCAU. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "RNase_P_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_811",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: AAGCCCACUAGGGCAGUAUAUAGUAUCGUAU. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "guide_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_812",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: ACCACACAACAAACUAUUGGAUGAGGAAAGGUCUGGUAA. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "guide_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_813",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: AUACAAAUCAAAACAUUCGUGAGUUCAAUGAUAGAAAUGUGUGAUAAAU. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "guide_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_814",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: AUAUUAUCAACAACAAUAGAGAAUUGACAGAAUUAGAGAUAGAAUUAUUAAUGU. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "guide_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_815",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: AUAUAAUAAAUGACAAAUCACGUAUAAUAAGUUAGGUGUAUGAUUGUGAAUAU. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "guide_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_816",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: AAAUUUAUAAAACAAACGAUUACUCAUAGAUGAUAGAUUAUAAUG. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "guide_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_817",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: UCAAUUGCAAAAUCAUAUUAUAAGAAAUAGAUGAUUGUA. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "guide_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_818",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: AACAAACUCAUAGGUGUAUCAAGUGAAUGUGAGAGUAAAUUGA. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "guide_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_819",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: AUACAUGAUAUACGCGAUAGAUUAUUAGAGUUAUGAGUU. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "guide_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_820",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: AUGUAUUUCAACAAAAAAGAACCGAUGGGAAAUUGAUCAAUAAAUAGAUGGUGUAAA. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "guide_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_821",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: UGCCCAGCAACUCCUAUCCCUACCUCCUCGUGGUACUGGCCGGGGUACGAGUAACCUUGGGGAAGAUCGGGUAACCAACCCCCGGUGGGUACUUUGGUCGUAUGCUGACAGGGAAGG. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "ribozyme",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_822",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: UGCCCGGCAACUCCUAUCCCUACCUCCGCGUGGUACCAGCCAGGCUGCUUGCAACCUUUGGGAAGAUAGGGUACCGGUUGGAACUUUGUCCUUAGGUUAAUCGGGUAGG. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "ribozyme",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_823",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: CUCUUUAAGGUGAGAAUCCUUGACAAGCAUGUGGGGCUUAUAUCUAUUCAUACAGAGCAAGUACGUACGGGAAAGCUUAAAAUACUCAUCUGUAAAAUAGUAUUAGUGCAGACUUUAAAAUCAUGC. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "ribozyme",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_824",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: UGCCUAGCAACUCCUAUCCCUACCUCCUCGCGGUACUGACCGGGGUAGGUUGCUCUUAGGGAAUAUCGGACAACCAACUCCGGUGGG. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "ribozyme",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_825",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GCAGAGAGGAAGCUCCCACAAAGCUCCCCAAAAGAGAAACGGGCCACACGGCCGCAUCCCGAGAGCUGCGGCACCUCCACAGAA. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "ribozyme",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_826",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: AAGUGAAAAGGGAGAGAAGCGAGAGGUGAAGCGAAGGAAAGAAAACGGUCGUUGCACAUCGUGAAUAAGCUUCUCUUUUUUUUCUUUUGUUUUUUCCUAUUAUAAGCUUUUGCUUUCGUUGUGUGUGUUUUU. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "ribozyme",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_827",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: UGCCAGCAACUCCUAUCCCUACCUCCUCGCGGUACUGGCCGGGAUAUGAGUAACCUUAGGAAAGAUCGGGUAACCAACCCCGGUGGGAACUCUGGUCAUAUGCUGACAGGGAAAG. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "ribozyme",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_828",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: CGCCUUCUCAAUUUGGAUGCAGAUAAAAAGAAAAAGUCGAAAAAAGAUUCGAAGAAGAAAAAGAAAAGAUCAAAGAAGGAGAAAUAGAUGUGCUGCAGACUUUUGAUUCAUUUCUCUACGAUUUGUUUGAUACAAAGCUUUUCAACGUCACUGGGUCAUG. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "ribozyme",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_829",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: UGCCCAGCAACUCCUAUUCCAACCUCCUCGCGGUACUGGCCGGGGUACGAGAAACUUUAGGGAAGA. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "ribozyme",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_830",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: UUCGCGACGAUUUUGAGCGAGGAAAUUCAACCCGUGUCUCUCAAGGCGCAGAAGAAAAUUGAAAUUCCCGAGAGCUUGGGCGCCGAAGAACCGAUGAGCGCCGAGUGGGAUUACCUCCUCUUCAGCAGCGAUGAUGAAGAUGAAGAUUAUGAGGUUGGCAAAAAG. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "ribozyme",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_831",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GCUCUGCUGAAGAAUCCCACAAUAGGACGAAACGGCAGUCCAGUGC. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "hammerhead_ribozyme",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_832",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: NCACUGCUGAGGAGUCCCAUACUAGGAUGAAACGGCCGUUCAGUAC. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "hammerhead_ribozyme",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_833",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GUACUGUGAAGAGUCCUAAACUAGGACGAAACAGCCGUCCAGUAC. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "hammerhead_ribozyme",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_834",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GUUAACUGACGAAUCCUAAAUAGGACGAAGUGCACAUCCUGGAC. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "hammerhead_ribozyme",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_835",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: AUCCAGCUGACGAGUUCUAAAUAGGACGAAACACGCGUCCUAGAU. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "hammerhead_ribozyme",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_836",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: CACUGGCUGACGAGUCCCAAAUAGGACGAAAAGCACAUCCUGGUG. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "hammerhead_ribozyme",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_837",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: AUCCAGCCGACGAGUCUCGCAAUAGGACGAAACGUGCGUCAAAAUAGAU. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "hammerhead_ribozyme",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_838",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GCACCGCCGAGGAGUCCCACAAUAGGACGAAACGGCCGUCAAAUGC. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "hammerhead_ribozyme",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_839",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: AUCCAGCUGACGAAUCGCAAAUAGGAGGAAACACGCGUCAAACUGGAU. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "hammerhead_ribozyme",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_840",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: AUCCGGCUGACGAGUCCCGAACAGGACGUGAUAUGCGUCCUGGAU. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "hammerhead_ribozyme",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_841",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: UUAUACCCGCUUAAUUCAUUCAGAUCUGUAAUAGAACUGUCAUUCAACCCCAAAAAUCUAGUGCUGAUAUAACCUUCACCAAUUAGGUUCAAAUAAGUGGUAAUGCGGGACAAAAGACUAUCGACAUUUGAUACACUAUUUAUCAAUGGAUGUCUUAUUUUUUUU. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "telomerase_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_842",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: CGCGGUUUUUGACGAUGUGCUUUGUCCGCGGAUUCACGCCCUUGACUCCAAUCUCGGUUGGUCUCGAGAGGUAACAAAGACUGUC. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "telomerase_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_843",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: AAUGCGAUUCCUUUUAAACAAUGGAGGGAAGCCUAAUUGCGAAGGGGUGGAAAGAGACUGUUGUAGCCUCGAUAAUUUCCAACCCUAAACCCGCCUUGGUUUGGGUGAACCUCUGUUGAGGUCUUUCUCUAGUGUUUCCCUCGUGUGGUUUAAAAAAGAAACACUAAUGCCCAACGAGUGCUGUCUCGCAAGAGGAGUAGAAGGUCGGGUUGGGUAUGCUUUAAUGUGUGCUAACAGCCGUCAGGUCCUCGCUUCUUGGCCACCUCAAUUUUUUU. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "telomerase_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_844",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GCGGUUUUUGAGGAUGUACUUUGUCCGCAUCAGAACGCCCUCCAGAAUCUGAUAAAUGAUGGAGUGGAAUCAAAGACUAGUC. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "telomerase_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_845",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: ACGGUUUUUGAGGAUGUCCUUUGUCCGUAUUAUAAUGCCCUCUGUCACCAGGUGAAUGGAAGCAAAGCGGCAACAAAGACUAGUC. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "telomerase_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_846",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: CACGGCUUUUGUUGAUGUCUUUUGUCCGUUUGUGCCCUGCUAUGGCAGAGGAAUCAAAAACUUAUC. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "telomerase_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_847",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: AAGUGGAUUGGGGCCCACACGAGGCUGCAUAAAUAAACUAAACCCUAAACCUUGCCUGGUUGUUUAGGGCGGUUCUCGGAUACUCGUGGGGAUGUUAGGCCUGCGUUUCGCCCCCCUUUGAAUCGAAACGCAGACGCCUCUAUGAGUCUUCGUGUGGUGUAUGGGCCUGGGUUUGGGCUUGCAGGUGGUGAUUGUCGGCGUCAGGAUGACGUCACCGCCGUUCACCGUUGUCCUCGCCAACCCAACCACUCCACAAAUUUU. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "telomerase_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_848",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: CUUUGGUGGAGGAUGUUCCUCUGCUUCCCUAACCCUAACCCUGACAUCUGAAAUGAAAUCCUGCCUUCAUUGCACCCUGUUGUUCUUUUGGUCCGGUUUCUUUUCAGGGAAGGCAGUUUUAAAACAAAGAAACCGGUCUGCUCUAAAGGCGAUGAAAAUAGUGGAUUCCAUUUGCUUGAAAGCAAUUUCGGCCAAGGGUUGUUAGUACACUUCGACACGAUCCGUGCAUGGUUCGUCCCUGCCGACG. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "telomerase_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_849",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: CCUGGGGUGUGGGGCGAGAAAUGACACGUGGAAUGAUACCCUAAACCCGCCACUCUGUCCUUGUUAAAGGGCAGAGCACCAAACCAUUGGGGUCGUUUCCCGAUGUUUCCCUCGUGUGGUUAAACAAAGAAACGUUGAUGCCGCGCGUGUCAUUUCCCACGUGGAAAACCCCUCGAGAGGUUUGCAGGUGGUGCUGCUCGCCGGUUCAGGCGGUACGCGGUUACUGGUUUCCUCGCCUCUCCUGCACCCCCACAACAUUUU. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "telomerase_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_850",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: AUUGGGGUGUGGGCCAGAAACGACACGCGCUAAUUUAAACCCUAAACCUGUUUGACUGUUAAGGGGAUUUUGCCGGCGUUUACCCCUGUGGAUCCCAAAAAAUCUUAAACGUUGAUGCACUGCGCGUGGUUUAGUUUCCAGUUGUCUAAUAUAGCCUUUGAGGUUCGUAGGUGGGUGCUGCCUACACCAUUGCCAUGGUGUCUUGCGGCGGCAGCUAUUGUCCUCGCCUCUUAAUCACCCCCCCUUUUU. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "telomerase_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_851",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GCGCUGGUUUAGCUCAGUGGUUACUUCCUUCCUGUGUUGUUGGCCUUUGUCACAGCUCCUGGGGCUGUGGGGAUCGAACCAGGGGCGCUGUCCAGCGUUUUA. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "vault_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_852",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GCGCUGGUGUAGCUCAGUGGUCUUCAAAAACUUCUCUAUCAGAAAUGUCUGUACCUCUGCAAAGGGGUUCGAACCAGGGCGCUGUCCAGUGUUUUG. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "vault_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_853",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GAGCCAGCUCAGCCCAGCGGUUCCAUUGACCAACGCAUUGCUUGGAUCCCCCAAUCGCUUCCAGCAGUUUGAGACCCGUGGGCGCUGCCUGGUUGUUGU. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "vault_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_854",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GGGGCUUUAGCCCAGCGGUUCCUUCCAGUCUGUCUUCCCAAUCACCCGGGCCGAUUGGUCCGGUGGUUUGAGACCCUCUGGCGCUCUCCAGUCCUUUA. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "vault_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_855",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GCGCUGGUUUAGCUCAGUGGUUACUUCCUUCCUGUGUUGUUGGCCUUUGUCACAGCUCCUGGGGCUGUGGGGAUCGAACCACGGGCGCUGUCCAGCGUUUUA. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "vault_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_856",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GCAUCAGUUUAGCCAAGUGGUUACUUCCUCGGUUGAAAACUUAUUCUGUGGCCCGCGGGCUACGGGGUUCAAACCACCGGCGCUGUCUGGCGUUUUA. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "vault_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_857",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GCGCAGGCUUUGUCGAGUGGUUACUUCGUUAGUACAGAAUUUGCGUUUCGGUAACUGCGUCAAAGACCACUGACACAAUCCUGCGUUUUU. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "vault_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_858",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: AUGCUGGGUAGCUCAGGGGAUACUUCAACUCUGUCACCGGAUGUCUAAUCUCCCAGUCCACAAGCCAGAGGUUCGAACCCCGGGCGCAGUCCAACGUUUUU. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "vault_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_859",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GAGCCAGCUUAGCCCAGCCCAGCGGUUCCAUCGAACAAAGCAUUGCACAGACGCCCCAAUCGCUUCUGGCGGUUCGAGACCCGCGGGAGCUGCCUGGCUUUCAA. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "vault_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_860",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GGGCCGGCUUUAGCCCAGCGGUUCCUUCGGUUCAUACAGUUUGUGUUGCCGGGCCCCGACUGGGGUUCGAUCCCGCGGGCACCCCUGGCCCAUUU. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "vault_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_861",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GCUCGUGCUGAAGGCCUGUUUCCUAGGCUACAAACUGGGGACUAGUUCCUUACUUGCGCCUAGGGGAAAGUCCCCGGACUUCUGGCAGAGAGUGCCGCGUGCGCAUGUACGUAGACCUUCCCUGCUUCUCACGGUUAAGCCCGCCAAGAAGCGAUCCCGCAGGUGGUGGGGGAGCCGAGCGGCGUGUUGCGGGGGGUGUCAUCCGUCUACUUCUAUAGUUACGCAGGCAGUGCGCCAUCGUGCGCACCAACCACACGGGGCUCAUUCUCAGUGCGGC. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "RNase_MRP_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_862",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: AAGCACGGCUUCGCAGCGCACAGACGGGGAGCUCGCUCCUUCCUUGAAGCUGCGGGGAAAGUCCCCGUGCCCUUGGGCAGAGAGUGCCGGCGGGAGACCGCCAGGCCCCGGCCCUGCCGUUUGCGGCGAGGCCUCUUGGCGGAGCCAGAGCGGCGGGCUGGGGUCGCUCGCAGCAGCACAGCCAUGCCGUGAGCGCCCUGGAAGUGGGCGCCAACAGAACGGGGCUCACUCUC. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "RNase_MRP_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_863",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: CAAGCAAGCCAAGGACCAUAUGUUUUGUGUUACACUUUCAGCAUCUAAGCUUAUUAUAUUCAACACAAGGAGAAAGUCCCGGAAAACAAAUAUCUUCUGUCCAAUGAUUAAAGAUUAGGCAGUGGGUAUUAGUAAAGCAACUUUGUUUGUUUGUUUUUUCAUAUAAAAGUAUAUGGUCACCUAUAAUAAUGGGGCAACUUAAUGGGGCUUACUCUGGCUUGUUU. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "RNase_MRP_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_864",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GAAGCACGGACUUCGCAGCGCACAGACAGGGAGAGAACUCCUGAAAAGAUGUCUCCCAAGCAAAUUGUUGUGAGGAAAGUCCCCGUGCCUUUGGGCAGAGAGUGCCAGCAGGAGACUGCGAGAUGUCGUAAUGUUCAUUGUCAGCGACGCUUUCAUGCCGAGGUGCAGUGGCAAGAUGGUUUUACGCGGAGGUGCAUUGGCAAGACGGCAUCCAUCUCUUCACAGCAGCACAGCCAUGUCGUGAGUGUUCGAGCGAGGACGCCAACUGAACGGGGCUCAUUCUC. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "RNase_MRP_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_865",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: AGCCUGUCGCAGCAGCACAGAGAUGCCGUGCGCGUUCCACAUGUGGGACGCGAACAGAAUGGGGCUCACUCUC. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "RNase_MRP_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_866",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GGAAAGUCCCCGUGCCUUGGUGCAGAGAGUGUGAGUGGGAGACCGCAGGGCUUGAGCCAAACCUCCAGUGGUGAUGCUCCUAGCAGAGCCGUGUUGGCAGGCUCGGGCCCUUCGCAGCAGAACAGAUAUGCCGUGAGCGCUCGAGAUUGGAGCGCCAACAGAACGGGGCUCACUCUCC. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "RNase_MRP_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_867",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: CUGCACGGAGAAGGGAUGCUUCGGCGUACAUGGACCGGACUUCCGGUGCAUGGACUAUCACCGCCGUGCGAAAGUCCCCGAGCGGCACCCCAAGAGCGGGUGUACGGGCAGAGAAUGCCAGCCCGGAAGGGCAGACCCCCGAGUGAGGAGCGCCGCGCAGAGGCCUCGGCUGAGCUUAAUCGUUCCUCGCGGGGAAGCUCGCUACAGCACAGUCCUGCAUUCCGCCGGCUCGCGGUCUACGCGGGUUCGUAACAGAACGGGGCUUACUCUCUCCGUGCU. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "RNase_MRP_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_868",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GGACAUUUGGAAGGUUUGCUUUCUGGGUUACAAGCGGAGAACUUAGUUUCUCGACUACUACCCAGGGAAAAGUCCCCGGACCCGUGGCAGAAAGUGCCCUGGCGUGAAGCCAGUAACGACUCAUGUCUCCCCGUUAGAGCCAAGAAGCUCGUUGAGAGCAGAGCUCGGGGUACACUUGUCGUCUUUGUCAUGCACGAGAGAAAUGCAGGCGUGCGCGCGCACUGUAUAACAGAACGGGGCUCACUCUCUGAAUGCUC. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "RNase_MRP_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_869",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GGCUAGAGGAAAGUCCCCGGAUGAAUCGGUAGAGAUACCGCUCCUACAGGAGUUGUCAGUCGGUUCCAACUCGAGGAAGAGAUUCGCCUCGAGCGAUGAUCCGCUUGAGAGUUUGGCCAGCUGUCUUCAUCUUACCACAGUAACGCGCUGGUACAUCGAAGCUAACCGUGCUUGGAAGAGCAUUCUUCCGGGUGGUCAAUGACUAGAUGAGUCCCCUCAGUGGGCUCAUCCGCCUCAGCUUGUGCCAAGAACAGAACGGGGCUUACCUUC. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "RNase_MRP_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_870",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: UUUGGAGCAUGGGGGUCAUUUGCUACAUGCUGCUGCUGGGCAGGCCUCCAUUCCGAGGGAAGGACAACGUGCACAUCGCCAA. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "RNase_MRP_RNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_871",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: UUCGGAUAUAUGCCUUAACUUUUGUGAAAAUUCUGAGAAUUGUUUCCAAUUCACAAUAUGGCAAUAUCCUAGAAUAAUGAACAGGAACUCUGUGCAAUGGCAUUGGAGCUUGUGGCAUUGCAUCGUUCUUCCUGCGACAUUC. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "scaRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_872",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: UGCAAGUGAUUAUAAUCCGAGAUUUGAGAGUGUUGGCACACCUGCGACCUGAAUCGCGUUACUGAUUGGCGUAGGCAAGAUGCCAAGCUCUGUGAUUUACUUUGAUCUUAUCUGAUGCA. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "scaRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_873",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: ACUGGAGGAUCAAGAAGGCUGAGUCUGAUGAAGCAAGACUUUGAUGAUACGCUCCUCCUAGACAAGGGGGUGGAGAGAGCAGCCUUUACUGGAGAAAGCCACAAGGCUCACUGUACUACCCAACAUUU. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "scaRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_874",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: CUGAAGACUAAGAAAAUAGAGUCCUUAAAGUCAAGCUGAGUCUGCUGUUAGCCUCCUAAAUGAAAGGAUAGACAGAACAGGUCUUGUUUGCAAAAUAAAUUCAAGACCUACUUAUCUACCGACAGCA. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "scaRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_875",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GAUGGAAGCUGCAGAGCCAACCGUGCAGACAAAUGAGAAAAUAUCUUGGGUCUGCGGAAGGCAAUGGUCCUACAUAAUAAUAAACAUG. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "scaRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_876",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GACCUUGUGUCCACUGAGCUGUGGGAAAGCUUCCUCCUCAGCAGCACUUGAGCUUGAGGCCAAGAUCAGUCCUUGAGGACUGUGGAUCAUCAUAAGGAUGGCCAUGGCAGGGAACGCCAUUUUCCCACCUCAGAUGUUC. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "scaRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_877",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: ACUGGAGGAUCAAGUAGGCUGAGUCUGAUGAAGCAAGACUUUGCCGAUACACUCCUAGACAAAGGGGUGAAAGAGCAGCCCUUCCUGGAGAAAACCACAGGGCUCACUGUACUACCCAACGUUU. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "scaRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_878",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: GGCCUCUUGUCCAUUGAGCUGUGGGGAUCGUGUUCCUCCAUGGCCAGGGCUGGAGGCCAAGAUCAGCUGUGAGGAGCAUUCGUCAGGACUGCUAUGAGCAGGCAGCCUUGUUUCCGGCCUCAGACACUG. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "scaRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_879",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: AUGGUCUUGGGAAAGGCUCCUGUGUUGUUGAACCUGCUCAGUUGUGGGUGCAGCCUUGUACCAGGCAGCCCAACCCUGACCUAAAGUAAAUUCCCAGGAAAAGUCUUUCCUAGGUUGUGAAUUUGCAGUAAUAGGUGUGUGCAUCCUAGCAGCAGUUUGAUGAUCAUGUAUGAAACUGCAAACAGGA. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "scaRNA",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_880",
+            "category": "RNA function classification",
+            "question": "Please predict the function of the sequence: UCCAUGUGAUGAGUCAGAACGGAUAUCUGAGAAGCGUGCUCAUACUUGGCAGUCGCUGGGCACGAGUUACUGUGCGGUGGCUGUCCAAGAGCAGGCCAUGAUUAAAACCUCGAAUACUGAAU. You can choose one from the following choices: [SRP_RNA,hammerhead_ribozyme,RNase_MRP_RNA,scRNA,rRNA,antisense_RNA,guide_RNA,scaRNA,tRNA,autocatalytically_spliced_intron,snoRNA,piRNA,RNase_P_RNA,siRNA,misc_RNA,other,miRNA,precursor_RNA,pre_miRNA,ncRNA,lncRNA,snRNA,Y_RNA,sRNA,tmRNA,telomerase_RNA,ribozyme,vault_RNA].",
+            "answer": "scaRNA",
+            "eval": "Accuracy"
+        }
+    ]
+}

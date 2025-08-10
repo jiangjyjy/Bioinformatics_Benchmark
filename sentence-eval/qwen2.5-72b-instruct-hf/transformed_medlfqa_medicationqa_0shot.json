@@ -1,0 +1,1237 @@
+{
+    "0": {
+        "origin_prompt": "You are a leading expert in MedLFQA_MedicationQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: how dextroamphetamine works\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. **Understanding Dextroamphetamine**: Dextroamphetamine is a central nervous system (CNS) stimulant that is primarily used to treat attention deficit hyperactivity disorder (ADHD) and narcolepsy. It is a more potent form of amphetamine, specifically the dextrorotatory (right-handed) enantiomer.\n\n2. **Mechanism of Action**:\n   - **Dopamine and Norepinephrine**: Dextroamphetamine works by increasing the levels of certain neurotransmitters in the brain, primarily dopamine and norepinephrine.\n   - **Reuptake Inhibition**: It inhibits the reuptake of these neurotransmitters, meaning it prevents them from being removed from the synaptic cleft, thus prolonging their effects.\n   - **Release from Presynaptic Neurons**: Dextroamphetamine also promotes the release of dopamine and norepinephrine from presynaptic neurons, further increasing their concentration in the synaptic cleft.\n\n3. **Effects on the Brain**:\n   - **Enhanced Focus and Alertness**: By increasing dopamine levels, dextroamphetamine enhances focus, attention, and alertness, which is particularly beneficial for individuals with ADHD.\n   - **Increased Energy and Wakefulness**: The increase in norepinephrine levels contributes to increased energy and wakefulness, which is why it is used to treat narcolepsy.\n\n4. **Pharmacokinetics**:\n   - **Absorption**: Dextroamphetamine is rapidly absorbed from the gastrointestinal tract.\n   - **Distribution**: It is distributed throughout the body, including the brain, where it exerts its primary effects.\n   - **Metabolism and Excretion**: It is metabolized in the liver and excreted primarily through the urine.\n\n5. **Potential Side Effects and Considerations**:\n   - **Common Side Effects**: These can include increased heart rate, elevated blood pressure, dry mouth, and insomnia.\n   - **Long-term Use**: Long-term use can lead to tolerance and dependence, and it is classified as a Schedule II controlled substance due to its potential for abuse.\n\nFinal answer: Dextroamphetamine works by increasing the levels of dopamine and norepinephrine in the brain through reuptake inhibition and enhanced release from presynaptic neurons. This leads to enhanced focus, attention, and alertness, making it effective for treating ADHD, and increased energy and wakefulness, which is beneficial for treating narcolepsy."
+        ],
+        "gold": {
+            "free_form_answer": "Dextroamphetamine is used as part of a treatment program to control symptoms of attention deficit hyperactivity disorder (ADHD; more difficulty focusing, controlling actions, and remaining still or quiet than other people who are the same age) in adults and children. Dextroamphetamine is also used to treat narcolepsy (a sleep disorder that causes excessive daytime sleepiness and sudden attacks of sleep). Dextroamphetamine is in a class of medications called central nervous system stimulants. It works by changing the amounts of certain natural substances in the brain.",
+            "must_have": [
+                "Dextroamphetamine is used as part of a treatment program for controlling symptoms of ADHD and treating narcolepsy in adults and children.",
+                "It is a central nervous system stimulant and works by changing the amounts of certain natural substances in the brain."
+            ],
+            "nice_to_have": [
+                "Attention deficit hyperactivity disorder in individuals leads to more difficulty in focusing, controlling actions, and remaining still or quiet than others of the same age.",
+                "Narcolepsy is a sleep disorder that causes excessive daytime sleepiness and sudden attacks of sleep."
+            ]
+        },
+        "rouge-1": 0.24034334361657061,
+        "rouge-2": 0.08849557155367616,
+        "rouge-l": 0.18025750670669943,
+        "rouge-s": 0.10702341137123746,
+        "bertscore_precision": 0.6342328786849976,
+        "bertscore_recall": 0.7867872714996338,
+        "bertscore_f1": 0.7023212909698486
+    },
+    "1": {
+        "origin_prompt": "You are a leading expert in MedLFQA_MedicationQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: what strengths do valproic acid come in meds come in\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. **Identify the Medication**: The question is about valproic acid, a medication commonly used to treat epilepsy, bipolar disorder, and migraine headaches.\n2. **Determine the Formulations**: Valproic acid is available in various formulations, including tablets, extended-release tablets, and liquid solutions.\n3. **Research the Strengths**: Each formulation of valproic acid comes in different strengths. It is important to identify the specific strengths available for each form.\n4. **Verify the Information**: Cross-reference the information with reliable medical sources, such as pharmaceutical databases, drug information websites, and clinical guidelines.\n\nFinal answer: Valproic acid is available in the following strengths:\n- **Tablets**: 250 mg\n- **Extended-Release Tablets**: 250 mg, 500 mg\n- **Liquid Solution**: 250 mg/5 mL (50 mg/mL)\n\nThese strengths are commonly available, but the exact availability may vary by country and manufacturer. Always consult a healthcare provider or pharmacist for specific dosing and availability information."
+        ],
+        "gold": {
+            "free_form_answer": "Valproic Acid Capsules, USP are supplied as 250 mg off-white colored soft gelatin capsules, imprinted with \"U-S 250\", packaged in bottles containing 100.",
+            "must_have": [
+                "Valproic acid capsules come in a strength of 250 mg.",
+                "They are supplied as off-white colored soft gelatin capsules with the imprint \"U-S 250\"."
+            ],
+            "nice_to_have": [
+                "Valproic Acid Capsules are packaged in bottles containing 100 capsules."
+            ]
+        },
+        "rouge-1": 0.11475409540446126,
+        "rouge-2": 0.012903223370656025,
+        "rouge-l": 0.06557376753560884,
+        "rouge-s": 0.0425531914893617,
+        "bertscore_precision": 0.5687737464904785,
+        "bertscore_recall": 0.6449729204177856,
+        "bertscore_f1": 0.6044814586639404
+    },
+    "2": {
+        "origin_prompt": "You are a leading expert in MedLFQA_MedicationQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: is pramipexole addictive?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. **Understanding Pramipexole**: Pramipexole is a medication primarily used to treat Parkinson's disease and restless legs syndrome (RLS). It is a dopamine agonist, which means it mimics the effects of dopamine in the brain.\n2. **Mechanism of Action**: Pramipexole works by directly stimulating dopamine receptors in the brain. Dopamine is a neurotransmitter that plays a crucial role in reward and pleasure centers, which can sometimes be associated with addiction.\n3. **Addiction Potential**: While pramipexole is not considered a highly addictive drug, it can potentially lead to compulsive behaviors and impulse control disorders (ICDs) in some individuals. These behaviors can include gambling, hypersexuality, and compulsive shopping.\n4. **Clinical Evidence**: Studies and clinical reports have shown that a small percentage of patients taking pramipexole may develop these compulsive behaviors, which can be distressing and disruptive. However, these behaviors are not the same as traditional addiction to substances like opioids or stimulants.\n5. **Risk Factors**: The risk of developing compulsive behaviors while on pramipexole is higher in individuals with a history of addiction or impulse control disorders. Monitoring and regular follow-ups with a healthcare provider are essential to manage these risks.\n\nFinal answer: Pramipexole is not considered highly addictive, but it can potentially lead to compulsive behaviors and impulse control disorders in some individuals, particularly those with a history of addiction or impulse control issues. Regular monitoring by a healthcare provider is recommended to manage these risks."
+        ],
+        "gold": {
+            "free_form_answer": "you should know that some people who took medications such as pramipexole to treat Parkinson's disease or restless legs syndrome developed gambling problems, an increased interest in shopping or sex, overeating problems, or other intense urges or behaviors that were compulsive or unusual for them. There is not enough information to tell whether the people developed these problems because they took the medication or for other reasons. Call your doctor if you develop intense urges or have difficulty controlling any of these behaviors. Tell your family members about these risks so that they can call the doctor even if you do not realize that your behavior has become a problem.",
+            "must_have": [
+                "Some people who took medications such as pramipexole to treat Parkinson's disease or restless legs syndrome developed gambling problems, increased interest in shopping or sex, overeating problems, or other intense urges or behaviors that were compulsive or unusual for them."
+            ],
+            "nice_to_have": [
+                "If you develop intense urges or have difficulty controlling any of these behaviors, you should call your doctor.",
+                "Inform your family members about these risks so that they can call the doctor even if you do not realize that your behavior has become a problem.",
+                "There is not enough information to confirm whether the people developed these problems because they took the medication or for other reasons."
+            ]
+        },
+        "rouge-1": 0.26666666199727895,
+        "rouge-2": 0.053156141616538845,
+        "rouge-l": 0.17142856675918378,
+        "rouge-s": 0.10638297872340426,
+        "bertscore_precision": 0.650673508644104,
+        "bertscore_recall": 0.7110447883605957,
+        "bertscore_f1": 0.6795209050178528
+    },
+    "3": {
+        "origin_prompt": "You are a leading expert in MedLFQA_MedicationQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: how to stop taking amlodipine\n\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. **Understanding Amlodipine**: Amlodipine is a calcium channel blocker used to treat high blood pressure (hypertension) and certain types of chest pain (angina). It works by relaxing blood vessels, which allows blood to flow more easily and reduces the workload on the heart.\n2. **Importance of Medical Supervision**: Stopping amlodipine abruptly can lead to a rebound increase in blood pressure or worsening of angina. Therefore, it is crucial to consult a healthcare provider before making any changes to the medication regimen.\n3. **Gradual Tapering**: If a healthcare provider determines that it is safe to stop amlodipine, they will likely recommend a gradual tapering process. This involves slowly reducing the dosage over a period of time to minimize the risk of adverse effects.\n4. **Monitoring Symptoms**: During the tapering process, it is important to monitor for any symptoms of high blood pressure or angina. If symptoms worsen, the healthcare provider may adjust the tapering schedule or recommend alternative treatments.\n5. **Alternative Treatments**: If amlodipine is being discontinued, the healthcare provider may prescribe alternative medications to manage blood pressure or angina. These could include other types of antihypertensive drugs or anti-anginal medications.\n6. **Lifestyle Modifications**: In addition to medication, lifestyle changes such as a healthy diet, regular exercise, stress management, and avoiding smoking and excessive alcohol can help manage blood pressure and reduce the risk of cardiovascular events.\n\nFinal answer: To stop taking amlodipine, it is essential to consult a healthcare provider. They will likely recommend a gradual tapering process to minimize the risk of rebound high blood pressure or worsening angina. During this process, monitor for any symptoms and follow any additional recommendations for alternative treatments and lifestyle modifications."
+        ],
+        "gold": {
+            "free_form_answer": "Continue to take amlodipine even if you feel well. Do not stop taking amlodipine without talking to your doctor.",
+            "must_have": [
+                "Never stop taking amlodipine abruptly.",
+                "Discontinuing amlodipine should be done under a healthcare provider's supervision to avoid withdrawal symptoms and the possible worsening of medical conditions."
+            ],
+            "nice_to_have": [
+                "Continuing to take amlodipine even when feeling well is suggested as it helps maintain a consistent level of medication in the body.",
+                "Furthermore, it helps prevent fluctuations of blood pressure and reduces the risk of severe health consequences like strokes or heart attacks."
+            ]
+        },
+        "rouge-1": 0.04705882172941183,
+        "rouge-2": 0.015936253648672353,
+        "rouge-l": 0.04705882172941183,
+        "rouge-s": 0.025089605734767026,
+        "bertscore_precision": 0.5433719158172607,
+        "bertscore_recall": 0.6819319725036621,
+        "bertscore_f1": 0.6048175692558289
+    },
+    "4": {
+        "origin_prompt": "You are a leading expert in MedLFQA_MedicationQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: what is the length of entecavir treatment\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. **Understanding Entecavir**: Entecavir is an antiviral medication used primarily to treat chronic hepatitis B infection. It works by inhibiting the replication of the hepatitis B virus (HBV) in the body.\n2. **Treatment Duration for Chronic Hepatitis B**: The duration of entecavir treatment can vary depending on several factors, including the severity of the infection, the patient's response to the medication, and the presence of any liver damage or cirrhosis.\n3. **General Guidelines**:\n   - **Initial Treatment**: For patients with chronic hepatitis B, entecavir is typically prescribed for an extended period, often several years.\n   - **Monitoring and Response**: Regular monitoring of liver function tests, viral load, and other relevant markers is essential to assess the effectiveness of the treatment and to determine if adjustments are needed.\n   - **Long-Term Management**: In many cases, entecavir treatment is continued indefinitely, especially for patients with a high risk of liver complications, such as cirrhosis or liver failure.\n4. **Specific Recommendations**:\n   - **HBeAg-Positive Patients**: For patients who are hepatitis B e antigen (HBeAg) positive, treatment is generally continued until HBeAg seroconversion (loss of HBeAg and appearance of anti-HBe) and sustained suppression of HBV DNA for at least 6 months.\n   - **HBeAg-Negative Patients**: For HBeAg-negative patients, treatment is typically continued until sustained suppression of HBV DNA and normalization of liver enzymes for at least 12 months.\n5. **Consultation with Healthcare Provider**: The exact duration of entecavir treatment should be determined by a healthcare provider based on individual patient factors and ongoing clinical assessments.\n\nFinal answer: The length of entecavir treatment for chronic hepatitis B can vary, but it is generally a long-term commitment, often several years or even indefinite, depending on the patient's response and the presence of liver damage. Specific guidelines include continuing treatment until HBeAg seroconversion and sustained viral suppression for at least 6 months in HBeAg-positive patients, and sustained viral suppression and normal liver enzymes for at least 12 months in HBeAg-negative patients. Consultation with a healthcare provider is essential to determine the appropriate duration of treatment."
+        ],
+        "gold": {
+            "free_form_answer": "The optimal duration of treatment with entecavir tablets for patients with chronic hepatitis B virus infection and the relationship between treatment and long-term outcomes such as cirrhosis and hepatocellular carcinoma are unknown.",
+            "must_have": [
+                "The specific length of entecavir treatment for chronic hepatitis B infections is not clearly established.",
+                "The relationship between the duration of the entecavir treatment and long-term health outcomes such as cirrhosis and hepatocellular carcinoma is unknown."
+            ],
+            "nice_to_have": [
+                "Entecavir is a potent oral antiviral drug used against hepatitis B virus.",
+                "It is used for the treatment of chronic hepatitis B virus infection in adults with active viral replication and evidence of active inflammatory disease in the liver."
+            ]
+        },
+        "rouge-1": 0.21390374076925278,
+        "rouge-2": 0.0821917789240477,
+        "rouge-l": 0.1711229921061512,
+        "rouge-s": 0.057750759878419454,
+        "bertscore_precision": 0.5956370830535889,
+        "bertscore_recall": 0.7489393353462219,
+        "bertscore_f1": 0.6635488271713257
+    },
+    "5": {
+        "origin_prompt": "You are a leading expert in MedLFQA_MedicationQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: is dronabinol marijuana how much are ten mg pills worth\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. **Understanding Dronabinol**: Dronabinol is a synthetic form of THC (tetrahydrocannabinol), the primary psychoactive component in marijuana. It is used medically to treat nausea and vomiting caused by chemotherapy and to increase appetite in patients with AIDS.\n2. **Dronabinol vs. Marijuana**: While dronabinol contains THC, it is not the same as marijuana. Marijuana is a plant with various strains and compounds, including THC, CBD, and others. Dronabinol is a purified form of THC and is regulated as a prescription medication.\n3. **Pricing of Dronabinol Pills**: The cost of dronabinol pills can vary significantly depending on factors such as location, pharmacy, insurance coverage, and the specific brand. As of the latest data, the cost of a 10 mg dronabinol capsule can range from $5 to $15 per capsule without insurance. However, prices can be much lower with insurance or through patient assistance programs.\n4. **Market Value**: The street value of dronabinol, if it is being sold illegally, can be higher due to the black market dynamics. However, it is important to note that purchasing or selling prescription medications without a valid prescription is illegal and can have serious legal and health consequences.\n\nFinal answer: Dronabinol is a synthetic form of THC and is not the same as marijuana. The cost of a 10 mg dronabinol pill can range from $5 to $15 per capsule without insurance, but prices can vary based on location, pharmacy, and insurance coverage. If you are considering purchasing dronabinol, it is important to do so through legal and medical channels to ensure safety and legality."
+        ],
+        "gold": {
+            "free_form_answer": "The cost for dronabinol oral capsule 2.5 mg is around $94 for a supply of 60 capsules, depending on the pharmacy you visit.",
+            "must_have": [
+                "The cost for dronabinol oral capsule 2.5 mg is usually around $94 for a supply of 60 capsules."
+            ],
+            "nice_to_have": [
+                "Dronabinol is a synthetic form of a certain natural substance in marijuana (delta-9-THC).",
+                "It is used to treat nausea and vomiting caused by chemotherapy in people who have already taken other medications to treat these symptoms without good results.",
+                "It is also used to treat loss of appetite and weight loss in people who have acquired immunodeficiency syndrome (AIDS)."
+            ]
+        },
+        "rouge-1": 0.16249999762812503,
+        "rouge-2": 0.01709401539045966,
+        "rouge-l": 0.12499999762812504,
+        "rouge-s": 0.04247104247104247,
+        "bertscore_precision": 0.5985552072525024,
+        "bertscore_recall": 0.7190049886703491,
+        "bertscore_f1": 0.653274416923523
+    },
+    "6": {
+        "origin_prompt": "You are a leading expert in MedLFQA_MedicationQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: how often do you need a zoster vaccine?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. **Understanding the Zoster Vaccine**: The zoster vaccine, also known as the shingles vaccine, is designed to prevent shingles, a painful rash caused by the reactivation of the varicella-zoster virus (the same virus that causes chickenpox). There are two main types of zoster vaccines: Shingrix (recombinant zoster vaccine) and Zostavax (live attenuated zoster vaccine).\n\n2. **Vaccine Recommendations**: The Centers for Disease Control and Prevention (CDC) and other health organizations provide guidelines on the frequency and timing of zoster vaccinations. As of the latest recommendations:\n   - **Shingrix**: The CDC recommends two doses of Shingrix, given 2 to 6 months apart. Shingrix is the preferred vaccine for adults aged 50 and older, as well as adults aged 19 and older who have a weakened immune system.\n   - **Zostavax**: Zostavax is a single-dose vaccine. However, it is less effective than Shingrix and is generally recommended only for those who cannot receive Shingrix.\n\n3. **Booster Doses**: The need for booster doses of the zoster vaccine is a topic of ongoing research. As of the current guidelines:\n   - **Shingrix**: No booster doses are currently recommended for Shingrix. The vaccine is highly effective, and studies suggest that its protection lasts for at least 10 years.\n   - **Zostavax**: No booster doses are recommended for Zostavax. However, if a person has already received Zostavax, they can still receive Shingrix later for better protection.\n\n4. **Special Considerations**: Certain factors may influence the vaccination schedule, such as:\n   - **Age**: The vaccine is recommended for adults aged 50 and older.\n   - **Immune Status**: Individuals with weakened immune systems may have different recommendations.\n   - **Previous Shingles Infection**: Even if a person has had shingles, they can still benefit from the vaccine.\n\nFinal answer: The zoster vaccine, specifically Shingrix, is recommended as two doses given 2 to 6 months apart. No booster doses are currently recommended for Shingrix, and its protection is expected to last for at least 10 years. For Zostavax, a single dose is recommended, and no booster doses are needed. However, Shingrix is the preferred vaccine due to its higher efficacy."
+        ],
+        "gold": {
+            "free_form_answer": "People 60 years of age or older should get shingles vaccine (Zostavax). They should get the vaccine whether or not they recall having had chickenpox, which is caused by the same virus as shingles. Studies show that more than 99% of Americans aged 40 and older have had chickenpox, even if they don’t remember getting the disease. There is no maximum age for getting shingles vaccine.A new shingles vaccine called Shingrix was licensed by the U.S. Food and Drug Administration (FDA) in 2017. CDC recommends that healthy adults 50 years and older get two doses of Shingrix, 2 to 6 months apart. Shingrix provides strong protection against shingles and PHN. Shingrix is the preferred vaccine, over Zostavax.",
+            "must_have": [
+                "People 60 years of age or older should receive the shingles vaccine, regardless if they recall having had chickenpox.",
+                "Healthy adults 50 years and older should get two doses of Shingrix, 2 to 6 months apart.",
+                "Even if you have had shingles, you can still receive the shingles vaccine to help prevent future occurrences."
+            ],
+            "nice_to_have": [
+                "There is no maximum age for getting the shingles vaccine.",
+                "More than 99% of Americans aged 40 and older have had chickenpox, even if they don’t remember getting the disease.",
+                "In 2017, the U.S. FDA licensed a new shingles vaccine called Shingrix.",
+                "You should generally make sure the shingles rash has disappeared before getting vaccinated.",
+                "The decision on when to get vaccinated should be made with your healthcare provider.",
+                "Shingrix is preferred over Zostavax due to its strong protection against shingles and PHN."
+            ]
+        },
+        "rouge-1": 0.3236514478194246,
+        "rouge-2": 0.10526315375914143,
+        "rouge-l": 0.20746887520531682,
+        "rouge-s": 0.1253731343283582,
+        "bertscore_precision": 0.6782712936401367,
+        "bertscore_recall": 0.756537914276123,
+        "bertscore_f1": 0.715269923210144
+    },
+    "7": {
+        "origin_prompt": "You are a leading expert in MedLFQA_MedicationQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: what are beta blockers\n\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. **Definition and Classification**: Beta blockers, also known as beta-adrenergic blocking agents, are a class of medications that work by blocking the effects of the hormone epinephrine (adrenaline) on the body. They primarily target the beta receptors, which are found in the heart, blood vessels, and other organs.\n2. **Mechanism of Action**: Beta blockers reduce the workload on the heart by decreasing heart rate and the force of heart contractions. They also help to lower blood pressure by dilating blood vessels, which reduces the resistance against which the heart must pump.\n3. **Types of Beta Blockers**: There are several types of beta blockers, including:\n   - **Non-selective beta blockers**: These block both beta-1 and beta-2 receptors. Examples include propranolol and nadolol.\n   - **Selective beta-1 blockers**: These primarily block beta-1 receptors, which are predominantly found in the heart. Examples include atenolol and metoprolol.\n   - **Beta blockers with additional properties**: Some beta blockers have additional properties, such as alpha-blocking activity (e.g., carvedilol) or intrinsic sympathomimetic activity (e.g., pindolol).\n4. **Clinical Uses**: Beta blockers are used to treat a variety of conditions, including:\n   - **Hypertension (high blood pressure)**\n   - **Angina (chest pain)**\n   - **Arrhythmias (irregular heartbeats)**\n   - **Heart failure**\n   - **Myocardial infarction (heart attack)**\n   - **Migraines**\n   - **Anxiety and tremors**\n5. **Side Effects and Precautions**: Common side effects of beta blockers include fatigue, dizziness, and cold hands and feet. They can also cause more serious side effects, such as bradycardia (slow heart rate) and hypotension (low blood pressure). Beta blockers should be used with caution in patients with asthma, chronic obstructive pulmonary disease (COPD), and certain types of heart block.\n\nFinal answer: Beta blockers are a class of medications that block the effects of epinephrine on the body by targeting beta receptors, primarily found in the heart and blood vessels. They reduce heart rate and the force of heart contractions, lower blood pressure, and are used to treat conditions such as hypertension, angina, arrhythmias, heart failure, and migraines. Common types include non-selective beta blockers (e.g., propranolol), selective beta-1 blockers (e.g., atenolol), and beta blockers with additional properties (e.g., carvedilol). Potential side effects include fatigue, dizziness, and cold extremities."
+        ],
+        "gold": {
+            "free_form_answer": "Beta blockers, also known as beta-adrenergic blocking agents, are medications that reduce your blood pressure. Beta blockers work by blocking the effects of the hormone epinephrine, also known as adrenaline.",
+            "must_have": [
+                "Beta blockers work by blocking the effects of the hormone epinephrine, also known as adrenaline.",
+                "Because of this action, they cause the heart to beat more slowly and with less force, thereby reducing blood pressure.",
+                "They are used for treating various conditions including hypertension, angina, arrhythmias, heart attack, migraine, and some forms of tremors."
+            ],
+            "nice_to_have": [
+                "Beta blockers also help blood vessels open up to improve blood flow which further regulates the blood pressure.",
+                "They are often prescribed along with lifestyle changes like diet and exercise to manage conditions like hypertension or angina."
+            ]
+        },
+        "rouge-1": 0.24175823955017514,
+        "rouge-2": 0.12794612634855854,
+        "rouge-l": 0.19780219559413115,
+        "rouge-s": 0.06666666666666667,
+        "bertscore_precision": 0.5974087715148926,
+        "bertscore_recall": 0.8315876126289368,
+        "bertscore_f1": 0.6953100562095642
+    },
+    "8": {
+        "origin_prompt": "You are a leading expert in MedLFQA_MedicationQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: what does spironolactone 25 mg pill look like\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. **Identify the Medication and Dosage**: The question asks about spironolactone 25 mg pills. Spironolactone is a medication used primarily as a diuretic and for treating conditions like heart failure, high blood pressure, and certain types of edema.\n2. **Research Physical Characteristics**: To accurately describe the appearance of spironolactone 25 mg pills, we need to look at the physical characteristics such as color, shape, size, and any imprints or markings.\n3. **Consult Reliable Sources**: Reliable sources for this information include pharmaceutical databases, drug information websites, and official drug manufacturer information.\n4. **Compile the Information**: Based on the research, compile the specific details about the appearance of spironolactone 25 mg pills.\n\nFinal answer: Spironolactone 25 mg pills are typically white to off-white, round, and flat with a beveled edge. They are often imprinted with \"ALDACTONE\" and \"25\" on one side. The size is usually about 7 mm in diameter. However, the exact appearance can vary slightly depending on the manufacturer. Always refer to the specific packaging or consult a healthcare provider if you are unsure."
+        ],
+        "gold": {
+            "free_form_answer": "Spironolactone Tablets USP, 25 mg are white, film-coated, round tablets, debossed “AN” above “511” on one side and plain on other side.",
+            "must_have": [
+                "Spironolactone Tablets USP, 25 mg are white, film-coated, round tablets.",
+                "They are debossed “AN” above “511” on one side and plain on the other side."
+            ],
+            "nice_to_have": [
+                "The tablets are used as a part of various treatments, including certain patients with congestive heart failure, cirrhosis of the liver with associated edema and/or ascites, nephrotic syndrome, and in patients with hypokalemia when other measures are considered inappropriate or inadequate."
+            ]
+        },
+        "rouge-1": 0.14388488962269036,
+        "rouge-2": 0.032967030925612976,
+        "rouge-l": 0.12949640041405727,
+        "rouge-s": 0.05714285714285714,
+        "bertscore_precision": 0.5514835119247437,
+        "bertscore_recall": 0.6805101037025452,
+        "bertscore_f1": 0.6092402935028076
+    },
+    "9": {
+        "origin_prompt": "You are a leading expert in MedLFQA_MedicationQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: why did my doctor give me levetiracetam\n\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. **Understanding Levetiracetam**: Levetiracetam is an anticonvulsant medication primarily used to treat epilepsy. It works by reducing the abnormal electrical activity in the brain that can lead to seizures.\n2. **Common Indications**: Levetiracetam is prescribed for various types of seizures, including partial-onset seizures, myoclonic seizures, and primary generalized tonic-clonic seizures. It is also sometimes used off-label for other conditions such as anxiety disorders, bipolar disorder, and neuropathic pain.\n3. **Patient History and Symptoms**: Your doctor likely prescribed levetiracetam based on your medical history and symptoms. If you have a history of seizures or have recently experienced symptoms such as convulsions, loss of consciousness, or unusual movements, levetiracetam would be an appropriate treatment.\n4. **Dosage and Administration**: The dosage of levetiracetam can vary depending on the severity of your condition and other factors such as age and weight. Your doctor will determine the appropriate dose and schedule for you.\n5. **Monitoring and Follow-Up**: Your doctor will likely monitor your response to the medication and may adjust the dosage as needed. Regular follow-up appointments are important to ensure the medication is effective and to manage any side effects.\n\nFinal answer: Your doctor prescribed levetiracetam because you have a condition that involves seizures or abnormal electrical activity in the brain, such as epilepsy. Levetiracetam helps to reduce the frequency and severity of seizures by stabilizing the electrical activity in your brain."
+        ],
+        "gold": {
+            "free_form_answer": "Levetiracetam Extended-release Tablets is indicated as adjunctive therapy in the treatment of partial onset seizures in patients 12 years of age and older with epilepsy.",
+            "must_have": [
+                "Levetiracetam is used as adjunctive therapy in the treatment of partial onset seizures.",
+                "It's also indicated for the treatment of tonic-clonic seizures and myoclonic seizures.",
+                "This medication should be used under the direction of a healthcare professional."
+            ],
+            "nice_to_have": [
+                "The goal of treatment with Levetiracetam is to reduce the frequency and severity of seizures.",
+                "Treatment protocols may differ depending on the individual patient's needs and response to the medication."
+            ]
+        },
+        "rouge-1": 0.14569536165606775,
+        "rouge-2": 0.017467247031902722,
+        "rouge-l": 0.1192052954309022,
+        "rouge-s": 0.048034934497816595,
+        "bertscore_precision": 0.5867748260498047,
+        "bertscore_recall": 0.7067808508872986,
+        "bertscore_f1": 0.641211211681366
+    },
+    "10": {
+        "origin_prompt": "You are a leading expert in MedLFQA_MedicationQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: what are steroids\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. **Definition and Classification**: Steroids are a class of organic compounds characterized by a specific molecular structure, which includes four rings arranged in a specific pattern. They can be broadly categorized into two main types: endogenous (produced naturally in the body) and exogenous (synthetic or derived from external sources).\n\n2. **Biological Functions**: Endogenous steroids play crucial roles in various physiological processes. For example, cholesterol is a steroid that is essential for cell membrane structure and the synthesis of other steroids. Hormones like cortisol, testosterone, and estrogen are also steroids and are involved in stress response, sexual development, and reproductive functions.\n\n3. **Medical Uses**: Exogenous steroids are used in medical treatments for a variety of conditions. Corticosteroids, such as prednisone, are used to reduce inflammation and suppress the immune system in conditions like asthma, allergies, and autoimmune diseases. Anabolic steroids, like testosterone, are used to promote muscle growth and treat certain hormonal deficiencies.\n\n4. **Potential Side Effects and Risks**: The use of steroids, especially exogenous ones, can have significant side effects. Corticosteroids can lead to issues like osteoporosis, high blood pressure, and increased susceptibility to infections. Anabolic steroids can cause liver damage, cardiovascular problems, and psychological issues like aggression and mood swings.\n\n5. **Legal and Ethical Considerations**: The use of anabolic steroids is often regulated and can be illegal in certain contexts, such as in sports, due to their performance-enhancing properties. Medical use of steroids is typically controlled and requires a prescription.\n\nFinal answer: Steroids are a class of organic compounds with a specific molecular structure, including four rings. They are divided into endogenous (naturally produced in the body) and exogenous (synthetic or externally derived) types. Endogenous steroids, such as cholesterol, cortisol, testosterone, and estrogen, play crucial roles in physiological processes like cell structure, stress response, and sexual development. Exogenous steroids are used medically to treat conditions like inflammation, autoimmune diseases, and hormonal deficiencies. However, their use can have significant side effects and is often regulated due to potential health risks and ethical concerns."
+        ],
+        "gold": {
+            "free_form_answer": "any of various compounds containing a 17-carbon 4-ring system and including the sterols and numerous hormones (such as anabolic steroids or corticosteroids) and glycosides",
+            "must_have": [
+                "Steroids are compounds that contain a 17-carbon 4-ring system.",
+                "They include sterols, numerous hormones such as anabolic steroids or corticosteroids, and glycosides."
+            ],
+            "nice_to_have": [
+                "The term \"steroid\" refers to both natural and synthetic substances.",
+                "Natural steroids are produced in the body and include hormones such as testosterone.",
+                "Synthetic steroids are man-made and are used as medicines for a variety of conditions, including inflammation, allergies, asthma, and autoimmunity diseases.",
+                "These compounds have a similar structure to certain hormones in the body, allowing them to interact with and influence the function of body cells, tissues, and organs."
+            ]
+        },
+        "rouge-1": 0.13265305923157023,
+        "rouge-2": 0.013201318729100782,
+        "rouge-l": 0.10204081433361102,
+        "rouge-s": 0.038922155688622756,
+        "bertscore_precision": 0.5751640796661377,
+        "bertscore_recall": 0.6857481002807617,
+        "bertscore_f1": 0.625606894493103
+    },
+    "11": {
+        "origin_prompt": "You are a leading expert in MedLFQA_MedicationQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: what is rate for iv infusion cilastatin/imipenem\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. **Identify the Medication**: The question asks about the rate for IV infusion of cilastatin/imipenem. Cilastatin/imipenem is a combination antibiotic, commonly known as Primaxin, used to treat severe bacterial infections.\n2. **Determine the Standard Dosage and Infusion Rate**: The standard dosage and infusion rate for cilastatin/imipenem can vary based on the patient's condition, weight, and specific clinical guidelines. However, there are general recommendations that are commonly followed.\n3. **Review Clinical Guidelines**: According to the FDA and other clinical guidelines, the typical dosage for adults is 500 mg to 1 gram of imipenem/cilastatin every 6 to 8 hours. The infusion rate is usually 30 minutes.\n4. **Consider Patient-Specific Factors**: Factors such as renal function, age, and the severity of the infection can influence the dosage and infusion rate. For example, patients with renal impairment may require dose adjustments.\n5. **Consult the Prescribing Information**: The prescribing information for Primaxin (imipenem/cilastatin) provides detailed guidance on the appropriate infusion rates and dosages.\n\nFinal answer: The standard rate for IV infusion of cilastatin/imipenem (Primaxin) is typically 30 minutes. However, the specific rate should be adjusted based on the patient's clinical condition and renal function. Always consult the prescribing information and clinical guidelines for precise dosing and infusion rates."
+        ],
+        "gold": {
+            "free_form_answer": "Recommend that the maximum total daily dosage not exceed 4 g/day.",
+            "must_have": [
+                "The maximum total daily dosage of cilastatin/imipenem should not exceed 4 g/day.",
+                "A 500 mg dose of cilastatin/imipenem should be administered by intravenous infusion over 20 to 30 minutes.",
+                "A 1,000 mg dose of cilastatin/imipenem should be administered by intravenous infusion over 40 to 60 minutes."
+            ],
+            "nice_to_have": [
+                "There is a specific duration for the infusion of cilastatin/imipenem depending on the dosage to ensure the most effective absorption and minimal side effects.",
+                "Following these guidelines for infusion can be crucial in treatment effectiveness."
+            ]
+        },
+        "rouge-1": 0.06249999842895513,
+        "rouge-2": 0.0,
+        "rouge-l": 0.06249999842895513,
+        "rouge-s": 0.024509803921568627,
+        "bertscore_precision": 0.5170556306838989,
+        "bertscore_recall": 0.672459602355957,
+        "bertscore_f1": 0.5846062302589417
+    },
+    "12": {
+        "origin_prompt": "You are a leading expert in MedLFQA_MedicationQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: what types of insulin for resistance\n\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. **Understanding Insulin Resistance**: Insulin resistance is a condition where the body's cells do not respond effectively to insulin, leading to higher blood glucose levels. This condition often requires higher doses of insulin or different types of insulin to manage blood sugar effectively.\n\n2. **Types of Insulin**: Insulin can be categorized based on its onset, peak, and duration of action. The main types of insulin include:\n   - **Rapid-Acting Insulin**: (e.g., insulin lispro, insulin aspart, insulin glulisine) - Starts working within 15 minutes, peaks in 1 hour, and lasts for 2-4 hours.\n   - **Short-Acting Insulin**: (e.g., regular insulin) - Starts working within 30 minutes, peaks in 2-3 hours, and lasts for 3-6 hours.\n   - **Intermediate-Acting Insulin**: (e.g., NPH insulin) - Starts working in 2-4 hours, peaks in 4-12 hours, and lasts for 12-18 hours.\n   - **Long-Acting Insulin**: (e.g., insulin glargine, insulin detemir, insulin degludec) - Starts working in 1-2 hours and lasts for 24 hours or more, with a relatively flat and consistent action profile.\n   - **Premixed Insulin**: Combinations of rapid-acting or short-acting insulin with intermediate-acting insulin, designed to provide both immediate and longer-lasting effects.\n\n3. **Choosing Insulin for Insulin Resistance**: For individuals with insulin resistance, the choice of insulin type depends on several factors, including the severity of resistance, lifestyle, and individual glucose control needs. Commonly used types include:\n   - **Long-Acting Insulin**: These insulins provide a steady, background level of insulin throughout the day, which can help manage baseline blood glucose levels. They are often used in combination with rapid-acting or short-acting insulins.\n   - **Premixed Insulin**: These can be useful for individuals who need both a rapid and a longer-lasting effect, simplifying the dosing regimen.\n   - **High-Dose Insulin**: In cases of severe insulin resistance, higher doses of insulin may be required. This can be achieved with any of the above types, but typically involves more frequent monitoring and adjustments.\n\n4. **Additional Considerations**: \n   - **Insulin Sensitizers**: Medications like metformin can improve insulin sensitivity and may be used in conjunction with insulin therapy.\n   - **Lifestyle Modifications**: Diet, exercise, and weight management are crucial in managing insulin resistance and can reduce the need for high doses of insulin.\n\nFinal answer: For managing insulin resistance, long-acting insulins (e.g., insulin glargine, insulin detemir, insulin degludec) and premixed insulins are commonly used. High doses of these insulins may be necessary, and they are often combined with rapid-acting or short-acting insulins to achieve better glucose control. Additionally, insulin sensitizers and lifestyle modifications are important adjuncts to insulin therapy."
+        ],
+        "gold": {
+            "free_form_answer": "Insulin sensitizers like Glucophage (Metformin) may be prescribed to help your body use insulin more effectively.",
+            "must_have": [
+                "Glucophage (Metformin) is a type of insulin sensitizer used in managing insulin resistance.",
+                "Insulins such as Regular (R), novolin, Apidra, Novolog, Humalog, NPH (N), Novolin N, detemir (Levemir) and glargine (Lantus, Toujeo) can be used in severe cases of insulin resistance or type 2 diabetes."
+            ],
+            "nice_to_have": [
+                "It's critical for patients to follow healthcare provider's instructions on using insulin to manage insulin resistance to avoid major health consequences."
+            ]
+        },
+        "rouge-1": 0.09756097417061274,
+        "rouge-2": 0.005797100617517447,
+        "rouge-l": 0.05853658392671032,
+        "rouge-s": 0.020100502512562814,
+        "bertscore_precision": 0.5532563328742981,
+        "bertscore_recall": 0.6856733560562134,
+        "bertscore_f1": 0.6123884320259094
+    },
+    "13": {
+        "origin_prompt": "You are a leading expert in MedLFQA_MedicationQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: marijuana is what schedule drug\n\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. **Understanding the Question**: The question asks about the schedule classification of marijuana under the Controlled Substances Act (CSA) in the United States. The CSA categorizes drugs into five schedules based on their potential for abuse and accepted medical use.\n\n2. **Review of Schedules**:\n   - **Schedule I**: High potential for abuse, no currently accepted medical use in the U.S., and a lack of accepted safety for use under medical supervision.\n   - **Schedule II**: High potential for abuse, currently accepted medical use with severe restrictions, and high potential for severe psychological or physical dependence.\n   - **Schedule III**: Moderate to low potential for physical and psychological dependence, currently accepted medical use.\n   - **Schedule IV**: Low potential for abuse and low risk of dependence, currently accepted medical use.\n   - **Schedule V**: Lower potential for abuse than Schedule IV, currently accepted medical use, and limited risk of dependence.\n\n3. **Current Classification of Marijuana**:\n   - As of the latest updates, marijuana (cannabis) is classified as a Schedule I drug under the CSA. This classification indicates that it is considered to have a high potential for abuse, no accepted medical use in the U.S., and a lack of accepted safety for use under medical supervision.\n\n4. **Contextual Considerations**:\n   - Despite its federal classification, several states in the U.S. have legalized marijuana for medical and/or recreational use. This creates a complex legal landscape where federal and state laws can conflict.\n\nFinal answer: Marijuana is classified as a Schedule I drug under the Controlled Substances Act in the United States."
+        ],
+        "gold": {
+            "free_form_answer": "Cannabis , also known as marijuana, is a plant grown in many parts of the world which produces a resin containing compounds called cannabinoids. Some cannabinoids are psychoactive (acting on the brain and changing mood or consciousness) (see Question 1).\nThe use of Cannabis for medicinal purposes dates back to ancient times (see Question 3).\nBy federal law, the possession of Cannabis is illegal in the United States outside of approved research settings. However, a growing number of states, territories, and the District of Columbia have enacted laws to legalize medical marijuana (see Question 1).\nIn the United States, Cannabis is a controlled substance requiring special licensing for its use (see Question 1 and Question 3).",
+            "must_have": [
+                "Marijuana is classified as a Schedule I drug under the Controlled Substances Act of the United States, which indicates that it has a high potential for abuse and no currently accepted medical use in treatment in the United States.",
+                "The federal law of the United States still considers the use, sale, and possession of marijuana to be illegal even though it is legal according to some state laws."
+            ],
+            "nice_to_have": [
+                "The use of Cannabis for medicinal purposes dates back to ancient times.",
+                "Marijuana is a plant that produces a resin containing compounds called cannabinoids, some of which are psychoactive.",
+                "A growing number of states, territories, and the District of Columbia have enacted laws to legalize medical marijuana despite it being classified as a controlled substance requiring special licensing for its use."
+            ]
+        },
+        "rouge-1": 0.26881719944906934,
+        "rouge-2": 0.02877697375265331,
+        "rouge-l": 0.1505376295565963,
+        "rouge-s": 0.11382113821138211,
+        "bertscore_precision": 0.6140974164009094,
+        "bertscore_recall": 0.673378586769104,
+        "bertscore_f1": 0.6423731446266174
+    },
+    "14": {
+        "origin_prompt": "You are a leading expert in MedLFQA_MedicationQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: how to wean off calan sr\n\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. **Understanding Calan SR**: Calan SR (Verapamil) is a calcium channel blocker used to treat conditions such as high blood pressure, angina, and certain heart rhythm disorders. It works by relaxing blood vessels and slowing the heart rate, which can make it challenging to stop abruptly due to potential withdrawal symptoms or rebound effects.\n\n2. **Consulting a Healthcare Provider**: Before attempting to wean off Calan SR, it is crucial to consult a healthcare provider. They can provide a personalized plan based on the individual's medical history, current dosage, and the reason for taking the medication.\n\n3. **Gradual Tapering**: Weaning off Calan SR should be done gradually to minimize withdrawal symptoms and avoid adverse effects. The healthcare provider will likely recommend a tapering schedule, which may involve reducing the dosage by a small amount every few weeks. For example, if the current dosage is 240 mg per day, the provider might suggest reducing it by 60 mg every two weeks.\n\n4. **Monitoring Symptoms**: During the tapering process, it is important to monitor for any symptoms such as increased blood pressure, chest pain, or heart palpitations. If any severe symptoms occur, the healthcare provider should be contacted immediately.\n\n5. **Alternative Treatments**: In some cases, the healthcare provider might recommend alternative treatments or medications to manage the condition while weaning off Calan SR. This can help ensure that the underlying condition remains controlled.\n\n6. **Lifestyle Adjustments**: Making lifestyle adjustments such as reducing stress, maintaining a healthy diet, and engaging in regular physical activity can support the weaning process and help manage symptoms.\n\nFinal answer: To wean off Calan SR, consult a healthcare provider for a personalized tapering plan, which typically involves gradually reducing the dosage over several weeks while monitoring for any symptoms. Lifestyle adjustments and alternative treatments may also be recommended to support the process."
+        ],
+        "gold": {
+            "free_form_answer": "Do not stop taking verapamil without talking to your doctor.",
+            "must_have": [
+                "Do not stop taking verapamil abruptly without consulting your doctor.",
+                "Discuss with your doctor if you want to stop taking Calan SR and strictly follow their instructions."
+            ],
+            "nice_to_have": [
+                "Verapamil or Calan SR is often prescribed to treat conditions such as high blood pressure, angina, and certain heart rhythm disorders.",
+                "Abrupt discontinuation of verapamil can cause your condition to worsen and may lead to withdrawal symptoms."
+            ]
+        },
+        "rouge-1": 0.032608694624291154,
+        "rouge-2": 0.0,
+        "rouge-l": 0.032608694624291154,
+        "rouge-s": 0.009868421052631578,
+        "bertscore_precision": 0.49853938817977905,
+        "bertscore_recall": 0.65028977394104,
+        "bertscore_f1": 0.56439208984375
+    },
+    "15": {
+        "origin_prompt": "You are a leading expert in MedLFQA_MedicationQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: testosterone over counter?\n\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. **Understanding the Question**: The question asks about the availability of testosterone over the counter. This implies a need to determine if testosterone, a hormone, can be purchased without a prescription.\n2. **Regulatory Context**: Testosterone is classified as a controlled substance in many countries, including the United States. The U.S. Food and Drug Administration (FDA) and other regulatory bodies have strict guidelines on the distribution and use of testosterone.\n3. **Legal Status**: In the United States, testosterone is a Schedule III controlled substance under the Controlled Substances Act. This means it is only available by prescription and cannot be sold over the counter.\n4. **International Variations**: While the U.S. has strict regulations, it is important to note that regulations can vary by country. However, in most developed countries, testosterone is similarly regulated and requires a prescription.\n5. **Over-the-Counter Alternatives**: There are some over-the-counter supplements that claim to boost testosterone levels, such as herbal supplements and vitamins. However, these are not the same as prescription testosterone and their effectiveness is often debated.\n\nFinal answer: Testosterone is not available over the counter. It is a controlled substance and requires a prescription from a healthcare provider. Over-the-counter supplements that claim to boost testosterone levels are available, but they are not the same as prescription testosterone."
+        ],
+        "gold": {
+            "free_form_answer": "NATURAL TESTOSTERONE- avena sativa. epimedium, lycopodium clavatum, damiana, testosterone, agnus castus spray",
+            "must_have": [
+                "Over-the-counter testosterone boosters are dietary supplements that aim to increase natural testosterone production.",
+                "These are not the same as prescription testosterone.",
+                "Consultation with a healthcare provider is advisable before starting any new supplement regimen."
+            ],
+            "nice_to_have": [
+                "They contain various ingredients, like avena sativa, epimedium, lycopodium clavatum, damiana, agnus castus.",
+                "Over-the-counter testosterone boosters' safety and efficacy are not guaranteed as they are not regulated by the FDA."
+            ]
+        },
+        "rouge-1": 0.015037592343264357,
+        "rouge-2": 0.0,
+        "rouge-l": 0.015037592343264357,
+        "rouge-s": 0.009389671361502348,
+        "bertscore_precision": 0.5101103782653809,
+        "bertscore_recall": 0.5715196132659912,
+        "bertscore_f1": 0.5390717387199402
+    },
+    "16": {
+        "origin_prompt": "You are a leading expert in MedLFQA_MedicationQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: warfarin and cabbage?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. **Understanding Warfarin**: Warfarin is an anticoagulant medication used to prevent blood clots. It works by inhibiting the synthesis of vitamin K-dependent clotting factors in the liver.\n2. **Role of Vitamin K**: Vitamin K is essential for the production of clotting factors. Foods high in vitamin K can affect the effectiveness of warfarin by increasing the body's ability to form clots, thereby reducing the anticoagulant effect of warfarin.\n3. **Vitamin K Content in Cabbage**: Cabbage is a cruciferous vegetable that contains a significant amount of vitamin K. The vitamin K content in cabbage can vary, but it is generally considered a moderate to high source of vitamin K.\n4. **Impact on Warfarin Therapy**: Consuming foods high in vitamin K, such as cabbage, can interfere with the anticoagulant effect of warfarin. This can lead to a decrease in the International Normalized Ratio (INR), which measures the blood's ability to clot. A lower INR means the blood is clotting more quickly, which can increase the risk of blood clots.\n5. **Consistency in Diet**: For patients on warfarin, it is important to maintain a consistent intake of vitamin K to avoid fluctuations in INR levels. Sudden changes in vitamin K intake can lead to unpredictable anticoagulant effects.\n\nFinal answer: Consuming cabbage, which is high in vitamin K, can interfere with the effectiveness of warfarin by increasing the body's ability to form clots. Patients on warfarin should maintain a consistent intake of vitamin K to avoid fluctuations in their INR levels and ensure stable anticoagulation. If you are on warfarin and plan to change your diet, consult your healthcare provider for guidance."
+        ],
+        "gold": {
+            "free_form_answer": "Some foods can change the way warfarin works in your body. Make sure you check with your provider before making any big changes in your diet.You do not have to avoid these foods, but try to eat or drink only small amounts of them. In the least, DO NOT change much of these foods and products you eat day-to-day or week-to-week:",
+            "must_have": [
+                "Some foods, including raw green cabbage, can alter the way warfarin works in the body.",
+                "If a person is taking warfarin, they should consult with their healthcare provider before making any significant dietary changes.",
+                "Regular and consistent consumption of these foods is important; major changes in their consumption can influence the effectiveness of warfarin."
+            ],
+            "nice_to_have": [
+                "Other foods that can interact with warfarin include mayonnaise, certain oils like canola, olive, and soybean, vegetables like broccoli, Brussels sprouts, endive, lettuce, spinach, parsley, watercress, garlic, scallions (green onions), kale, collard greens, mustard greens, and turnip greens, cranberry juice, green tea, and fish oil supplements.",
+                "Consuming small quantities of these products is usually fine, but a sudden increase in consumption could potentially affect the consistency of warfarin therapy."
+            ]
+        },
+        "rouge-1": 0.19101123201615966,
+        "rouge-2": 0.014925369742705159,
+        "rouge-l": 0.1123595466229013,
+        "rouge-s": 0.055762081784386616,
+        "bertscore_precision": 0.5934245586395264,
+        "bertscore_recall": 0.6613091230392456,
+        "bertscore_f1": 0.625530481338501
+    },
+    "17": {
+        "origin_prompt": "You are a leading expert in MedLFQA_MedicationQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: cbd from marijuana to treat what\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. **Understanding CBD and Marijuana**: CBD (Cannabidiol) is one of the many compounds found in the cannabis plant, commonly known as marijuana. Unlike THC (Tetrahydrocannabinol), CBD does not produce psychoactive effects, meaning it does not cause a \"high.\"\n2. **Medical Uses of CBD**: CBD has been studied for its potential therapeutic effects and is used to treat a variety of conditions. It is important to identify the specific conditions for which CBD is commonly prescribed or recommended.\n3. **Conditions Treated by CBD**: CBD is known to be effective in treating:\n   - **Epilepsy**: CBD has been approved by the FDA for the treatment of certain types of epilepsy, such as Dravet syndrome and Lennox-Gastaut syndrome.\n   - **Chronic Pain**: CBD has analgesic properties and can help manage chronic pain, including neuropathic pain and pain associated with conditions like multiple sclerosis.\n   - **Anxiety and Depression**: CBD has shown promise in reducing symptoms of anxiety and depression, though more research is needed.\n   - **Inflammation**: CBD has anti-inflammatory properties, which can be beneficial in treating conditions like arthritis and other inflammatory disorders.\n   - **Sleep Disorders**: CBD can help improve sleep quality and duration, particularly in individuals with anxiety or chronic pain.\n4. **Regulatory and Legal Considerations**: The use of CBD is regulated differently in various countries and states. It is important to consider the legal status and medical guidelines in the specific region where the treatment is being considered.\n\nFinal answer: CBD from marijuana is used to treat a variety of conditions, including epilepsy, chronic pain, anxiety and depression, inflammation, and sleep disorders."
+        ],
+        "gold": {
+            "free_form_answer": "Cannabis and cannabinoids have been studied in the laboratory and the clinic for relief of pain, nausea and vomiting, anxiety, and loss of appetite (see Question 6 and Question 7).",
+            "must_have": [
+                "Cannabis and cannabinoids have been studied for relief of pain, nausea and vomiting, anxiety, and loss of appetite.",
+                "Two cannabinoids (dronabinol and nabilone) are FDA-approved drugs for preventing or treating chemotherapy-related nausea and vomiting."
+            ],
+            "nice_to_have": [
+                "There is growing interest in treating children for symptoms such as nausea with Cannabis and cannabinoids.",
+                "Cannabis and cannabinoids might have benefits in treating cancer symptoms or the side effects of cancer therapies."
+            ]
+        },
+        "rouge-1": 0.10909090669164377,
+        "rouge-2": 0.02380952177280189,
+        "rouge-l": 0.08484848244921954,
+        "rouge-s": 0.051181102362204724,
+        "bertscore_precision": 0.5978253483772278,
+        "bertscore_recall": 0.7125653028488159,
+        "bertscore_f1": 0.6501718759536743
+    },
+    "18": {
+        "origin_prompt": "You are a leading expert in MedLFQA_MedicationQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: how to stop using estradiol transdermal system patch\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. **Understanding the Medication**: Estradiol transdermal system patches are used to provide a continuous, controlled release of estradiol, a form of estrogen, through the skin. They are commonly prescribed for hormone replacement therapy (HRT) to manage symptoms of menopause and other conditions related to estrogen deficiency.\n\n2. **Consultation with Healthcare Provider**: Before stopping the use of estradiol transdermal patches, it is crucial to consult with a healthcare provider. Abruptly discontinuing the medication can lead to withdrawal symptoms and may exacerbate the conditions the medication was prescribed to treat.\n\n3. **Gradual Tapering**: If the healthcare provider agrees that it is appropriate to stop using the estradiol patch, they may recommend a gradual tapering process. This involves slowly reducing the dose over a period of time to minimize withdrawal symptoms and ensure a safer transition.\n\n4. **Monitoring Symptoms**: During the tapering process, it is important to monitor any symptoms that may arise. These can include hot flashes, mood swings, vaginal dryness, and other menopausal symptoms. Reporting these symptoms to the healthcare provider can help in adjusting the tapering schedule if necessary.\n\n5. **Alternative Treatments**: The healthcare provider may suggest alternative treatments or lifestyle changes to manage symptoms if estradiol therapy is discontinued. These can include non-hormonal medications, dietary changes, exercise, and stress management techniques.\n\n6. **Follow-Up Appointments**: Regular follow-up appointments with the healthcare provider are essential to ensure that the tapering process is going smoothly and to make any necessary adjustments to the treatment plan.\n\nFinal answer: To stop using estradiol transdermal system patches, consult with your healthcare provider to develop a gradual tapering plan, monitor any symptoms, consider alternative treatments, and schedule regular follow-up appointments to ensure a safe and effective transition."
+        ],
+        "gold": {
+            "free_form_answer": "There's no limit on how long you can take HRT, but talk to your GP about the duration of treatment they recommend. Most women stop taking it once their menopausal symptoms pass, which is usually after a few years. When you decide to stop, you can choose to do so suddenly or gradually. Gradually decreasing your HRT dose is usually recommended because it's less likely to cause your symptoms to come back in the short term. Contact your GP if you have symptoms that persist for several months after you stop HRT, or if you have particularly severe symptoms. You may need to start HRT again.",
+            "must_have": [
+                "The choice to stop using the estradiol transdermal patch should be discussed and decided upon with a medical professional.",
+                "Dosage of the patch should be decreased gradually as opposed to stopping its use abruptly.",
+                "If symptoms persist for several months after stopping use of the estradiol patch, or if symptoms are severe, it is necessary to consult with a healthcare provider as it may be necessary to resume HRT."
+            ],
+            "nice_to_have": [
+                "There's no definitive limit on how long HRT, such as the estradiol transdermal patch, can be used; this is typically decided based on individual symptom relief and in consultation with a healthcare provider.",
+                "Most women discontinue HRT once their menopausal symptoms resolve, which usually happens over a span of a few years."
+            ]
+        },
+        "rouge-1": 0.19047618606098096,
+        "rouge-2": 0.023188401680319992,
+        "rouge-l": 0.11255410813890311,
+        "rouge-s": 0.0851063829787234,
+        "bertscore_precision": 0.6195881962776184,
+        "bertscore_recall": 0.6916934251785278,
+        "bertscore_f1": 0.6536583304405212
+    },
+    "19": {
+        "origin_prompt": "You are a leading expert in MedLFQA_MedicationQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: how long should i take dutasteride\n\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. **Understanding Dutasteride**: Dutasteride is a medication used primarily to treat benign prostatic hyperplasia (BPH), a condition that causes an enlarged prostate gland. It works by blocking the conversion of testosterone to dihydrotestosterone (DHT), which is responsible for prostate growth.\n\n2. **Purpose of Treatment**: The duration of dutasteride treatment depends on the specific condition being treated and the response of the patient. For BPH, the goal is to reduce the size of the prostate and improve urinary symptoms.\n\n3. **Initial Treatment Phase**: Initially, patients may start to notice improvements in symptoms within a few weeks, but the full effect can take several months. The typical initial treatment period is often 3 to 6 months to assess the effectiveness of the medication.\n\n4. **Long-Term Management**: If dutasteride is effective, it is generally recommended for long-term use to maintain the benefits and prevent the recurrence of symptoms. The exact duration can vary, but many patients continue to take it indefinitely as part of their ongoing management plan.\n\n5. **Consultation with Healthcare Provider**: The decision to continue or discontinue dutasteride should be made in consultation with a healthcare provider. Regular check-ups and assessments are important to monitor the effectiveness and safety of the medication.\n\n6. **Potential Side Effects and Monitoring**: Long-term use of dutasteride can have side effects, including sexual dysfunction, and regular monitoring is necessary to manage these and other potential issues.\n\nFinal answer: The duration of dutasteride treatment varies depending on the individual and the condition being treated. Typically, patients start to see improvements within 3 to 6 months, and if effective, it is often recommended for long-term use to maintain benefits. The exact duration should be determined in consultation with a healthcare provider, who can monitor the effectiveness and manage any side effects."
+        ],
+        "gold": {
+            "free_form_answer": "We strongly recommend that physicians discuss with their patients these potential serious adverse effects of long-term dutasteride therapy prior to instituting this form of treatment.",
+            "must_have": [
+                "The duration of dutasteride treatment depends on your specific medical condition and personal response to treatment.",
+                "You should not exceed the duration recommended by your healthcare provider.",
+                "To maintain the benefits of this medication, it needs to be taken regularly and it might take 6 months or more to see the full benefits."
+            ],
+            "nice_to_have": [
+                "Dutasteride is generally used to treat male-pattern baldness or hair loss and enlarged prostate.",
+                "Patients should be informed about possible serious side effects of long-term dutasteride treatment before starting the therapy."
+            ]
+        },
+        "rouge-1": 0.12972972747173123,
+        "rouge-2": 0.0,
+        "rouge-l": 0.0756756734176772,
+        "rouge-s": 0.030612244897959183,
+        "bertscore_precision": 0.5692070722579956,
+        "bertscore_recall": 0.6803476214408875,
+        "bertscore_f1": 0.6198347210884094
+    },
+    "20": {
+        "origin_prompt": "You are a leading expert in MedLFQA_MedicationQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: what is the difference between atorvastatin and lipitor\n\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. **Identify the Medications**: Atorvastatin and Lipitor are both brand names for the same medication. Atorvastatin is the generic name, while Lipitor is a well-known brand name for atorvastatin.\n2. **Chemical Composition**: Both atorvastatin and Lipitor have the same active ingredient, which is atorvastatin calcium. This means they are chemically identical and function in the same way in the body.\n3. **Pharmacological Action**: Atorvastatin and Lipitor are both HMG-CoA reductase inhibitors, commonly known as statins. They work by reducing the production of cholesterol in the liver, thereby lowering LDL (low-density lipoprotein) cholesterol and total cholesterol levels in the blood.\n4. **Dosage Forms and Strengths**: Both medications are available in various strengths, typically ranging from 10 mg to 80 mg. They can be administered in tablet form.\n5. **Brand vs. Generic**: The primary difference between atorvastatin and Lipitor lies in their branding and cost. Lipitor is a brand-name drug, which is often more expensive due to marketing and research costs. Atorvastatin, being a generic version, is generally less expensive.\n6. **Regulatory Approval and Quality Control**: Both atorvastatin and Lipitor are subject to strict regulatory approval and quality control standards. They are equally effective and safe when used as directed.\n7. **Side Effects and Precautions**: The side effects and precautions for atorvastatin and Lipitor are the same. Common side effects include muscle pain, liver function abnormalities, and digestive issues. Both medications require regular monitoring of liver function and muscle enzymes.\n\nFinal answer: Atorvastatin and Lipitor are the same medication, with atorvastatin being the generic name and Lipitor being the brand name. They have identical chemical compositions, pharmacological actions, and side effects. The primary difference is in their branding and cost, with Lipitor being more expensive due to its brand name status. Both are equally effective and safe when used as directed."
+        ],
+        "gold": {
+            "free_form_answer": "LIPITOR ® (atorvastatin calcium) tablets, for oral use",
+            "must_have": [
+                "Atorvastatin and Lipitor have the same active ingredients and serve the same purpose.",
+                "Lipitor is the brand-name version of atorvastatin produced by Pfizer."
+            ],
+            "nice_to_have": [
+                "Atorvastatin, as a generic medication, is traditionally cheaper than its brand-name counterpart Lipitor.",
+                "Despite the sources, both are used to treat high cholesterol and reduce the risk of heart diseases."
+            ]
+        },
+        "rouge-1": 0.036809815128909656,
+        "rouge-2": 0.00809716551787444,
+        "rouge-l": 0.036809815128909656,
+        "rouge-s": 0.02,
+        "bertscore_precision": 0.520264744758606,
+        "bertscore_recall": 0.6530804634094238,
+        "bertscore_f1": 0.5791556239128113
+    },
+    "21": {
+        "origin_prompt": "You are a leading expert in MedLFQA_MedicationQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: what opioid is in the bupropion patch\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. **Understanding the Components of the Bupropion Patch**: Bupropion is a medication primarily used as an antidepressant and smoking cessation aid. It is not an opioid and does not contain any opioid components.\n2. **Reviewing the Formulation of Bupropion Patches**: Bupropion patches, such as the brand name Quitter's Choice, are designed to deliver bupropion through the skin (transdermally). The active ingredient in these patches is bupropion hydrochloride, which is a non-opioid medication.\n3. **Confirming the Absence of Opioids**: Opioids are a class of drugs that include substances like morphine, oxycodone, and fentanyl, which are used primarily for pain relief. Bupropion does not belong to this class and does not have any opioid properties.\n4. **Cross-Checking with Medical Literature**: Medical literature and pharmaceutical databases consistently confirm that bupropion patches do not contain any opioid substances. The primary mechanism of action for bupropion involves affecting neurotransmitters like dopamine and norepinephrine, not opioid receptors.\n\nFinal answer: The bupropion patch does not contain any opioid. The active ingredient is bupropion hydrochloride, which is a non-opioid medication."
+        ],
+        "gold": {
+            "free_form_answer": "Active Ingredient/Active Moiety: Ingredient Name buprenorphine (UNII: 40D3SCR4GZ) (buprenorphine - UNII:40D3SCR4GZ)",
+            "must_have": [
+                "The active ingredient in the buprenorphine patch, often referred to as a \"bupropion patch\", is in fact buprenorphine, which is an opioid."
+            ],
+            "nice_to_have": [
+                "The term \"bupropion patch\" is often used inaccurately, as bupropion is an entirely different drug used to treat depression and help people stop smoking, while buprenorphine is used to treat opioid use disorder and pain."
+            ]
+        },
+        "rouge-1": 0.0,
+        "rouge-2": 0.0,
+        "rouge-l": 0.0,
+        "rouge-s": 0.011560693641618497,
+        "bertscore_precision": 0.5541157722473145,
+        "bertscore_recall": 0.6021236181259155,
+        "bertscore_f1": 0.5771230459213257
+    },
+    "22": {
+        "origin_prompt": "You are a leading expert in MedLFQA_MedicationQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: how to administer denosumab\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. **Understanding Denosumab**: Denosumab is a monoclonal antibody used to treat osteoporosis, bone loss due to hormone ablation in prostate cancer, and bone metastases in solid tumors. It works by inhibiting the formation, function, and survival of osteoclasts, which are cells that break down bone tissue.\n\n2. **Route of Administration**: Denosumab is administered subcutaneously. This means it is injected just under the skin, typically in the upper arm, thigh, or abdomen.\n\n3. **Dosage and Frequency**:\n   - For osteoporosis in postmenopausal women and men: 60 mg every 6 months.\n   - For bone loss due to androgen deprivation therapy in men with prostate cancer: 60 mg every 6 months.\n   - For bone loss due to adjuvant aromatase inhibitor therapy in women with breast cancer: 60 mg every 6 months.\n   - For treatment of giant cell tumor of bone: 120 mg every 4 weeks for the first 12 weeks, then 120 mg every 12 weeks.\n   - For prevention of skeletal-related events in patients with bone metastases from solid tumors: 120 mg every 4 weeks.\n\n4. **Preparation of the Medication**:\n   - Denosumab is supplied as a single-dose prefilled syringe or autoinjector.\n   - The syringe or autoinjector should be stored in a refrigerator at 2°C to 8°C (36°F to 46°F) and protected from light.\n   - Allow the syringe or autoinjector to reach room temperature (about 30 minutes) before use.\n\n5. **Injection Technique**:\n   - Clean the injection site with an alcohol swab and allow it to air dry.\n   - Pinch a fold of skin and insert the needle at a 45-degree angle.\n   - Inject the medication slowly and steadily.\n   - Withdraw the needle and apply gentle pressure to the injection site with a gauze pad.\n\n6. **Post-Administration Care**:\n   - Monitor the patient for any adverse reactions, such as injection site reactions, hypocalcemia, or infections.\n   - Advise the patient to take calcium and vitamin D supplements if prescribed by their healthcare provider to prevent hypocalcemia.\n\nFinal answer: Denosumab is administered subcutaneously using a prefilled syringe or autoinjector. The typical dosage is 60 mg every 6 months for osteoporosis and bone loss due to hormone ablation, and 120 mg every 4 weeks for the first 12 weeks, then every 12 weeks for giant cell tumor of bone. The syringe or autoinjector should be allowed to reach room temperature before use, and the injection should be given in the upper arm, thigh, or abdomen. Post-administration, monitor for adverse reactions and ensure the patient is taking calcium and vitamin D supplements if prescribed."
+        ],
+        "gold": {
+            "free_form_answer": "Denosumab injection comes as a solution (liquid) to be injected subcutaneously (under the skin) in your upper arm, upper thigh, or stomach area. It is usually injected by a doctor or nurse in a medical office or clinic. Denosumab injection (Prolia) is usually given once every 6 months. When denosumab injection (Xgeva) is used to reduce the risk of fractures from multiple myeloma, or cancer that has spread to the bones, it is usually given once every 4 weeks. When denosumab injection (Xgeva) is used to treat giant cell tumor of bone, or high calcium levels caused by cancer, it is usually given every 7 days for the first three doses (on day 1, day 8, and day 15) and then once every 4 weeks starting 2 weeks after the first three doses.Your doctor will tell you to take supplements of calcium and vitamin D while you are being treated with denosumab injection. Take these supplements exactly as directed.",
+            "must_have": [
+                "Denosumab injection is usually administered subcutaneously (under the skin) in the upper arm, upper thigh, or stomach area by a doctor or nurse.",
+                "Depending on the specific condition being treated, denosumab injection is given once every 4 to 6 months, or every 7 days for the first three doses and then once every 4 weeks.",
+                "While being treated with denosumab injection, it is essential to take supplements of calcium and vitamin D exactly as directed by the doctor."
+            ],
+            "nice_to_have": [
+                "Denosumab injection (Prolia) comes with a manufacturer's patient information sheet (Medication Guide).",
+                "Patients are advised to read this carefully and ask any questions they have to their doctor or pharmacist.",
+                "This information can also be found on the FDA's website or the manufacturer's website."
+            ]
+        },
+        "rouge-1": 0.34628974812271357,
+        "rouge-2": 0.11034482327113242,
+        "rouge-l": 0.19787985412978074,
+        "rouge-s": 0.1225,
+        "bertscore_precision": 0.6482874751091003,
+        "bertscore_recall": 0.7227563858032227,
+        "bertscore_f1": 0.6834994554519653
+    },
+    "23": {
+        "origin_prompt": "You are a leading expert in MedLFQA_MedicationQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: how do steroids effect the digestive system\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. **Understanding Steroids**: Steroids, particularly glucocorticoids like prednisone, are synthetic versions of hormones produced by the adrenal glands. They are commonly used to reduce inflammation and suppress the immune system.\n\n2. **Mechanism of Action**: Steroids exert their effects by binding to glucocorticoid receptors in various tissues, including those in the digestive system. This binding can alter gene expression and cellular function, leading to a range of physiological changes.\n\n3. **Effects on the Stomach and Upper GI Tract**:\n   - **Increased Acid Production**: Steroids can increase the production of stomach acid, which can lead to gastritis (inflammation of the stomach lining) and an increased risk of peptic ulcers.\n   - **Decreased Mucosal Protection**: They can also reduce the production of protective mucus in the stomach, further increasing the risk of ulcers and irritation.\n\n4. **Effects on the Intestines**:\n   - **Altered Gut Motility**: Steroids can affect the normal movement of the intestines, potentially leading to issues like constipation or diarrhea.\n   - **Increased Permeability**: They can increase the permeability of the intestinal lining, which may contribute to conditions like leaky gut syndrome.\n\n5. **Effects on the Liver**:\n   - **Increased Hepatic Enzyme Activity**: Steroids can increase the activity of liver enzymes, which can affect the metabolism of other drugs and potentially lead to liver toxicity.\n   - **Fatty Liver**: Long-term use of steroids can lead to the accumulation of fat in the liver, a condition known as hepatic steatosis.\n\n6. **Effects on the Pancreas**:\n   - **Increased Risk of Pancreatitis**: Steroids can increase the risk of developing pancreatitis, an inflammation of the pancreas, which can be severe and life-threatening.\n\nFinal answer: Steroids can have several effects on the digestive system, including increased stomach acid production and reduced mucosal protection, leading to gastritis and peptic ulcers. They can also alter gut motility, increase intestinal permeability, and affect liver function by increasing enzyme activity and potentially causing fatty liver. Additionally, steroids can increase the risk of pancreatitis."
+        ],
+        "gold": {
+            "free_form_answer": "teroid abuse can also be hepatotoxic, promoting disturbances such as biliary stasis, peliosis hepatis, and even hepatomas, which are all usually reversible upon discontinuation.Steroids, also known as corticosteroids, can have a significant impact on the digestive system. One of the main areas affected is the stomach. Steroids can increase the production of stomach acid, and their prolonged use can lead to the development of gastric ulcers, gastroesophageal reflux disease (GERD), and gastritis. They may also contribute to a delay in gastric emptying which leads to a feeling of bloating and discomfort.Another area where steroids can have an effect is the liver. Steroids are metabolized in the liver and can potentially cause damage to this organ. As a result of prolonged use, steroids can cause a condition called steroid-induced cholestasis. This is a condition where the flow of bile from the liver is slowed, leading to itching, jaundice, and even liver failure in serious cases.Furthermore, steroids can also affect nutrient absorption in the intestines. They can impair the absorption of calcium and vitamin D, increasing the risk of bone loss and osteoporosis over time.",
+            "must_have": [
+                "Steroids can increase the production of stomach acid, potentially leading to the development of gastric ulcers, GERD, and gastritis.",
+                "Steroid use can also cause steroid-induced cholestasis, a liver condition where the flow of bile is slowed.",
+                "Steroids can also impair the absorption of calcium and vitamin D in the intestines, increasing the risk of bone loss and osteoporosis over time."
+            ],
+            "nice_to_have": [
+                "Prolonged steroid use may cause a feeling of bloating and discomfort due to delayed gastric emptying.",
+                "In serious cases, steroid-induced cholestasis can lead to itching, jaundice, and even liver failure."
+            ]
+        },
+        "rouge-1": 0.30711609999859735,
+        "rouge-2": 0.1401869110992228,
+        "rouge-l": 0.1872659127326798,
+        "rouge-s": 0.18006430868167203,
+        "bertscore_precision": 0.6701847314834595,
+        "bertscore_recall": 0.7220216989517212,
+        "bertscore_f1": 0.695138156414032
+    },
+    "24": {
+        "origin_prompt": "You are a leading expert in MedLFQA_MedicationQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: how to reduce bisoprolol\n\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. **Understanding Bisoprolol**: Bisoprolol is a beta-blocker used to treat high blood pressure (hypertension), angina (chest pain), and certain heart conditions. It works by slowing down the heart rate and reducing the heart's workload.\n2. **Reasons for Reducing Bisoprolol**: The need to reduce bisoprolol can arise due to side effects, achieving the desired therapeutic effect, or changes in the patient's condition. It is crucial to do this under medical supervision to avoid adverse effects.\n3. **Consulting a Healthcare Provider**: Before making any changes to the dosage, it is essential to consult a healthcare provider. They will assess the patient's current condition, review the reasons for the reduction, and provide a safe and effective plan.\n4. **Gradual Tapering**: If the healthcare provider agrees to reduce the dosage, they will likely recommend a gradual tapering process. This involves slowly decreasing the dose over a period of time to minimize the risk of withdrawal symptoms or a rebound effect.\n5. **Monitoring and Follow-Up**: During the tapering process, regular monitoring is necessary to ensure the patient's blood pressure and heart rate remain stable. Follow-up appointments with the healthcare provider are crucial to adjust the dosage as needed and to address any concerns.\n\nFinal answer: To reduce bisoprolol, consult a healthcare provider to discuss the reasons for the reduction and obtain a safe and effective plan. The provider will likely recommend a gradual tapering process, where the dosage is slowly decreased over time, and regular monitoring and follow-up appointments are essential to ensure stability and address any concerns."
+        ],
+        "gold": {
+            "free_form_answer": "Cessation of Therapy\nIf withdrawal of bisoprolol fumarate and hydrochlorothiazide therapy is planned, it should be achieved gradually over a period of about 2 weeks.",
+            "must_have": [
+                "Bisoprolol fumarate and hydrochlorothiazide therapy should be gradually reduced over two weeks time if it needs to be withdrawn.",
+                "Patients should be observed for any negative effects that might originate due to the withdrawal of the medication."
+            ],
+            "nice_to_have": [
+                "Consultation with a doctor is recommended before making any changes to your bisoprolol fumarate and hydrochlorothiazide therapy.",
+                "This is especially important if the patient has existing heart-related issues, as abrupt discontinuation can worsen these conditions."
+            ]
+        },
+        "rouge-1": 0.1366459602839397,
+        "rouge-2": 0.024999998200000127,
+        "rouge-l": 0.08695651929015093,
+        "rouge-s": 0.03543307086614173,
+        "bertscore_precision": 0.5680634379386902,
+        "bertscore_recall": 0.6664484739303589,
+        "bertscore_f1": 0.6133355498313904
+    },
+    "25": {
+        "origin_prompt": "You are a leading expert in MedLFQA_MedicationQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: what class is diazepam\n\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. **Identify the Drug**: The question asks about diazepam, which is a well-known medication.\n2. **Determine the Drug Class**: Diazepam belongs to a specific class of drugs known for their pharmacological properties and therapeutic uses.\n3. **Pharmacological Properties**: Diazepam is a benzodiazepine, a class of drugs that act on the central nervous system (CNS) and are primarily used for their anxiolytic, sedative, hypnotic, and muscle relaxant properties.\n4. **Therapeutic Uses**: Benzodiazepines, including diazepam, are commonly prescribed for conditions such as anxiety disorders, insomnia, muscle spasms, and seizures.\n5. **Mechanism of Action**: Diazepam works by enhancing the effects of gamma-aminobutyric acid (GABA), a neurotransmitter that inhibits neuronal activity, leading to a calming effect on the brain.\n\nFinal answer: Diazepam is a benzodiazepine."
+        ],
+        "gold": {
+            "free_form_answer": "Diazepam is a benzodiazepine that exerts anxiolytic, sedative, muscle-relaxant, anticonvulsant and amnestic effects.",
+            "must_have": [
+                "Diazepam belongs to the class of drugs called benzodiazepines which have anxiolytic, sedative, muscle-relaxant, anticonvulsant and amnestic effects.",
+                "Its effects are thought to result from the facilitation of the action of GABA, an inhibitory neurotransmitter in the central nervous system."
+            ],
+            "nice_to_have": [
+                "Diazepam is often used in the treatment of anxiety disorders, alcohol withdrawal symptoms, or muscle spasms and can also be used in combination with other medications to control seizures.",
+                "It's generally recommended for short term use, no longer than 2-4 weeks."
+            ]
+        },
+        "rouge-1": 0.179999997738,
+        "rouge-2": 0.06504064864564749,
+        "rouge-l": 0.179999997738,
+        "rouge-s": 0.07377049180327869,
+        "bertscore_precision": 0.6103512048721313,
+        "bertscore_recall": 0.7831364274024963,
+        "bertscore_f1": 0.6860315799713135
+    },
+    "26": {
+        "origin_prompt": "You are a leading expert in MedLFQA_MedicationQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: what is ciprodex?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. **Identify the Medication**: Ciprodex is a brand name for a medication. The first step is to determine the active ingredients and the type of medication it is.\n2. **Research Active Ingredients**: Ciprodex contains two active ingredients: ciprofloxacin and dexamethasone. Ciprofloxacin is an antibiotic, and dexamethasone is a corticosteroid.\n3. **Understand the Purpose**: Ciprodex is primarily used to treat ear infections, such as otitis externa (swimmer's ear) and otitis media (middle ear infection) in patients with a perforated eardrum.\n4. **Formulation and Administration**: Ciprodex is available as an otic (ear) suspension. It is typically administered by instilling the prescribed number of drops into the affected ear.\n5. **Mechanism of Action**: Ciprofloxacin works by killing bacteria, while dexamethasone reduces inflammation and swelling.\n6. **Common Side Effects**: Common side effects may include ear discomfort, itching, or a feeling of fullness in the ear. More serious side effects are rare but can include allergic reactions.\n\nFinal answer: Ciprodex is a prescription medication used to treat ear infections. It is a combination of ciprofloxacin, an antibiotic that kills bacteria, and dexamethasone, a corticosteroid that reduces inflammation. Ciprodex is administered as an ear drop suspension and is effective for conditions like otitis externa and otitis media in patients with a perforated eardrum."
+        ],
+        "gold": {
+            "free_form_answer": "Ciprofloxacin and dexamethasone otic is used to treat outer ear infections in adults and children and acute (suddenly occurring) middle ear infections in children with ear tubes. Ciprofloxacin is in a class of medications called quinolone antibiotics. Dexamethasone is in a class of medications called corticosteroids. The combination of ciprofloxacin and dexamethasone works by killing the bacteria that cause infection and reducing swelling in the ear.",
+            "must_have": [
+                "Ciprodex is a combination of ciprofloxacin, a quinolone antibiotic, and dexamethasone, a corticosteroid.",
+                "It is used to treat ear infections in both adults and children.",
+                "It works by killing the bacteria causing the infection and reducing ear swelling."
+            ],
+            "nice_to_have": [
+                "Ciprodex is used to treat both outer ear infections in adults and children and acute middle ear infections in children with ear tubes."
+            ]
+        },
+        "rouge-1": 0.33548386701685745,
+        "rouge-2": 0.1106382942421006,
+        "rouge-l": 0.21935483475879297,
+        "rouge-s": 0.14423076923076922,
+        "bertscore_precision": 0.6633052825927734,
+        "bertscore_recall": 0.7759679555892944,
+        "bertscore_f1": 0.7152271270751953
+    },
+    "27": {
+        "origin_prompt": "You are a leading expert in MedLFQA_MedicationQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: what size doses of metformin are available?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. **Identify the medication**: The question is about metformin, a commonly prescribed medication for type 2 diabetes.\n2. **Determine the available forms**: Metformin is available in various forms, including immediate-release (IR), extended-release (ER), and in some cases, combination formulations.\n3. **List the available dosages**:\n   - **Immediate-Release (IR) Tablets**: Common dosages include 500 mg, 850 mg, and 1000 mg.\n   - **Extended-Release (ER) Tablets**: Common dosages include 500 mg, 750 mg, and 1000 mg.\n   - **Liquid Form**: Metformin is also available in a liquid form, typically 500 mg/5 mL (100 mg/mL).\n4. **Consider less common forms**: Some formulations may include combination products with other medications, but these are less common and typically not the primary focus when discussing standard metformin dosages.\n\nFinal answer: Metformin is available in the following dosages:\n- Immediate-Release (IR) Tablets: 500 mg, 850 mg, and 1000 mg.\n- Extended-Release (ER) Tablets: 500 mg, 750 mg, and 1000 mg.\n- Liquid Form: 500 mg/5 mL (100 mg/mL)."
+        ],
+        "gold": {
+            "free_form_answer": "Metformin Hydrochloride Tablets, USP ... 500 mg ... 850 mg ... 1000 mg",
+            "must_have": [
+                "Metformin Hydrochloride is available in 500 mg, 850 mg, and 1000 mg tablets."
+            ],
+            "nice_to_have": [
+                "Metformin is a prescription medication used primarily to treat type 2 diabetes.",
+                "It's also used in conjunction with lifestyle changes like diet and exercise to improve blood sugar control in adults with type 2 diabetes."
+            ]
+        },
+        "rouge-1": 0.13953488203353168,
+        "rouge-2": 0.06611570110238375,
+        "rouge-l": 0.13953488203353168,
+        "rouge-s": 0.05228758169934641,
+        "bertscore_precision": 0.5609203577041626,
+        "bertscore_recall": 0.6564891934394836,
+        "bertscore_f1": 0.6049535870552063
+    },
+    "28": {
+        "origin_prompt": "You are a leading expert in MedLFQA_MedicationQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: how long it takes for withdrawals to go away on oxycodone\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. **Understanding Oxycodone Withdrawal**: Oxycodone is a potent opioid used for pain management. When someone stops taking oxycodone after prolonged use, they may experience withdrawal symptoms due to the body's dependence on the drug.\n2. **Onset of Withdrawal Symptoms**: Withdrawal symptoms typically begin within 8 to 12 hours after the last dose of oxycodone. This is because oxycodone has a relatively short half-life, meaning it is quickly eliminated from the body.\n3. **Duration of Withdrawal Symptoms**: The duration of withdrawal symptoms can vary depending on several factors, including the dose and duration of oxycodone use, individual metabolism, and overall health. Generally, the acute withdrawal phase lasts about 7 to 10 days.\n4. **Phases of Withdrawal**:\n   - **Early Withdrawal (0-72 hours)**: Symptoms include anxiety, agitation, sweating, runny nose, and muscle aches.\n   - **Peak Withdrawal (3-5 days)**: Symptoms intensify and may include nausea, vomiting, diarrhea, abdominal cramps, and insomnia.\n   - **Late Withdrawal (5-10 days)**: Symptoms gradually subside, but some individuals may experience lingering effects such as fatigue, mood swings, and difficulty concentrating.\n5. **Post-Acute Withdrawal Syndrome (PAWS)**: Some individuals may experience post-acute withdrawal syndrome, which can last for several weeks to months. PAWS symptoms are less severe and may include mood swings, anxiety, and sleep disturbances.\n\nFinal answer: Withdrawal symptoms from oxycodone typically begin within 8 to 12 hours after the last dose and last for about 7 to 10 days. However, some individuals may experience post-acute withdrawal syndrome, which can extend the duration of symptoms for several weeks to months."
+        ],
+        "gold": {
+            "free_form_answer": "Withdrawal from oxycodone usually starts within 8-12 hours of taking the drug, and it peaks in the first 72 hours. Symptoms generally subside in about a week, although some of the psychological effects and drug cravings may persist for longer.",
+            "must_have": [
+                "Withdrawal symptoms from oxycodone usually start within 8-12 hours of taking the drug.",
+                "The symptoms are typically at their worst in the first 72 hours.",
+                "Physical symptoms generally ease after about a week."
+            ],
+            "nice_to_have": [
+                "The psychological effects and cravings associated with oxycodone withdrawal may persist beyond a week.",
+                "It's highly recommended to seek medical assistance when attempting to withdraw from oxycodone, as the process can be difficult and potentially dangerous."
+            ]
+        },
+        "rouge-1": 0.22485206786317008,
+        "rouge-2": 0.0247933857260436,
+        "rouge-l": 0.1538461507034068,
+        "rouge-s": 0.06477732793522267,
+        "bertscore_precision": 0.626096248626709,
+        "bertscore_recall": 0.7524243593215942,
+        "bertscore_f1": 0.6834719181060791
+    },
+    "29": {
+        "origin_prompt": "You are a leading expert in MedLFQA_MedicationQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: is viagra a treament for cor pulmonale?\n\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. **Understanding Cor Pulmonale**: Cor pulmonale is a condition where the right side of the heart is enlarged and weakened due to high blood pressure in the arteries of the lungs (pulmonary hypertension). This condition is often a complication of chronic lung diseases such as chronic obstructive pulmonary disease (COPD), pulmonary fibrosis, or sleep apnea.\n\n2. **Understanding Viagra (Sildenafil)**: Viagra, also known by its generic name sildenafil, is primarily used to treat erectile dysfunction (ED) and pulmonary arterial hypertension (PAH). It works by inhibiting phosphodiesterase type 5 (PDE5), which helps relax the smooth muscles in the blood vessels, increasing blood flow.\n\n3. **Viagra and Pulmonary Hypertension**: Sildenafil is FDA-approved for the treatment of pulmonary arterial hypertension (PAH), a specific type of high blood pressure that affects the arteries in the lungs. PAH is a condition that can lead to cor pulmonale, but it is not the same as cor pulmonale itself.\n\n4. **Viagra and Cor Pulmonale**: While sildenafil can help manage the symptoms of PAH, which is a contributing factor to cor pulmonale, it is not specifically approved or recommended as a primary treatment for cor pulmonale. The primary treatments for cor pulmonale focus on managing the underlying lung disease and reducing pulmonary hypertension.\n\n5. **Clinical Evidence and Guidelines**: Current clinical guidelines and evidence do not support the use of sildenafil as a primary treatment for cor pulmonale. Instead, treatments such as oxygen therapy, diuretics, and medications to manage the underlying lung disease are typically recommended.\n\nFinal answer: No, Viagra (sildenafil) is not a primary treatment for cor pulmonale. While it can help manage symptoms of pulmonary arterial hypertension, which is a contributing factor to cor pulmonale, it is not specifically approved or recommended for treating cor pulmonale itself."
+        ],
+        "gold": {
+            "free_form_answer": "Sildenafil (Revatio, Viagra) and tadalafil (Cialis, Adcirca) are sometimes used to treat pulmonary hypertension.",
+            "must_have": [
+                "Viagra (sildenafil) and Cialis (tadalafil) are sometimes used to treat pulmonary hypertension, a condition which may arise in cor pulmonale, but they are not the primary treatments for cor pulmonale.",
+                "The primary goal of treatment in cor pulmonale is to manage the underlying lung disorder and improve oxygenation and right ventricular function."
+            ],
+            "nice_to_have": [
+                "The use of Viagra (sildenafil) or Cialis (tadalafil) in cor pulmonale can help relax and widen the blood vessels in the lungs, promoting easier blood flow.",
+                "However, always seek medical advice from a healthcare provider before starting any new treatments."
+            ]
+        },
+        "rouge-1": 0.12328766949896791,
+        "rouge-2": 0.03361344434538524,
+        "rouge-l": 0.09589040922499534,
+        "rouge-s": 0.02413793103448276,
+        "bertscore_precision": 0.5950313210487366,
+        "bertscore_recall": 0.7071134448051453,
+        "bertscore_f1": 0.6462486386299133
+    },
+    "30": {
+        "origin_prompt": "You are a leading expert in MedLFQA_MedicationQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: it is latanoprost a cholinergic?\n\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. **Understanding Latanoprost**: Latanoprost is a medication primarily used to treat glaucoma and ocular hypertension. It belongs to a class of drugs known as prostaglandin analogs.\n2. **Mechanism of Action**: Latanoprost works by increasing the outflow of aqueous humor from the eye, thereby reducing intraocular pressure. It does this by mimicking the effects of prostaglandins, which are natural substances in the body.\n3. **Cholinergic Agents**: Cholinergic agents are drugs that stimulate the parasympathetic nervous system by acting on cholinergic receptors (muscarinic and nicotinic receptors). They are typically used to increase the activity of the parasympathetic nervous system, which can have various effects, including constriction of the pupil and increased aqueous humor outflow.\n4. **Comparison of Mechanisms**: Latanoprost does not act on cholinergic receptors. Instead, it acts on prostaglandin receptors, specifically the prostaglandin F2α receptor (FP receptor). This mechanism is distinct from the cholinergic pathway.\n5. **Conclusion**: Based on the mechanism of action and the class of drug to which latanoprost belongs, it is not a cholinergic agent.\n\nFinal answer: No, latanoprost is not a cholinergic."
+        ],
+        "gold": {
+            "free_form_answer": "Latanoprost ophthalmic is used to treat glaucoma (a condition in which increased pressure in the eye can lead to gradual loss of vision) and ocular hypertension (a condition which causes increased pressure in the eye). Latanoprost is in a class of medications called prostaglandin analogs.",
+            "must_have": [
+                "Latanoprost is not a cholinergic drug.",
+                "It is in a class of medications called prostaglandin analogs.",
+                "It works towards reduction of pressure in the eye by increasing the flow of natural eye fluids."
+            ],
+            "nice_to_have": [
+                "Latanoprost is used to treat glaucoma and ocular hypertension - conditions characterized by increased eye pressure that could lead to vision loss.",
+                "Cholinergic drugs mimic the action of neurotransmitter acetylcholine, leading to effects such as increased heart rate, digestion, and salivation, among others - these are not the effects caused by Latanoprost."
+            ]
+        },
+        "rouge-1": 0.3157894701905139,
+        "rouge-2": 0.10945273319076271,
+        "rouge-l": 0.19548871831081469,
+        "rouge-s": 0.10795454545454546,
+        "bertscore_precision": 0.6489672660827637,
+        "bertscore_recall": 0.7726495862007141,
+        "bertscore_f1": 0.7054282426834106
+    },
+    "31": {
+        "origin_prompt": "You are a leading expert in MedLFQA_MedicationQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: where does fluorouracil come from\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. **Understanding the Compound**: Fluorouracil is a chemotherapy medication used to treat various types of cancer, including colorectal, breast, and pancreatic cancer. It is a fluorinated pyrimidine analog, which means it is a synthetic compound designed to interfere with DNA synthesis in cancer cells.\n2. **Synthetic Origin**: Fluorouracil is not a naturally occurring substance. It is synthesized in a laboratory through a series of chemical reactions. The synthesis involves the introduction of a fluorine atom into the uracil molecule, which is a naturally occurring pyrimidine base found in RNA.\n3. **Key Steps in Synthesis**:\n   - **Starting Material**: The synthesis typically begins with uracil or a uracil derivative.\n   - **Fluorination**: The uracil molecule is fluorinated, usually by reacting it with a fluorinating agent such as diethylaminosulfur trifluoride (DAST) or another suitable reagent.\n   - **Purification**: The resulting fluorouracil is then purified to ensure it meets the required pharmaceutical standards.\n4. **Historical Context**: Fluorouracil was first synthesized in the 1950s by Charles Heidelberger and his colleagues. They were searching for compounds that could inhibit the synthesis of nucleic acids in cancer cells.\n\nFinal answer: Fluorouracil is a synthetic compound that is not found in nature. It is produced in a laboratory through a series of chemical reactions, primarily involving the fluorination of the uracil molecule."
+        ],
+        "gold": {
+            "free_form_answer": "dailymed list of manufacturersFluorouracil, also known as 5-FU, is a chemotherapy medication used in the treatment of cancer. It is a synthetic compound classified as an antimetabolite. Fluorouracil is made in pharmaceutical laboratories and is not naturally occurring. The manufacture of fluorouracil begins with the reaction of uracil with phosphorus oxychloride to produce 2,4-dichloropyrimidine, which is then substituted with fluorine to create fluorouracil.Some of the well-known manufacturers of fluorouracil include Teva Pharmaceuticals, Mylan Pharmaceuticals, and Fresenius Kabi Oncology Ltd., among others. It is always important to ensure that the medication is produced by a reputable and trusted manufacturer.",
+            "must_have": [
+                "It begins with a reaction of uracil, then is substituted with fluorine to create fluorouracil.",
+                "It does not occur naturally.",
+                "Fluorouracil is a synthetic drug that is typically produced in a laboratory.",
+                "Fluorouracil is a synthetic medication made in pharmaceutical labs.",
+                "It is a nucleoside metabolic inhibitor that interferes with DNA synthesis, and to a lesser extent, RNA formation."
+            ],
+            "nice_to_have": [
+                "Pharmaceutical companies that specialize in oncology medications are typically responsible for the production of Fluorouracil.",
+                "It's always important to ensure your medication is made by a trusted manufacturer.",
+                "Fluorouracil is not derived from a natural source like a plant or animal.",
+                "Some of the manufacturers include Teva Pharmaceuticals, Mylan Pharmaceuticals, and Fresenius Kabi Oncology Ltd."
+            ]
+        },
+        "rouge-1": 0.33160621299363746,
+        "rouge-2": 0.138686126879429,
+        "rouge-l": 0.23834196428897425,
+        "rouge-s": 0.1761904761904762,
+        "bertscore_precision": 0.6797255873680115,
+        "bertscore_recall": 0.7275466322898865,
+        "bertscore_f1": 0.7028235793113708
+    },
+    "32": {
+        "origin_prompt": "You are a leading expert in MedLFQA_MedicationQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: what is magnesium chelated good for\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. **Understanding Magnesium Chelated**: Magnesium chelated refers to a form of magnesium where the mineral is bound to an organic compound, typically an amino acid. This form is designed to enhance absorption and bioavailability in the body.\n2. **Biological Functions of Magnesium**: Magnesium is a crucial mineral involved in numerous biological processes, including energy production, protein synthesis, muscle and nerve function, and bone health.\n3. **Benefits of Magnesium Chelated**:\n   - **Improved Absorption**: Chelated forms of magnesium are often better absorbed by the body compared to non-chelated forms, which can be particularly beneficial for individuals with absorption issues.\n   - **Muscle Function**: Magnesium helps regulate muscle contractions and can reduce muscle cramps and spasms.\n   - **Nerve Function**: It plays a role in nerve signal transmission and can help reduce symptoms of anxiety and stress.\n   - **Bone Health**: Magnesium is essential for bone formation and can help maintain bone density.\n   - **Cardiovascular Health**: It supports heart health by helping to regulate blood pressure and maintain a steady heartbeat.\n   - **Energy Production**: Magnesium is involved in the production of ATP (adenosine triphosphate), the energy currency of the body.\n4. **Specific Conditions Benefited**:\n   - **Migraines**: Some studies suggest that magnesium can help reduce the frequency and severity of migraines.\n   - **Diabetes**: Magnesium can improve insulin sensitivity and glucose metabolism.\n   - **Osteoporosis**: Adequate magnesium intake is associated with a lower risk of osteoporosis.\n   - **Preeclampsia**: Magnesium sulfate is used in the treatment of preeclampsia during pregnancy.\n\nFinal answer: Magnesium chelated is beneficial for improving absorption, supporting muscle and nerve function, enhancing bone health, promoting cardiovascular health, aiding in energy production, and potentially reducing the risk of conditions such as migraines, diabetes, osteoporosis, and preeclampsia."
+        ],
+        "gold": {
+            "free_form_answer": "Chelated magnesium is used as a supplement to maintain adequate magnesium in the body.Magnesium plays a key role in hundreds of enzymatic reactions in the body, including those involved in the synthesis of protein, muscle and nerve function, blood glucose control, and blood pressure regulation. It is also essential for bone health and the synthesis of DNA, RNA, and the antioxidant glutathione.Chelated magnesium is a type of magnesium salt that has been chemically bound to a chelating agent, which is a substance that can bond with metals and minerals, increasing their absorption in the body. Therefore, compared to other forms of magnesium, chelated magnesium is more easily and efficiently absorbed by the body.",
+            "must_have": [
+                "Magnesium is necessary for hundreds of enzymatic reactions in the body, including those related to protein synthesis, muscle and nerve function, blood glucose control, and blood pressure regulation.",
+                "It is also essential for bone health, and the synthesis of DNA, RNA, and glutathione.",
+                "Chelated magnesium has been chemically bound to a chelating agent, increasing its absorption in the body."
+            ],
+            "nice_to_have": [
+                "Chelated magnesium is used as a supplement to maintain adequate magnesium in the body.",
+                "Using a chelated form of magnesium allows for a more efficient absorption of this essential mineral."
+            ]
+        },
+        "rouge-1": 0.35964911842259156,
+        "rouge-2": 0.12173912631800056,
+        "rouge-l": 0.192982451755925,
+        "rouge-s": 0.1524163568773234,
+        "bertscore_precision": 0.6371927261352539,
+        "bertscore_recall": 0.7448475360870361,
+        "bertscore_f1": 0.6868272423744202
+    },
+    "33": {
+        "origin_prompt": "You are a leading expert in MedLFQA_MedicationQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: how long keep patient on chantix\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. **Understanding Chantix (Varenicline)**: Chantix is a medication used to help people stop smoking. It works by reducing the pleasure derived from smoking and by reducing withdrawal symptoms.\n2. **Typical Treatment Duration**: The standard treatment duration for Chantix is typically 12 weeks. This period is based on clinical trials and FDA approval, which have shown that 12 weeks is effective for many individuals.\n3. **Extended Treatment Options**: For some patients, the treatment can be extended to 24 weeks. This extended duration is often recommended for those who have successfully quit smoking by the end of the initial 12 weeks but need additional support to prevent relapse.\n4. **Individualized Treatment**: The duration of Chantix treatment can vary based on individual patient factors, such as the severity of nicotine dependence, previous quit attempts, and personal health conditions. It is crucial to tailor the treatment plan to the specific needs of the patient.\n5. **Monitoring and Follow-Up**: Regular monitoring and follow-up with a healthcare provider are essential during the treatment period to assess progress, manage side effects, and make any necessary adjustments to the treatment plan.\n\nFinal answer: The standard treatment duration for Chantix is 12 weeks, but it can be extended to 24 weeks for additional support. The exact duration should be determined by a healthcare provider based on the patient's individual needs and progress."
+        ],
+        "gold": {
+            "free_form_answer": "Patients should be treated with CHANTIX for 12 weeks. For patients who have successfully stopped smoking at the end of 12 weeks, an additional course of 12 weeks' treatment with CHANTIX is recommended to further increase the likelihood of long-term abstinence.",
+            "must_have": [
+                "Chantix should be used for a duration of 12 weeks.",
+                "For those who successfully quit smoking after this period, an additional 12 weeks of treatment with Chantix can be considered."
+            ],
+            "nice_to_have": [
+                "Prolonged treatment with Chantix beyond the initial 12 weeks can increase the likelihood of long-term abstinence from smoking.",
+                "Always consult with a healthcare provider for personalized medication advice."
+            ]
+        },
+        "rouge-1": 0.2547770668181265,
+        "rouge-2": 0.052401744075055906,
+        "rouge-l": 0.2038216528053877,
+        "rouge-s": 0.10267857142857142,
+        "bertscore_precision": 0.6227208375930786,
+        "bertscore_recall": 0.7283097505569458,
+        "bertscore_f1": 0.6713891625404358
+    },
+    "34": {
+        "origin_prompt": "You are a leading expert in MedLFQA_MedicationQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: blood pressure when on eliquis\n\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. **Understanding Eliquis (Apixaban)**: Eliquis, also known by its generic name apixaban, is an anticoagulant medication used to prevent blood clots, particularly in patients with atrial fibrillation, deep vein thrombosis (DVT), and pulmonary embolism (PE). It works by inhibiting Factor Xa, which is a key component in the blood clotting process.\n\n2. **Blood Pressure and Eliquis**: Eliquis itself does not directly affect blood pressure. It is not a vasodilator or a vasoconstrictor, and it does not have a direct impact on the cardiovascular system in terms of blood pressure regulation. However, it is important to consider the overall health of the patient, as blood pressure can be influenced by other factors and medications.\n\n3. **Indirect Effects and Considerations**:\n   - **Comorbid Conditions**: Patients taking Eliquis often have other health conditions, such as hypertension, which can affect blood pressure. Managing these conditions is crucial for overall health.\n   - **Drug Interactions**: Some medications that are taken alongside Eliquis, such as certain antihypertensive drugs, can affect blood pressure. It is important to monitor and manage these interactions.\n   - **Lifestyle Factors**: Lifestyle factors such as diet, exercise, and stress can also influence blood pressure. Patients on Eliquis should maintain a healthy lifestyle to manage their blood pressure effectively.\n\n4. **Monitoring and Management**:\n   - **Regular Monitoring**: Patients on Eliquis should have their blood pressure monitored regularly, especially if they have a history of hypertension or other cardiovascular conditions.\n   - **Consultation with Healthcare Provider**: Any significant changes in blood pressure should be discussed with a healthcare provider to ensure that the treatment plan is appropriate and effective.\n\nFinal answer: Eliquis (apixaban) does not directly affect blood pressure. However, patients taking Eliquis should have their blood pressure monitored regularly, especially if they have comorbid conditions such as hypertension. Managing other medications, lifestyle factors, and overall health is crucial for maintaining stable blood pressure while on Eliquis."
+        ],
+        "gold": {
+            "free_form_answer": "Less common adverse reactions … Vascular disorders: hypotension (including procedural hypotension)",
+            "must_have": [
+                "Eliquis, or apixaban, is an anticoagulant medication.",
+                "It is not typically associated with significant changes in blood pressure.",
+                "Eliquis can less commonly cause hypotension, including procedural hypotension.",
+                "Patients experiencing symptoms of low blood pressure while taking Eliquis should seek medical help immediately."
+            ],
+            "nice_to_have": [
+                "Eliquis is prescribed for prevention of strokes and blood clots in certain conditions.",
+                "Symptoms of low blood pressure can include dizziness, fainting, and unusually fast or slow heartbeat."
+            ]
+        },
+        "rouge-1": 0.0,
+        "rouge-2": 0.0,
+        "rouge-l": 0.0,
+        "rouge-s": 0.0,
+        "bertscore_precision": 0.5180622339248657,
+        "bertscore_recall": 0.6358574032783508,
+        "bertscore_f1": 0.5709473490715027
+    },
+    "35": {
+        "origin_prompt": "You are a leading expert in MedLFQA_MedicationQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: clonazepam \".25mg\" lowest dosage?\n\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. **Understanding Clonazepam Dosage**: Clonazepam is a benzodiazepine medication used to treat conditions such as panic disorders and certain types of seizures. It is available in various dosages, and the dosage is typically measured in milligrams (mg).\n\n2. **Identifying the Dosage in Question**: The question specifies a dosage of \".25mg\" (0.25 mg). This is a common dosage for clonazepam, often used as a starting dose for certain conditions.\n\n3. **Determining the Lowest Dosage**: The lowest commercially available dosage of clonazepam in most countries is 0.5 mg. However, the question specifically mentions 0.25 mg, which suggests that this might be a divided dose from a higher strength tablet or a specially compounded formulation.\n\n4. **Clinical Use of 0.25 mg**: In clinical practice, 0.25 mg is often used as the lowest starting dose for adults, especially for elderly patients or those who are more sensitive to the effects of benzodiazepines. This dose can be titrated up as needed based on the patient's response and tolerance.\n\n5. **Conclusion**: Given the context and the specific mention of 0.25 mg, it is reasonable to conclude that 0.25 mg is indeed the lowest dosage being referred to in this question.\n\nFinal answer: 0.25 mg is the lowest dosage of clonazepam mentioned in the question."
+        ],
+        "gold": {
+            "free_form_answer": "Klonopin Wafers (clonazepam orally disintegrating tablets) are white, round and debossed with the tablet strength … 0.125 mg  debossed 1/8 …",
+            "must_have": [
+                "The lowest dosage of Clonazepam available is 0.125 mg, which is used in the initial stages of treatment depending on medical need and patient tolerance."
+            ],
+            "nice_to_have": [
+                "Clonazepam is a prescribed drug used primarily in the treatment of seizure disorders and panic disorder.",
+                "It belongs to the family of benzodiazepines, reflecting its function in offering relief from anxiety and inducing sleep or relaxation in patients."
+            ]
+        },
+        "rouge-1": 0.1060606037052342,
+        "rouge-2": 0.0,
+        "rouge-l": 0.07575757340220392,
+        "rouge-s": 0.028708133971291867,
+        "bertscore_precision": 0.5915911197662354,
+        "bertscore_recall": 0.6531288027763367,
+        "bertscore_f1": 0.6208387613296509
+    },
+    "36": {
+        "origin_prompt": "You are a leading expert in MedLFQA_MedicationQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: how long does ecstasy or mda leave your body\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. **Understanding the Compounds**: Ecstasy (MDMA) and MDA (3,4-methylenedioxyamphetamine) are psychoactive drugs that belong to the amphetamine class. They have similar chemical structures and effects but differ slightly in their pharmacokinetics.\n   \n2. **Metabolism and Half-Life**:\n   - **MDMA (Ecstasy)**: The half-life of MDMA is approximately 6 to 8 hours. This means that it takes about 6 to 8 hours for the body to eliminate half of the drug.\n   - **MDA**: The half-life of MDA is slightly shorter, typically around 4 to 6 hours.\n\n3. **Detection Windows**:\n   - **Urine**: MDMA and MDA can be detected in urine for up to 2 to 4 days after use, depending on the dose and individual metabolism.\n   - **Blood**: In blood, MDMA and MDA are typically detectable for up to 24 to 48 hours after use.\n   - **Hair**: Hair testing can detect MDMA and MDA for up to 90 days, but this is less commonly used for routine drug testing.\n\n4. **Factors Affecting Detection**:\n   - **Dosage**: Higher doses can extend the detection window.\n   - **Frequency of Use**: Chronic users may have longer detection times due to accumulation in the body.\n   - **Metabolism**: Individual metabolic rates can vary, affecting how quickly the drugs are processed and eliminated.\n   - **Hydration**: Staying well-hydrated can help flush the drugs from the system more quickly, but it does not significantly alter the detection window.\n\nFinal answer: Ecstasy (MDMA) and MDA can typically be detected in the body for up to 2 to 4 days after use, with a half-life of 6 to 8 hours for MDMA and 4 to 6 hours for MDA. Detection times can vary based on factors such as dosage, frequency of use, metabolism, and hydration."
+        ],
+        "gold": {
+            "free_form_answer": "In terms of its metabolism, research suggests that MDMA taken by mouth reaches its maximal blood concentration in about two hours. As ecstasy is metabolized, it is secreted into the urine and can be present for up to two days.",
+            "must_have": [
+                "Research suggests that MDMA, taken by mouth, reaches its maximal blood concentration in about two hours.",
+                "MDMA or ecstasy is secreted into the urine and can be present for up to two days."
+            ],
+            "nice_to_have": [
+                "MDMA or ecstasy leaves the body mainly through excretion in urine.",
+                "The process of metabolism of the drug may vary depending on the activity level, hydration status, and overall health of the user."
+            ]
+        },
+        "rouge-1": 0.23121386946974506,
+        "rouge-2": 0.0229885032051793,
+        "rouge-l": 0.17341040126165264,
+        "rouge-s": 0.06666666666666667,
+        "bertscore_precision": 0.5935589075088501,
+        "bertscore_recall": 0.719876766204834,
+        "bertscore_f1": 0.6506436467170715
+    },
+    "37": {
+        "origin_prompt": "You are a leading expert in MedLFQA_MedicationQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: oxycodone hcl 5 mg & oxycodone \"10-325\" apap the same?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. **Understanding the Medications**: \n   - **Oxycodone HCl 5 mg**: This is a prescription opioid pain medication that contains 5 mg of oxycodone hydrochloride (HCl). It is typically used for moderate to severe pain.\n   - **Oxycodone \"10-325\" APAP**: This is a combination medication that contains 10 mg of oxycodone and 325 mg of acetaminophen (APAP). Acetaminophen is a non-opioid pain reliever and fever reducer.\n\n2. **Comparing the Active Ingredients**:\n   - **Oxycodone HCl 5 mg**: Contains only oxycodone as the active ingredient.\n   - **Oxycodone \"10-325\" APAP**: Contains both oxycodone and acetaminophen as active ingredients.\n\n3. **Dosage Differences**:\n   - **Oxycodone HCl 5 mg**: Provides 5 mg of oxycodone.\n   - **Oxycodone \"10-325\" APAP**: Provides 10 mg of oxycodone and 325 mg of acetaminophen.\n\n4. **Efficacy and Use**:\n   - **Oxycodone HCl 5 mg**: Primarily used for pain relief, with the dosage adjusted based on the severity of pain.\n   - **Oxycodone \"10-325\" APAP**: Used for moderate to severe pain, with the added benefit of acetaminophen for additional pain relief and fever reduction.\n\n5. **Potential Side Effects and Risks**:\n   - **Oxycodone HCl 5 mg**: Common side effects include drowsiness, dizziness, and constipation. There is a risk of dependence and misuse.\n   - **Oxycodone \"10-325\" APAP**: In addition to the side effects of oxycodone, there is a risk of liver damage from excessive acetaminophen use.\n\nFinal answer: No, oxycodone HCl 5 mg and oxycodone \"10-325\" APAP are not the same. Oxycodone HCl 5 mg contains only 5 mg of oxycodone, while oxycodone \"10-325\" APAP contains 10 mg of oxycodone and 325 mg of acetaminophen. The combination medication provides a higher dose of oxycodone and includes acetaminophen for additional pain relief and fever reduction."
+        ],
+        "gold": {
+            "free_form_answer": "PERCOCET - oxycodone hydrochloride and acetaminophen tablet. Each tablet, for oral administration, contains oxycodone hydrochloride and acetaminophen in the following strengths: Oxycodone Hydrochloride, USP          10 mg*",
+            "must_have": [
+                "A PERCOCET tablet contains both oxycodone hydrochloride and acetaminophen.",
+                "The \"10-325\" indicates that the tablet contains 10 mg of oxycodone hydrochloride and 325 mg of acetaminophen.",
+                "10 mg of oxycodone hydrochloride is equivalent to 8.9637 mg of oxycodone."
+            ],
+            "nice_to_have": [
+                "The oxycodone HCL 5mg is a medication that contains only oxycodone hydrochloride at a lesser dosage, i.e., 5mg, and does not contain acetaminophen unlike the PERCOCET \"10-325\".",
+                "Therefore, while both medications contain oxycodone, they are not the same due to the different concentrations of oxycodone and the presence or absence of acetaminophen."
+            ]
+        },
+        "rouge-1": 0.15873015605946086,
+        "rouge-2": 0.03030302840679534,
+        "rouge-l": 0.15873015605946086,
+        "rouge-s": 0.04905660377358491,
+        "bertscore_precision": 0.5978559851646423,
+        "bertscore_recall": 0.711353063583374,
+        "bertscore_f1": 0.6496849060058594
+    },
+    "38": {
+        "origin_prompt": "You are a leading expert in MedLFQA_MedicationQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: how long will 6 mgs of suboxone block opiates\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. **Understanding Suboxone and Its Components**: Suboxone is a medication used to treat opioid addiction. It contains two active ingredients: buprenorphine and naloxone. Buprenorphine is a partial opioid agonist, which means it activates opioid receptors but with less intensity than full agonists like morphine. Naloxone is an opioid antagonist that blocks the effects of opioids.\n\n2. **Duration of Buprenorphine's Effects**: Buprenorphine has a long half-life, typically ranging from 24 to 60 hours. This means that it remains active in the body for an extended period, providing a prolonged blockade of opioid receptors.\n\n3. **Dosage and Blockade Duration**: The 6 mg dose of Suboxone (which contains 6 mg of buprenorphine) is a common dose used in treatment. The duration for which buprenorphine can block the effects of other opioids is influenced by the dose and the individual's metabolism. Generally, a 6 mg dose of buprenorphine can block the effects of other opioids for about 24 to 72 hours.\n\n4. **Individual Variability**: The exact duration can vary based on factors such as the individual's metabolism, liver function, and the presence of other medications. Some individuals may experience a longer blockade, while others may experience a shorter one.\n\n5. **Clinical Considerations**: In clinical settings, the blockade effect is often considered to last for at least 24 hours, but it can extend up to 72 hours. This is why Suboxone is typically dosed once daily.\n\nFinal answer: A 6 mg dose of Suboxone can block the effects of other opioids for approximately 24 to 72 hours, with the exact duration varying based on individual factors such as metabolism and liver function."
+        ],
+        "gold": {
+            "free_form_answer": "Comparisons of buprenorphine with full agonists such as methadone and hydromorphone suggest that sublingual buprenorphine produces typical opioid agonist effects which are limited by a ceiling effect.In non-dependent subjects, acute sublingual doses of SUBOXONE tablets produced opioid agonist effects, which reached a maximum between doses of 8 mg and 16mg of SUBUTEX. The effects of 16mg SUBOXONE were similar to those produced by 16mg SUBUTEX (buprenorphine alone).",
+            "must_have": [
+                "Sublingual doses of SUBOXONE tablets produce opioid agonist effects.",
+                "The effects reach a maximum between doses of 8 mg and 16 mg of SUBUTEX.",
+                "There is a dose of buprenorphine that produces no further effect; this is referred to as its \"ceiling effect\".",
+                "Typically, this ceiling effect can be observed at around 48 hours post administration for higher doses of buprenorphine."
+            ],
+            "nice_to_have": [
+                "In a study with 16 opioid-experienced, non-dependent subjects, higher doses of buprenorphine (8-32 mg) kept agonist objective rating scores elevated for longer than the lower doses and did not return to baseline until 48 hours after drug administrations.",
+                "The peak effect appears to reach after about 100 minutes for buprenorphine."
+            ]
+        },
+        "rouge-1": 0.196721307711786,
+        "rouge-2": 0.03546098947739081,
+        "rouge-l": 0.1311475372199828,
+        "rouge-s": 0.08582089552238806,
+        "bertscore_precision": 0.6710877418518066,
+        "bertscore_recall": 0.7333004474639893,
+        "bertscore_f1": 0.7008160948753357
+    },
+    "39": {
+        "origin_prompt": "You are a leading expert in MedLFQA_MedicationQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: can i eat after taking rapaflo?\n\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. **Understanding Rapaflo**: Rapaflo (silodosin) is a medication primarily used to treat the symptoms of an enlarged prostate (benign prostatic hyperplasia, BPH). It works by relaxing the muscles in the prostate and bladder neck, making it easier to urinate.\n2. **Medication Instructions**: The prescribing information for Rapaflo typically includes specific instructions on how and when to take the medication. It is important to follow these instructions to ensure the medication is effective and to minimize side effects.\n3. **Food and Rapaflo**: According to the medication guide for Rapaflo, it is generally recommended to take Rapaflo with a meal. This is because food can help improve the absorption of the medication and reduce the risk of side effects such as dizziness or low blood pressure.\n4. **Timing of Eating**: If you have already taken Rapaflo and are wondering if you can eat afterward, it is generally safe to do so. However, it is best to follow the specific instructions provided by your healthcare provider or the medication guide.\n5. **Potential Side Effects**: Eating after taking Rapaflo should not significantly affect the medication's effectiveness or increase the risk of side effects. However, if you experience any unusual symptoms, it is important to contact your healthcare provider.\n\nFinal answer: Yes, you can eat after taking Rapaflo. It is generally recommended to take Rapaflo with a meal to improve absorption and reduce side effects, but eating after taking the medication is also safe. Always follow the specific instructions provided by your healthcare provider or the medication guide."
+        ],
+        "gold": {
+            "free_form_answer": "The recommended dose is 8 mg orally once daily with a meal.",
+            "must_have": [
+                "Rapaflo (silodosin) should be taken orally once daily with a meal.",
+                "Increased absorption is seen when Rapaflo is taken with food."
+            ],
+            "nice_to_have": [
+                "It's advisable to consult with your healthcare provider or pharmacist for specific details related to your medication and the consumption of it relative to meals."
+            ]
+        },
+        "rouge-1": 0.0857142841469388,
+        "rouge-2": 0.018957344983266376,
+        "rouge-l": 0.0857142841469388,
+        "rouge-s": 0.023622047244094488,
+        "bertscore_precision": 0.5023794770240784,
+        "bertscore_recall": 0.6467337608337402,
+        "bertscore_f1": 0.5654895901679993
+    },
+    "40": {
+        "origin_prompt": "You are a leading expert in MedLFQA_MedicationQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: how is cyanocobalamin adminitsered\n\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. **Identify the Medication**: The medication in question is cyanocobalamin, which is a form of vitamin B12.\n2. **Understand the Administration Routes**: Cyanocobalamin can be administered through various routes, including intramuscular (IM), subcutaneous (SC), and intranasal.\n3. **Common Administration Methods**:\n   - **Intramuscular (IM)**: This is the most common route for cyanocobalamin administration. It involves injecting the medication directly into a muscle, typically the deltoid or gluteal muscle.\n   - **Subcutaneous (SC)**: This route involves injecting the medication just under the skin. It is less common but can be used in certain situations.\n   - **Intranasal**: This route involves administering the medication through the nose. It is less common and typically used for maintenance therapy.\n4. **Dosage and Frequency**: The dosage and frequency of administration depend on the patient's specific condition and the severity of the vitamin B12 deficiency. Common initial dosages for IM administration are 1000 mcg, followed by maintenance doses as prescribed by a healthcare provider.\n5. **Considerations for Administration**:\n   - **Patient Factors**: Age, weight, and overall health can influence the choice of administration route and dosage.\n   - **Medical Supervision**: Administration, especially via injection, should be performed or supervised by a healthcare professional to ensure safety and efficacy.\n\nFinal answer: Cyanocobalamin is typically administered via intramuscular (IM) injection, although it can also be given subcutaneously (SC) or intranasally. The most common route is IM, usually into the deltoid or gluteal muscle. The dosage and frequency depend on the patient's specific condition and are typically determined by a healthcare provider."
+        ],
+        "gold": {
+            "free_form_answer": "Cyanocobalamin Injection, USP is a sterile solution of cyanocobalamin for intramuscular or subcutaneous injection. Each mL contains 1000 mcg cyanocobalamin.",
+            "must_have": [
+                "Cyanocobalamin is most commonly administered as an intramuscular or subcutaneous injection.",
+                "It can also be administered as oral tablets, nasal spray, or sublingual forms.",
+                "Cyanocobalamin should always be administered as directed by a healthcare provider."
+            ],
+            "nice_to_have": [
+                "Cyanocobalamin is a synthetic form of vitamin B12.",
+                "An injection of Cyanocobalamin is often given by a healthcare provider in a medical setting.",
+                "It can also be self-administered under strict guidance and instructions from a healthcare provider.",
+                "Its use should be monitored to ensure safety and efficacy."
+            ]
+        },
+        "rouge-1": 0.16551723910202143,
+        "rouge-2": 0.017467247386586966,
+        "rouge-l": 0.09655172186064215,
+        "rouge-s": 0.04918032786885246,
+        "bertscore_precision": 0.5710443258285522,
+        "bertscore_recall": 0.7398916482925415,
+        "bertscore_f1": 0.6445943117141724
+    },
+    "41": {
+        "origin_prompt": "You are a leading expert in MedLFQA_MedicationQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: heroin mixed with fentanyl what are the symptoms of an overdose\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. **Understanding the Components**: Heroin and fentanyl are both potent opioids. Heroin is a semi-synthetic opioid derived from morphine, while fentanyl is a synthetic opioid that is significantly more potent (50-100 times stronger than morphine).\n2. **Mechanism of Action**: Both drugs work by binding to opioid receptors in the brain, leading to a reduction in pain perception and a sense of euphoria. However, their high potency can quickly overwhelm the body's systems, leading to severe respiratory depression and other life-threatening symptoms.\n3. **Symptoms of Overdose**:\n   - **Respiratory Depression**: The most critical and immediate symptom is slowed or stopped breathing. This can lead to hypoxia (lack of oxygen to the brain), which can cause brain damage or death.\n   - **Central Nervous System Depression**: This includes drowsiness, confusion, and loss of consciousness.\n   - **Pupillary Constriction**: Pinpoint pupils (miosis) are a classic sign of opioid overdose.\n   - **Slowed Heart Rate and Low Blood Pressure**: These can lead to circulatory collapse.\n   - **Cold, Clammy Skin**: The skin may become pale and feel cold to the touch.\n   - **Vomiting and Choking**: Nausea and vomiting can occur, and if the person is unconscious, they may choke on their vomit.\n   - **Seizures**: In some cases, seizures can occur, especially if the overdose is severe.\n4. **Combined Effects**: When heroin and fentanyl are mixed, the risk of overdose is significantly increased due to the synergistic effects of the two drugs. The combined potency can lead to a rapid onset of severe symptoms, making it even more dangerous.\n\nFinal answer: The symptoms of an overdose when heroin is mixed with fentanyl include severe respiratory depression (slowed or stopped breathing), central nervous system depression (drowsiness, confusion, loss of consciousness), pinpoint pupils, slowed heart rate and low blood pressure, cold and clammy skin, vomiting and choking, and in some cases, seizures. The combined effects of these two potent opioids can lead to a rapid onset of these symptoms, making the situation extremely dangerous and potentially fatal."
+        ],
+        "gold": {
+            "free_form_answer": "People use heroin to get high. But if they overdose on it, they get extremely sleepy or may become unconsciousness and stop breathing.Below are symptoms of a heroin overdose in different parts of the body.Symptoms include:- Slow and shallow breathing\n- Deceased pulse rate\n- Exhaustion, to the point of potentially losing consciousness\n- Bluish lips and fingernails\n- Skin turning cold and clammy \n- Pinpoint pupils \n- Delirium, disorientation or coma\n- Nausea and vomiting.When heroin is mixed with fentanyl, an overdose can occur more easily because fentanyl is 50 times more potent than heroin. Also, symptoms of an overdose might occur rapidly after drug use due to fentanyl's potency.",
+            "must_have": [
+                "The symptoms of an overdose from heroin mixed with fentanyl include slow and shallow breathing, decreased pulse rate, exhaustion, bluish lips and fingernails, pinpoint pupils, and periods of delirium or coma.",
+                "Immediate medical attention is necessary if an overdose is suspected.",
+                "A noticeable characteristic of an overdose is skin turning cold and clammy.",
+                "Overdose may occur more easily and rapidly when heroin is mixed with fentanyl due to its higher potency.",
+                "The symptoms of overdosing on a combination of heroin and fentanyl may include respiratory depression, stupor or coma, skeletal muscle flaccidity, cold and clammy skin, constricted pupils, and potential death."
+            ],
+            "nice_to_have": [
+                "Nausea and vomiting can also occur with an overdose.",
+                "Overdose symptoms can include atypical snoring, slow heartbeat, low blood pressure, and blue lips, nails or extremities possibly due to lack of oxygen.",
+                "If someone is showing any of these symptoms following drug use, it's crucial to seek emergency medical attention immediately.",
+                "Heroin is often used for its euphoric effects; however, it can be deadly when misused or mixed with other potent substances like fentanyl.",
+                "If the person overdosing is conscious, they might show signs of severe confusion or disorientation, have difficulty walking or standing, or behave ubiquitously.",
+                "Mixing fentanyl with other drugs, such as heroin, increases the risk of an overdose."
+            ]
+        },
+        "rouge-1": 0.33463034596678226,
+        "rouge-2": 0.09448818508001476,
+        "rouge-l": 0.15564201911853331,
+        "rouge-s": 0.09717868338557993,
+        "bertscore_precision": 0.6476507782936096,
+        "bertscore_recall": 0.7244427800178528,
+        "bertscore_f1": 0.683897852897644
+    },
+    "42": {
+        "origin_prompt": "You are a leading expert in MedLFQA_MedicationQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: how is tetracycline metabolized?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. **Understanding Tetracycline**: Tetracycline is a broad-spectrum antibiotic that belongs to the tetracycline class of antibiotics. It is used to treat a variety of bacterial infections.\n2. **Absorption and Distribution**: Tetracycline is primarily absorbed in the upper small intestine. It is distributed throughout the body, including the liver, kidneys, and other tissues.\n3. **Metabolism**: Tetracycline is not extensively metabolized in the liver. The majority of tetracycline remains in its original form.\n4. **Excretion**: Tetracycline is primarily excreted unchanged in the urine. A small amount is also excreted in the bile and feces.\n5. **Renal Function Impact**: The excretion of tetracycline is significantly influenced by renal function. In patients with renal impairment, the excretion rate is reduced, leading to a longer half-life and potential accumulation.\n\nFinal answer: Tetracycline is primarily excreted unchanged in the urine and is not extensively metabolized in the liver. Renal function plays a crucial role in its excretion."
+        ],
+        "gold": {
+            "free_form_answer": "Tetracyclines are readily absorbed and are bound to plasma proteins in varying degrees. They are concentrated by the liver in the bile and excreted in the urine and feces at high concentrations in a biologically active form.",
+            "must_have": [
+                "Tetracyclines are absorbed and bound to plasma proteins and they are concentrated by the liver in the bile.",
+                "The excretion of tetracyclines is via urine and feces.",
+                "The tetracyclines are excreted in high concentrations in a biologically active form."
+            ],
+            "nice_to_have": [
+                "The extent to which tetracyclines bind to plasma proteins may vary."
+            ]
+        },
+        "rouge-1": 0.22608695283780725,
+        "rouge-2": 0.09876542871132461,
+        "rouge-l": 0.1565217354465029,
+        "rouge-s": 0.1118421052631579,
+        "bertscore_precision": 0.6665149927139282,
+        "bertscore_recall": 0.7631335258483887,
+        "bertscore_f1": 0.7115594148635864
+    },
+    "43": {
+        "origin_prompt": "You are a leading expert in MedLFQA_MedicationQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: how other inject cortisone to the knee\n\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. **Understanding the Context**: The question asks about the procedure for injecting cortisone into the knee. Cortisone injections are commonly used to reduce inflammation and pain in the knee joint, often for conditions like osteoarthritis, tendinitis, or bursitis.\n2. **Preparation for the Procedure**:\n   - **Patient Preparation**: The patient should be informed about the procedure, potential risks, and benefits. They should be asked to sit or lie down in a comfortable position.\n   - **Sterilization**: The injection site (knee) should be cleaned with an antiseptic solution to prevent infection.\n   - **Equipment**: The healthcare provider will need a syringe, a needle, and the cortisone solution. Local anesthetic may also be used to numb the area.\n3. **Locating the Injection Site**:\n   - **Anatomical Landmarks**: The healthcare provider will identify the appropriate site for injection, typically the suprapatellar or infrapatellar bursa, or directly into the joint space.\n   - **Ultrasound Guidance**: In some cases, ultrasound may be used to ensure precise placement of the needle.\n4. **Performing the Injection**:\n   - **Insertion of the Needle**: The needle is inserted into the knee joint or bursa. The healthcare provider will use a steady hand to ensure the needle is in the correct position.\n   - **Aspiration**: Before injecting the cortisone, the provider may aspirate to ensure the needle is not in a blood vessel and to check for any fluid in the joint.\n   - **Injection of Cortisone**: The cortisone solution is slowly injected into the joint or bursa.\n5. **Post-Procedure Care**:\n   - **Monitoring**: The patient will be monitored for any immediate reactions or complications.\n   - **Instructions**: The patient will be given instructions on how to care for the injection site and what to expect in terms of pain relief and potential side effects.\n   - **Follow-Up**: A follow-up appointment may be scheduled to assess the effectiveness of the injection and to address any ongoing issues.\n\nFinal answer: Cortisone is injected into the knee by first preparing the patient and the injection site, identifying the correct anatomical landmarks, and using a sterile needle to insert the cortisone solution into the joint or bursa. The procedure may be guided by ultrasound for precision, and the patient is monitored post-injection for any reactions or complications."
+        ],
+        "gold": {
+            "free_form_answer": "A steroid injection is a shot of medicine used to relieve a swollen or inflamed area that is often painful. It can be injected into a joint, tendon, or bursa.\n\nDescription\nYour health care provider inserts a small needle and injects medicine into the painful and inflamed area. Depending on the site, your provider may use an x-ray or ultrasound to see where to place the needle.\n\nFor this procedure:\n\nYou will lie on a table and the injection area will be cleaned.\nA numbing medicine may be applied to the injection site.\nYou may be given medicine to help you relax.\nSteroid injections can be given into a bursa, joint, or tendon.",
+            "must_have": [
+                "Health care provider uses a small needle for injecting cortisone.",
+                "Depending on the site, an x-ray or ultrasound may be used to guide the needle to the exact location.",
+                "The procedure involves cleaning of the injection area, application of a numbing medicine, and possible administration of relaxants.",
+                "The cortisone injection is delivered directly into the joint or inflamed area.",
+                "If the injection is given in the knee, some fluid may be withdrawn for testing before injecting the medication."
+            ],
+            "nice_to_have": [
+                "The person receiving the injection will be asked to lie on a table for the procedure.",
+                "The process may cause temporary discomfort, however, a numbing medicine is often used to reduce any pain from the needle.",
+                "Normally, you can return home soon after the cortisone injection."
+            ]
+        },
+        "rouge-1": 0.27826086551039697,
+        "rouge-2": 0.07712081865729166,
+        "rouge-l": 0.14782608290170143,
+        "rouge-s": 0.11931818181818182,
+        "bertscore_precision": 0.6371886134147644,
+        "bertscore_recall": 0.7244579792022705,
+        "bertscore_f1": 0.6780266761779785
+    },
+    "44": {
+        "origin_prompt": "You are a leading expert in MedLFQA_MedicationQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: where yo get tetanus shots\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. **Understanding the Question**: The question is asking about where one can receive tetanus shots. This involves identifying the types of healthcare facilities or providers that typically administer tetanus vaccines.\n2. **Common Healthcare Providers**: Tetanus shots are commonly administered by healthcare professionals such as doctors, nurses, and pharmacists. These professionals are typically found in various healthcare settings.\n3. **Types of Healthcare Facilities**: The most common places to get tetanus shots include:\n   - **Primary Care Clinics**: These are often the first point of contact for general health issues and routine vaccinations.\n   - **Urgent Care Centers**: These facilities provide immediate care for non-life-threatening conditions and often offer vaccinations.\n   - **Hospitals**: Emergency departments and outpatient clinics within hospitals can provide tetanus shots.\n   - **Pharmacies**: Many pharmacies, especially in the United States, offer a range of vaccines, including tetanus shots.\n   - **Public Health Clinics**: These clinics, often run by local health departments, provide vaccinations at low or no cost.\n4. **Special Considerations**: It's important to consider the availability and convenience of these options. For example, pharmacies and urgent care centers may have longer hours and shorter wait times compared to primary care clinics.\n\nFinal answer: You can get tetanus shots at primary care clinics, urgent care centers, hospitals, pharmacies, and public health clinics."
+        ],
+        "gold": {
+            "free_form_answer": "Getting vaccinated is convenient — you can get most recommended vaccines at your doctor’s office. Many recommended vaccines are also available at local pharmacies, health centers, health departments, and travel clinics. Below you’ll find information and tools to help you find out where to get vaccinated near you — and some tips for making an appointment.",
+            "must_have": [
+                "You can get a tetanus shot at your local doctor's office, pharmacies, health centers, health departments, and travel clinics.",
+                "It's important to call and make an appointment for vaccination."
+            ],
+            "nice_to_have": [
+                "Tools and resources are available to help you find out where to get vaccinated near you.",
+                "While it's most often recommended to get a tetanus shot at your doctor's office, there are other convenient locations such as local pharmacies, health centers, and health departments."
+            ]
+        },
+        "rouge-1": 0.21965317551404998,
+        "rouge-2": 0.03265305788055011,
+        "rouge-l": 0.12716762638110207,
+        "rouge-s": 0.07317073170731707,
+        "bertscore_precision": 0.6423789858818054,
+        "bertscore_recall": 0.7139546871185303,
+        "bertscore_f1": 0.6762782335281372
+    },
+    "45": {
+        "origin_prompt": "You are a leading expert in MedLFQA_MedicationQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: what is prochlorperazine\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. **Identify the Substance**: Prochlorperazine is a medication, and the first step is to confirm its classification and primary use.\n2. **Pharmacological Classification**: Prochlorperazine belongs to the class of drugs known as phenothiazines, which are primarily used for their antipsychotic and antiemetic (anti-nausea) properties.\n3. **Mechanism of Action**: Prochlorperazine works by blocking dopamine receptors in the brain, which helps to reduce symptoms of psychosis and nausea.\n4. **Common Uses**: It is commonly prescribed for the treatment of nausea and vomiting, as well as for managing symptoms of schizophrenia and other psychiatric disorders.\n5. **Dosage Forms**: Prochlorperazine is available in various forms, including tablets, oral solutions, and injectable solutions.\n6. **Side Effects and Precautions**: Understanding the potential side effects and precautions is important for safe use. Common side effects include drowsiness, dizziness, and extrapyramidal symptoms (such as tremors and muscle stiffness).\n\nFinal answer: Prochlorperazine is a phenothiazine medication primarily used to treat nausea and vomiting, as well as symptoms of schizophrenia and other psychiatric disorders. It works by blocking dopamine receptors in the brain, and it is available in various forms including tablets, oral solutions, and injectable solutions. Common side effects include drowsiness, dizziness, and extrapyramidal symptoms."
+        ],
+        "gold": {
+            "free_form_answer": "For control of severe nausea and vomiting.Prochlorperazine is effective for the short-term treatment of generalized non-psychotic anxiety. However, prochlorperazine is not the first drug to be used in therapy for most patients with non-psychotic anxiety, because certain risks associated with its use are not shared by common alternative treatments (e.g., benzodiazepines).When used in the treatment of non-psychotic anxiety, prochlorperazine should not be administered at doses of more than 20 mg per day or for longer than 12 weeks, because the use of prochlorperazine at higher doses or for longer intervals may cause persistent tardive dyskinesia that may prove irreversible (see WARNINGS).The effectiveness of prochlorperazine as treatment for non-psychotic anxiety was established in 4-week clinical studies of outpatients with generalized anxiety disorder. This evidence does not predict that prochlorperazine will be useful in patients with other non-psychotic conditions in which anxiety, or signs that mimic anxiety, are found (e.g., physical illness, organic mental conditions, agitated depression, character pathologies, etc.).",
+            "must_have": [
+                "Prochlorperazine is used for the treatment of severe nausea and vomiting, and schizophrenia.",
+                "When treating non-psychotic anxiety, the drug should not be administered at doses exceeding 20 mg per day or for longer than 12 weeks due to the risk of persistent tardive dyskinesia.",
+                "The drug is not effective in treating behavioral complications in patients with mental retardation."
+            ],
+            "nice_to_have": [
+                "Prochlorperazine is not the first choice drug for patient with non-psychotic anxiety due to certain risks.",
+                "Its effectiveness in treating non-psychotic anxiety was established in 4-week clinical studies with outpatients suffering from generalized anxiety disorder.",
+                "Its efficacy does not guarantee its usefulness in patients with other non-psychotic conditions where anxiety or symptoms mimicking anxiety are present, such as physical illness, organic mental conditions, agitated depression, character pathologies, etc."
+            ]
+        },
+        "rouge-1": 0.1791044726130543,
+        "rouge-2": 0.0398671046359318,
+        "rouge-l": 0.1293532288319598,
+        "rouge-s": 0.1319796954314721,
+        "bertscore_precision": 0.6533303260803223,
+        "bertscore_recall": 0.6835553646087646,
+        "bertscore_f1": 0.6681011915206909
+    },
+    "46": {
+        "origin_prompt": "You are a leading expert in MedLFQA_MedicationQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: vit b12 tabet?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. **Clarify the Question**: The question \"vit b12 tabet?\" appears to be asking about Vitamin B12 tablets. However, the term \"tabet\" is not standard and might be a typo or a regional term. It is likely meant to be \"tablet\" or \"tablets.\"\n2. **Understand the Context**: Vitamin B12 is an essential nutrient that plays a crucial role in the body, including the formation of red blood cells, DNA synthesis, and neurological function. It is often taken in the form of tablets, either orally or sublingually.\n3. **Common Forms and Usage**: Vitamin B12 tablets are available in various forms, including oral tablets, sublingual tablets, and chewable tablets. Oral tablets are typically swallowed with water, while sublingual tablets are placed under the tongue to dissolve.\n4. **Dosage and Frequency**: The dosage and frequency of Vitamin B12 tablets can vary depending on the individual's needs and the specific product. Common dosages range from 50 mcg to 1000 mcg, and the frequency can be daily, weekly, or as directed by a healthcare provider.\n5. **Potential Benefits and Side Effects**: Vitamin B12 supplementation can help prevent or treat deficiencies, which can lead to anemia, fatigue, and neurological issues. However, it is generally safe, and side effects are rare, though some people may experience mild side effects like nausea or diarrhea.\n\nFinal answer: Vitamin B12 tablets are a common form of supplementation used to prevent or treat Vitamin B12 deficiency. They are available in various forms, such as oral, sublingual, and chewable tablets. The typical dosage ranges from 50 mcg to 1000 mcg, and the frequency can vary. Always follow the instructions on the product label or consult a healthcare provider for personalized advice."
+        ],
+        "gold": {
+            "free_form_answer": "Vitamin B12 is found in almost all multivitamins. Dietary supplements that contain only vitamin B12, or vitamin B12 with nutrients such as folic acid and other B vitamins, are also available. Check the Supplement Facts label to determine the amount of vitamin B12 provided.Vitamin B12 is also available in sublingual forms (which are dissolved under the tongue). There is no evidence that sublingual forms are better absorbed than pills that are swallowed.",
+            "must_have": [
+                "Vitamin B12 is available in multiple forms including multivitamins, individual supplements, sublingual forms, and prescription forms such as shots and nasal gels.",
+                "It is primarily used to treat vitamin B12 deficiency."
+            ],
+            "nice_to_have": [
+                "There is no evidence to suggest that sublingual forms of Vitamin B12 (dissolved under the tongue) are better absorbed than those that are swallowed.",
+                "Always check the Supplement Facts label to determine the amount of vitamin B12 in a supplement."
+            ]
+        },
+        "rouge-1": 0.2125603827113819,
+        "rouge-2": 0.03960395698853083,
+        "rouge-l": 0.11594202522345926,
+        "rouge-s": 0.08243727598566308,
+        "bertscore_precision": 0.6207646131515503,
+        "bertscore_recall": 0.7115459442138672,
+        "bertscore_f1": 0.6630624532699585
+    },
+    "47": {
+        "origin_prompt": "You are a leading expert in MedLFQA_MedicationQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: how to stop pregabalin lyrica\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. **Understanding the Medication**: Pregabalin (Lyrica) is a medication used to treat neuropathic pain, epilepsy, and generalized anxiety disorder. It works by reducing the number of pain signals sent out by damaged nerves in the body.\n2. **Importance of Tapering**: Abruptly stopping pregabalin can lead to withdrawal symptoms such as anxiety, insomnia, nausea, and sweating. Therefore, it is crucial to taper the dose gradually under medical supervision.\n3. **Consulting a Healthcare Provider**: Before making any changes to the medication regimen, it is essential to consult a healthcare provider. They can provide a personalized tapering schedule based on the individual's specific needs and medical history.\n4. **Tapering Schedule**: A typical tapering schedule might involve reducing the dose by 25-50% every 1-2 weeks, but this can vary. The healthcare provider will monitor the patient's response and adjust the schedule as needed.\n5. **Monitoring for Withdrawal Symptoms**: During the tapering process, it is important to monitor for any withdrawal symptoms and report them to the healthcare provider. If symptoms are severe, the tapering schedule may need to be adjusted.\n6. **Alternative Treatments**: In some cases, the healthcare provider may recommend alternative treatments or additional support to manage symptoms during the tapering process.\n\nFinal answer: To stop pregabalin (Lyrica) safely, it is essential to consult a healthcare provider who can provide a personalized tapering schedule. Typically, the dose is reduced gradually over several weeks to avoid withdrawal symptoms. Monitoring for any adverse effects and adjusting the tapering plan as needed is crucial. Do not stop the medication abruptly without medical guidance."
+        ],
+        "gold": {
+            "free_form_answer": "When discontinuing LYRICA, taper gradually over a minimum of 1 week.",
+            "must_have": [
+                "LYRICA (pregabalin) should be discontinued gradually over a period of at least one week."
+            ],
+            "nice_to_have": [
+                "It is not recommended to abruptly stop taking LYRICA (pregabalin) because it may lead to withdrawal symptoms.",
+                "Consultation with a healthcare provider is advised when considering stopping LYRICA (pregabalin)."
+            ]
+        },
+        "rouge-1": 0.07361963064323085,
+        "rouge-2": 0.008620688830261673,
+        "rouge-l": 0.03680981469231063,
+        "rouge-s": 0.01937984496124031,
+        "bertscore_precision": 0.5295002460479736,
+        "bertscore_recall": 0.674104630947113,
+        "bertscore_f1": 0.5931158065795898
+    },
+    "48": {
+        "origin_prompt": "You are a leading expert in MedLFQA_MedicationQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: what mg is the lowest does of coreg?\n\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. **Identify the Medication**: The question asks about \"Coreg,\" which is the brand name for the medication **carvedilol**. Carvedilol is a beta-blocker used to treat high blood pressure, heart failure, and certain heart conditions.\n2. **Determine Available Dosages**: Carvedilol is available in various dosages. The most common forms are tablets and extended-release capsules. The typical dosages for carvedilol tablets are 3.125 mg, 6.25 mg, 12.5 mg, and 25 mg. For extended-release capsules, the dosages are 10 mg, 20 mg, 40 mg, and 80 mg.\n3. **Identify the Lowest Dosage**: Among the available dosages, the lowest dosage for carvedilol tablets is 3.125 mg. This is the smallest increment typically prescribed to start patients on the medication, especially for those who are sensitive to beta-blockers or require a lower initial dose.\n\nFinal answer: The lowest dose of Coreg (carvedilol) is **3.125 mg**."
+        ],
+        "gold": {
+            "free_form_answer": "The white, oval, film‑coated tablets are available in the following strengths: • 3.125 mg – engraved with “39” and “SB” • 6.25 mg – engraved with “4140” and “SB” • 12.5 mg – engraved with “4141” and “SB” • 25 mg – engraved with “4142” and “SB”",
+            "must_have": [
+                "The lowest dosage of Coreg (carvedilol) available is 3.125 mg."
+            ],
+            "nice_to_have": [
+                "The other available dosages for Coreg are 6.25 mg, 12.5 mg and 25 mg.",
+                "These dosages are identified by engraving on the tablets."
+            ]
+        },
+        "rouge-1": 0.22222221876543213,
+        "rouge-2": 0.07594936409149186,
+        "rouge-l": 0.1666666632098766,
+        "rouge-s": 0.09929078014184398,
+        "bertscore_precision": 0.5857585668563843,
+        "bertscore_recall": 0.6251090168952942,
+        "bertscore_f1": 0.6047943234443665
+    },
+    "49": {
+        "origin_prompt": "You are a leading expert in MedLFQA_MedicationQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: what does using fluorouracil make your face look like\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. **Understanding Fluorouracil**: Fluorouracil (5-FU) is a chemotherapy medication used to treat various types of cancer, including skin cancer. It works by inhibiting DNA synthesis in rapidly dividing cells, which can help slow or stop the growth of cancer cells.\n\n2. **Topical Application**: When used topically, fluorouracil is often applied to the skin to treat conditions such as actinic keratosis (pre-cancerous skin lesions), basal cell carcinoma, and superficial squamous cell carcinoma. It is also sometimes used for certain types of skin conditions like seborrheic keratosis.\n\n3. **Common Side Effects**: The use of topical fluorouracil can cause several side effects, particularly on the skin. These side effects can vary in severity and duration but are generally temporary. Common side effects include:\n   - **Redness and Inflammation**: The treated area may become red, swollen, and inflamed.\n   - **Peeling and Crusting**: The skin may start to peel, crust, or form scabs as the medication works to remove damaged or pre-cancerous cells.\n   - **Irritation and Itching**: The skin may become irritated, itchy, or sore.\n   - **Discoloration**: The skin may temporarily change color, becoming lighter or darker in the treated areas.\n\n4. **Appearance of the Face**: When fluorouracil is applied to the face, the skin may initially appear:\n   - **Red and Inflamed**: The face may look red and swollen, similar to a sunburn.\n   - **Peeling and Crusting**: The skin may start to peel and form crusts, which can give the face a rough, uneven appearance.\n   - **Irritated and Sore**: The face may feel itchy, sore, and sensitive to touch.\n   - **Discolored**: The skin may show patches of lighter or darker color, depending on the individual's skin type and the extent of the treatment.\n\n5. **Duration of Side Effects**: These side effects typically last for a few weeks, and the skin usually returns to its normal appearance once the treatment is completed and the skin has healed.\n\nFinal answer: Using fluorouracil on the face can cause the skin to become red, inflamed, and irritated. The skin may also peel, crust, and change color, giving the face a rough, uneven, and sometimes discolored appearance. These side effects are generally temporary and should resolve as the skin heals."
+        ],
+        "gold": {
+            "free_form_answer": "The most frequent adverse reactions to Fluorouracil 5% Topical Cream occur locally and are often related to an extension of the pharmacological activity of the drug. These include burning, crusting, allergic contact dermatitis, erosions, erythema, hyperpigmentation, irritation, pain, photosensitivity, pruritus, scarring, rash, soreness and ulceration.",
+            "must_have": [
+                "The use of fluorouracil 5% topical cream can lead to local adverse reactions such as burning, crusting, allergic contact dermatitis, erosions, erythema, hyperpigmentation, irritation, pain, photosensitivity, pruritus, scarring, rash, soreness, and ulceration."
+            ],
+            "nice_to_have": [
+                "Most of the adverse reactions related to the use of fluorouracil are often an extension of the drug's pharmacological activity."
+            ]
+        },
+        "rouge-1": 0.11538461221939728,
+        "rouge-2": 0.006042293811849952,
+        "rouge-l": 0.07692307375785887,
+        "rouge-s": 0.03977272727272727,
+        "bertscore_precision": 0.5891154408454895,
+        "bertscore_recall": 0.689950704574585,
+        "bertscore_f1": 0.6355584263801575
+    }
+}

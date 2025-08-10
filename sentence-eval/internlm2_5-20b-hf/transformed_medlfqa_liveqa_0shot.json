@@ -1,0 +1,1287 @@
+{
+    "0": {
+        "origin_prompt": "You are a leading expert in MedLFQA_LiveQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: Are confusion and facial itch possible side effects of methadone?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. Methadone is a synthetic opioid medication primarily used to treat moderate to severe pain. It is also used to manage opioid addiction by replacing other opioids with a less addictive form.\n2. Confusion and facial itch are not commonly reported side effects of methadone. However, it is important to note that methadone can cause various side effects, including drowsiness, dizziness, constipation, and nausea.\n3. It is possible that confusion and facial itch could be side effects of methadone in rare cases, but they are not typically associated with the medication. If an individual experiences these symptoms while taking methadone, it is important to consult a healthcare professional to determine the cause and appropriate treatment.\n\nFinal answer: While confusion and facial itch are not commonly reported side effects of methadone, they could be possible side effects in rare cases. It is important to consult a healthcare professional if these symptoms occur while taking the medication."
+        ],
+        "gold": {
+            "free_form_answer": "The major hazards of methadone are respiratory depression and, to a lesser degree, systemic hypotension. Respiratory arrest, shock, cardiac arrest, and death have occurred.",
+            "must_have": [
+                "Confusion is indeed a possible side effect of methadone.",
+                "Methadone may also cause an itchy rash, which could potentially affect the face.",
+                "It's crucial to note that both of these side effects should prompt immediate medical attention."
+            ],
+            "nice_to_have": [
+                "Among other potential side effects of methadone are lightheadedness, dizziness, sedation, nausea, vomiting, and sweating.",
+                "These effects usually decrease over time with prolonged administration of methadone.",
+                "The major hazards associated with methadone include respiratory depression, cardiac complications, and even death in severe cases."
+            ]
+        },
+        "rouge-1": 0.11214952944361962,
+        "rouge-2": 0.014184394432876135,
+        "rouge-l": 0.09345794065857292,
+        "rouge-s": 0.04487179487179487,
+        "bertscore_precision": 0.6166161298751831,
+        "bertscore_recall": 0.6848336458206177,
+        "bertscore_f1": 0.6489370465278625
+    },
+    "1": {
+        "origin_prompt": "You are a leading expert in MedLFQA_LiveQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: Can electrical high voltage shock cause swallowing difficulty?\n\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. Electrical high voltage shock can cause severe injury to the body, including burns, muscle contractions, and nerve damage.\n2. Swallowing difficulty can be a symptom of nerve damage, particularly in the facial and neck area, which can affect the muscles involved in swallowing.\n3. In some cases, electrical high voltage shock can cause injury to the throat or esophagus, leading to swallowing difficulty as a direct result of the physical damage.\n\nFinal answer: Yes, electrical high voltage shock can cause swallowing difficulty, either through nerve damage or direct physical injury to the throat or esophagus."
+        ],
+        "gold": {
+            "free_form_answer": " An electrical injury is damage to the skin or internal organs when a person comes into direct contact with an electrical current. Symptoms may include: Changes in alertness (consciousness) Broken bones Heart attack (chest, arm, neck, jaw, or back pain) Headache Problems with swallowing, vision, or hearing Irregular heartbeat Muscle spasms and pain Numbness or tingling Breathing problems or lung failure Seizures Skin burns\n\t\t\t\t",
+            "must_have": [
+                "After a high voltage electrical shock, symptoms and complications can vary widely depending on numerous factors including the intensity of the shock and the pathway it took through the body.",
+                "Immediate medical attention is crucial if someone experiences a high voltage electrical shock, as some complications might not be immediately obvious.",
+                "Swallowing difficulties can be one of the potential complications following an electrical injury."
+            ],
+            "nice_to_have": [
+                "Symptoms and potential complications of an electrical shock can be as varied as changes in consciousness, broken bones, heart issues, headache, vision and hearing impairment, muscle spasms and pain, numbness or tingling, breathing difficulties, seizures, and skin burns.",
+                "Personal health status can also influence the severity of the complications from an electrical shock."
+            ]
+        },
+        "rouge-1": 0.23214285214445163,
+        "rouge-2": 0.014285709335716,
+        "rouge-l": 0.16071428071588023,
+        "rouge-s": 0.12371134020618557,
+        "bertscore_precision": 0.6716912984848022,
+        "bertscore_recall": 0.6906529664993286,
+        "bertscore_f1": 0.6810401678085327
+    },
+    "2": {
+        "origin_prompt": "You are a leading expert in MedLFQA_LiveQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: How does one taper off the drug Amlodipine and start Atenolol to avoid adverse side effects?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. Consult a healthcare professional: Before making any changes to your medication regimen, it's essential to consult with a healthcare professional, such as a doctor or pharmacist. They can assess your individual needs and provide personalized advice.\n2. Gradual reduction of Amlodipine: To avoid withdrawal symptoms, it's important to gradually reduce the dose of Amlodipine over a period of time, typically a few weeks. This allows your body to adjust to the decreasing levels of the drug.\n3. Slow introduction of Atenolol: Once the Amlodipine dose has been reduced, start taking Atenolol at a low dose and gradually increase it as directed by your healthcare professional. This helps to minimize the risk of adverse side effects.\n\nFinal answer: To avoid adverse side effects when tapering off Amlodipine and starting Atenolol, consult a healthcare professional, gradually reduce the Amlodipine dose over a few weeks, and slowly introduce Atenolol while increasing the dose as directed."
+        ],
+        "gold": {
+            "free_form_answer": "Abrupt cessation may precipitate angina, MI, arrhythmias, or rebound HTN; discontinue by tapering over 1-2 weeks. Do not abruptly discontinue without physician's advice.",
+            "must_have": [
+                "One should consult with a healthcare provider before stopping the Amlodipine.",
+                "It is crucial to taper off amlodipine over a period of 1 to 2 weeks to prevent complications such as angina, myocardial infarction, arrhythmias or rebound hypertension.",
+                "It is important not to abruptly discontinue amlodipine without the advice of a healthcare provider.",
+                "When starting Atenolol, it should be under the guidance and monitoring of a healthcare provider to manage any potential side effects."
+            ],
+            "nice_to_have": [
+                "Proper medical consultation and monitoring is critical when switching from one medication to another, especially with cardiovascular drugs like Amlodipine and Atenolol.",
+                "These medications should never be stopped or started without the guidance of a healthcare provider.",
+                "Tapering off and starting medications should be personalized and depending on the patient's unique needs and circumstances."
+            ]
+        },
+        "rouge-1": 0.1061946871297675,
+        "rouge-2": 0.0,
+        "rouge-l": 0.08849557208551972,
+        "rouge-s": 0.032467532467532464,
+        "bertscore_precision": 0.5862710475921631,
+        "bertscore_recall": 0.6265026330947876,
+        "bertscore_f1": 0.6057195663452148
+    },
+    "3": {
+        "origin_prompt": "You are a leading expert in MedLFQA_LiveQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: I want information on Schmorl's nodes.\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. Schmorl's nodes are a specific type of herniation, so it's important to understand what herniation means in a medical context.\n2. These nodes are named after a German doctor, which suggests they might be a well-documented and recognized condition.\n3. Schmorl's nodes are associated with the spine, so it's crucial to understand the anatomy of the spine and how it relates to these nodes.\n\nFinal answer: Schmorl's nodes are herniations of the cartilage of an intervertebral disc through the vertebral endplate, named after the German doctor Hans Schmorl."
+        ],
+        "gold": {
+            "free_form_answer": "Schmorl nodes, also referred as intravertebral disc herniations, refer to protrusions of the cartilage of the intervertebral disc through the vertebral body endplate and into the adjacent vertebra. The protrusions may contact the marrow of the vertebra, leading to inflammation. Schmorl nodes can be asymptomatic, meaning they do not cause any symptoms, or they can cause back pain, particularly during the teen years and young adulthood. They are often found in people who perform heavy physical work, such as lifting.Schmorl nodes can be detected through radiologic testing like X-rays, CT scans or MRIs and are considered a common finding in spinal imaging. The diagnosis needs to be differentiated from other causes of back pain. The treatment for Schmorl nodes typically focuses on managing symptoms, and it often involves physical therapy and pain relieving medications.In extreme cases where the Schmorl nodes are large or cause severe symptoms, surgical intervention could be considered, but this is rare.",
+            "must_have": [
+                "Treatment typically focuses on managing symptoms and can involve physical therapy and pain relieving medications.",
+                "If Schmorl's nodes become large or cause inflammation in the vertebra, they can cause back pain and stiffness.",
+                "Schmorl's nodes, also known as intravertebral disc herniations, occur when the cartilage of the intervertebral disc protrudes through the vertebral body endplate into the adjacent vertebra.",
+                "Schmorl's nodes are protrusions of the intervertebral disc cartilage through the vertebral body endplate and into the adjacent vertebra.",
+                "They often do not cause symptoms and are usually discovered during spine X-rays performed for other reasons."
+            ],
+            "nice_to_have": [
+                "Surgery is rarely required for Schmorl's nodes and is usually only considered if conservative treatments have been unsuccessful in managing chronic, debilitating pain.",
+                "Treatment for Schmorl's nodes often involves nonsurgical methods, including pain medications, physical therapy, and lifestyle modifications.",
+                "Schmorl nodes can cause back pain, particularly during the teen years and young adulthood, and are often found in people who carry out heavy physical labor.",
+                "If the nodes are large or cause severe symptoms, surgical intervention may be considered, but this is a rare occurrence."
+            ]
+        },
+        "rouge-1": 0.23456789663770772,
+        "rouge-2": 0.07142856688934979,
+        "rouge-l": 0.09876542750190542,
+        "rouge-s": 0.2111111111111111,
+        "bertscore_precision": 0.713314414024353,
+        "bertscore_recall": 0.6872481107711792,
+        "bertscore_f1": 0.7000386714935303
+    },
+    "4": {
+        "origin_prompt": "You are a leading expert in MedLFQA_LiveQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: What are the most common ways of spreading cold germs?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. Cold germs, also known as rhinoviruses, are highly contagious and can be spread through various means.\n2. One of the primary ways of spreading cold germs is through direct contact with an infected person. This can happen when an infected individual coughs or sneezes, releasing droplets containing the virus into the air.\n3. Another common method of transmission is by touching surfaces contaminated with cold germs, such as doorknobs, countertops, or electronic devices, and then touching one's face, nose, or mouth.\n\nFinal answer: The most common ways of spreading cold germs include direct contact with infected individuals through coughing or sneezing and touching contaminated surfaces followed by touching one's face, nose, or mouth."
+        ],
+        "gold": {
+            "free_form_answer": "Common cold Prevention To lower your chances of getting sick:",
+            "must_have": [
+                "Common ways of spreading cold germs include not washing hands after nose-wiping, diapering, and using the bathroom, and before eating and preparing food.",
+                "Other ways include not disinfecting commonly touched surfaces and sharing cloth towels.",
+                "The use of antibiotics when not needed can also aid in spreading cold germs."
+            ],
+            "nice_to_have": [
+                "Smoking, especially secondhand smoke, can lead to many health problems, including colds.",
+                "Breastfeeding infants can help protect against respiratory tract infections.",
+                "Consuming probiotics and getting adequate sleep can also aid in preventing colds.",
+                "It is beneficial to drink plenty of fluids to help your immune system function properly.",
+                "Using instant hand sanitizers and choosing smaller daycare classes can also be helpful in preventing the spread of cold germs."
+            ]
+        },
+        "rouge-1": 0.047619045521542044,
+        "rouge-2": 0.0,
+        "rouge-l": 0.047619045521542044,
+        "rouge-s": 0.02608695652173913,
+        "bertscore_precision": 0.5455039143562317,
+        "bertscore_recall": 0.6466348767280579,
+        "bertscore_f1": 0.591779887676239
+    },
+    "5": {
+        "origin_prompt": "You are a leading expert in MedLFQA_LiveQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: What causes Hypoglycemia in newborns and is there a way for a pregnant woman to avoid giving birth to a child with Hypoglycemia?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. Hypoglycemia in newborns is primarily caused by a deficiency of glucose, which is the primary source of energy for the brain and the body. This deficiency can occur due to various reasons such as maternal diabetes, premature birth, or an insufficient production of glucose by the baby's liver.\n2. Maternal diabetes, particularly gestational diabetes, is a significant risk factor for hypoglycemia in newborns. When a pregnant woman has diabetes, her body produces high levels of insulin, which can cross the placenta and enter the baby's bloodstream. This can cause the baby's pancreas to produce excess insulin, leading to low blood sugar levels after birth.\n3. Premature birth is another common cause of hypoglycemia in newborns. Babies born prematurely may have underdeveloped livers, which are responsible for producing glucose. Additionally, premature babies often have a higher demand for glucose due to their rapid growth and development.\n\nFinal answer: Hypoglycemia in newborns is primarily caused by a deficiency of glucose, which can result from maternal diabetes, premature birth, or an insufficient production of glucose by the baby's liver. To reduce the risk of giving birth to a child with hypoglycemia, pregnant women should manage their blood sugar levels, especially if they have diabetes, and ensure proper prenatal care to minimize the risk of premature birth."
+        ],
+        "gold": {
+            "free_form_answer": "Babies need blood sugar (glucose) for energy. Most of that glucose is used by the brain.",
+            "must_have": [
+                "Neonatal hypoglycemia occurs when the newborn's blood glucose level is below a safe level for the baby's age, causing symptoms.",
+                "Risk factors for hypoglycemia in newborns include being born early, having a serious infection, needing oxygen right after delivery, having a mother with diabetes, having slower than usual growth in the womb during pregnancy, and being smaller in size than normal for their gestational age.",
+                "A pregnant woman with diabetes must work closely with her healthcare provider to control her blood sugar level to reduce the risk of her baby developing hypoglycemia."
+            ],
+            "nice_to_have": [
+                "Most of the glucose in a baby's body is used by the brain.",
+                "Before birth, a baby receives glucose from the mother through the placenta, and after birth, a baby gets glucose from the mother's milk or formula, and also produces it in the liver.",
+                "The baby's glucose levels can drop if there's too much insulin in the blood, the baby isn't producing enough glucose, the baby's body is using more glucose than is being produced, or the baby isn't feeding enough to keep the glucose level up.",
+                "It's important that a newborn's blood sugar level is monitored after birth, especially if the mother has diabetes or there were other risk factors present.",
+                "Neonatal hypoglycemia occurs in about 1 to 3 out of every 1,000 births."
+            ]
+        },
+        "rouge-1": 0.1705426336037498,
+        "rouge-2": 0.03124999855957038,
+        "rouge-l": 0.10852712972778081,
+        "rouge-s": 0.04186046511627907,
+        "bertscore_precision": 0.6051698327064514,
+        "bertscore_recall": 0.7566857933998108,
+        "bertscore_f1": 0.6724991798400879
+    },
+    "6": {
+        "origin_prompt": "You are a leading expert in MedLFQA_LiveQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: What medication should a 65 year old male use for leg pain?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. The first step is to identify the potential causes of leg pain in a 65-year-old male. This could include conditions such as arthritis, muscle strain, nerve issues, or circulation problems.\n2. The second step is to consider the patient's medical history, current medications, and any known allergies to ensure the safety of the recommended medication.\n3. The third step is to consider the severity of the leg pain and any other symptoms the patient may be experiencing to determine the appropriate medication and dosage.\n\nFinal answer: Without more information on the patient's specific condition and medical history, it is not possible to provide a definitive medication recommendation. It is important for the patient to consult with a healthcare professional who can evaluate their symptoms and provide personalized advice."
+        ],
+        "gold": {
+            "free_form_answer": "Take over-the-counter pain medicines like acetaminophen or ibuprofen. 2. Try over-the-counter pain relievers such as ibuprofen (Advil, Motrin IB, others) or naproxen sodium (Aleve)",
+            "must_have": [
+                "Over-the-counter pain relievers such as ibuprofen (Advil, Motrin IB, etc.)",
+                "or naproxen sodium (Aleve) can be used for leg pain.",
+                "Acetaminophen can also be used for pain relief."
+            ],
+            "nice_to_have": [
+                "These medications are non-prescription drugs and may offer temporary relief.",
+                "However, if the pain persists or worsens despite medication, medical attention should be sought.",
+                "It is also important for the individual to consider their overall health condition when choosing a pain reliever; for example, those with certain health issues like kidney disease or stomach problems need to be careful when taking NSAIDs like ibuprofen and naproxen."
+            ]
+        },
+        "rouge-1": 0.09345794088566697,
+        "rouge-2": 0.014388486544175228,
+        "rouge-l": 0.07476635210062026,
+        "rouge-s": 0.038461538461538464,
+        "bertscore_precision": 0.6030530333518982,
+        "bertscore_recall": 0.6348562836647034,
+        "bertscore_f1": 0.6185461282730103
+    },
+    "7": {
+        "origin_prompt": "You are a leading expert in MedLFQA_LiveQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: Is a calcium supplement beneficial for persons who have osteoporosis, and will the addition of magnesium be of greater benefit?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. Osteoporosis is a condition characterized by weak and brittle bones, which can lead to an increased risk of fractures. One of the key factors in the development and progression of osteoporosis is a deficiency in calcium.\n2. Calcium is an essential mineral for bone health, as it is a major component of bone tissue. Supplementation with calcium can help to improve bone density and reduce the risk of fractures in individuals with osteoporosis.\n3. Magnesium is another important mineral for bone health, as it plays a role in the absorption and metabolism of calcium. Some studies have suggested that the addition of magnesium to calcium supplements may provide additional benefits for individuals with osteoporosis, as it can help to improve the absorption and utilization of calcium in the body.\n\nFinal answer: Yes, a calcium supplement can be beneficial for persons with osteoporosis, and the addition of magnesium may provide additional benefits by improving the absorption and utilization of calcium."
+        ],
+        "gold": {
+            "free_form_answer": "1. It's also a good idea to take your calcium supplements at a different time from your multivitamin or an iron-rich meal. Calcium may not be absorbed as well if it's taken at the same time as iron, zinc or magnesium. 2. Vitamin D intake: this nutrient, obtained from food and produced by skin when exposed to sunlight of sufficient intensity, improves calcium absorption. 3. In 1993, the U.S. Food and Drug Administration authorized a health claim related to calcium and osteoporosis for foods and supplements [58]. In January 2010, this health claim was expanded to include vitamin D. Model health claims include the following: \"Adequate calcium throughout life, as part of a well-balanced diet, may reduce the risk of osteoporosis\" and \"Adequate calcium and vitamin D as part of a healthful diet, along with physical activity, may reduce the risk of osteoporosis in later life\"",
+            "must_have": [
+                "Calcium supplements can be beneficial for persons diagnosed with osteoporosis as sufficient calcium intake may reduce the risk of osteoporosis.",
+                "Alongside calcium, intake of vitamin D is also important as it aids in the absorption of calcium in the body."
+            ],
+            "nice_to_have": [
+                "Magnesium, iron or zinc should be taken at a different time from calcium as these elements can interfere with calcium absorption.",
+                "Adequate physical activity alongside a well-balanced diet including calcium and vitamin D can help reduce the risk of osteoporosis later in life.",
+                "Vitamin D can also be produced by skin when exposed to sufficient sunlight.",
+                "The U.S. Food and Drug Administration has authorized health claims related to calcium and osteoporosis for foods and supplements."
+            ]
+        },
+        "rouge-1": 0.2873563168714494,
+        "rouge-2": 0.05363984174513046,
+        "rouge-l": 0.18390804100938052,
+        "rouge-s": 0.17391304347826086,
+        "bertscore_precision": 0.7243648767471313,
+        "bertscore_recall": 0.6964050531387329,
+        "bertscore_f1": 0.7101098299026489
+    },
+    "8": {
+        "origin_prompt": "You are a leading expert in MedLFQA_LiveQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: What doctor specializes in testing for and treating autoimmune diseases?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. The question asks about a specific type of doctor who specializes in testing for and treating autoimmune diseases.\n2. Autoimmune diseases are conditions where the immune system mistakenly attacks the body's own cells, and require specialized knowledge and treatment.\n3. The term \"rheumatologist\" is commonly associated with the diagnosis and treatment of autoimmune diseases, as they specialize in musculoskeletal disorders, many of which are autoimmune in nature.\n\nFinal answer: A rheumatologist is the type of doctor who specializes in testing for and treating autoimmune diseases."
+        ],
+        "gold": {
+            "free_form_answer": "Since autoimmune diseases vary greatly in presentation, many different physician specialists care for patients with these disorders. The specialist is usually skilled in treating diseases of a particular system. For example: rheumatologists tend to treat diseases affecting the joints and connective tissue; neurologists, autoimmune diseases of the central and/or peripheral nervous system; dermatologists; diseases of the skin; gastroenterologists, diseases of the intestinal tract; and endocrinologists, diseases of endocrine organs. It can be truly said that physicians of any specialty may encounter patients with autoimmune disease.  ",
+            "must_have": [
+                "Autoimmune diseases can be diagnosed and treated by different specialist physicians depending on the system or tissue affected by the disease.",
+                "These specialists can include rheumatologists, neurologists, dermatologists, gastroenterologists, and endocrinologists."
+            ],
+            "nice_to_have": [
+                "Due to the varying nature of autoimmune diseases, physicians from any specialty may encounter patients with these disorders.",
+                "Therefore it's crucial to have a thorough diagnosis depending on the symptoms and the organ system affected by the disease."
+            ]
+        },
+        "rouge-1": 0.2499999950222223,
+        "rouge-2": 0.013513508517167662,
+        "rouge-l": 0.13333332835555575,
+        "rouge-s": 0.19540229885057472,
+        "bertscore_precision": 0.7078861594200134,
+        "bertscore_recall": 0.7021030187606812,
+        "bertscore_f1": 0.7049827575683594
+    },
+    "9": {
+        "origin_prompt": "You are a leading expert in MedLFQA_LiveQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: Why should Simvastatin be taken in the evening, rather than morning?\n\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. Simvastatin is a type of medication known as a statin, which is used to lower cholesterol levels in the blood. It works by inhibiting the enzyme HMG-CoA reductase, which is involved in the production of cholesterol in the liver.\n2. The liver produces the majority of its cholesterol at night while a person is asleep. Taking Simvastatin in the evening allows the medication to be most effective at the time when the liver is producing the most cholesterol.\n3. Additionally, taking Simvastatin in the evening may help to reduce the risk of certain side effects, such as muscle pain or weakness, which can be more pronounced if the medication is taken in the morning.\n\nFinal answer: Simvastatin should be taken in the evening rather than the morning because the liver produces the majority of its cholesterol at night, and taking the medication at this time allows it to be most effective. Additionally, taking it in the evening may help reduce the risk of certain side effects."
+        ],
+        "gold": {
+            "free_form_answer": "Simvastatin comes as a tablet to take by mouth. It usually is taken once a day in the evening. Take simvastatin at around the same time every day. ",
+            "must_have": [
+                "Simvastatin works by inhibiting an enzyme involved in cholesterol production that is most active at night, hence it should be taken in the evening."
+            ],
+            "nice_to_have": [
+                "Simvastatin should be taken at around the same time every day to ensure consistency and effectiveness of the medication."
+            ]
+        },
+        "rouge-1": 0.249999996348003,
+        "rouge-2": 0.0512820484196254,
+        "rouge-l": 0.21153845788646453,
+        "rouge-s": 0.08928571428571429,
+        "bertscore_precision": 0.6433771848678589,
+        "bertscore_recall": 0.7492039203643799,
+        "bertscore_f1": 0.692269504070282
+    },
+    "10": {
+        "origin_prompt": "You are a leading expert in MedLFQA_LiveQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: I want information on Beckwith-Wieddeman Syndrome.\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. The question asks for information on Beckwith-Wiedemann Syndrome, which is a genetic disorder.\n2. To provide accurate information, I need to gather details about the symptoms, causes, and treatments associated with this syndrome.\n3. I will also consider any recent developments or research related to Beckwith-Wiedemann Syndrome to ensure the information is up-to-date.\n\nFinal answer: Beckwith-Wiedemann Syndrome is a genetic disorder characterized by excessive growth before birth, large body size at birth, and an increased risk of certain cancers. It is caused by alterations in the genes that control growth, and treatment typically involves monitoring for potential complications, such as tumors or hormonal imbalances."
+        ],
+        "gold": {
+            "free_form_answer": "Beckwith-Wiedemann syndrome is a condition that affects many parts of the body. It is classified as an overgrowth syndrome, which means that affected infants are considerably larger than normal (macrosomia) and tend to be taller than their peers during childhood. Growth begins to slow by about age 8, and adults with this condition are not unusually tall. In some children with Beckwith-Wiedemann syndrome, specific parts of the body on one side or the other may grow abnormally large, leading to an asymmetric or uneven appearance. This unusual growth pattern, which is known as hemihyperplasia, usually becomes less apparent over time. The signs and symptoms of Beckwith-Wiedemann syndrome vary among affected individuals. Some children with this condition are born with an opening in the wall of the abdomen (an omphalocele) that allows the abdominal organs to protrude through the belly-button. Other abdominal wall defects, such as a soft out-pouching around the belly-button (an umbilical hernia), are also common. Some infants with Beckwith-Wiedemann syndrome have an abnormally large tongue (macroglossia), which may interfere with breathing, swallowing, and speaking. Other major features of this condition include abnormally large abdominal organs (visceromegaly), creases or pits in the skin near the ears, low blood sugar (hypoglycemia) in infancy, and kidney abnormalities. Children with Beckwith-Wiedemann syndrome are at an increased risk of developing several types of cancerous and noncancerous tumors, particularly a form of kidney cancer called Wilms tumorand a form of liver cancer called hepatoblastoma. Tumors develop in about 10 percent of people with this condition and almost always appear in childhood. Most children and adults with Beckwith-Wiedemann syndrome do not have serious medical problems associated with the condition. Their life expectancy is usually normal.",
+            "must_have": [
+                "Beckwith-Wiedemann syndrome is an overgrowth condition, which could lead to greater than average size in infancy and childhood.",
+                "It could result in asymmetric or uneven body appearance due to abnormal growth of specific body parts.",
+                "It could also involve major features like an opening in the abdomen (omphalocele), large tongue (macroglossia), larger than normal abdominal organs (visceromegaly), skin creases or pits near the ears, low blood sugar (hypoglycemia), kidney abnormalities.",
+                "Children with this syndrome are susceptible to cancerous and noncancerous tumors such as Wilms' tumor and hepatoblastoma.",
+                "These tumors usually appear in childhood."
+            ],
+            "nice_to_have": [
+                "The growth in those with Beckwith-Wiedemann syndrome tends to slow down by about age 8 and as adults, they are not particularly tall.",
+                "The unusual growth pattern known as hemihyperplasia, usually becomes less apparent over time.",
+                "Other abdominal wall defects common to this condition include a soft out-pouching around the belly-button (an umbilical hernia).",
+                "The large tongue could interfere with breathing, swallowing, and speech.",
+                "Most people with this syndrome do not have major medical issues and life expectancy is typically normal."
+            ]
+        },
+        "rouge-1": 0.25910930730547954,
+        "rouge-2": 0.05714285306122478,
+        "rouge-l": 0.14574898341883996,
+        "rouge-s": 0.2641509433962264,
+        "bertscore_precision": 0.6926718950271606,
+        "bertscore_recall": 0.6544497013092041,
+        "bertscore_f1": 0.6730185747146606
+    },
+    "11": {
+        "origin_prompt": "You are a leading expert in MedLFQA_LiveQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: What causes rib cage pain? How is it remedied?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. Rib cage pain can be caused by various factors, including muscle strain, inflammation, fractures, or nerve damage.\n2. To determine the exact cause, a medical professional may perform a physical examination, imaging tests, or blood tests.\n3. The remedy for rib cage pain depends on the underlying cause. For muscle strain or inflammation, rest, ice, and over-the-counter pain relievers may be recommended. In case of a fracture or nerve damage, medical intervention may be necessary.\n\nFinal answer: Rib cage pain is caused by factors like muscle strain, inflammation, fractures, or nerve damage. It is remedied based on the underlying cause, which can be determined through a medical examination and tests."
+        ],
+        "gold": {
+            "free_form_answer": "Ribcage pain may be caused by any of the following: Bruised, cracked, or fractured rib Inflammation of cartilage near the breastbone (costochondritis) Osteoporosis Pleurisy (the pain is worse when breathing deeply) Rest and not moving the area (immobilization) are the best cures for a ribcage fracture.",
+            "must_have": [
+                "The causes of rib cage pain may include a bruised, cracked, or fractured rib, inflammation of the cartilage near the breastbone (costochondritis), osteoporosis, or pleurisy.",
+                "The best remedies for a rib cage fracture would be rest and immobilization.",
+                "It's important to follow your healthcare provider's instructions for treating the cause of ribcage pain."
+            ],
+            "nice_to_have": [
+                "Seeking professional medical advice is highly recommended if ribcage pain persists, as the underlying cause may need a thorough evaluation.",
+                "The cause of rib cage pain may vary from person to person and could involve skeletal issues, muscle strain, or underlying diseases."
+            ]
+        },
+        "rouge-1": 0.26415093869704526,
+        "rouge-2": 0.058394156172412295,
+        "rouge-l": 0.16981131605553593,
+        "rouge-s": 0.11607142857142858,
+        "bertscore_precision": 0.6567132472991943,
+        "bertscore_recall": 0.6639313697814941,
+        "bertscore_f1": 0.6603025794029236
+    },
+    "12": {
+        "origin_prompt": "You are a leading expert in MedLFQA_LiveQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: Is a high dose, 50,000 IUs, of vitamin D safe if you have a deficiency? Can high doses cause flatulence or other side effects?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. The recommended daily intake of vitamin D is 600-800 IUs for adults. A high dose of 50,000 IUs is significantly higher than the daily intake and is typically used for vitamin D supplementation in people with deficiency.\n2. High doses of vitamin D, such as 50,000 IUs, can cause side effects in some individuals. These side effects may include nausea, vomiting, constipation, and increased urination. However, flatulence is not a commonly reported side effect of vitamin D supplementation.\n3. It is important to consult with a healthcare professional before starting any high-dose vitamin D supplementation, especially if you have a deficiency. They can assess your individual needs and monitor your progress to ensure safety and effectiveness.\n\nFinal answer: A high dose of 50,000 IUs of vitamin D can be safe for individuals with a deficiency, but it is important to consult with a healthcare professional. While flatulence is not a commonly reported side effect, other side effects such as nausea, vomiting, and constipation may occur."
+        ],
+        "gold": {
+            "free_form_answer": "Can vitamin D be harmful? Yes, when amounts in the blood become too high. Signs of toxicity include nausea, vomiting, poor appetite, constipation, weakness, and weight loss. And by raising blood levels of calcium, too much vitamin D can cause confusion, disorientation, and problems with heart rhythm. Excess vitamin D can also damage the kidneys.The upper limit for vitamin D is 1,000 to 1,500 IU/day for infants, 2,500 to 3,000 IU/day for children 1-8 years, and 4,000 IU/day for children 9 years and older, adults, and pregnant and lactating teens and women. Vitamin D toxicity almost always occurs from overuse of supplements. Excessive sun exposure doesn't cause vitamin D poisoning because the body limits the amount of this vitamin it produces.",
+            "must_have": [
+                "High levels of vitamin D in the blood can be harmful, causing symptoms such as nausea, vomiting, poor appetite, constipation, weakness, confusion, disorientation, heart rhythm problems, and kidney damage.",
+                "Overuse of vitamin D supplements can lead to vitamin D toxicity.",
+                "The upper limit for vitamin D is 4,000 IU/day for children 9 years and older, adults, and pregnant and lactating teens and women."
+            ],
+            "nice_to_have": [
+                "While a high dose of vitamin D can cause certain side effects, it does not specifically cause flatulence.",
+                "An excess of vitamin D is typically due to overuse of supplements rather than excessive sun exposure, as the body limits the amount of vitamin D it produces from sun exposure.",
+                "Signs of vitamin D toxicity can also include weight loss.",
+                "The upper limit for vitamin D for infants is 1,000 to 1,500 IU/day and for children 1-8 years it is 2,500 to 3,000 IU/day."
+            ]
+        },
+        "rouge-1": 0.22727272227531004,
+        "rouge-2": 0.05833332836145876,
+        "rouge-l": 0.1363636313662192,
+        "rouge-s": 0.1377245508982036,
+        "bertscore_precision": 0.6903053522109985,
+        "bertscore_recall": 0.7140544056892395,
+        "bertscore_f1": 0.7019790410995483
+    },
+    "13": {
+        "origin_prompt": "You are a leading expert in MedLFQA_LiveQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: Can I stop using the patch (menopausal hormone therapy) after only 4.5 months?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. Menopausal hormone therapy (MHT) patches are prescribed to help alleviate symptoms associated with menopause, such as hot flashes, night sweats, and mood swings. The duration of treatment typically depends on individual needs and the severity of symptoms.\n2. Stopping MHT after only 4.5 months may not be advisable, as the full benefits of the therapy may not have been realized during such a short period. It is important to consult with a healthcare professional to discuss the potential risks and benefits of discontinuing the patch prematurely.\n3. Factors to consider when deciding whether to stop MHT include the severity of symptoms, the presence of any contraindications or side effects, and the overall health of the individual. It is crucial to have a conversation with a healthcare provider to make an informed decision.\n\nFinal answer: It is not recommended to stop using the menopausal hormone therapy patch after only 4.5 months without consulting a healthcare professional. They can help assess your individual situation and determine the appropriate course of action."
+        ],
+        "gold": {
+            "free_form_answer": "Climara (Estradiol Transdermal System) Patients should be started at the lowest dose. Six (6.5, 9.375, 12.5, 15, 18.75 and 25 cm2 ) Climara systems are available. For the treatment of vasomotor symptoms, treatment should be initiated with the 6.5 cm2 (0.025 mg/day) Climara system applied to the skin once weekly. The dose should be adjusted as necessary to control symptoms. Clinical responses (relief of symptoms) at the lowest effective dose should be the guide for establishing administration of the Climara system, especially in women with an intact uterus. Attempts to taper or discontinue the medication should be made at 3- to 6-month intervals. ",
+            "must_have": [
+                "The dose of Estradiol Transdermal System should be started at the lowest dose and adjusted as necessary to control symptoms.",
+                "Clinical responses should be the guide for establishing the administration of the system, especially in women with an intact uterus.",
+                "Attempts to taper or discontinue the medication should be made at 3- to 6-month intervals."
+            ],
+            "nice_to_have": [
+                "Six different system sizes are available for the Estradiol Transdermal System, starting from the 6.5 cm2 (0.025 mg/day) Climara system.",
+                "This system is applied to the skin once weekly for the treatment of vasomotor symptoms related to menopause."
+            ]
+        },
+        "rouge-1": 0.16184970623676045,
+        "rouge-2": 0.01632652590220877,
+        "rouge-l": 0.10404623802866807,
+        "rouge-s": 0.1286549707602339,
+        "bertscore_precision": 0.6548888087272644,
+        "bertscore_recall": 0.6677272915840149,
+        "bertscore_f1": 0.6612457036972046
+    },
+    "14": {
+        "origin_prompt": "You are a leading expert in MedLFQA_LiveQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: What is hepatitis and how is it transmitted?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. Hepatitis is a medical condition characterized by inflammation of the liver, which can lead to liver damage and failure if left untreated.\n2. There are several types of hepatitis, including hepatitis A, B, C, D, and E, each with different modes of transmission.\n3. Hepatitis A and E are primarily spread through ingestion of contaminated food or water, while hepatitis B, C, and D are transmitted through blood or body fluid contact, such as through sexual intercourse, sharing needles, or from mother to child during childbirth.\n\nFinal answer: Hepatitis is the inflammation of the liver, and it is transmitted through various means depending on the type, including ingestion of contaminated food or water for hepatitis A and E, and blood or body fluid contact for hepatitis B, C, and D."
+        ],
+        "gold": {
+            "free_form_answer": "Scientists have identified 5 unique hepatitis viruses, identified by the letters A, B, C, D, and E. While all cause liver disease, they vary in important ways.",
+            "must_have": [
+                "Hepatitis is transmitted through various ways depending on the type: Hepatitis A is transmitted through consumption of contaminated water or food or through certain sex practices; Hepatitis B and C are mainly transmitted through exposure to infective blood, semen, and other body fluids, through transfusions of contaminated blood, contaminated injections during medical procedures, and through injection drug use; Hepatitis D occurs only in those already infected with Hepatitis B; Hepatitis E is mainly transmitted through consumption of contaminated water or food."
+            ],
+            "nice_to_have": [
+                "All five types of hepatitis cause liver diseases, however, their severity can vary.",
+                "Vaccines are available to prevent Hepatitis A, B, and E, however, no vaccine is available for Hepatitis C. Hepatitis D only occurs in those already infected with Hepatitis B.",
+                "Hepatitis E is a common cause of hepatitis outbreaks in developing parts of the world but is increasingly recognized as an important cause of disease in developed countries.",
+                "Vaccines to prevent Hepatitis E infection have been developed but are not widely available."
+            ]
+        },
+        "rouge-1": 0.1980197981570435,
+        "rouge-2": 0.07518796677935452,
+        "rouge-l": 0.17821781795902372,
+        "rouge-s": 0.08333333333333333,
+        "bertscore_precision": 0.647701621055603,
+        "bertscore_recall": 0.744929313659668,
+        "bertscore_f1": 0.6929214596748352
+    },
+    "15": {
+        "origin_prompt": "You are a leading expert in MedLFQA_LiveQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: What is fibromyalgia and how is it treated?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. Fibromyalgia is a medical condition characterized by widespread musculoskeletal pain, fatigue, and tenderness in the muscles and soft tissues.\n2. The exact cause of fibromyalgia is unknown, but it is believed to involve a combination of genetic, environmental, and psychological factors.\n3. Treatment for fibromyalgia typically involves a combination of medications, lifestyle changes, and therapies to manage symptoms and improve quality of life.\n\nFinal answer: Fibromyalgia is a condition characterized by widespread pain, fatigue, and tenderness, with treatment involving a combination of medications, lifestyle changes, and therapies."
+        ],
+        "gold": {
+            "free_form_answer": "What do we know about the effectiveness of complementary health approaches for fibromyalgia? Although some studies of tai chi, yoga, mindfulness meditation, and biofeedback for fibromyalgia have had promising results, the evidence is too limited to allow definite conclusions to be reached about whether these approaches are helpful. It's uncertain whether acupuncture is helpful for fibromyalgia pain. Vitamin D supplements may reduce pain in people with fibromyalgia who are deficient in this vitamin. Some preliminary research on transcranial magnetic stimulation (TMS) for fibromyalgia symptoms has had promising results.",
+            "must_have": [
+                "Finding the most effective treatment for fibromyalgia often may require trying a variety of approaches and requires a team of healthcare providers.",
+                "Other common treatments prescribed for fibromyalgia include physical exercise, cognitive behavioral therapies and other forms of psychotherapy, healthy nutrition, stress management and relaxation.",
+                "Conventional pharmaceuticals may also be prescribed by doctors.",
+                "It's uncertain whether acupuncture is helpful for fibromyalgia pain."
+            ],
+            "nice_to_have": [
+                "Some studies suggest that complementary health approaches such as tai chi, yoga, mindfulness meditation, and biofeedback may yield promising results for treating fibromyalgia, though evidence is currently limited.",
+                "Vitamin D supplements may reduce pain in people with fibromyalgia who are deficient in this vitamin.",
+                "Preliminary research on transcranial magnetic stimulation (TMS) for fibromyalgia symptoms has also yielded promising results."
+            ]
+        },
+        "rouge-1": 0.17886178365787575,
+        "rouge-2": 0.013071890450683256,
+        "rouge-l": 0.14634145845462374,
+        "rouge-s": 0.12359550561797752,
+        "bertscore_precision": 0.6881492733955383,
+        "bertscore_recall": 0.6840895414352417,
+        "bertscore_f1": 0.6861133575439453
+    },
+    "16": {
+        "origin_prompt": "You are a leading expert in MedLFQA_LiveQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: Can an abscessed tooth cause a heart attack?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. An abscessed tooth is an infection that occurs when the center of a tooth (known as the pulp) becomes inflamed due to a bacterial infection.\n2. The infection can spread to the surrounding bone and tissue, causing pain, swelling, and sometimes fever.\n3. While an abscessed tooth can cause discomfort and pain, it is not directly linked to causing a heart attack. However, if the infection is left untreated, it can lead to more serious health complications, including systemic infections that could potentially impact the heart.\n\nFinal answer: An abscessed tooth itself cannot directly cause a heart attack, but untreated infections from an abscessed tooth can potentially lead to systemic infections that could impact the heart."
+        ],
+        "gold": {
+            "free_form_answer": "1. A heart attack happens if the flow of oxygen-rich blood to a section of heart muscle suddenly becomes blocked and the heart can't get oxygen. Most heart attacks occur as a result of coronary heart disease (CHD).",
+            "must_have": [
+                "An abscessed tooth can potentially lead to an infection spreading to the heart known as infective endocarditis, if bacteria from the tooth abscess get into the bloodstream and attach to certain areas of the heart.",
+                "This is more common in individuals with damaged or artificial heart valves, congenital heart defects, or implanted heart devices, but can occur in people with normal heart valves as well.",
+                "Poor dental hygiene and unhealthy teeth and gums increase the risk for infection."
+            ],
+            "nice_to_have": [
+                "Infective endocarditis is a serious condition that can cause damage to the heart, leading to serious and sometimes fatal complications.",
+                "It can develop quickly, known as acute infective endocarditis, or slowly, known as subacute infective endocarditis.",
+                "Although there is a potential link between an abscessed tooth and heart issues, it's important to understand that most heart attacks are a result of coronary heart disease."
+            ]
+        },
+        "rouge-1": 0.22680411943883524,
+        "rouge-2": 0.0571428532540819,
+        "rouge-l": 0.12371133593368068,
+        "rouge-s": 0.1016949152542373,
+        "bertscore_precision": 0.6702631115913391,
+        "bertscore_recall": 0.7377080321311951,
+        "bertscore_f1": 0.7023701667785645
+    },
+    "17": {
+        "origin_prompt": "You are a leading expert in MedLFQA_LiveQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: The questioner is seeking information on a condition that affects children and is called Oppositional Defiant Disorder.\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. Oppositional Defiant Disorder (ODD) is a mental health condition primarily affecting children and adolescents.\n2. The primary characteristic of ODD is a pattern of angry, irritable, and defiant behavior that interferes with the child's functioning and causes significant distress to the child, their family, and others around them.\n3. Symptoms of ODD include frequent temper tantrums, excessive arguing with adults, actively defying or refusing to comply with adult requests or rules, deliberately annoying others, and being easily annoyed by others.\n\nFinal answer: Oppositional Defiant Disorder (ODD) is a mental health condition affecting children and adolescents, characterized by a pattern of angry, irritable, and defiant behavior that causes significant distress and interferes with functioning."
+        ],
+        "gold": {
+            "free_form_answer": "Oppositional defiant disorder is a pattern of disobedient, hostile, and defiant behavior toward authority figures. This disorder is more common in boys than in girls. Some studies have shown that it affects 20% of school-age children. However, most experts believe this figure is high due to changing definitions of normal childhood behavior. It may also possibly have racial, cultural, and gender biases.",
+            "must_have": [
+                "Oppositional defiant disorder is known for manifesting as a pattern of disobedient, hostile, and defiant behavior toward authority figures in children.",
+                "The behavior must be lasting for at least 6 months, and be more than normal misbehavior for a child's age and developmental level.",
+                "The behaviors should lead to significant problems in school or social activities.",
+                "A mental health professional should evaluate children presenting symptoms of oppositional defiant disorder."
+            ],
+            "nice_to_have": [
+                "It typically starts by age 8, but may begin as early as the preschool years, and it affects more boys than girls.",
+                "Treatment often involves individual and possibly family therapy, with parents learning to manage the child's behavior.",
+                "Medication may also be beneficial, especially if other conditions such as depression, childhood psychosis, or ADHD are present.",
+                "Some children respond well to treatment, while others do not.",
+                "The disorder is possibly influenced by biological, psychological, and social factors.",
+                "Instances of this disorder may potentially be influenced by biases related to race, culture, and gender."
+            ]
+        },
+        "rouge-1": 0.18333332842222236,
+        "rouge-2": 0.06711408914913776,
+        "rouge-l": 0.16666666175555572,
+        "rouge-s": 0.14782608695652175,
+        "bertscore_precision": 0.6555619239807129,
+        "bertscore_recall": 0.6888136267662048,
+        "bertscore_f1": 0.671776533126831
+    },
+    "18": {
+        "origin_prompt": "You are a leading expert in MedLFQA_LiveQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: Can a birth control drug called Ocella cause Deep Vein Thrombosis?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. Ocella is a birth control pill that contains drospirenone, a synthetic progestin, and ethinyl estradiol, a synthetic estrogen. These hormones can affect blood clotting and increase the risk of blood clots, including Deep Vein Thrombosis (DVT).\n2. The risk of DVT with Ocella is higher in certain individuals, such as those with a personal or family history of blood clots, those who are obese, or those who smoke. Additionally, the risk may be higher in certain situations, such as during surgery or travel.\n3. The risk of DVT with Ocella is generally low, but it is important for women to discuss their risk factors with their healthcare provider before starting the pill.\n\nFinal answer: Yes, Ocella can cause Deep Vein Thrombosis, especially in certain individuals or situations. It is important for women to discuss their risk factors with their healthcare provider before starting the pill."
+        ],
+        "gold": {
+            "free_form_answer": "Some studies show that women who take oral contraceptives that contain drosperinone (Beyaz, Gianvi, Loryna, Ocella, Safyral, Syeda, Yasmin, Yaz, and Zarah) may be more likely to develop deep vein thrombosis (a serious or life-threatening condition in which blood clots that form in the veins, usually in the legs and may move through the body to the lungs) than women who take oral contraceptives that do not contain drosperinone. However, other studies do not show this increased risk. Before you begin taking oral contraceptives, talk to your doctor about the risk that you will develop blood clots and about which oral contraceptive or other method of birth control may be the best choice for you.Oral contraceptives may cause other side effects. Call your doctor if you have any unusual problems while taking this medication.  ",
+            "must_have": [
+                "Oral contraceptives that contain drosperinone, including Ocella, have been associated with a potential increased risk of deep vein thrombosis.",
+                "It is essential to discuss the potential risk of blood clot formation with a healthcare provider before starting any oral contraceptive."
+            ],
+            "nice_to_have": [
+                "There have been varying results from studies looking at the risk of deep vein thrombosis with the use of oral contraceptives containing drosperinone, with some studies finding an increased risk and others not.",
+                "Additionally, other side effects are associated with oral contraceptives and any unusual problems experienced while taking this medication should be reported to a doctor."
+            ]
+        },
+        "rouge-1": 0.2424242374288339,
+        "rouge-2": 0.03463202964337322,
+        "rouge-l": 0.15757575258034914,
+        "rouge-s": 0.1292517006802721,
+        "bertscore_precision": 0.688776969909668,
+        "bertscore_recall": 0.6801161766052246,
+        "bertscore_f1": 0.6844192147254944
+    },
+    "19": {
+        "origin_prompt": "You are a leading expert in MedLFQA_LiveQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: Is the shingles virus contagious in the workplace, especially where food is being prepared?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. The shingles virus is caused by the varicella-zoster virus (VZV), the same virus that causes chickenpox. It is transmitted through direct contact with the fluid from shingles rash or through airborne droplets from an infected person's respiratory secretions.\n2. Since the virus can be spread through direct contact with the rash or through airborne droplets, it is possible for it to be contagious in the workplace, especially in close quarters where people are in close proximity to each other.\n3. The risk of transmission may be higher in environments where food is being prepared, as the virus can potentially be spread through contact with contaminated surfaces or utensils.\n\nFinal answer: Yes, the shingles virus can be contagious in the workplace, especially where food is being prepared, due to the potential for transmission through direct contact with the rash or airborne droplets, and the risk of contamination of surfaces and utensils."
+        ],
+        "gold": {
+            "free_form_answer": "Shingles cannot be passed from one person to another. However, the virus that causes shingles, the varicella zoster virus, can be spread from a person with active shingles to another person who has never had chickenpox. In such cases, the person exposed to the virus might develop chickenpox, but they would not develop shingles. The virus is spread through direct contact with fluid from the rash blisters caused by shingles. A person with active shingles can spread the virus when the rash is in the blister-phase. A person is not infectious before the blisters appear. Once the rash has developed crusts, the person is no longer contagious. Shingles is less contagious than chickenpox and the risk of a person with shingles spreading the virus is low if the rash is covered.",
+            "must_have": [
+                "The varicella zoster virus, which causes shingles, can be spread from a person with active shingles to another person who has not had chickenpox.",
+                "The virus is spread through direct contact with fluid from the rash blisters caused by shingles.",
+                "A person with active shingles is not infectious before the blisters appear.",
+                "After the rash has developed crusts, the person is no longer contagious."
+            ],
+            "nice_to_have": [
+                "Shingles on its own cannot be passed from person to person.",
+                "The virus that causes shingles can lead to chickenpox in a person who has never had it, but not shingles.",
+                "Shingles is less contagious than chickenpox and the risk of spreading the virus is low if the rash is covered.",
+                "Consequently, a person with shingles working in a food preparation environment should be cautious, as contact with food may potentially spread the virus to others who have not had chickenpox, leading to their developing chickenpox rather than shingles."
+            ]
+        },
+        "rouge-1": 0.36111110611979175,
+        "rouge-2": 0.16521738630586028,
+        "rouge-l": 0.2638888838975696,
+        "rouge-s": 0.23684210526315788,
+        "bertscore_precision": 0.7389376163482666,
+        "bertscore_recall": 0.7629667520523071,
+        "bertscore_f1": 0.7507599592208862
+    },
+    "20": {
+        "origin_prompt": "You are a leading expert in MedLFQA_LiveQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: At what age should one receive shingles vaccine?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. The shingles vaccine, also known as the herpes zoster vaccine, is recommended for adults aged 50 and older to help prevent shingles, a painful rash caused by the varicella-zoster virus.\n2. The Centers for Disease Control and Prevention (CDC) recommends that adults aged 50 and older receive two doses of the shingles vaccine, with the second dose given at least 2 months after the first dose.\n3. It is important to note that the shingles vaccine is not recommended for individuals who have a weakened immune system or are allergic to any of the vaccine's components.\n\nFinal answer: One should receive the shingles vaccine at the age of 50 or older, following the recommended two-dose schedule with at least a 2-month interval between doses, unless they have a weakened immune system or an allergy to the vaccine components."
+        ],
+        "gold": {
+            "free_form_answer": "A single dose of shingles vaccine is recommended for adults 60 years of age and older.",
+            "must_have": [
+                "The shingles vaccine is recommended for adults aged 60 years and older."
+            ],
+            "nice_to_have": [
+                "The shingles vaccine is administered to prevent the occurrence of shingles, a painful rash that is a complication of chickenpox.",
+                "It is often given to older adults who are at higher risk of developing this condition."
+            ]
+        },
+        "rouge-1": 0.22680412109682221,
+        "rouge-2": 0.0882352921550606,
+        "rouge-l": 0.18556700769476037,
+        "rouge-s": 0.07857142857142857,
+        "bertscore_precision": 0.6668828725814819,
+        "bertscore_recall": 0.8104850649833679,
+        "bertscore_f1": 0.731704831123352
+    },
+    "21": {
+        "origin_prompt": "You are a leading expert in MedLFQA_LiveQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: I have a toddler, 22 months, who may have back problems. What kind of doctor should I see.\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. The first step is to identify the type of doctor who specializes in diagnosing and treating back problems.\n2. The second step is to consider the age and specific needs of the toddler, as this may affect the choice of doctor.\n3. The third step is to take into account any additional factors, such as the toddler's medical history or any other relevant information.\n\nFinal answer: You should see a pediatric orthopedist, who specializes in the diagnosis and treatment of musculoskeletal disorders in children. They have the expertise to address the unique needs of toddlers and can provide appropriate care for your child's back problems."
+        ],
+        "gold": {
+            "free_form_answer": "The history and physical exam will help determine the severity and acuity of the patient's back pain. If there are no red flag issues, send the patient to be evaluated by a physical therapist who provides care for children and follow up with the patient in clinic. If the history and physical uncover red flag issues, request appropriate radiographs and lab tests. See Page 2 for a guide to imaging studies. If screening radiographs point to a serious orthopedic condition, request an MRI or refer the patient to an orthopedic specialist who will get the necessary MRI. ",
+            "must_have": [
+                "If there are concerns about a toddler experiencing potential back problems, it is essential to consider a physical therapist who specializes in children.",
+                "If there are any red flag issues or serious concerns uncovered during a physical exam or from the child's history, a referral to an orthopedic specialist should be considered.",
+                "Appropriate imaging studies such as radiographs and possibly an MRI may be required to diagnose serious orthopedic conditions."
+            ],
+            "nice_to_have": [
+                "In cases where the toddler's condition is not urgent or severe, follow-up appointments in an in-clinic setting could be arranged for periodic assessment of the child's condition after initial physical therapy.",
+                "Various diagnostic tests, such as radiographs or MRI might be helpful to determine the exact nature and severity of the child's back issues."
+            ]
+        },
+        "rouge-1": 0.23357663735734466,
+        "rouge-2": 0.021505371353336807,
+        "rouge-l": 0.11678831618946156,
+        "rouge-s": 0.14953271028037382,
+        "bertscore_precision": 0.6800653338432312,
+        "bertscore_recall": 0.6958286762237549,
+        "bertscore_f1": 0.6878566741943359
+    },
+    "22": {
+        "origin_prompt": "You are a leading expert in MedLFQA_LiveQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: Is uveitis an autoimmune disease?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. Uveitis is an inflammation of the uvea, which is the middle layer of the eye that includes the iris, ciliary body, and choroid.\n2. Autoimmune diseases occur when the immune system mistakenly attacks the body's own tissues, causing inflammation and damage.\n3. Uveitis can be caused by various factors, including infections, injuries, and autoimmune disorders. In some cases, it is associated with autoimmune diseases such as sarcoidosis, Behçet's disease, and ankylosing spondylitis.\n\nFinal answer: Uveitis can be an autoimmune disease, as it can be associated with autoimmune disorders. However, not all cases of uveitis are autoimmune in nature, as it can also be caused by infections or injuries."
+        ],
+        "gold": {
+            "free_form_answer": "Uveitis is swelling and irritation of the uvea. The uvea is the middle layer of the eye. The uvea provides most of the blood supply to the retina. Uveitis can be caused by autoimmune disorders. These diseases occur when the body's immune system attacks and destroys healthy body tissue by mistake. Examples are: Ankylosing spondylitis; Psoriasis; Reactive arthritis; Rheumatoid arthritis; Sarcoidosis.",
+            "must_have": [
+                "Uveitis is an inflammation of the uvea, the middle layer of the eye.",
+                "This condition can be caused by autoimmune disorders, where the body's immune system mistakenly attacks healthy tissue."
+            ],
+            "nice_to_have": [
+                "Uveitis could also be caused by infections - such as AIDS, CMV retinitis, Herpes zoster infection, Histoplasmosis, Kawasaki disease, Syphilis, Toxoplasmosis, and Tuberculosis - exposure to toxins or injuries.",
+                "In many cases, the cause is unknown.",
+                "Examples of autoimmune diseases that can cause uveitis include Ankylosing spondylitis, Psoriasis, Reactive arthritis, Rheumatoid arthritis, and Sarcoidosis."
+            ]
+        },
+        "rouge-1": 0.43103447797265165,
+        "rouge-2": 0.23225805986597306,
+        "rouge-l": 0.29310344348989303,
+        "rouge-s": 0.23636363636363636,
+        "bertscore_precision": 0.7534618377685547,
+        "bertscore_recall": 0.8080848455429077,
+        "bertscore_f1": 0.7798179984092712
+    },
+    "23": {
+        "origin_prompt": "You are a leading expert in MedLFQA_LiveQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: How does trisomy 7 affect the body and are there any treatments for it?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. Trisomy 7 is a chromosomal abnormality where there is an extra copy of chromosome 7 in the cells of the body. This can lead to various health issues as the extra chromosome can disrupt the normal balance of genetic material.\n2. The effects of trisomy 7 can vary depending on the specific genes involved and the individual's overall genetic makeup. Some common symptoms include developmental delays, intellectual disabilities, and physical abnormalities such as heart defects or skeletal deformities.\n3. Currently, there is no specific treatment for trisomy 7 as it is a genetic condition. However, management and support can be provided to address the specific symptoms and developmental needs of the individual. This may include therapies, educational support, and medical care for any associated health issues.\n\nFinal answer: Trisomy 7 affects the body by causing developmental delays, intellectual disabilities, and physical abnormalities. There is no specific treatment, but management and support can be provided to address the individual's needs."
+        ],
+        "gold": {
+            "free_form_answer": "1. Trisomy 7 is extremely rare at birth and is generally considered lethal in embryogenesis. All surviving children are mosaics with variable and nonspecific clinical features. Chromosomal mosaicism may be suggested by body asymmetry and/or Blaschkolinear skin pigmentary dysplasia associated with developmental delay. Cultured skin fibroblasts cytogenetic analysis confirms mosaicism and identifies its chromosomal origin. In amniocytes, trisomy 7 is frequently a cell culture artifact leading to single- or multiple-cell pseudomosaicism with normal fetal outcome.2. 7q11.23 duplication syndrome is considered to be an autosomal dominant condition, which means one copy of chromosome 7 with the duplication in each cell is sufficient to cause the disorder. Most cases result from a duplication that occurs during the formation of reproductive cells (eggs and sperm) or in early fetal development. These cases occur in people with no history of the disorder in their family. Less commonly, an affected person inherits the chromosome with a duplicated segment from a parent.3. Rearrangements of chromosomes include deletions of DNA sequences and duplications of segments, both of which can encompass thousands to hundreds of thousands of bases. Why do these large rearrangements occur? For one, certain structural features of the genome, also referred to as genome architecture, can render various regions fragile and thus prone to events such as chromosome breakage, which often result in translocations, deletions, and duplications. Often, these alterations happen due to errors during cell division when chromosomes align (Figure 1). Homologous recombination between areas of concentrated repeated sequences frequently creates deletions and duplications. Because they commonly involve more than one gene, the disorders caused by these large deletion and duplication mutations are often severe.",
+            "must_have": [
+                "Trisomy 7 is generally considered lethal in embryogenesis and surviving children are mosaics with variable and nonspecific clinical features.",
+                "There is no specific treatment for Trisomy 7, as it is a chromosomal abnormality."
+            ],
+            "nice_to_have": [
+                "7q11.23 duplication syndrome is considered to be an autosomal dominant condition, which means one copy of the duplicated chromosome 7 in each cell is sufficient to cause the disorder.",
+                "Rearrangements of chromosomes include deletions of DNA sequences and duplications of segments, both of which can encompass thousands to hundreds of thousands of bases.",
+                "These alterations often happen due to errors during cell division when chromosomes align.",
+                "Homologous recombination between areas of concentrated repeated sequences frequently creates deletions and duplications."
+            ]
+        },
+        "rouge-1": 0.2304832668984675,
+        "rouge-2": 0.04545454097694157,
+        "rouge-l": 0.13382899180553073,
+        "rouge-s": 0.19875776397515527,
+        "bertscore_precision": 0.6890956163406372,
+        "bertscore_recall": 0.6373435258865356,
+        "bertscore_f1": 0.6622099876403809
+    },
+    "24": {
+        "origin_prompt": "You are a leading expert in MedLFQA_LiveQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: What is the treatment for someone who thinks he has taken an overdose of Iron pills?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. The first step is to assess the situation and determine if the person has indeed taken an overdose of iron pills. This can be done by checking the packaging of the iron pills to see the recommended dosage and comparing it to the amount the person has taken.\n2. If it is confirmed that an overdose has occurred, the next step is to call for emergency medical assistance immediately. This is crucial as an iron overdose can be life-threatening and require urgent treatment.\n3. While waiting for medical help to arrive, it is important to keep the person calm and comfortable. They should be made to lie down and given water to drink if they are able to keep it down. It is also important to avoid inducing vomiting unless specifically instructed to do so by a medical professional.\n\nFinal answer: If someone thinks they have taken an overdose of iron pills, they should call for emergency medical assistance immediately and keep the person calm and comfortable while waiting for help to arrive."
+        ],
+        "gold": {
+            "free_form_answer": "",
+            "must_have": [
+                "If someone has taken an overdose of Iron pills, it is essential to call the local emergency services or the national toll-free Poison Help hotline (1-800-222-1222).",
+                "An overdose of iron pills can be particularly dangerous for children.",
+                "This information should not be used in place of seeking professional medical help in the event of an actual overdose."
+            ],
+            "nice_to_have": [
+                "The information needed when calling the emergency services in the event of an overdose includes the person's age, weight, and condition, the name of the product (including ingredients and strength if known), the time it was swallowed, the amount swallowed, and if the medicine was prescribed for the person.",
+                "It would also be beneficial to remember that iron overdose can occur if someone takes more than the normal or recommended amount of the mineral, whether accidentally or intentionally."
+            ]
+        },
+        "bertscore_precision": 0.0,
+        "bertscore_recall": 0.0,
+        "bertscore_f1": 0.0
+    },
+    "25": {
+        "origin_prompt": "You are a leading expert in MedLFQA_LiveQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: Does Fibromyalgia cause swelling in your body?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. Fibromyalgia is a disorder characterized by widespread musculoskeletal pain, fatigue, and tenderness in localized areas.\n2. Swelling, or edema, is the accumulation of fluid in the tissues, which can be a result of various conditions such as injury, infection, or inflammation.\n3. Fibromyalgia primarily affects the soft tissues and muscles, not the joints, and is not typically associated with fluid retention or swelling.\n\nFinal answer: No, Fibromyalgia does not cause swelling in your body."
+        ],
+        "gold": {
+            "free_form_answer": "1. Fibromyalgia is a disorder that causes muscle pain and fatigue. People with fibromyalgia have \"tender points\" on the body. Tender points are specific places on the neck, shoulders, back, hips, arms, and legs. These points hurt when pressure is put on them.",
+            "must_have": [
+                "Fibromyalgia is a disorder that is characterized by muscle pain, fatigue, and tender points on the body, but it does not typically cause swelling.",
+                "Symptoms of fibromyalgia can include trouble sleeping, morning stiffness, headaches, painful menstrual periods, and tingling or numbness in hands and feet."
+            ],
+            "nice_to_have": [
+                "Swelling in the body, particularly in the feet, legs, and ankles, is common under certain conditions such as after long periods of inactivity, being overweight, aging, having a leg infection or a blood clot in the leg, following injury or surgery involving the leg, ankle, or foot.",
+                "Swelling can also be a side effect of certain medications, and may occur in women who take estrogen or during parts of the menstrual cycle, as well as during pregnancy, and can also be a sign of heart failure, kidney failure, or liver failure."
+            ]
+        },
+        "rouge-1": 0.23913043001890366,
+        "rouge-2": 0.06896551267092778,
+        "rouge-l": 0.19565216914933853,
+        "rouge-s": 0.15789473684210525,
+        "bertscore_precision": 0.7190160751342773,
+        "bertscore_recall": 0.7687920331954956,
+        "bertscore_f1": 0.743071436882019
+    },
+    "26": {
+        "origin_prompt": "You are a leading expert in MedLFQA_LiveQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: How frequently should a dose of 5 mg of oxybutinin be taken?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. Oxybutynin is a medication used to treat overactive bladder and urinary incontinence. It works by relaxing the muscles of the bladder to help reduce the urge to urinate and prevent leakage.\n2. The dosage of oxybutynin can vary depending on the individual patient, their medical condition, and the specific formulation of the medication. It is important to follow the instructions provided by a healthcare professional.\n3. For immediate-release oxybutynin, the usual dosage is 5 mg taken two to three times a day, with or without food. For extended-release oxybutynin, the usual dosage is 10 mg taken once a day, preferably in the morning.\n\nFinal answer: The usual dosage of 5 mg of immediate-release oxybutynin is taken two to three times a day, with or without food."
+        ],
+        "gold": {
+            "free_form_answer": "Adults The usual dose is one 5-mg tablet two to three times a day. The maximum recommended dose is one 5-mg tablet four times a day. A lower starting dose of 2.5 mg two or three times a day is recommended for the frail elderly.",
+            "must_have": [
+                "The usual dose for adults taking oxybutynin is one 5mg tablet two to three times a day.",
+                "The maximum dose should not exceed one 5-mg tablet four times a day.",
+                "For frail elderly patients, a lower starting dose of 2.5 mg two or three times a day is suggested."
+            ],
+            "nice_to_have": [
+                "Adults may gradually increase the dosage based on the response of the individual and tolerability, but should not exceed the maximum recommended amount.",
+                "It is advisable for patients to communicate any side effects or concerns to their healthcare provider for optimal dosage adjustments."
+            ]
+        },
+        "rouge-1": 0.26262625856953375,
+        "rouge-2": 0.08510637924651694,
+        "rouge-l": 0.22222221816549337,
+        "rouge-s": 0.15625,
+        "bertscore_precision": 0.647962212562561,
+        "bertscore_recall": 0.7563611268997192,
+        "bertscore_f1": 0.6979780793190002
+    },
+    "27": {
+        "origin_prompt": "You are a leading expert in MedLFQA_LiveQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: WHAT exercises can I do, safely, with asthma?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. Asthma is a chronic lung condition that affects the airways, causing them to become inflamed and narrow, leading to difficulty breathing. It's essential to choose exercises that minimize the risk of triggering an asthma attack.\n2. Low to moderate intensity aerobic exercises, such as walking, swimming, and cycling, are generally safe for people with asthma as they help improve lung function and overall fitness without overexerting the lungs.\n3. It's crucial to warm up before exercising and cool down afterward to prevent sudden changes in breathing patterns that can trigger asthma symptoms. Breathing techniques, such as nasal breathing, can also help minimize the risk of an asthma attack during exercise.\n\nFinal answer: Safe exercises for people with asthma include low to moderate intensity aerobic activities like walking, swimming, and cycling, along with proper warm-up and cool-down routines and breathing techniques."
+        ],
+        "gold": {
+            "free_form_answer": "Exercise-induced bronchoconstriction (EIB), also called exercise-induced asthma, is a narrowing of the airways in the lungs that is triggered by physical activity.",
+            "must_have": [
+                "Patients with exercise-induced bronchoconstriction (EIB) are typically sensitive to low temperatures and dry air.",
+                "Symptoms of EIB include wheezing, a tight chest, coughing, shortness of breath, and rarely, chest pain.",
+                "Warm-weather activities and those requiring only short bursts of energy such as hiking, baseball, golf, walking and leisure biking are less likely to trigger symptoms."
+            ],
+            "nice_to_have": [
+                "Individuals with EIB should avoid sports like cross-country skiing, running, soccer, basketball and hockey, as these activities require continuous exertion and could exacerbate symptoms.",
+                "Other triggers for EIB include air pollutants, high pollen levels, and viral respiratory infections.",
+                "Even the sport you choose can affect your symptoms.",
+                "Swimming is less likely to cause asthma symptoms because the warm, humid environment of the pool does not aggravate the airways."
+            ]
+        },
+        "rouge-1": 0.17699114752917225,
+        "rouge-2": 0.0408163240816328,
+        "rouge-l": 0.10619468735218113,
+        "rouge-s": 0.07042253521126761,
+        "bertscore_precision": 0.6143394112586975,
+        "bertscore_recall": 0.686531126499176,
+        "bertscore_f1": 0.6484321355819702
+    },
+    "28": {
+        "origin_prompt": "You are a leading expert in MedLFQA_LiveQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: Can Lipnodes and/or Liver cancer be detected in an upper GI endoscopy?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. Upper GI endoscopy is a procedure that allows a doctor to examine the upper part of the gastrointestinal tract, including the esophagus, stomach, and duodenum.\n2. Lipnodes are enlarged lymph nodes in the head and neck region, which can be a sign of various conditions, including infection, inflammation, or cancer.\n3. Liver cancer is typically detected through imaging tests such as ultrasound, CT scan, or MRI, rather than upper GI endoscopy.\n\nFinal answer: While upper GI endoscopy can help detect certain abnormalities in the upper gastrointestinal tract, it is not typically used to detect lipnodes or liver cancer. Other diagnostic tests, such as imaging studies, are more appropriate for evaluating these conditions."
+        ],
+        "gold": {
+            "free_form_answer": "1. Upper GI endoscopy can identify many different diseases",
+            "must_have": [
+                "Upper GI endoscopy is capable of identifying a variety of diseases, but it cannot detect liver cancer or lymph nodes.",
+                "The detection of liver cancer typcially involves imaging tests such as ultrasound, CT or MRI, or biopsy procedures like needle biopsy, laparoscopic biopsy, or surgical biopsy."
+            ],
+            "nice_to_have": [
+                "In addition to imaging and biopsy procedures, lab tests may also be used in the detection of liver cancer.",
+                "Upper GI endoscopy can identify conditions such as anemia, gastroesophageal reflux disease, ulcers, cancer, inflammation, precancerous abnormalities, and celiac disease."
+            ]
+        },
+        "rouge-1": 0.11363636180010334,
+        "rouge-2": 0.07079645886130476,
+        "rouge-l": 0.11363636180010334,
+        "rouge-s": 0.043859649122807015,
+        "bertscore_precision": 0.6349385380744934,
+        "bertscore_recall": 0.8329052925109863,
+        "bertscore_f1": 0.7205721139907837
+    },
+    "29": {
+        "origin_prompt": "You are a leading expert in MedLFQA_LiveQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: Is it recommended for patients on Lipitor to have their liver function monitored by blood testing every six months.\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. Lipitor (atorvastatin) is a statin medication used to lower cholesterol levels in the blood. It works by inhibiting the enzyme HMG-CoA reductase, which is involved in the production of cholesterol in the liver.\n2. One potential side effect of statin medications, including Lipitor, is liver damage. However, this is a rare occurrence and typically only occurs at high doses or in patients with pre-existing liver conditions.\n3. To monitor for any potential liver damage, it is recommended that patients taking Lipitor undergo liver function tests (LFTs) before starting the medication and then periodically throughout their treatment. The frequency of these tests depends on the patient's individual risk factors and the discretion of their healthcare provider.\n\nFinal answer: Yes, it is recommended for patients on Lipitor to have their liver function monitored by blood testing, but the frequency of testing (e.g., every six months) may vary based on individual risk factors and the guidance of their healthcare provider."
+        ],
+        "gold": {
+            "free_form_answer": "prospective monitoring of serum enzymes upon initiating atorvastatin therapy is no longer recommended. Clinically apparent liver injury attributed to atorvastatin is usually self-limited and recovery is complete within 1 to 4 months.  ",
+            "must_have": [
+                "It is no longer recommended to monitor serum enzymes upon initiating atorvastatin (Lipitor) therapy.",
+                "Liver injury attributed to atorvastatin is usually self-limited and recovery is complete within 1 to 4 months."
+            ],
+            "nice_to_have": [
+                "Patients who are experiencing symptoms that may indicate liver damage, such as persistent nausea, stomach pain, or jaundice, should seek medical attention immediately.",
+                "Regular medical checkups and lab tests can help ensure atorvastatin is working effectively without causing harm to the liver."
+            ]
+        },
+        "rouge-1": 0.14285713940035283,
+        "rouge-2": 0.011494249945171838,
+        "rouge-l": 0.0793650759082894,
+        "rouge-s": 0.05660377358490566,
+        "bertscore_precision": 0.6341774463653564,
+        "bertscore_recall": 0.7118759155273438,
+        "bertscore_f1": 0.6707841753959656
+    },
+    "30": {
+        "origin_prompt": "You are a leading expert in MedLFQA_LiveQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: If a person is allergic to Penicillin, is he likely to be allergic to Cephalexin also?\n\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. Both Penicillin and Cephalexin are types of antibiotics, with Penicillin being a part of the beta-lactam family and Cephalexin being a cephalosporin antibiotic.\n2. There is a known cross-reactivity between some beta-lactam antibiotics, including Penicillin and Cephalexin, which means that people who are allergic to one may also be allergic to the other.\n3. However, the severity and nature of the allergies can vary, and it's not guaranteed that someone allergic to Penicillin will have the same reaction to Cephalexin.\n\nFinal answer: It's possible for someone allergic to Penicillin to also be allergic to Cephalexin due to cross-reactivity, but the specific reaction may vary."
+        ],
+        "gold": {
+            "free_form_answer": "Administration of cephalothin, cephalexin, cefadroxil, and cefazolin in penicillin-allergic patients is associated with a significant increase in the rate of allergic reactions; whereas administration of cefprozil, cefuroxime, cefpodoxime, ceftazidime, and ceftriaxone is not.",
+            "must_have": [
+                "Patients who are allergic to penicillin have a risk of allergic reactions to cephalexin.",
+                "Although not guaranteed, because both drugs are part of the beta-lactam antibiotics family and share a similar structure, allergic reactions could potentially be triggered.",
+                "Patients with penicillin allergy should always inform their healthcare provider before taking any new medication, including cephalexin."
+            ],
+            "nice_to_have": [
+                "Cephalothin, cephalexin, cefadroxil, and cefazolin, in particular, have been associated with a higher rate of allergic reactions in penicillin-allergic patients when compared to cefprozil, cefuroxime, cefpodoxime, ceftazidime, and ceftriaxone."
+            ]
+        },
+        "rouge-1": 0.17777777349135815,
+        "rouge-2": 0.0,
+        "rouge-l": 0.1333333290469137,
+        "rouge-s": 0.07547169811320754,
+        "bertscore_precision": 0.6641910076141357,
+        "bertscore_recall": 0.6887643933296204,
+        "bertscore_f1": 0.6762545704841614
+    },
+    "31": {
+        "origin_prompt": "You are a leading expert in MedLFQA_LiveQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: What, besides cipro, penicillin, and drugs containing dairy products, can my doctor prescribe for my bad UTI?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. The question asks for alternative treatments for a bad UTI, excluding cipro, penicillin, and dairy products.\n2. It's important to consider the potential reasons for avoiding cipro and penicillin, which could be due to allergies, side effects, or resistance.\n3. When looking for alternatives, we should focus on effective antibiotics that are not related to the mentioned restrictions.\n\nFinal answer: For a bad UTI, your doctor might prescribe antibiotics such as trimethoprim-sulfamethoxazole, nitrofurantoin, or fluoroquinolones (e.g., levofloxacin), as long as there are no contraindications or allergies."
+        ],
+        "gold": {
+            "free_form_answer": "Antibiotic Regimen. Oral antibiotic treatment cures nearly all uncomplicated urinary tract infections, although the rate of recurrence remains high. The following antibiotics are commonly used for uncomplicated UTIs: * The standard regimen is a 3-day course of trimethoprim-sulfamethoxazole, commonly called TMP-SMX (Bactrim, Septra, generic). TMP-SMX combines an antibiotic with a sulfa drug. A single dose of TMP-SMX is sometimes prescribed in mild cases, but cure rates are generally lower than with 3-day regimens. Allergies to sulfa are common and may be serious. * Nitrofurantoin (Furadantin, Macrobid, Macrodantin, generic) is another first-line option. It is usually taken daily for 5 days. * Fosfomycin (Monurol) is not as effective as other antibiotics but may be used during pregnancy. Resistance rates to this drug are very low. * Fluoroquinolone antibiotics, also called quinolones, are only recommended for UTIs when other antibiotics cannot be used. Ciprofloxacin (Cipro, generic) is the quinolone antibiotic most commonly prescribed. Quinolones are usually given over a 3-day period. Pregnant women should not take these drugs. * Other antibiotics may also be used, including amoxicillin-clavulanate cefdinir, cefaclor, and cefpodoxime-proxetil. These drugs may be prescribed when other antibiotics are not appropriate. They are usually given in 3 - 7 day regimens. Antibiotic Regimen. Oral antibiotic treatment cures nearly all uncomplicated urinary tract infections, although the rate of recurrence remains high. The following antibiotics are commonly used for uncomplicated UTIs: The standard regimen is a 3-day course of trimethoprim-sulfamethoxazole, commonly called TMP-SMX (Bactrim, Septra, generic). TMP-SMX combines an antibiotic with a sulfa drug. A single dose of TMP-SMX is sometimes prescribed in mild cases, but cure rates are generally lower than with 3-day regimens. Allergies to sulfa are common and may be serious. Nitrofurantoin (Furadantin, Macrobid, Macrodantin, generic) is another first-line option. It is usually taken daily for 5 days. Fosfomycin (Monurol) is not as effective as other antibiotics but may be used during pregnancy. Resistance rates to this drug are very low. Fluoroquinolone antibiotics, also called quinolones, are only recommended for UTIs when other antibiotics cannot be used. Ciprofloxacin (Cipro, generic) is the quinolone antibiotic most commonly prescribed. Quinolones are usually given over a 3-day period. Pregnant women should not take these drugs. Other antibiotics may also be used, including amoxicillin-clavulanate cefdinir, cefaclor, and cefpodoxime-proxetil. These drugs may be prescribed when other antibiotics are not appropriate. They are usually given in 3 - 7 day regimens.",
+            "must_have": [
+                "Other alternatives for UTI treatment besides cipro, penicillin, and drugs containing dairy products include trimethoprim-sulfamethoxazole (TMP-SMX), nitrofurantoin, fosfomycin, fluoroquinolone antibiotics like ciprofloxacin, and other antibiotics such as amoxicillin-clavulanate, cefdinir, cefaclor, and cefpodoxime-proxetil.",
+                "Pregnant women should not take fluoroquinolone antibiotics.",
+                "Potential allergic reactions should be considered for all prescribed antibiotics."
+            ],
+            "nice_to_have": [
+                "TMP-SMX is commonly used for uncomplicated UTIs and is typically prescribed as a 3-day course.",
+                "Nitrofurantoin is usually taken daily for 5 days.",
+                "Fosfomycin is not as effective as other antibiotics but can be used during pregnancy.",
+                "Fluoroquinolones are typically given over a 3-day period but should only be recommended for UTIs when other antibiotics cannot be used."
+            ]
+        },
+        "rouge-1": 0.15544040991382332,
+        "rouge-2": 0.007490632364041847,
+        "rouge-l": 0.1347150213127871,
+        "rouge-s": 0.23863636363636365,
+        "bertscore_precision": 0.6927580833435059,
+        "bertscore_recall": 0.6385922431945801,
+        "bertscore_f1": 0.6645733118057251
+    },
+    "32": {
+        "origin_prompt": "You are a leading expert in MedLFQA_LiveQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: What are the treatments and precautions for VDRL positive (syphilis) patients?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. VDRL (Venereal Disease Research Laboratory) test is used to detect syphilis, a sexually transmitted infection caused by the bacterium Treponema pallidum. A positive VDRL test indicates the presence of syphilis antibodies in the blood.\n2. Treatment for syphilis typically involves a course of antibiotics, such as penicillin, to eliminate the infection. The specific treatment regimen may vary depending on the stage of syphilis and the patient's overall health.\n3. Precautions for VDRL positive patients include informing sexual partners, practicing safe sex, and completing the full course of antibiotics as prescribed to prevent reinfection or transmission of the disease.\n\nFinal answer: Treatment for VDRL positive (syphilis) patients involves a course of antibiotics, such as penicillin, while precautions include informing sexual partners, practicing safe sex, and completing the full course of antibiotics to prevent reinfection or transmission."
+        ],
+        "gold": {
+            "free_form_answer": "Syphilis If the RPR, VDRL, or TRUST tests are positive, one of the following tests will be needed to confirm the diagnosis: FTA-ABS (fluorescent treponemal antibody test); MHA-TP; TP-EIA; TP-PA. Syphilis can be treated with antibiotics, such as: Doxycycline (type of tetracycline given to people who are allergic to penicillin); Penicillin G benzathine. Length of treatment depends on how severe the syphilis is, and factors such as the person's overall health. Several hours after getting treatment for the early stages of syphilis, people may experience the Jarisch-Herxheimer reaction. This process is caused by an immune reaction to the breakdown products of the infection. Follow-up blood tests must be done at 3, 6, 12, and 24 months to ensure that the infection is gone. Avoid sexual contact when the chancre is present. Use condoms until two follow-up tests have shown that the infection has been cured, to reduce the chance of transmitting the infection. All sexual partners of the person with syphilis should also be treated. Syphilis can spread very easily in the primary and secondary stages.",
+            "must_have": [
+                "Syphilis can be diagnosed through tests such as RPR, VDRL, TRUST, FTA-ABS, MHA-TP, TP-EIA, and TP-PA.",
+                "The treatment of Syphilis includes antibiotics like Doxycycline or Penicillin G benzathine.",
+                "Anyone who has been diagnosed with syphilis must undergo follow-up blood tests at 3, 6, 12, and 24 months to ensure the infection is eliminated.",
+                "Sexual precautionary measures, such as avoiding sexual contact with the chancre and using condoms until the infection gets cured, should be taken to reduce the risk of transmission.",
+                "All sexual partners of the Syphilis patient needs to be treated as well."
+            ],
+            "nice_to_have": [
+                "People may experience the Jarisch-Herxheimer reaction after getting treatment for the early stages of syphilis, due to an immune response to the breakdown products of the infection.",
+                "Syphilis can spread very easily in the primary and secondary stages.",
+                "The duration of treatment can vary depending on the severity of the infection and individual's overall health.",
+                "Therefore, it is crucial to follow the recommended treatment regimen and precautions to prevent further spread and reinfection."
+            ]
+        },
+        "rouge-1": 0.2857142809662641,
+        "rouge-2": 0.06617646583153149,
+        "rouge-l": 0.18367346463973358,
+        "rouge-s": 0.21897810218978103,
+        "bertscore_precision": 0.6907469034194946,
+        "bertscore_recall": 0.6806374788284302,
+        "bertscore_f1": 0.6856549382209778
+    },
+    "33": {
+        "origin_prompt": "You are a leading expert in MedLFQA_LiveQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: What is maximum daily dosage of Metformin?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. Metformin is a medication used to treat type 2 diabetes.\n2. The maximum daily dosage of Metformin can vary depending on the patient's age, weight, and kidney function.\n3. According to the prescribing information, the maximum daily dosage of Metformin for adults is 2000 mg, which can be taken in divided doses.\n\nFinal answer: The maximum daily dosage of Metformin for adults is 2000 mg, taken in divided doses."
+        ],
+        "gold": {
+            "free_form_answer": "The maximum recommended daily dose of metformin hydrochloride tablets are 2550 mg in adults and 2000 mg in pediatric patients (10-16 years of age).",
+            "must_have": [
+                "The maximum recommended daily dose of metformin for adults is 2550 mg. For pediatric patients aged between 10 to 16 years, the maximum recommended daily dose of metformin is 2000 mg."
+            ],
+            "nice_to_have": [
+                "Metformin hydrochloride is a medication primarily used for the management of type 2 diabetes.",
+                "The dosage may vary and should always be established by a healthcare provider considering the patient's health condition."
+            ]
+        },
+        "rouge-1": 0.338461534087574,
+        "rouge-2": 0.05333332918755588,
+        "rouge-l": 0.2461538417798817,
+        "rouge-s": 0.15492957746478872,
+        "bertscore_precision": 0.6716792583465576,
+        "bertscore_recall": 0.7287833094596863,
+        "bertscore_f1": 0.6990670561790466
+    },
+    "34": {
+        "origin_prompt": "You are a leading expert in MedLFQA_LiveQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: I take Loperamide for chronic diahrrea, stopping periodically to have a movement, which is loose. Is there a way for a happy medium?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. Loperamide is an antidiarrheal medication that works by reducing the movement of the intestines, which helps to slow down the passage of stool and decrease diarrhea.\n2. However, taking loperamide for chronic diarrhea may lead to constipation as a side effect, which can make it difficult to have a bowel movement.\n3. To find a happy medium, it's important to consult with a healthcare professional to adjust the dosage or frequency of loperamide, or to explore alternative treatments for chronic diarrhea.\n\nFinal answer: To find a happy medium, consult with a healthcare professional to adjust the dosage or frequency of loperamide, or explore alternative treatments for chronic diarrhea."
+        ],
+        "gold": {
+            "free_form_answer": "IMODIUM - loperamide hydrochloride capsule Chronic Diarrhea Adults: The recommended initial dose is 4 mg (two capsules) followed by 2 mg (one capsule) after each unformed stool until diarrhea is controlled, after which the dosage of IMODIUM should be reduced to meet individual requirements. When the optimal daily dosage has been established, this amount may then be administered as a single dose or in divided doses. The average daily maintenance dosage in clinical trials was 4 to 8 mg (two to four capsules). A dosage of 16 mg (eight capsules) was rarely exceeded. If clinical improvement is not observed after treatment with 16 mg per day for at least 10 days, symptoms are unlikely to be controlled by further administration. IMODIUM administration may be continued if diarrhea cannot be adequately controlled with diet or specific treatment.",
+            "must_have": [
+                "Loperamide (Imodium) initial dose for managing chronic diarrhea in adults is usually 4mg, followed by 2mg after each unformed stool until diarrhea is controlled.",
+                "The dosage should then be reduced to meet individual requirements, which can be administered as single or divided doses.",
+                "The average daily maintenance dosage is 4 to 8mg.",
+                "Loperamide dosage rarely exceeds 16mg and should not be continued if symptoms are not controlled after 10 days of treatment."
+            ],
+            "nice_to_have": [
+                "Chronic diarrhea can sometimes be controlled with dietary modifications or specific treatments.",
+                "While Loperamide is an effective medication for managing diarrhea symptoms, its dosage and use should be properly customized to each individual's needs and based on their response to treatment.",
+                "It should not be used as a long-term treatment solution without consultation from a healthcare professional."
+            ]
+        },
+        "rouge-1": 0.2179487131097963,
+        "rouge-2": 0.018518513745285868,
+        "rouge-l": 0.1538461490072322,
+        "rouge-s": 0.19090909090909092,
+        "bertscore_precision": 0.6831292510032654,
+        "bertscore_recall": 0.6509853005409241,
+        "bertscore_f1": 0.666670024394989
+    },
+    "35": {
+        "origin_prompt": "You are a leading expert in MedLFQA_LiveQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: Is it harmful to use peroxide drops in the ear followed by a warm water flush to clean out ear wax?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. Peroxide is a common ingredient in ear drops used to soften and remove earwax. It works by breaking down the wax, making it easier to flush out.\n2. Warm water flushing is a method used to rinse out the ear canal, helping to remove the softened earwax and any debris.\n3. While peroxide drops and warm water flushing are generally considered safe for most people, there are potential risks and side effects to consider. These include irritation, inflammation, and even hearing loss if the solution is too harsh or if it is used too frequently.\n\nFinal answer: It is generally safe to use peroxide drops in the ear followed by a warm water flush to clean out earwax, but caution is advised to avoid potential side effects. It's recommended to consult with a healthcare professional before using this method, especially if you have a history of ear problems or are using other ear treatments."
+        ],
+        "gold": {
+            "free_form_answer": "To clean the ears, wash the external ear with a cloth, but do not insert anything into the ear canal. Most cases of ear wax blockage respond to home treatments used to soften wax. Patients can try placing a few drops of mineral oil, baby oil, glycerin, or commercial drops in the ear. Detergent drops such as hydrogen peroxide or carbamide peroxide (available in most pharmacies) may also aid in the removal of wax. Irrigation or ear syringing is commonly used for cleaning and can be performed by a physician or at home using a commercially available irrigation kit. Common solutions used for syringing include water and saline, which should be warmed to body temperature to prevent dizziness. Ear syringing is most effective when water, saline, or wax dissolving drops are put in the ear canal 15 to 30 minutes before treatment.",
+            "must_have": [
+                "Hydrogen peroxide drops can be used in the ear to help remove wax; they should be followed by irrigation with warm (not hot) water or saline.",
+                "Do not insert anything into the ear canal to try to remove wax.",
+                "If symptoms persist, consult a healthcare provider."
+            ],
+            "nice_to_have": [
+                "Other options to soften ear wax at home include placing a few drops of mineral oil, baby oil, or glycerin in the ear.",
+                "Commercial drops are also available.",
+                "Ear syringing is more effective when water, saline, or wax dissolving drops are placed in the ear canal 15 to 30 minutes before the treatment is performed."
+            ]
+        },
+        "rouge-1": 0.2872340375537575,
+        "rouge-2": 0.06382978224636628,
+        "rouge-l": 0.148936165213332,
+        "rouge-s": 0.16025641025641027,
+        "bertscore_precision": 0.7099900841712952,
+        "bertscore_recall": 0.7175562381744385,
+        "bertscore_f1": 0.7137531638145447
+    },
+    "36": {
+        "origin_prompt": "You are a leading expert in MedLFQA_LiveQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: To what extent is quinine in seltzer water effective in treating leg cramps?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. Quinine is a substance that has been historically used to treat leg cramps, but its effectiveness can vary depending on individual responses and the specific formulation used.\n2. Seltzer water is a carbonated water that can be infused with various substances, including quinine, to create tonic water. However, the concentration of quinine in seltzer water can differ between brands and formulations.\n3. The effectiveness of quinine in seltzer water for treating leg cramps may be influenced by factors such as the quinine concentration, the individual's sensitivity to quinine, and the specific circumstances of the leg cramp (e.g., duration, intensity).\n\nFinal answer: The effectiveness of quinine in seltzer water for treating leg cramps can vary depending on factors such as the quinine concentration, individual sensitivity, and the specific circumstances of the leg cramp."
+        ],
+        "gold": {
+            "free_form_answer": "Muscle cramps can occur anywhere and in anyone; however, leg cramps are especially common in older people. Quinine is a medicine which has been used to treat cramps for many years. There is conflicting evidence for its ability to reduce cramps. Quinine can cause serious, even fatal adverse events, especially in overdosage.",
+            "must_have": [
+                "Quinine has been historically used to treat cramps but there is conflicting evidence for its efficiency to reduce cramps.",
+                "Quinine, especially in overdosage, can cause serious, even fatal adverse events.",
+                "There is low quality evidence that quinine (200 mg to 500 mg daily) significantly reduces cramp number and cramp days and moderate quality evidence that quinine reduces cramp intensity.",
+                "There is moderate quality evidence of minor adverse events with quinine compared to placebo but no increase in major adverse events.",
+                "More research is needed concerning dosage and duration of quinine treatment, as well as alternatives to quinine for cramps."
+            ],
+            "nice_to_have": [
+                "Leg cramps can happen in anyone but are especially common in older people.",
+                "Additionally, certain sources suggest that an overdose of quinine can cause serious harm including death.",
+                "The evidence about quinine's effectiveness in treating leg cramps is current to October 2014."
+            ]
+        },
+        "rouge-1": 0.27272726805123976,
+        "rouge-2": 0.09271522731459168,
+        "rouge-l": 0.19999999532396703,
+        "rouge-s": 0.11194029850746269,
+        "bertscore_precision": 0.6486380100250244,
+        "bertscore_recall": 0.715353786945343,
+        "bertscore_f1": 0.6803643107414246
+    },
+    "37": {
+        "origin_prompt": "You are a leading expert in MedLFQA_LiveQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: Is trisomy 13 (Patau syndrome) progressive and how is it diagnosed?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. Trisomy 13, also known as Patau syndrome, is a genetic disorder caused by the presence of an extra copy of chromosome 13 in the cells of the body. This condition is not progressive in the sense that it does not worsen over time, but it is life-threatening and typically results in severe physical and intellectual disabilities.\n2. The diagnosis of trisomy 13 is usually made through a prenatal screening test called amniocentesis, which involves extracting a small sample of amniotic fluid from the mother's uterus. This fluid is then analyzed for chromosomal abnormalities, including trisomy 13.\n3. In some cases, trisomy 13 may be diagnosed through a non-invasive prenatal screening test called cell-free fetal DNA (cffDNA) testing, which analyzes DNA fragments from the fetus that are present in the mother's blood. However, this test is not as accurate as amniocentesis and may not detect all cases of trisomy 13.\n\nFinal answer: Trisomy 13 (Patau syndrome) is not progressive, but it is a life-threatening condition that typically results in severe physical and intellectual disabilities. It is usually diagnosed through amniocentesis, with non-invasive prenatal screening tests like cffDNA testing being less accurate."
+        ],
+        "gold": {
+            "free_form_answer": "Trisomy 13, also called Patau syndrome, is a chromosomal condition associated with severe intellectual disability and physical abnormalities in many parts of the body. Individuals with trisomy 13 often have heart defects, brain or spinal cord abnormalities, very small or poorly developed eyes (microphthalmia), extra fingers or toes, an opening in the lip (a cleft lip) with or without an opening in the roof of the mouth (a cleft palate), and weak muscle tone (hypotonia). Due to the presence of several life-threatening medical problems, many infants with trisomy 13 die within their first days or weeks of life. Only five percent to 10 percent of children with this condition live past their first year. Trisomy 13 is not progressive; instead, it is a congenital condition that is present from birth.Diagnosis of trisomy 13 is usually made based on clinical examination at birth due to the presence of numerous physical abnormalities. In addition, prenatal screening can detect the presence of trisomy 13, including noninvasive prenatal testing (NIPT), and diagnostic tests such as amniocentesis and chorionic villus sampling (CVS). High-resolution ultrasound is also used during pregnancy to detect physical characteristics symptomatic of trisomy 13. For a definitive diagnosis, a karyotype - a test that evaluates the number and structure of a person's chromosomes - is done, which can identify the third copy of chromosome 13 that causes trisomy 13.",
+            "must_have": [
+                "Trisomy 13, or Patau syndrome, is present at birth and not progressive.",
+                "Diagnosis of trisomy 13 usually involves clinical examination at birth, prenatal screening, and a karyotype test to identify the extra copy of chromosome 13."
+            ],
+            "nice_to_have": [
+                "Symptoms for Trisomy 13 often include heart defects, brain or spinal cord abnormalities, very small or poorly developed eyes (microphthalmia), extra fingers or toes, an opening in the lip (cleft lip) with or without a cleft palate, and weak muscle tone (hypotonia).",
+                "Noninvasive prenatal testing (NIPT), high-resolution ultrasound during pregnancy, and diagnostic tests like amniocentesis and chorionic villus sampling can also aid in the diagnosis of trisomy 13."
+            ]
+        },
+        "rouge-1": 0.4065040601477296,
+        "rouge-2": 0.14484679172911463,
+        "rouge-l": 0.21138210892821746,
+        "rouge-s": 0.23958333333333334,
+        "bertscore_precision": 0.738528847694397,
+        "bertscore_recall": 0.7225668430328369,
+        "bertscore_f1": 0.7304606437683105
+    },
+    "38": {
+        "origin_prompt": "You are a leading expert in MedLFQA_LiveQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: oxytetracycline hydrochloride and neomycin sulfate powder (NEO-OXY 100/100)is used for the treatment of what conditions and in what subjects?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. Oxytetracycline hydrochloride and neomycin sulfate powder (NEO-OXY 100/100) is a combination of two antibiotics: oxytetracycline and neomycin.\n2. Oxytetracycline is a broad-spectrum antibiotic that is effective against a wide range of bacteria, including those that cause respiratory, urinary, and skin infections.\n3. Neomycin is an aminoglycoside antibiotic that is primarily used for treating bacterial infections in animals, particularly in cattle, swine, and poultry.\n\nFinal answer: NEO-OXY 100/100 is used for the treatment of bacterial infections in animals, particularly in cattle, swine, and poultry, and is effective against a wide range of bacteria, including those that cause respiratory, urinary, and skin infections."
+        ],
+        "gold": {
+            "free_form_answer": "Calves (milk replacer): For Calves (up to 250 lb): For treatment of bacterial enteritis caused by Escheria coli susceptible to oxytetracycline; treatment and control of colibacillosis (bacterial enteritis) caused by Escheria coli susceptible by neomycin. Feed continuously for 7-14 days in milk replacer or starter feed. Treatment should continue 24 to 48 hours beyond remission of disease symptoms. Calves, Beef Cattle, and Nonlactating Dairy Cattle: For treatment of bacterial enteritis caused by Escheria coli and bacterial pneumonia (shipping fever complex) caused by Pasteurella multocide susceptible to oxytetracycline; treatment and control of colibacillosis (bacterial enteritis) caused by Escheria coli susceptible by neomycin. Feed continuously for 7-14 days in feed or milk replacersTreatment should continue 24 to 48 hours beyond remission of disease symptoms. Mix Neo-Oxy 100/100 MR with non-medicated milk replacer to provide the following concentrations:Use Level of Oxytetracycline and Neomycin: 10 mg/lb body weight/day",
+            "must_have": [
+                "NEO-OXY 100/100 is used for the treatment of bacterial enteritis caused by Escheria coli that are susceptible to oxytetracycline; for the treatment and control of colibacillosis (bacterial enteritis) caused by Escheria coli susceptible to neomycin.",
+                "It is also used for the treatment of bacterial pneumonia (shipping fever complex) caused by Pasteurella multocida susceptible to oxytetracycline.",
+                "Its use is intended for calves (up to 250 lb), beef cattle, and nonlactating dairy cattle.",
+                "The medication should be fed continuously for 7-14 days in feed or milk replacers and the treatment should continue 24 to 48 hours beyond remission of disease symptoms."
+            ],
+            "nice_to_have": [
+                "Mix NEO-OXY 100/100 with non-medicated milk replacer to provide a concentration of 10 mg/lb body weight/day of Oxytetracycline and Neomycin."
+            ]
+        },
+        "rouge-1": 0.1983471025367121,
+        "rouge-2": 0.024390239009519123,
+        "rouge-l": 0.11570247443753863,
+        "rouge-s": 0.18446601941747573,
+        "bertscore_precision": 0.6678507328033447,
+        "bertscore_recall": 0.6419053077697754,
+        "bertscore_f1": 0.6546210646629333
+    },
+    "39": {
+        "origin_prompt": "You are a leading expert in MedLFQA_LiveQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: How do I safely dispose of Hydrogen Peroxide?\n\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. Hydrogen Peroxide is a chemical compound that can be harmful if not disposed of properly. It is important to follow safety guidelines to prevent any accidents or injuries.\n2. The first step in safely disposing of Hydrogen Peroxide is to check the label on the container for specific disposal instructions. This information is crucial as it may vary depending on the concentration and volume of the solution.\n3. If the label does not provide specific instructions, it is recommended to dilute the Hydrogen Peroxide with water before disposal. This can be done by adding the solution to a large container filled with water, ensuring proper mixing and dilution.\n\nFinal answer: To safely dispose of Hydrogen Peroxide, first check the label for specific disposal instructions. If none are provided, dilute the solution with water in a large container before disposal."
+        ],
+        "gold": {
+            "free_form_answer": "Hydrogen peroxide solutions can be disposed of with no special treatment. You can safely pour them down the drain of a sink or into a toilet.",
+            "must_have": [
+                "Hydrogen peroxide solutions can be safely poured down the sink drain or a toilet, or on the ground outdoors.",
+                "Containers that held hydrogen peroxide should be thoroughly rinsed before disposal or recycling."
+            ],
+            "nice_to_have": [
+                "If you have a larger quantity of hydrogen peroxide to dispose of, it is better to seek advice from your local waste disposal facility or a hazardous waste disposal company."
+            ]
+        },
+        "rouge-1": 0.19230768886279587,
+        "rouge-2": 0.027777774908372212,
+        "rouge-l": 0.1538461504012575,
+        "rouge-s": 0.07801418439716312,
+        "bertscore_precision": 0.6465806365013123,
+        "bertscore_recall": 0.7289673686027527,
+        "bertscore_f1": 0.6853067874908447
+    },
+    "40": {
+        "origin_prompt": "You are a leading expert in MedLFQA_LiveQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: What are the most current findings regarding causation, treatment and therapy for children with Kippel-Tranaunay-Syndrome (KTS)?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. Kippel-Tranaunay-Syndrome (KTS) is a rare congenital disorder characterized by a triad of findings: capillary malformations (hemangiomas), bone enlargement (osteohypertrophy), and soft tissue overgrowth (lymphatic or vascular malformations).\n2. The exact cause of KTS is unknown, but it is believed to be a result of a combination of genetic and environmental factors. There is no specific treatment or therapy that has been proven to be effective in curing the condition.\n3. Management of KTS typically involves a multidisciplinary approach, including orthopedic surgery, physical therapy, and pain management. In some cases, laser therapy or sclerotherapy may be used to treat the capillary malformations.\n\nFinal answer: The most current findings regarding causation, treatment, and therapy for children with Kippel-Tranaunay-Syndrome (KTS) indicate that the exact cause is unknown, and there is no specific treatment or therapy that has been proven to be effective in curing the condition. Management typically involves a multidisciplinary approach, including orthopedic surgery, physical therapy, and pain management, with some cases using laser therapy or sclerotherapy for capillary malformations."
+        ],
+        "gold": {
+            "free_form_answer": "Supportive care for Klippel-Trenaunay syndrome",
+            "must_have": [
+                "Klippel-Trenaunay syndrome may require wearing compression garments to reduce pain, swelling and to protect the limb.",
+                "In the case of differing leg lengths, a heel insert may be utilized to aid in walking.",
+                "As a precaution against blood clots, anticoagulant therapy may be required.",
+                "For excessively large foot or leg, an orthopedic surgeon may reshape the limb, halt growth, or remove problematic veins.",
+                "Debulking, sclerotherapy, and laser therapy are other potential surgical interventions."
+            ],
+            "nice_to_have": [
+                "Pain medications and antibiotics may also be part of the treatment.",
+                "In some circumstances, doctors may recommend an injection of an irritating solution to collapse the abnormal veins.",
+                "Pulsed dye laser treatments can be used to lighten the capillary malformation (port wine stain) and speed healing if the lesion begins to bleed."
+            ]
+        },
+        "rouge-1": 0.021505375326627406,
+        "rouge-2": 0.0,
+        "rouge-l": 0.021505375326627406,
+        "rouge-s": 0.0058823529411764705,
+        "bertscore_precision": 0.530190110206604,
+        "bertscore_recall": 0.6771899461746216,
+        "bertscore_f1": 0.5947413444519043
+    },
+    "41": {
+        "origin_prompt": "You are a leading expert in MedLFQA_LiveQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: What is sleep apnea and how effective is surgery in treating it?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. Sleep apnea is a sleep disorder characterized by pauses in breathing or shallow breaths during sleep. It can lead to disrupted sleep and various health problems.\n2. There are two main types of sleep apnea: obstructive sleep apnea (OSA) and central sleep apnea (CSA). OSA occurs when the throat muscles relax, blocking the airway, while CSA is due to the brain not sending proper signals to the breathing muscles.\n3. Surgery for sleep apnea typically involves procedures to remove or shrink excess tissue in the throat or nasal passages, such as uvulopalatopharyngoplasty (UPPP), palatal implants, or nasal surgery. The effectiveness of surgery varies depending on the severity of the condition and the individual patient.\n\nFinal answer: Sleep apnea is a sleep disorder involving pauses in breathing during sleep, with OSA and CSA being the main types. Surgery can be effective in treating sleep apnea, but its success depends on the specific case and the chosen procedure."
+        ],
+        "gold": {
+            "free_form_answer": "Surgery is an effective and safe treatment option for many patients with snoring and sleep apnea, particularly those who are unable to use or tolerate CPAP. Proper patient and procedure selection is critical to successful surgical management of obstructive sleep apnea. Talk to your Ear, Nose and Throat doctor for a complete evaluation and to learn what treatment may be best for you. ",
+            "must_have": [
+                "Surgery is a viable treatment option for patients with sleep apnea, especially those who cannot tolerate or use CPAP.",
+                "Proper patient selection is integral to the success of the surgical treatment of sleep apnea.",
+                "It is important to consult your ENT doctor for a comprehensive evaluation and to discuss appropriate treatment options."
+            ],
+            "nice_to_have": [
+                "Sleep apnea is a serious sleep disorder where the patient's breathing repeatedly stops and starts during sleep.",
+                "This can cause several health problems, including high blood pressure, heart problems, type 2 diabetes, metabolic syndrome, liver problems, and complications with medications and surgery.",
+                "If left untreated, obstructive sleep apnea can also lead to difficulties in performing daily tasks, affecting quality of life.",
+                "Hence it is important to seek a medical evaluation if you suspect you have sleep apnea."
+            ]
+        },
+        "rouge-1": 0.232876707825108,
+        "rouge-2": 0.020100498261155918,
+        "rouge-l": 0.0958904064552451,
+        "rouge-s": 0.0949367088607595,
+        "bertscore_precision": 0.6512672901153564,
+        "bertscore_recall": 0.6898316740989685,
+        "bertscore_f1": 0.6699949502944946
+    },
+    "42": {
+        "origin_prompt": "You are a leading expert in MedLFQA_LiveQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: Define Syncope (ischemic stroke)?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. Syncope is a medical term that refers to a temporary loss of consciousness.\n2. Ischemic stroke is a type of stroke that occurs when a blood clot blocks an artery in the brain, leading to a lack of blood flow and oxygen to the brain tissue.\n3. When these two conditions are combined, Syncope (ischemic stroke) refers to a temporary loss of consciousness caused by an ischemic stroke.\n\nFinal answer: Syncope (ischemic stroke) is a temporary loss of consciousness caused by an ischemic stroke, which occurs when a blood clot blocks an artery in the brain, leading to a lack of blood flow and oxygen to the brain tissue."
+        ],
+        "gold": {
+            "free_form_answer": "1. The defining characteristics of syncope include rapid onset with transient loss of consciousness usually accompanied by falling, followed by spontaneous, complete, and usually prompt recovery without intervention. Because some patients use the term dizziness to describe syncopal events, it is important to ask patients exactly what they mean by dizziness and whether loss of consciousness occurred.",
+            "must_have": [
+                "Syncope is characterized by rapid onset, transient loss of consciousness usually followed by falling and it needs to be differentiated from vertigo, coma, drop attacks, dizziness, sudden cardiac death, and seizures.",
+                "It is important to ask patients about their symptoms to determine if syncope has occurred.",
+                "In the context of ischemic stroke, Transient ischemic attack (TIA) versus mimics should be diagnosed correctly and early as early interventions can lead to significant reduction in risk of recurrent ischemic events."
+            ],
+            "nice_to_have": [
+                "Some patients describe syncope events as dizziness.",
+                "Drop attacks could be due to underlying cardiovascular disease, blockage of arteries or cerebral aqueduct or vertebrobasilar stroke with immediate recovery and no loss of consciousness.",
+                "In 15 percent of syncopal patients, limb jerking could be a symptom but other sign of seizures would be absent.",
+                "TIA mimics are more likely with gradual onset of symptoms and nonspecific symptoms like memory loss or headache."
+            ]
+        },
+        "rouge-1": 0.21505375844143843,
+        "rouge-2": 0.033898300120655714,
+        "rouge-l": 0.15053762940918042,
+        "rouge-s": 0.12612612612612611,
+        "bertscore_precision": 0.6713269948959351,
+        "bertscore_recall": 0.6715367436408997,
+        "bertscore_f1": 0.671431839466095
+    },
+    "43": {
+        "origin_prompt": "You are a leading expert in MedLFQA_LiveQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: Will an unopened, unrefrigerated calcitonin salmon nasal spray be as effective as if it had been refrigerated? The directions say it needs to be refrigerated .\n\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. Calcitonin salmon nasal spray is a medication used to treat osteoporosis and Paget's disease of bone. It is a protein-based medication derived from salmon.\n2. Protein-based medications, such as calcitonin, can be sensitive to temperature changes. Prolonged exposure to high temperatures can cause the protein structure to denature, potentially reducing the medication's effectiveness.\n3. The directions for the calcitonon salmon nasal spray specifically state that it needs to be refrigerated. This is likely because refrigeration helps maintain the stability of the protein structure and ensures the medication remains effective.\n\nFinal answer: An unopened, unrefrigerated calcitonin salmon nasal spray may not be as effective as if it had been refrigerated, as the medication's protein structure could be compromised by exposure to high temperatures. It is important to follow the directions and refrigerate the medication to ensure its effectiveness."
+        ],
+        "gold": {
+            "free_form_answer": "Store unopened bottle in refrigerator between 2 degrees to 8 degrees C (36 degrees to 46 degrees F). Protect from freezing.\n Store bottle in use at room temperature between 20 degrees to 25 degrees C (68 degrees to 77 degrees F) in an upright position, for up to 30 days (2 mL fill) or 35 days (3.7 mL fill).\n\t\t\t\t",
+            "must_have": [
+                "Calcitonin salmon nasal spray should be stored in a refrigerator at a temperature between 2 degrees to 8 degrees C (36 degrees to 46 degrees F), prior to use.",
+                "A bottle in use should be stored at room temperature, between 20 degrees to 25 degrees C (68 degrees to 77 degrees F), in an upright position for up to 30 days (2 mL fill) or 35 days (3.7 mL fill).",
+                "An unrefrigerated calcitonin salmon nasal spray may lose its effectiveness."
+            ],
+            "nice_to_have": [
+                "For any doubts regarding the storage conditions or efficacy of the calcitonin salmon nasal spray, it would be advisable to consult a healthcare professional or pharmacist."
+            ]
+        },
+        "rouge-1": 0.09917354947339681,
+        "rouge-2": 0.0,
+        "rouge-l": 0.06611569823372748,
+        "rouge-s": 0.05755395683453238,
+        "bertscore_precision": 0.5917556881904602,
+        "bertscore_recall": 0.589227557182312,
+        "bertscore_f1": 0.5904889106750488
+    },
+    "44": {
+        "origin_prompt": "You are a leading expert in MedLFQA_LiveQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: What is hantavirus and is it fatal?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. Hantavirus is a group of viruses that can cause severe respiratory illness in humans.\n2. It is primarily spread through contact with infected rodent droppings, urine, or saliva.\n3. The fatality rate of hantavirus varies depending on the specific strain, but some forms, such as Hantavirus pulmonary syndrome (HPS), can be fatal.\n\nFinal answer: Hantavirus is a group of viruses that can cause severe respiratory illness in humans, primarily spread through contact with infected rodent droppings, urine, or saliva. The fatality rate varies, but some forms, like Hantavirus pulmonary syndrome (HPS), can be fatal."
+        ],
+        "gold": {
+            "free_form_answer": "Hantavirus is a serious infection that gets worse quickly. Lung failure can occur and may lead to death. Even with aggressive treatment, more than one half of people who have this disease in their lungs die.",
+            "must_have": [
+                "Hantavirus is a severe infection that can rapidly deteriorate.",
+                "It can cause lung failure and potentially lead to death.",
+                "Even with comprehensive treatment, over half of the infected individuals with this disease in their lungs succumb to it."
+            ],
+            "nice_to_have": [
+                "The symptoms of hantavirus can include fatigue, fever, muscle aches, and in certain conditions, it may turn into a more severe condition, hantavirus pulmonary syndrome (HPS), which is often fatal.",
+                "Early symptoms such as fever, muscle aches, and fatigue are often mistaken for influenza, making the condition harder to diagnose at its onset.",
+                "The fatality rate despite aggressive medical intervention indicates the severity of this disease."
+            ]
+        },
+        "rouge-1": 0.179775276081303,
+        "rouge-2": 0.041237108789457425,
+        "rouge-l": 0.179775276081303,
+        "rouge-s": 0.08333333333333333,
+        "bertscore_precision": 0.628287136554718,
+        "bertscore_recall": 0.6839492321014404,
+        "bertscore_f1": 0.6549376845359802
+    },
+    "45": {
+        "origin_prompt": "You are a leading expert in MedLFQA_LiveQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: What is plantar fasiciitis, and how is it treated?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. Plantar fasciitis is a common condition that affects the heel and bottom of the foot.\n2. It occurs when the plantar fascia, a band of tissue that connects the heel bone to the toes, becomes inflamed or irritated.\n3. The most common symptoms include heel pain, especially upon waking up or after prolonged inactivity, and pain that worsens with standing or walking.\n\nTreatment options for plantar fasciitis include:\n1. Rest, ice, and over-the-counter pain relievers to manage pain and inflammation.\n2. Stretching exercises, such as calf stretches and plantar fascia stretches, to improve flexibility and reduce tension.\n3. Wearing supportive shoes and orthotics to provide proper foot support and alignment.\n4. In some cases, physical therapy or corticosteroid injections may be recommended to help manage symptoms.\n5. In severe cases, surgery may be considered as a last resort.\n\nFinal answer: Plantar fasciitis is a condition characterized by inflammation or irritation of the plantar fascia, causing heel pain. It can be treated with rest, ice, pain relievers, stretching exercises, supportive shoes and orthotics, physical therapy, corticosteroid injections, and in severe cases, surgery."
+        ],
+        "gold": {
+            "free_form_answer": "You are more likely to get plantar fasciitis if you:Treatment options for plantar fasciitis may include physical therapies such as stretches and exercises, which can help strengthen your plantar fascia and Achilles tendon and improve your stability. Treating plantar fasciitis may also involve the use of over-the-counter pain relievers and anti-inflammatories, orthotic shoe inserts which can help distribute pressure more equally across your foot, corticosteroid injections, and in severe cases, surgery. Resting and staying off your feet can also help alleviate some of the pain caused by plantar fasciitis.",
+            "must_have": [
+                "Physical therapies, strengthening exercises, over-the-counter pain relievers and anti-inflammatories, orthotic shoe inserts, corticosteroid injections, rest, and in severe cases, surgery are common treatment options for plantar fasciitis.",
+                "Plantar fasciitis is a common cause of heel pain involving inflammation of a thick band of tissue running across the bottom of your foot."
+            ],
+            "nice_to_have": [
+                "Factors that can increase your risk of plantar fasciitis include having foot arch problems, running long distances or on uneven surfaces, sudden weight gain, having a tight Achilles tendon, wearing shoes with poor arch support or soft soles, and changing your activities."
+            ]
+        },
+        "rouge-1": 0.3690476143601191,
+        "rouge-2": 0.12195121506775083,
+        "rouge-l": 0.23809523340773817,
+        "rouge-s": 0.15846994535519127,
+        "bertscore_precision": 0.7143070697784424,
+        "bertscore_recall": 0.7635834217071533,
+        "bertscore_f1": 0.7381237745285034
+    },
+    "46": {
+        "origin_prompt": "You are a leading expert in MedLFQA_LiveQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: How much urine does an average human bladder hold, in fluid oz., cups or milliliters (ml)?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. The capacity of the human bladder can vary from person to person, but a common estimate is around 400 to 600 milliliters (ml) when it is full.\n2. To convert milliliters to fluid ounces, we can use the conversion factor of 1 fluid ounce (oz) being approximately equal to 29.5735 milliliters (ml).\n3. To convert milliliters to cups, we can use the conversion factor of 1 cup being approximately equal to 236.59 milliliters (ml).\n\nCalculation:\n1. If we take the average capacity of the bladder as 500 ml, then in fluid ounces it would be 500 ml / 29.5735 ml/oz ≈ 16.91 oz.\n2. Similarly, in cups, it would be 500 ml / 236.59 ml/cup ≈ 2.11 cups.\n\nFinal answer: An average human bladder can hold approximately 500 ml (16.91 fluid oz or 2.11 cups) of urine."
+        ],
+        "gold": {
+            "free_form_answer": "Normal functional bladder capacity in adults ranges from approximately 300 to 400 ml (58,59). ",
+            "must_have": [
+                "The urge to urinate typically begins when the bladder is about a fourth of its capacity.",
+                "The average adult human bladder can hold between 300 to 400 milliliters of urine.",
+                "Holding urine for too long can lead to urinary tract infections or bladder damage.",
+                "The average human bladder can hold approximately 300 to 400 ml of urine."
+            ],
+            "nice_to_have": [
+                "In terms of other units of measurements, the bladder's capacity is about 10 to 13.5 fluid ounces or about 1.27 to 1.69 cups.",
+                "This bladder capacity is equivalent to approximately 10 to 14 fluid ounces or approximately 1 to 1.7 cups.",
+                "There is little difference in bladder capacity between men and women, with men's bladders typically able to hold slightly more."
+            ]
+        },
+        "rouge-1": 0.19999999711250002,
+        "rouge-2": 0.0,
+        "rouge-l": 0.12499999711250007,
+        "rouge-s": 0.037037037037037035,
+        "bertscore_precision": 0.5716008543968201,
+        "bertscore_recall": 0.727849006652832,
+        "bertscore_f1": 0.6403310894966125
+    },
+    "47": {
+        "origin_prompt": "You are a leading expert in MedLFQA_LiveQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: What is methylprednisolone and how does it affect the body?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. Methylprednisolone is a type of corticosteroid medication.\n2. It is used to reduce inflammation and suppress the immune system.\n3. It works by mimicking the effects of cortisol, a hormone produced by the adrenal glands.\n\nFinal answer: Methylprednisolone is a corticosteroid medication that reduces inflammation and suppresses the immune system by mimicking the effects of cortisol."
+        ],
+        "gold": {
+            "free_form_answer": "Methylprednisolone, a corticosteroid, is similar to a natural hormone produced by your adrenal glands. It is often used to replace this chemical when your body does not make enough of it. It relieves inflammation (swelling, heat, redness, and pain) and is used to treat certain forms of arthritis; skin, blood, kidney, eye, thyroid, and intestinal disorders (e.g., colitis); severe allergies; and asthma. Methylprednisolone is also used to treat certain types of cancer. This medication is sometimes prescribed for other uses; ask your doctor or pharmacist for more information.",
+            "must_have": [
+                "Methylprednisolone is a corticosteroid similar to a hormone produced by the adrenal glands.",
+                "It is used to replace this hormone when the body does not produce enough of it.",
+                "It is used for treating certain forms of arthritis, skin, blood, kidney, eye, thyroid, and intestinal disorders, severe allergies, asthma, and certain types of cancer."
+            ],
+            "nice_to_have": [
+                "Methylprednisolone helps in relieving inflammation that includes swelling, heat, redness, and pain.",
+                "This medication can also be prescribed for other uses, so for further uses, consult your doctor or pharmacist."
+            ]
+        },
+        "rouge-1": 0.31683167863934913,
+        "rouge-2": 0.12403100316327163,
+        "rouge-l": 0.25742573804528973,
+        "rouge-s": 0.25862068965517243,
+        "bertscore_precision": 0.743721604347229,
+        "bertscore_recall": 0.7062379121780396,
+        "bertscore_f1": 0.7244952917098999
+    },
+    "48": {
+        "origin_prompt": "You are a leading expert in MedLFQA_LiveQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: Is aclidinium a steroid? Is it contraindicated within 12 months prior to cataract surgery?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. Aclidinium is a bronchodilator medication used to treat chronic obstructive pulmonary disease (COPD). It belongs to the class of medications known as anticholinergics, which work by relaxing the muscles in the airways to improve breathing. It is not a steroid, as steroids are a separate class of medications with different mechanisms of action.\n2. Cataract surgery involves the removal of the clouded lens of the eye and replacing it with an artificial lens. Steroids and certain medications can potentially interfere with the healing process and increase the risk of complications, such as increased intraocular pressure or infection.\n3. Aclidinium is not a steroid, so it is not contraindicated within 12 months prior to cataract surgery. However, it is important to discuss any medications with your healthcare provider before surgery to ensure there are no potential interactions or risks.\n\nFinal answer: Aclidinium is not a steroid and is not contraindicated within 12 months prior to cataract surgery."
+        ],
+        "gold": {
+            "free_form_answer": "1. Aclidinium is in a class of medications called bronchodilators. It works by relaxing and opening the air passages to the lungs to make breathing easier.",
+            "must_have": [
+                "Aclidinium is not a steroid but a bronchodilator and is used in the treatment of Chronic Obstructive Pulmonary Disease (COPD).",
+                "Contraindications of Aclidinium include severe hypersensitivity to milk proteins and hypersensitivity to aclidinium bromide or any of the excipients."
+            ],
+            "nice_to_have": [
+                "There is no specific contraindication noted for aclidinium bromide within 12 months prior to cataract surgery.",
+                "However, patients should always consult their healthcare provider if they are taking this medication and planning to undergo such surgery.",
+                "While concerns have been raised about possible associations of muscarinic receptor antagonists, including aclidinium, and cardiovascular safety, the most advanced compounds seem to have an improved safety profile."
+            ]
+        },
+        "rouge-1": 0.2521008371160229,
+        "rouge-2": 0.07547169546299601,
+        "rouge-l": 0.20168066904879606,
+        "rouge-s": 0.08860759493670886,
+        "bertscore_precision": 0.6590438485145569,
+        "bertscore_recall": 0.8208107948303223,
+        "bertscore_f1": 0.7310857772827148
+    },
+    "49": {
+        "origin_prompt": "You are a leading expert in MedLFQA_LiveQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: How long has Non-aspirin NSAID been implicated in erectile dysfunction?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. Non-aspirin NSAIDs, also known as nonsteroidal anti-inflammatory drugs (NSAIDs), are a class of medications commonly used to relieve pain, reduce inflammation, and lower fever. Examples include ibuprofen, naproxen, and celecoxib.\n2. Erectile dysfunction (ED) is a condition characterized by the inability to achieve or maintain an erection sufficient for satisfactory sexual performance. Various factors can contribute to ED, including physiological, psychological, and lifestyle factors.\n3. Research has suggested a potential link between the use of NSAIDs and an increased risk of ED. This association is believed to be due to the inhibition of the enzyme cyclooxygenase (COX), which is involved in the production of prostaglandins, important for maintaining blood flow to the penis.\n\nFinal answer: Non-aspirin NSAIDs have been implicated in erectile dysfunction since the late 20th century, with research suggesting a potential link between their use and an increased risk of ED."
+        ],
+        "gold": {
+            "free_form_answer": "Non-aspirin NSAID use was associated with an increased risk of mild/moderate ED (HR 1.16; P = 0.02) and aspirin use was associated with an increased risk of severe ED (HR 1.16; P = 0.03, respectively). The associations of NSAID use with ED risk were attenuated after controlling for indications for NSAID use.",
+            "must_have": [
+                "Non-aspirin NSAID use was associated with an increased risk of mild/moderate ED.",
+                "The associations of NSAID use with ED risk were likely due to confounding indications for NSAID use.",
+                "NSAID use was not found to be directly associated with ED risk."
+            ],
+            "nice_to_have": [
+                "The risk of erectile dysfunction associated with non-aspirin NSAID may be dependent on the underlying health conditions of a person rather than a direct effect of the drug.",
+                "Therefore, further research is necessary to understand the connections between NSAID use and erectile dysfunction."
+            ]
+        },
+        "rouge-1": 0.15384615037988175,
+        "rouge-2": 0.035087715907117054,
+        "rouge-l": 0.13846153499526634,
+        "rouge-s": 0.11724137931034483,
+        "bertscore_precision": 0.6320599317550659,
+        "bertscore_recall": 0.6752556562423706,
+        "bertscore_f1": 0.6529441475868225
+    }
+}

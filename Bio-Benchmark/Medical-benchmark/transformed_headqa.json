@@ -1,0 +1,842 @@
+[
+    {
+        "no": "MQA_1",
+        "category": "HeadQA psychology",
+        "question": "In the evaluation of the probability of suicidal and autolytic behavior, it is convenient to:\nA: Address the issue directly only when there are indications of risk.\nB: Address the issue directly, with explicit questions, regardless of the presence or not of risk factors.\nC: Address the issue indirectly so that the patient does not feel intimidated.\nD: Do not address the issue, since talking about suicide increases the likelihood that the person will carry it out.",
+        "answer": "B",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_2",
+        "category": "HeadQA medicine",
+        "question": "What answer is CERTAIN regarding Candida albicans?\nA: It is the main causative agent of pneumonia associated with mechanical ventilation in critical units.\nB: It is a filamentous fungus that requires means with lamb's blood for its isolation in the microbiology laboratory.\nC: It is massively destroyed in the presence of fluoroquinolones.\nD: The infections caused by this fungus usually respond well to azo compounds.",
+        "answer": "C",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_3",
+        "category": "HeadQA pharmacology",
+        "question": "With respect to stevioside, we can affirm that it is:\nA: A flavolignano extracted from roots of Stevia rebaudiana, with antitumor effect.\nB: A diterpene extracted from Stevia rebaudiana leaves, with sweetening effect.\nC: A benzylisoquinol alkaloid extracted from stevia rebaudiana rhizomes, with potent antitumor activity.\nD: A flavonol extracted from Stevia rebaudiana leaves, with anti-inflammatory effect.",
+        "answer": "B",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_4",
+        "category": "HeadQA pharmacology",
+        "question": "Ophthalmological ointments:\nA: They may contain solid particles but only with a controlled size.\nB: They do not need to be sterile.\nC: They require the test of pyrogens.\nD: They can not be W / O emulsions.\nE: Always your excipients must be fatty",
+        "answer": "A",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_5",
+        "category": "HeadQA nursery",
+        "question": "Alba, a 66-year-old woman who has been the main caretaker of her husband for 10 years. Her husband, Sebasti\u00e1n, 67 years old man with limitation of mobility and sensory as a result of a traffic accident. Alba's medical history reports that last week she had a score of 46 on the Zarit scale. Given this information, it must be taken into account that:\nA: It is the objective measure to diagnose the Tiredness of caregiver role.\nB: It is a subjective measure that guides towards the diagnosis of Tiredness of the role of caregiver.\nC: It is the necessary field to diagnose the Tiredness of the role of caregiver.\nD: It is a defining characteristic, but not a determining factor for the diagnosis of Tiredness of the role of caregiver.",
+        "answer": "B",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_6",
+        "category": "HeadQA biology",
+        "question": "The development of B cells in the bone marrow:\nA: It is dependent on the antigen.\nB: It begins with gene rearrangements in the kappa light chain.\nC: It is dependent on stromal cells.\nD: It begins with gene rearrangements in the delta heavy chain.\nE: It is dependent on T lymphocytes.",
+        "answer": "C",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_7",
+        "category": "HeadQA chemistry",
+        "question": "In the Second Order Nucleophilic Substitution (SN2) reactions, the most reactive substrates are:\nA: Primary.\nB: Secondary\nC: Tertiary\nD: Quaternaries",
+        "answer": "A",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_8",
+        "category": "HeadQA chemistry",
+        "question": "The human disease called alcaptonuria occurs as a consequence of a defect in the gene that codes for:\nA: Methylmalonyl CoA mutase.\nB: Carbamyl phosphate synthetase I.\nC: Homogentisic 1,2-dioxygenase.\nD: Tyrosine 3-monooxygenase.",
+        "answer": "C",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_9",
+        "category": "HeadQA medicine",
+        "question": "45 year old woman Two previous pregnancies with normal deliveries (G2PN2). Heavy menstrual bleeding for about 1 year. Ultrasonography shows a subserosal myoma of 2 cm that has remained stable for several years. A normal endometrial biopsy is performed. The patient presented hemoglobin 10 g / dL despite oral ferrotherapy and the amount of menstrual flow did not decrease despite treatment with tranexamic acid and mefenamic acid. Which of the following is the treatment of first choice in this patient?\nA: Total hysterectomy conserving adnexa.\nB: Combined oral contraceptives.\nC: Endometrial ablation.\nD: Levonorgestrel IUD.",
+        "answer": "D",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_10",
+        "category": "HeadQA biology",
+        "question": "In the cerebellum, it has a specific function on the control of posture:\nA: The dentate nucleus.\nB: The lateral areas of the cerebellar hemispheres.\nC: The intermediate core.\nD: The flocculonodular lobe.",
+        "answer": "D",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_11",
+        "category": "HeadQA pharmacology",
+        "question": "In capillary electrophoresis, in relation to the electroosmotic flow, it can be stated that:\nA: The flow profile is parabolic.\nB: The flow profile is practically flat and / or uniform.\nC: You can not know its form and direction.\nD: The profile of the flow is always inverted.\nE: The profile of the flow is never reversed.",
+        "answer": "B",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_12",
+        "category": "HeadQA nursery",
+        "question": "What School of Nurses in Spain followed in its beginnings the training model of Nightingale ?:\nA: The School of Nurses of Saint Elizabeth of Hungary.\nB: The School of Nurses of Santa Madrona.\nC: The School of Nurses of the \"Casa de Salud Valdecilla\".\nD: The School of Nurses of the Red Cross.",
+        "answer": "C",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_13",
+        "category": "HeadQA psychology",
+        "question": "What does the Raven Progressive Matrices test measure ?:\nA: The general intelligence.\nB: The knowledge acquired over time.\nC: The verbal reasoning.\nD: The crystallized intelligence.",
+        "answer": "A",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_14",
+        "category": "HeadQA biology",
+        "question": "Which of the following microorganisms is more sensitive to dryness?\nA: Neisseria meningitidis.\nB: Bordetella pertussis.\nC: Yersinia pestis\nD: Neisseria gonorrhoeae.",
+        "answer": "D",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_15",
+        "category": "HeadQA chemistry",
+        "question": "In which two steps of the Krebs cycle is CO2 generated as waste ?:\nA: Acetyl-CoA + oxaloacetate \u2192 citrate; citrate \u2192 isocitrate.\nB: Citrate \u2192 isocitrate; succinyl-CoA \u2192 succinate.\nC: Isocitrate \u2192 \u03b1-ketoglutarate; fumarate \u2192 malate.\nD: Isocitrate \u2192 \u03b1-ketoglutarate; \u03b1-ketoglutarate \u2192 succinyl-CoA.",
+        "answer": "D",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_16",
+        "category": "HeadQA chemistry",
+        "question": "The best sequence of reactions for preparing 1-butene from ethanol is:\nA: (1) NaC\u2261CH; (2) H2, Pd / Lindlar.\nB: (1) NaC\u2261CH; (2) Na, NH3,\nC: (1) HBr, heat; (2) NaC\u2261CH; (3) Pd / Lindlar.\nD: (1) HBr, heat; (2) KOC (CH3) 3, DMSO; (3) NaC\u2261CH; (4) Pd / LIndlar.",
+        "answer": "C",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_17",
+        "category": "HeadQA nursery",
+        "question": "Is it necessary to administer diphtheria-tetanus booster vaccine in a healthy 25-year-old patient who has been properly vaccinated in childhood, has been cut with glass from a bottle and has a clean wound ?:\nA: Yes, a booster dose of diphtheria-tetanus should be administered after more than 10 years have elapsed since the last dose.\nB: Yes, a booster dose of diphtheria-tetanus and a dose of antitetanus gammaglobulin should have been administered more than 10 years after the last dose.\nC: No, it is protected and it would not be necessary to give a booster dose.\nD: Yes, whenever an incised wound occurs, a dose of tetanus vaccine should be administered, regardless of the patient's immunization status.",
+        "answer": "C",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_18",
+        "category": "HeadQA medicine",
+        "question": "A 58-year-old woman enters the Short Stay Medical Unit due to a clinical picture that began with an episode of syncope and then presented feeling of dizziness and dyspnea. On physical examination, she is sweaty, afebrile at 126 beats per minute and at 30 breaths per minute, with a blood pressure of 88/46 and an oxygen saturation of 85% while breathing room air. Cardiac auscultation shows tachycardia without murmurs or gallop and pulmonary auscultation is clean. Which, among the following, seems the most likely diagnosis?\nA: Pulmonary embolism.\nB: Acute cerebrovascular accident of posterior territory.\nC: Acute coronary syndrome\nD: Hypovolemic shock.\nE: Acute pulmonary edema secondary to atrial flutter.",
+        "answer": "A",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_19",
+        "category": "HeadQA biology",
+        "question": "In the translation of prokaryotes, the first tRNA:\nA: It is introduced in site A.\nB: Join a methylated amino acid.\nC: It is accompanied by the IF2 factor.\nD: It is paired with a UGA start codon.\nE: Always join serina.",
+        "answer": "C",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_20",
+        "category": "HeadQA pharmacology",
+        "question": "Which of these characteristics do bacterial exotoxins have ?:\nA: They have all the Gram negative bacteria.\nB: They are lipidic in nature.\nC: They are located in the outer membrane.\nD: They introduce a weak immune response.\nE: Some are used inactivated as a vaccine.",
+        "answer": "E",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_21",
+        "category": "HeadQA biology",
+        "question": "Glycogenesis:\nA: It is a very active pathway in all tissues.\nB: It is activated by insulin.\nC: All their reactions occur in the mitochondria.\nD: One of its substrates is ribose.\nE: It is produced in the liver.",
+        "answer": "E",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_22",
+        "category": "HeadQA psychology",
+        "question": "What will you evaluate if you decide to record the topographic aspects of the response in a teenager diagnosed with Obsessive Compulsive Disorder (OCD) ?:\nA: Degree of belief in the dreaded consequences.\nB: Antecedents and consequents of the obsessions.\nC: Consequence of rituals.\nD: Frequency and duration of obsessions.",
+        "answer": "D",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_23",
+        "category": "HeadQA medicine",
+        "question": "Question linked to image n\u00ba19 Patient who reports recurrent lumbar pain, with irradiation to the inguinal area and left hip. The findings on the radiograph shown suggest a diagnosis of:\nA: Herniated disc pathology.\nB: Spondylodiscitis.\nC: Retroperitoneal mass, probably liposarcoma.\nD: Xanthogranulomatous pyelonephritis (due to lithiasic obstruction).",
+        "answer": "D",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_24",
+        "category": "HeadQA chemistry",
+        "question": "What reaction product does butanal cause when treated with a strong base that forms its enolate as sodium ethoxide in ethanol ?:\nA: After dehydration, an \u03b1, \u03b2-unsaturated aldehyde.\nB: An aldehyde with two more carbon atoms.\nC: A dialdehyde.\nD: A peracid.",
+        "answer": "A",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_25",
+        "category": "HeadQA pharmacology",
+        "question": "What general chemical structure does the selective beta 1 adrenergic receptor antagonist have ?:\nA: Arylethylamines\nB: Imidazolines.\nC: Aryloxypropanolamines.\nD: Arylethanolamines",
+        "answer": "C",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_26",
+        "category": "HeadQA pharmacology",
+        "question": "The valvulopathy that triggers an overload of volume in both the left atrium and ventricle is:\nA: Mitral stenosis.\nB: Mitral insufficiency\nC: Aortic stenosis.\nD: Aortic insufficiency\nE: Tricuspid insufficiency.",
+        "answer": "B",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_27",
+        "category": "HeadQA chemistry",
+        "question": "The number of molecules per unit cell is a structure centered on all faces is:\nA: A.\nB: Two.\nC: Three.\nD: Four.\nE: Six.",
+        "answer": "D",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_28",
+        "category": "HeadQA pharmacology",
+        "question": "The MHC (major histocompatibility complex) class I molecules present peptides (from processed antigens), which are located in the cleft formed between:\nA: The alpha-1 and alpha-2 domains of the alpha chain.\nB: The alpha-2 and alpha-3 domains of the alpha chain.\nC: The alpha-1 domain and the beta-2microglobulin.\nD: The alpha-3 domain and the beta-2 microglobulin.",
+        "answer": "A",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_29",
+        "category": "HeadQA psychology",
+        "question": "The WPPSI IV is the Wechsler scale designed to measure intelligence:\nA: In the third age.\nB: In adults\nC: From 7.6 years to 16 years.\nD: From 2.6 years to 7.7 years",
+        "answer": "D",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_30",
+        "category": "HeadQA pharmacology",
+        "question": "The pterygoid process belongs to the bone:\nA: Ethmoid.\nB: Zygomatic\nC: Temporary.\nD: Sphenoids\nE: Scapula.",
+        "answer": "D",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_31",
+        "category": "HeadQA chemistry",
+        "question": "What is the function of telomerase ?:\nA: Synthesize the telomeres at the ends of the eukaryotic chromosomes.\nB: Synthesize the polyA tail of eukaryotic messenger RNA molecules.\nC: Eliminate telomeres from the ends of eukaryotic chromosomes.\nD: Remove polyA tail from eukaryotic messenger RNA molecules.",
+        "answer": "A",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_32",
+        "category": "HeadQA nursery",
+        "question": "In a patient undergoing total joint hip replacement surgery, which of the following recommendations is correct ?:\nA: As an exercise that contributes to their rehabilitation, the patient must cross the operated leg and direct the knee to the thorax, several times a day.\nB: It is necessary that the patient, when using the toilet, is as low as possible, in order that the operated hip is in a position inferior to the knee.\nC: When in bed, the patient will use pillows or appropriate devices between the legs to maintain a light abduction of the operated limb.\nD: As an element of early rehabilitation, the patient will exercise by flexing the hip operated more than 90 degrees, several times a day.",
+        "answer": "C",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_33",
+        "category": "HeadQA pharmacology",
+        "question": "The crucible of Gooch is:\nA: A gelatinous surface to precipitate colloids.\nB: A ceramic vessel to mineralize samples in a muffle furnace.\nC: A filtration medium for gravimetric analysis.\nD: A surface made with pulp of general purpose paper.",
+        "answer": "C",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_34",
+        "category": "HeadQA nursery",
+        "question": "A patient has received a non-depolarizing neuromuscular blocker to perform a surgical intervention. What kind of drugs can be used to reverse the block ?:\nA: None, since the blockade produced by these drugs is irreversible until it is metabolized by cholinesterases.\nB: Dopamine receptor agonists.\nC: Inhibitors of acetyl cholinesterase.\nD: Alpha adrenergic agonists.",
+        "answer": "C",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_35",
+        "category": "HeadQA psychology",
+        "question": "The region of the cerebral cortex that provides the sensory and motivational keys in the movements directed to an objective is:\nA: The primary motor area.\nB: The ventromedial prefrontal cortex.\nC: The dorsolateral prefrontal cortex.\nD: The posterior parietal cortex.",
+        "answer": "D",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_36",
+        "category": "HeadQA pharmacology",
+        "question": "Why mechanism produces hyperprolactinemia haloperidol ?:\nA: Blockade of alpha 1 adrenergic receptors.\nB: Blockade of alpha-2 adrenergic receptors\nC: Blocking of H1 receivers.\nD: Blockade of D2 receivers.\nE: Blocking of 5-HT2 receptors.",
+        "answer": "D",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_37",
+        "category": "HeadQA nursery",
+        "question": "The administration of insulin in patients with diabetes Mellitus type 1:\nA: It should always be done by a nursing professional.\nB: It can be done orally in some cases.\nC: The patient can do it after being instructed.\nD: It is not necessary to check the amount to be injected, it will always be the same.",
+        "answer": "C",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_38",
+        "category": "HeadQA chemistry",
+        "question": "Which coenzyme is involved in the synthesis of nitric oxide (NO)?\nA: NADH\nB: NADPH.\nC: FAD.\nD: CoA.\nE: Thiamine.",
+        "answer": "B",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_39",
+        "category": "HeadQA psychology",
+        "question": "What sleep disorder with onset in childhood and adolescence has a lower family incidence?\nA: Kleine-Levin syndrome.\nB: Narcolepsy\nC: Circadian rhythm disorder, delayed sleep type.\nD: Night terrors.\nE: Somnambulism.",
+        "answer": "A",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_40",
+        "category": "HeadQA biology",
+        "question": "Lissencephaly is associated with the syndrome of:\nA: Angelman\nB: Smith-Magenis.\nC: Rubinstein-Taybi.\nD: Miller-Dieker.",
+        "answer": "D",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_41",
+        "category": "HeadQA psychology",
+        "question": "Regarding the type of allocation rule used in the research designs, indicate which of the following statements is CORRECT:\nA: In a pretest-posttest design with non-equivalent control group, the assignment rule used is non-random but known.\nB: In a discontinuity design of the regression, the assignment rule used is non-random but known.\nC: In a simple design of interrupted time series, the assignment rule used is non-random but known.\nD: In a fully repeated measure design, the assignment rule used is non-random but known.",
+        "answer": "B",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_42",
+        "category": "HeadQA nursery",
+        "question": "What is the most effective measure for the prevention of neonatal hemorrhagic disease ?:\nA: Perform the Coombs test with umbilical cord blood at birth.\nB: Vaccination of the mother with antibodies before delivery.\nC: Administration of 1 mg of vitamin K intramuscularly to the newborn.\nD: Administration of 1 mg of vitamin K orally and repeat the dose after 1 week.",
+        "answer": "C",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_43",
+        "category": "HeadQA psychology",
+        "question": "What is the treatment for childhood depression with more empirical support ?:\nA: Systemic family therapy.\nB: Behavioral therapy\nC: Play therapy\nD: Relaxation of Koeppen.",
+        "answer": "B",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_44",
+        "category": "HeadQA pharmacology",
+        "question": "An individual who suffers an intense anaphylactic reaction has the risk of developing a shock:\nA: Distributive.\nB: Hypovolemic\nC: Cardiac.\nD: Obstructive.",
+        "answer": "A",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_45",
+        "category": "HeadQA biology",
+        "question": "Characterizes the hydrogen bridges present in the alpha helix:\nA: Form between adjacent polypeptide chains.\nB: Establish between amino and carbonyl groups of the peptide bonds.\nC: Involve groups charged positively and negatively.\nD: Set between groups of side chains.",
+        "answer": "B",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_46",
+        "category": "HeadQA biology",
+        "question": "The diarrhea associated with the consumption of antibiotics is usually caused by:\nA: Campylobacter spp.\nB: Staphylococcus aureus.\nC: Clostridium difficile.\nD: Yersinia enterocolitica.",
+        "answer": "C",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_47",
+        "category": "HeadQA psychology",
+        "question": "Children and adolescents with Generalized Social Phobia:\nA: They present greater affectation in their psychosocial functioning than children with specific social phobia.\nB: They show a later onset age than children with specific social phobia.\nC: They usually have a lower number of first-degree relatives diagnosed with social phobia.\nD: They present the same characteristics as children with specific social phobia.",
+        "answer": "A",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_48",
+        "category": "HeadQA psychology",
+        "question": "One of the characteristics of behavioral dialectic therapy for borderline personality disorder, which differentiates it from classical cognitive behavioral therapy, is:\nA: The emphasis on the framing of the disorder from a systems perspective, in which the family is the key element.\nB: The emphasis on the change of cognitive contents (eg cognitive distortions).\nC: The importance given to work with the behaviors that interfere in the therapy.\nD: The importance given to dysfunctional cognitive schemes.",
+        "answer": "C",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_49",
+        "category": "HeadQA chemistry",
+        "question": "The final product of the cytosolic fatty acid synthase in humans is acid:\nA: Oleic\nB: Arachidonic.\nC: Linoleic\nD: Palmitic.\nE: Palmitoleic",
+        "answer": "D",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_50",
+        "category": "HeadQA psychology",
+        "question": "Which of the following authors developed a behavioral program for the prevention of cancer based on the existence of a characteristic personality pattern in these patients, which combines desensitization strategies with training in social skills ?:\nA: Grossarth-Maticek.\nB: Moorey.\nC: Greer.\nD: Lazarus",
+        "answer": "A",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_51",
+        "category": "HeadQA chemistry",
+        "question": "In gas chromatography, columns containing 100% dimethyl polysiloxane as stationary phase are:\nA: Completely polar.\nB: Quite polar.\nC: Completely non-polar.\nD: Of intermediate polarity.",
+        "answer": "C",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_52",
+        "category": "HeadQA medicine",
+        "question": "A couple with a first male child (index case) affected by cystic fibrosis (mucoviscidosis) goes to the genetic counseling clinic. The molecular diagnosis indicates that the index case is homozygous for the F508del mutation and its heterozygous carrier parents. The clinical geneticist will inform you about the form of transmission of the disease. Which statement is correct?\nA: The probability that the next descendant is affected is 25%.\nB: The probability that the next descendant is affected is 50%.\nC: Having had an affectionate child, the next descendant will also be affectionate.\nD: Having had a homozygous F508del son, the next descendant will be a heterozygous carrier (67%) or a homozygous genotype without the mutation (33%).",
+        "answer": "D",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_53",
+        "category": "HeadQA psychology",
+        "question": "What attitude should the evaluator show in the first interview?\nA: You must start using closed questions.\nB: You should use questions that go from the particular to the general.\nC: You must take care of the verbal aspects (intensity, tone, etc.) to promote communication.\nD: You should not focus on the problem or problems that you are consulting.\nE: It must interrupt the interviewee and limit their interactions.",
+        "answer": "C",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_54",
+        "category": "HeadQA chemistry",
+        "question": "Glucagon affects blood glucose by:\nA: Inhibit the degradation of hepatic glycogen.\nB: Activate hepatic glycolysis.\nC: Activate hepatic gluconeogenesis.\nD: Inhibit the mobilization of fatty acids.\nE: Inhibit hepatic ketogenesis.",
+        "answer": "C",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_55",
+        "category": "HeadQA psychology",
+        "question": "The use of intonation changes and emphasis to add meaning to speech is called:\nA: Alexitimia.\nB: Tonality.\nC: Rhythmicity\nD: Melody.\nE: Prosody.",
+        "answer": "E",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_56",
+        "category": "HeadQA chemistry",
+        "question": "Which immunoglobulin, of those listed below, has the highest molecular weight ?:\nA: Immunoglobulin M.\nB: Immunoglobulin A.\nC: Immunoglobulin G.\nD: Immunoglobulin D.",
+        "answer": "A",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_57",
+        "category": "HeadQA chemistry",
+        "question": "Chymotrypsin is a digestive enzyme with activity:\nA: DNAsa.\nB: Protease\nC: RNAsa.\nD: Lipasa\nE: Glycosidase",
+        "answer": "B",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_58",
+        "category": "HeadQA nursery",
+        "question": "Indicate the INCORRECT statement in relation to malignant hyperthermia:\nA: It is an autosomal recessive inherited disorder.\nB: Symptomatologically, it is characterized, in the short term, by the increase in the end-to-end carbon dioxide that does not respond to ventilation and the presence of tachypnea and tachycardia.\nC: The drug of choice in the treatment of malignant hyperthermia will be succinylcholine.\nD: If the disorder is not controlled, it will lead to myoglobinuria, thus observing the dark colored urine.",
+        "answer": "C",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_59",
+        "category": "HeadQA chemistry",
+        "question": "Nuclear localization sequences (NLS):\nA: They are eliminated after the nuclear transport of the protein.\nB: They are present in any position in the RNA molecules.\nC: They are located in any position of the primary sequence of the protein.\nD: They are essential for the function of the clathrin.",
+        "answer": "C",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_60",
+        "category": "HeadQA pharmacology",
+        "question": "Which of the following is NOT a complete economic evaluation?\nA: Cost minimization analysis.\nB: Analysis of direct and indirect costs.\nC: Cost-effectiveness analysis.\nD: Cost-utility analysis.\nE: Cost-benefit analysis.",
+        "answer": "B",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_61",
+        "category": "HeadQA biology",
+        "question": "Type II alveolar cells:\nA: They cover 95% of the alveolar epithelium.\nB: They form the surface for gaseous exchange.\nC: They present granules with heparin and histamine.\nD: They secrete surfactant agent.",
+        "answer": "D",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_62",
+        "category": "HeadQA biology",
+        "question": "The Merkel cells are:\nA: Secretors of neuropeptides and sensory.\nB: Secretors of mucus.\nC: Migratory\nD: From Schwann.\nE: Fibroblasts.",
+        "answer": "A",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_63",
+        "category": "HeadQA medicine",
+        "question": "Evidence-based medicine proposes to integrate the best evidence with the clinical experience and the circumstances of patients in making clinical decisions. In relation to the quality of the evidence, what type of study provides us with evidence of higher quality:\nA: Systematic reviews.\nB: Cohort study.\nC: Randomized clinical trials.\nD: Number of cases.",
+        "answer": "A",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_64",
+        "category": "HeadQA chemistry",
+        "question": "Indicate which of the following compounds transfers reduction equivalents from the mitochondria to the cytosol during gluconeogenesis:\nA: Fosfoenolpiruvato.\nB: Glycerol-3-phosphate.\nC: Aspartate\nD: Malate.",
+        "answer": "D",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_65",
+        "category": "HeadQA nursery",
+        "question": "The U.S. The Preventive Task Force (USPSTF) recommends the adoption of the intervention strategy of the 5 AEs for the execution of behavioral interventions and advice on the main risk factors. Indicate the order that must be followed:\nA: Assess (Find out); Agree (Agree); Advice (Advise); Assist (Help); Arrange (Secure).\nB: Assess (find out); Advice (Advise); Agree (Agree); Assist (Help); Arrange (Secure).\nC: Assess (Find out); Assist (Help); Advice (Advise); Arrange (Secure); Agree (Agree).\nD: Assess (Find out); Advice (Advise); Agree (Agree); Arrange (Secure); Assist.",
+        "answer": "B",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_66",
+        "category": "HeadQA chemistry",
+        "question": "Which enzymes have the function of changing the degree of DNA undercoiling ?:\nA: the DNA ligases.\nB: The DNA helicases.\nC: The topoisomerases.\nD: The DNA polymerases.",
+        "answer": "C",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_67",
+        "category": "HeadQA biology",
+        "question": "Antibody-dependent cellular cytotoxicity is mediated by the receptor:\nA: CD16 (FcR\u03b3IIIA).\nB: NKG2A.\nC: KIR-L.\nD: CD69-NKG2D.",
+        "answer": "A",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_68",
+        "category": "HeadQA pharmacology",
+        "question": "When any process takes place in an isolated system:\nA: The thermodynamic equilibrium is reached when the enthalpy is 0.\nB: The thermodynamic equilibrium is reached when the entropy is maximum.\nC: Entropy decreases if the process is spontaneous.\nD: In an isolated system, since there is no heat exchange, the entropy is 0.",
+        "answer": "B",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_69",
+        "category": "HeadQA chemistry",
+        "question": "The mitochondrial complex \u03b1-ketoglutarate dehydrogenase needs all the following compounds EXEPT:\nA: CoA.\nB: FAD.\nC: NAD +.\nD: NADP +.\nE: Thiamine pyrophosphate.",
+        "answer": "D",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_70",
+        "category": "HeadQA medicine",
+        "question": "What are the characteristics of the Spanish health system?\nA: Public financing, universal coverage, comprehensive healthcare, equity based on accessibility and territorial decentralization.\nB: Public financing, universal coverage, comprehensive healthcare, efficiency and territorial centralization.\nC: Mixed financing (public and private), mixed management (public and private) and territorial centralization.\nD: Financing for social security contributions, mixed management (public and private) and territorial decentralization.",
+        "answer": "B",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_71",
+        "category": "HeadQA pharmacology",
+        "question": "Which of the following characteristics is common to bisphenol A, phthalates and DTT ?:\nA: They produce pulmonary fibrosis.\nB: They are endocrine disruptors.\nC: They are ototoxic.\nD: They produce phototoxicity.",
+        "answer": "B",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_72",
+        "category": "HeadQA nursery",
+        "question": "What is the main risk factor in the appearance of ischemic or hemorrhagic ICTUS?\nA: Cardiopathy\nB: Mellitus diabetes.\nC: Hyperlipidemia\nD: Arterial hypertension.\nE: Obesity.",
+        "answer": "D",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_73",
+        "category": "HeadQA medicine",
+        "question": "Which of the following is NOT an indication of vertebroplasty?\nA: Acute lumbar osteoporotic fracture.\nB: Painful vertebral metastasis.\nC: Fracture burst in thoracolumbar hinge.\nD: Painful sequelae due to osteoporotic fracture less than 2 years old.",
+        "answer": "C",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_74",
+        "category": "HeadQA nursery",
+        "question": "How many related factors should be included when stating a specific nursing diagnosis in a patient ?:\nA: Only one related factor is allowed per diagnosis.\nB: There are a maximum of three related factors.\nC: As many as they have associated with the detected problem.\nD: All the related ones that can be eliminated or diminished by nursing.",
+        "answer": "C",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_75",
+        "category": "HeadQA biology",
+        "question": "Generates blunt DNA fragments the restriction enzyme:\nA: Bam HI.\nB: Hae III.\nC: Hind III.\nD: Eco RI.\nE: Eco RII.",
+        "answer": "B",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_76",
+        "category": "HeadQA pharmacology",
+        "question": "The normal reduction potential of the redox couple Fe3 + / Fe2 + can be inferred experimentally from the titration curve and corresponds to the measured potential:\nA: When a titration volume equal to the equivalence volume has been added.\nB: When a titrator volume equal to twice the volume of equivalence has been added.\nC: When a titrator volume equal to half the volume of equivalence has been added.\nD: Before adding titrant reagent.",
+        "answer": "C",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_77",
+        "category": "HeadQA psychology",
+        "question": "What WISC-IV test belongs to the processing speed index:\nA: Digits\nB: Keys\nC: Incomplete figures\nD: Letters and numbers",
+        "answer": "B",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_78",
+        "category": "HeadQA nursery",
+        "question": "They have assigned him a quota of population in a Health Center, with a very old population. What prevalence of people with heart failure are likely to be found in people older than 70 ?:\nA: Between 1 and 2l%.\nB: 5%.\nC: 7%\nD: Above 10%",
+        "answer": "D",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_79",
+        "category": "HeadQA psychology",
+        "question": "Indicate which of the following options make possible the criterial evaluation tests (or with reference to criteria):\nA: Assess the performance with respect to a normative group.\nB: Determine relative performance among other people.\nC: Obtaining a normative score.\nD: Evaluate the performance with respect to a content area or domain.\nE: Assess a skill considering the performance of your reference group.",
+        "answer": "D",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_80",
+        "category": "HeadQA medicine",
+        "question": "Question linked to image n\u00ba16 A 54-year-old black woman with asthenia, drowsiness, paresthesias, gait disorder, and loss of strength and sensation in both lower extremities. The analyzes showed Hb 10.4 g / dL, VCM 107 fL, platelets 110,000 / mm3, leukocytes 5,000 / mm3, neutrophils 1900 / mm3, lymphocytes 2500 / mm3, monocytes 300 / mm3, eosinophils 300 / mm3, reticulocytes 1.0% (normal: 0.5-2), total reticulocytes 5,400 / mm3, haptoglobin 0 g / L (normal 0.3-2 g / L), LDH 1,114 U / L, AST (GOT) 50 U / L, ALT ( GPT) 30 U / L, GGT 16 U / L, alkaline phosphatase 90 U / L, total bilirubin 1.03 mg / dL. Negative Coombs test. The peripheral blood smear is shown in the image. Assessed the clinical and analytical picture, what is the treatment that should be administered to this patient?\nA: Plasmatic exchange.\nB: Oral corticosteroids\nC: Parenteral vitamin B12.\nD: Folic acid and splenectomy.",
+        "answer": "C",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_81",
+        "category": "HeadQA psychology",
+        "question": "According to the stress model of Lazarus and Folkman (1986), what is the secondary evaluation ?:\nA: The assessment that people make about their own resources to face the stressful event.\nB: The analysis that people make about the nature of the stressful event they face.\nC: A reassessment that people make when new information about the stressful event appears.\nD: The final assessment that people make about the result achieved with the selected coping strategy.",
+        "answer": "A",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_82",
+        "category": "HeadQA nursery",
+        "question": "What is the process of transporting water through the membranes, which depends on the concentration of solutes ?:\nA: Filtration.\nB: Active transport.\nC: Facilitated dissemination.\nD: Osmosis.",
+        "answer": "D",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_83",
+        "category": "HeadQA chemistry",
+        "question": "In prothrombin, the conversion reaction of glutamate to \u03b3-carboxyglutamate is dependent on:\nA: Vitamin K.\nB: Vitamin D.\nC: Vitamin A.\nD: Vitamin C.\nE: Vitamin E.",
+        "answer": "A",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_84",
+        "category": "HeadQA pharmacology",
+        "question": "In the monocompartmental model, the shock dose for a drug that follows linear kinetics is administered in multiple doses orally and absorbed extraordinarily quickly; It can be calculated as:\nA: The ratio between the maintenance dose and the dosage interval.\nB: The product of the maintenance dose by the rate constant of absorption.\nC: The quotient between the dosing interval and the absorption rate constant.\nD: The product of the maintenance dose by the accumulation factor.\nE: The product of the dosing rate by the absorption rate constant.",
+        "answer": "D",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_85",
+        "category": "HeadQA psychology",
+        "question": "Which of the following constitute one of the most consistently found structural findings in schizophrenia ?:\nA: Ventricular dilatation.\nB: Global reductions in the volume of cerebral white matter.\nC: Increase in brain volume.\nD: Hemispheric symmetries.",
+        "answer": "A",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_86",
+        "category": "HeadQA chemistry",
+        "question": "How many stereoisomers of 2-bromo-3-chlorobutane are possible ?:\nA: Two.\nB: Three.\nC: Four.\nD: Five.",
+        "answer": "C",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_87",
+        "category": "HeadQA medicine",
+        "question": "A 36-year-old patient who came to the emergency room for pain and swelling in the epiphyseal region of the right tibia. The radiographic image is lytic, eccentric and insufflates the cortex. In which tumor lesion will one have to think as more probable?\nA: Osteosarcoma.\nB: Tumor of giant cells.\nC: Encondroma.\nD: Osteoid osteoid\nE: Chondrosarcoma.",
+        "answer": "B",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_88",
+        "category": "HeadQA biology",
+        "question": "The secretory or adenomere portion is acinous (acinar) in:\nA: Sweat glands.\nB: Intestinal glands\nC: Exocrine pancreas.\nD: Glands of the stomach (pylorus).",
+        "answer": "C",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_89",
+        "category": "HeadQA chemistry",
+        "question": "In eukaryotes satellite DNA:\nA: It can be separated from chromosomal DNA by differential centrifugation in phosphate buffer.\nB: It is associated with centromeres.\nC: It's the microsomal.\nD: It is associated with lysosomes.",
+        "answer": "B",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_90",
+        "category": "HeadQA pharmacology",
+        "question": "Indicate which laboratory finding does NOT belong to a picture of hemolytic anemia:\nA: Increase in serum bilirubin at the expense of its conjugated fraction.\nB: Presence of schistocytes in the peripheral blood microscopic examination.\nC: Decrease in haptoglobin levels.\nD: Increase in lactate dehydrogenase levels.",
+        "answer": "A",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_91",
+        "category": "HeadQA nursery",
+        "question": "Hallucinations are clinical manifestations of schizophrenia that:\nA: They occur without external stimulation of the sensory organ involved.\nB: They are included within the negative symptoms of the disease.\nC: They are characterized by the aggrandizement of oneself in a non-realistic way.\nD: They need to take into account the cultural context of the person.\nE: They are associated with the Minor Neurological Symptoms (NMS).",
+        "answer": "A",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_92",
+        "category": "HeadQA medicine",
+        "question": "Which of the following statements is CERTAIN concerning Angiotensin II in glomerular filtration?\nA: Angiotensin II preferentially contracts the efferent arterioles in most physiological states, raising the hydrostatic glomerular pressure.\nB: The afferent arteries are especially sensitive to Angiotensin II-mediated dilation in most of the physiological states associated with the activation of the renin-angiotensin system.\nC: Increased Angiotensin II concentrations decrease the hydrostatic glomerular pressure, increasing renal blood flow.\nD: Angiotensin II, with its arteriolar constriction action, contributes to the reduction of sodium and water reabsorption.",
+        "answer": "C",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_93",
+        "category": "HeadQA nursery",
+        "question": "The presence of foreign bodies such as small buttons, sunflower seeds, etc., in the respiratory tract in young children is a relatively frequent accident. Point out the signs that appear when these objects are lodged in the lower respiratory tract:\nA: Episodes of cough, hoarseness and dyspnea.\nB: Chronic cough, hypoventilation on auscultation, signs of infection.\nC: Asphyxia, dyspnea, cyanosis, respiratory failure.\nD: Fever, cough and dysphonia.\nE: Tachypnea, increased respiratory effort.",
+        "answer": "B",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_94",
+        "category": "HeadQA nursery",
+        "question": "Manuel is a person with advanced COPD, who requires home care. At the last visit he verbally manifested fatigue, weakness and we observed clear signs of dyspnea on exertion. Given the diagnosis of \"Intolerance to Activity\", what NIC intervention would we consider ?:\nA: Intolerance of the activity.\nB: Self-care: activities of daily life.\nC: Knowledge: prescribed activity.\nD: Energy management",
+        "answer": "D",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_95",
+        "category": "HeadQA chemistry",
+        "question": "DNA topoisomerases:\nA: They separate the two strands of DNA using energy from the hydrolysis of ATP.\nB: They join the separate strands of the DNA to prevent them from being re-paired.\nC: They relieve the torsion stress generated in the separation of the two strands of DNA.\nD: They delete the fragments of RNA primer thanks to their exonuclease activity.",
+        "answer": "C",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_96",
+        "category": "HeadQA chemistry",
+        "question": "The increasing order of the equilibrium constant value of the hydration of the following ketones: cyclobutanone (1), cyclopropanone (2) and 2,2,4,4-tetramethyl-3-pentanone (3) is:\nA: 1 <2 <3\nB: 3 <1 <2.\nC: 2 <1 <3.\nD: 2 <3 <1.",
+        "answer": "B",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_97",
+        "category": "HeadQA chemistry",
+        "question": "In the ion chromatography technique with suppressor column, the suppressor column is located in the chromatograph:\nA: Before the ion exchange separation column.\nB: After the ion exchange separation column.\nC: After the detector.\nD: Before the injection valve.",
+        "answer": "B",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_98",
+        "category": "HeadQA biology",
+        "question": "The cells of Paneth are:\nA: Zimog\u00e9nicas present in the stomach.\nB: Zimog\u00e9nicas present in the intestine.\nC: Defenses present in the stomach.\nD: Defenses present in the intestine.",
+        "answer": "D",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_99",
+        "category": "HeadQA nursery",
+        "question": "In which of these means will we NOT find Legionella ?:\nA: Respirators and nebulizers.\nB: SPA baths, thermal waters or showers.\nC: Saltwater.\nD: Cooling towers",
+        "answer": "C",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_100",
+        "category": "HeadQA pharmacology",
+        "question": "Which of the following pharmacokinetic characteristics of aminoglycoside antibiotics is not correct:\nA: They are not absorbed practically in the gastrointestinal tract of normal patients.\nB: They are absorbed in patients with severe renal insufficiency.\nC: They have a very slow distribution phase.\nD: They are not metabolized.\nE: They present a second phase of very slow elimination.",
+        "answer": "C",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_101",
+        "category": "HeadQA chemistry",
+        "question": "Glucagon increases the activity of:\nA: Protein kinase A.\nB: Acetyl-CoA carboxylase.\nC: Pyruvate kinase.\nD: Glycogen synthase.\nE: Fosfofructoquinasa-1.",
+        "answer": "A",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_102",
+        "category": "HeadQA psychology",
+        "question": "Effective treatments based on the \"behavioral execution mechanism\" have been developed to:\nA: Schizophrenia.\nB: Hypochondria.\nC: Attention deficit hyperactivity disorder.\nD: The pathological game.",
+        "answer": "D",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_103",
+        "category": "HeadQA biology",
+        "question": "The set of all the RNA molecules of a cell transcribed from a genome are called:\nA: Proteome\nB: Metagenome\nC: Transcriptome.\nD: Mebaoloma\nE: Methyloma",
+        "answer": "C",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_104",
+        "category": "HeadQA nursery",
+        "question": "Which of the following skin lesions occur with loss of sensitivity and anesthesia ?:\nA: First degree epidermal burn.\nB: Second degree superficial dermal burn.\nC: Ulcer by pressure of degree II.\nD: Subdermal burn of the third degree.",
+        "answer": "D",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_105",
+        "category": "HeadQA pharmacology",
+        "question": "In relation to amino acids, indicate the FALSE response:\nA: Glutamine is a non-essential amino acid.\nB: Tripot\u00f3fano is an aromatic amino acid.\nC: Methionine contains sulfur in its structure.\nD: Alanine is an essential amino acid.",
+        "answer": "D",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_106",
+        "category": "HeadQA nursery",
+        "question": "The basic requirement of a meta-analysis is:\nA: Extract different results in individual studies.\nB: Extract identical results in individual studies.\nC: Extract equivalent results in individual studies.\nD: Extract disparate results in individual studies.",
+        "answer": "C",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_107",
+        "category": "HeadQA medicine",
+        "question": "Which of the following associations (disease - symptom or clinical sign) is incorrect?\nA: Measles - Koplik spots.\nB: Sudden exanthema - Fever.\nC: Infectious erythema - Anemia due to spinal aplasia.\nD: Varicella - occipital adenopathies.\nE: Scarlet fever - Fever and dysphagia.",
+        "answer": "D",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_108",
+        "category": "HeadQA pharmacology",
+        "question": "How does the electrical conductivity of metals vary ?:\nA: It increases as the temperature increases.\nB: Metals are electrical insulators.\nC: It is independent of temperature.\nD: It decreases as the temperature increases.",
+        "answer": "D",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_109",
+        "category": "HeadQA pharmacology",
+        "question": "For which of the following microorganisms is an effective vaccine available ?:\nA: Clostridium perfringens.\nB: Neisseria gonorrhoeae.\nC: Streptococcus agalactiae.\nD: Haemophilus influenzae serogroup B.",
+        "answer": "D",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_110",
+        "category": "HeadQA pharmacology",
+        "question": "The Boc (t-butoxycarbonyl) group is frequently used in combinatorial chemistry to protect the amino group from amino acids in the synthesis of solid phase peptides. What reagent is used for its subsequent elimination ?:\nA: Trifluoroacetic acid.\nB: Piperidine in dimethylformamide.\nC: Hydrogenolysis\nD: Hydrobromic acid.",
+        "answer": "A",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_111",
+        "category": "HeadQA nursery",
+        "question": "People with a Narcissistic Personality Disorder tend to:\nA: To the instability with respect to the experience of one's own image.\nB: To spite and hostility that tends to indirect revenge.\nC: To the normativity, perseverance and parsimony, with concern for the yields.\nD: The grandiosity, self-importance and need for appreciation of others.",
+        "answer": "D",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_112",
+        "category": "HeadQA chemistry",
+        "question": "Inside the mitochondria, within the urea cycle, carbamoyl phosphate and ornithine form a nitrogenous compound that exits into the cytosol. What compound is it ?:\nA: Carbamine.\nB: Urea.\nC: Citrulline\nD: Fumarate",
+        "answer": "C",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_113",
+        "category": "HeadQA biology",
+        "question": "In eukaryotes, the RNA polymerase that transcribes the transference RNA genes is:\nA: I.\nB: II.\nC: III.\nD: IV.",
+        "answer": "C",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_114",
+        "category": "HeadQA pharmacology",
+        "question": "It is a prolonged fasting situation:\nA: Hepatic gluconeogenesis is activated.\nB: Ketone bodies become the main source of energy for the liver.\nC: The beta-oxidation of fatty acids in the muscle is inhibited.\nD: In muscle increases the activity of pyruvate dehydrogenase (PDH) and glucose synthesis.",
+        "answer": "A",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_115",
+        "category": "HeadQA chemistry",
+        "question": "When does the fluidity of the membrane increase ?:\nA: When the length of the fatty acids of the phospholipids of the membrane increases.\nB: When the concentration of cholesterol in the membrane decreases.\nC: When the degree of unsaturation of fatty acids increases.\nD: When the temperature decreases.",
+        "answer": "C",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_116",
+        "category": "HeadQA biology",
+        "question": "Legionella pneumophila is transmitted by:\nA: Air conditioning systems.\nB: Contact between individuals.\nC: Mosquito bite.\nD: Contaminated food.\nE: Fecal-oral route.",
+        "answer": "A",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_117",
+        "category": "HeadQA biology",
+        "question": "A sigmoid dependence of the reaction rate catalyzed by the substrate concentration is a sign that the responsible enzyme is subject to:\nA: Inhibition by excess substrate.\nB: Acompetitive inhibition.\nC: Allosteric regulation.\nD: Negative Cooperativity",
+        "answer": "C",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_118",
+        "category": "HeadQA biology",
+        "question": "The perinuclear location of the Golgi complex is the work of:\nA: Kinesin\nB: Dynein\nC: Myosin\nD: Keratin",
+        "answer": "B",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_119",
+        "category": "HeadQA medicine",
+        "question": "Which of the following clinical signs is NOT seen in the lesions of the lower motor neuron?\nA: Paralysis.\nB: Amyotrophy\nC: Fasciculations.\nD: Arreflexia\nE: Hypoesthesia",
+        "answer": "E",
+        "eval": "Accuracy, POINTS"
+    },
+    {
+        "no": "MQA_120",
+        "category": "HeadQA psychology",
+        "question": "Which were the first authors who investigated the role that stressful life events could have on health ?:\nA: Mechanic\nB: Matarazzo\nC: Zola\nD: Lazarus\nE: Holmes and Rahe.",
+        "answer": "E",
+        "eval": "Accuracy, POINTS"
+    }
+]

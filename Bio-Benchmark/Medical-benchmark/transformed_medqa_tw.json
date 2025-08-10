@@ -1,0 +1,352 @@
+[
+    {
+        "no": "MQA_221",
+        "category": "MedQA_TW",
+        "question": "甲狀腺乳突癌或濾泡癌在接受全甲狀腺切除術後，可利用下列何項來偵測復發或轉移？\nA: CEA \t\nB: 抑鈣素（calcitonin）\nC: 甲狀腺球蛋白（thyroglobulin）\nD: TSH-receptor Ab",
+        "answer": "C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_222",
+        "category": "MedQA_TW",
+        "question": "一位 45 歲婦女，因腎臟大型鹿角結石（staghorn stone）（成分為磷酸銨鎂）併發急性腎盂腎炎（pyelonephritis）住院。該婦女若不接受治療，其死亡率如何？\nA: 低於 10%\nB: 10%至 30%\nC: 30%至 50%\nD: 50%至 70%",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_223",
+        "category": "MedQA_TW",
+        "question": "長骨（long bone）的軟骨內骨化（endochondral ossification）的初級骨化中心（primary ossification center）位於何處？\nA: 骨幹（diaphysis）\nB: 骨骺（epiphysis）\nC: 骨幹骺端（metaphysis）\nD: 骨內膜（endosteum）",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_224",
+        "category": "MedQA_TW",
+        "question": "關於酒精性肝炎之敘述，何者錯誤？\nA: AST通常比ALT高約兩倍以上\nB: 典型可見肝臟脂肪堆積，Mallory-Denk bodies，嗜中性白血球（neutrophils）浸潤\nC: 纖維化通常由portal areas開始，之後往central vein延伸\nD: 酒而言，女性似乎比男性更容易受到肝臟損傷",
+        "answer": "C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_225",
+        "category": "MedQA_TW",
+        "question": "65 歲男性患者，因呼吸困難接受肺功能檢查顯示為阻塞性換氣障礙，其 DLco 之測量值為正常預測值之 56%。下列何者為此患者最可能的診斷？\nA: 氣喘症\nB: 慢性支氣管炎\nC: 肺氣腫\nD: 心臟衰竭",
+        "answer": "C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_226",
+        "category": "MedQA_TW",
+        "question": "對於⼿部燒傷的治療，下列敘述何者錯誤？\nA: 傷⼝\t早癒合，是避免攣縮最好的⽅式\nB: 需要使⽤副⽊（splint），以維持掌指關節伸展（MP joint extension）及指間關節伸展（IP joint\nC: 維持⼿部功能姿勢（functional position），是為了避免伸展肌腱攣縮（extensor tendon contracture）\nD: 拇指應維持在外展（abduction）的位置",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_227",
+        "category": "MedQA_TW",
+        "question": "人體試驗開始進行前，計畫書須先通過人體試驗委員會（IRB）之審查。若需變更計畫書內容，需經人體試驗委員會通過，方可改變作業方式。但在什麼情況下，不需經人體試驗委員會通過，可直接不照計畫書內容執行？\nA: 僅修正受試者同意書之文字，未變更作業內容\nB: 經人體試驗委員會以簡易審查（expedited procedures）的程序審查通過之計畫書\nC: 為及時避免受試者遭受傷害者\nD: 降低受試者的藥物劑量，使得風險改變",
+        "answer": "C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_228",
+        "category": "MedQA_TW",
+        "question": "有關隱睪症（cryptorchidism）的敘述，下列何者錯誤？\nA: 可能合併腹股溝疝氣\nB: 手術以睪丸固定術（orchidopexy）為主\nC: 未經治療的隱睪症病患日後有可能造成不孕\nD: 手術的時機為學齡後",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_229",
+        "category": "MedQA_TW",
+        "question": "胺醯-tRNA合成酶（aminoacyl-tRNA synthetases）是一種活化胺基酸的酵素，其特徵為何？\nA: 能辨認特定的tRNA及胺基酸，促進胺醯-tRNA的合成\nB: 需要會同其他酵素將胺基酸結合到特定的tRNA上\nC: 需要以GTP活化胺基酸後，始能進行胺醯-tRNA的合成\nD: 可以將胺基酸直接與tRNA 3'-端結合而形成胺醯-tRNA",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_230",
+        "category": "MedQA_TW",
+        "question": "下列何種藥物不屬於sedatives-hypnotics？\nA: Diazepam\nB: Lorazepam\nC: Pentobarbital\nD: Morphine",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_231",
+        "category": "MedQA_TW",
+        "question": "下列病患中，何者並不適宜成為心臟移植的受贈者？\nA: 63歲男性罹患嚴重冠狀動脈疾病，所有內科療法及外科手術療法皆無法改善心肌血液灌注\nB: 50歲男性罹患肥大性心肌病變，經心肌切除手術後仍為末期心衰竭\nC: 55歲男性罹患末期心衰竭以及肺氣腫合併肺高壓者（pulmonary vascular resistance > 5 Wood units）\nD: 22歲女性罹患良性心臟內腫瘤合併反覆性心室性頻脈，無法以外科手術切除者",
+        "answer": "C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_232",
+        "category": "MedQA_TW",
+        "question": "下列關於酵素反應的敘述，何者錯誤？\nA: 酵素可以改變化學反應的平衡常數，使正反應的速率上升\nB: 大多數的酵素為蛋白質，但少數核醣核酸分子（RNA）亦具有催化能力\nC: 一般化學反應的速率會隨著溫度升高而上升，但大多數酵素反應的速率在溫度過高時會顯著降低\nD: 酵素可區分光學性質不同的受質，因此反應的立體專一性（stereo-specificity）極高",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_233",
+        "category": "MedQA_TW",
+        "question": "下列何種藥物適合以靜脈注射方式，用於治療急性且嚴重的氣喘或是慢性肺阻塞（COPD）的病人？\nA: cromolyn\nB: tiotropium\nC: montelukast\nD: methylprednisolone",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_234",
+        "category": "MedQA_TW",
+        "question": "下列那種疾病較不可能導致腦中風？\nA: 紅斑性狼瘡\nB: 頸動脈剝離\nC: 高血壓\nD: 類風濕性關節炎",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_235",
+        "category": "MedQA_TW",
+        "question": "76 歲男性主訴胸悶和呼吸不順暢，注射對比劑後 CT 影像如附圖，則最可能的診斷為下列何者？\nA: 肺主動脈瘤 \t\nB: 肺動脈栓塞\nC: 上行主動脈瘤 \t\nD: 上腔靜脈狹窄",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_236",
+        "category": "MedQA_TW",
+        "question": "一名中年流浪漢因腹瀉、神智不清被送至急診室，檢查發現他的臉、前胸、手背都有皮膚粗糙的皮膚炎、舌頭也有發炎，醫師的診斷為：疑似癩皮病（pellagra）。下列有關此病之敘述，何者正確？\nA: 此病是缺乏菸鹼酸（niacin）所造成 \t\nB: 菸鹼酸是由菸鹼醯胺腺嘌呤二核甘酸鹽（nicotinamide adenine dinucleotide，即NAD+）所合成\nC: 以玉米為主食的人不易得此病\nD: 神經系統不會受到影響",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_237",
+        "category": "MedQA_TW",
+        "question": "下圖為三種 40 週胎兒的臍動脈血流速度的波形，請問下列敘述何者最合適？\nA: 甲波形正常，乙、丙波形異常\nB: 甲、乙波形正常，丙波形異常\nC: 甲、乙、丙波形皆正常\nD: 甲、乙、丙波形皆異常",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_238",
+        "category": "MedQA_TW",
+        "question": "下列那一種藥物會減少 levodopa 在週邊系統被 decarboxylase 代謝？\nA: amantadine\nB: deprenyl\nC: carbidopa\nD: bromocriptine",
+        "answer": "C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_239",
+        "category": "MedQA_TW",
+        "question": "28.下列那些藥物可能會加重逆流性食道炎（reflux esophagitis）？①降血脂藥（HMG-CoA reductase inhibitor） ②高血壓用藥（calcium channel blocker） ③氣喘用藥 （theophylline） ④抗過敏藥物（antihistamine） \n\nA: ①②③\nB: 僅②③\nC: ③④\nD: ①②④",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_240",
+        "category": "MedQA_TW",
+        "question": "下列為陣發性夜間血色素尿（paroxysmal nocturnal hemoglobinuria）的特徵，何者錯誤？\nA: PIG-A gene mutation\nB: hemolysis due to deficiency of CD16 and CD66 on RBC\nC: complication of thrombosis\nD: iron deficiency",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_241",
+        "category": "MedQA_TW",
+        "question": "正常人類一生中血清肌酸酐（serum creatinine）值何時最低？\nA: 出生後 1-3 個月\nB: 3-5 歲\nC: 12-15 歲\nD: 成人",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_242",
+        "category": "MedQA_TW",
+        "question": "2.9個月大的男嬰高燒5天，今天早上開始呈現嗜睡狀態，晚上因全身僵直陣攣性發作（Generalized tonic clonic  seizure）5分鐘被送來急診。在加護病房做了脊髓穿刺檢查，腦脊髓液報告顯示WBC 10000/µL（90% PMNs 和10% Lymphocyte），Protein 380 mg/dL，Glucose 5 mg/dL。下列何者為最可能的致病原？ \n\nA: 單純疱疹病毒第一型（HSV type 1）\nB: 肺炎鏈球菌（Streptococcus pneumoniae）\nC: 腸病毒（Enterovirus）\nD: 新型隱球菌（Cryptococcus neoformans）",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_243",
+        "category": "MedQA_TW",
+        "question": "下列那一項因素不會造成某慢性疾病的發生率產生變動？\nA: 潛伏期\nB: 疾病診斷技術\nC: 環境因素\nD: 生活習慣",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_244",
+        "category": "MedQA_TW",
+        "question": "下列關於乾癬（psoriasis）的敘述，何者錯誤？\nA: 好發於兒童\nB: 好發部位為頭部、肘膝和軀幹\nC: 部分病人會合併乾癬性關節炎（psoriatic arthritis）\nD: 病灶特徵為境界鮮明、表面有白色\t屑之紅色斑塊",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_245",
+        "category": "MedQA_TW",
+        "question": "29.關於食道弛緩不能（esophageal achalasia）的外科手術，下列何者正確？①可經由開胸與開腹手術施行 ②大部分必須施行食道切除與重建手術才能解決吞嚥困難的問題 ③下食道括約肌的肌肉切開術是最常使用的方法 ④胃底折疊手術 （fundoplication） 有助於減少術後胃液逆流的產生 \n\nA: ①②③\nB: ①②④\nC: ②③④\nD: ①③④",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_246",
+        "category": "MedQA_TW",
+        "question": "有關排便和排氣的 anorectal sensory receptor 是位在直腸的那一層構造？\nA: 黏膜層\nB: 黏膜下層\nC: 肌肉層\nD: 漿膜層",
+        "answer": "C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_247",
+        "category": "MedQA_TW",
+        "question": "家族性大腸息肉症（Familial adenomatous polyposis）與下列何種基因變異關係最密切？\nA: APC/β-catenin\nB: RB gene\nC: p53 gene\nD: TGF-β receptor",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_248",
+        "category": "MedQA_TW",
+        "question": "一對夫婦來看不孕症門診，檢查結果唯一不正常的是精液；精蟲數 14,000,000/mL，活動力 25%，正常形態 23%。你會建議先做什麼治療？\nA: clomiphene citrate \t \t\nB: in vitro fertilization（IVF）\nC: intrauterine insemination with washed husband's sperm\nD: insemination with donor sperm",
+        "answer": "C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_249",
+        "category": "MedQA_TW",
+        "question": "下列有關腹腔鏡大腸直腸手術的敘述，何者錯誤？\nA: 其手術適應症與傳統的開腹式手術一樣 \t\nB: 老年人接受腹腔鏡手術也可受益\nC: hand-assisted technique 之術後恢復較差\nD: port site recurrence 不比開腹手術在 incision site 的 recurrence 多",
+        "answer": "C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_250",
+        "category": "MedQA_TW",
+        "question": "下列那一種疾病最容易造成遠端指關節（distal inter-phalangeal joint）發炎？\nA: 骨性（osteoarthritis）關節炎\nB: 類風濕（rheumatoid）關節炎\nC: 血友病（hemophilic）關節炎\nD: 痛風性（gouty）關節炎",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_251",
+        "category": "MedQA_TW",
+        "question": "下列何者出現在腦幹的interpeduncular fossa中？\nA: 滑車神經（trochlear nerve）\nB: 動眼神經（oculomotor nerve）\nC: 基底動脈（basilar artery）\nD: 腦下垂體（pituitary gland）",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_252",
+        "category": "MedQA_TW",
+        "question": "有關蠅蛆症（myiasis）之敘述，下列何者錯誤？\nA: ⼈膚蠅（Dermatobia hominis）產卵於吸⾎性蚊/蠅之腹部⽽致孵化之幼蟲鑽入宿主⽪膚傷⼝\nB: 院內蠅蛆症（nosocomial myiasis）常發⽣於⻑期臥床且有開放性傷⼝病患\nC: ⽿部蠅蛆症（aural myiasis）病患常有蟲體爬動感、雜⾳及惡臭分泌物\nD: ⼈膚蠅（Dermatobia hominis）傳播之蠅蛆症經常發⽣於亞洲地區",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_253",
+        "category": "MedQA_TW",
+        "question": "承上題，想要確定致病原因，應執行何種檢查？\nA: 支氣管鏡檢查\nB: 咽喉細菌培養\nC: 咽喉病毒培養\nD: 抽血做黴漿菌抗體檢測",
+        "answer": "C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_254",
+        "category": "MedQA_TW",
+        "question": "一位 42 歲王先生，近半年一直認為世界末日即將來到，而決定賣掉所有財產，去追隨他所信的教主，但家人堅決反對而將他強制送醫並住院治療，他仍堅持自己沒病且對治療不合作，下列敘述何者錯誤？\nA: 若與王先生同一宗教的教友也不認同其想法，則比較像宗教妄想\nB: 建立有效的醫病關係是成功治療的關鍵\nC: 治療目標為降低妄想對病人及家人的影響\nD: 妄想症對藥物療效不佳，很難痊癒",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_255",
+        "category": "MedQA_TW",
+        "question": "47 一位 45 歲女性患者冬天在密閉且設有熱水器之浴室洗澡，因意識不清疑有CO中毒而被送至急診，在 吸入室內空氣時之動脈血液氣體分析結果顯示pH 7.32，PaCO2 38 mmHg，PaO2 86 mmHg，HCO3- 20 mEq/L，BEECF- 4 mEq/L，SaO2 98%。請問下列之處理，何者最為正確？ \n\nA: PaO2為 86 mmHg，故氧氣治療並不需要\nB: 先給予高濃度之氧氣治療，並抽血送 carboxyhemoglobin 之檢查\nC: 動脈血液氣體分析結果SaO2為 98%，故carboxyhemoglobin量很少，排除CO中毒之診斷\nD: 給予 sodium bicarbonate，來治療代謝性酸中毒",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_256",
+        "category": "MedQA_TW",
+        "question": "6歲男童在2週以前有感冒症狀，最近2～3天發生腹絞痛和膝關節疼痛，隔日解黑便且下肢和臀部出現鼓起的出血點，尿液檢查顯示紅血球10～15/HPF，最有可能診斷是下列何種疾病？\nA: 特發性血小板減少紫斑症（idiopathic thrombocytopenic purpura）\nB: 急性白血病（acute leukemia）\nC: 急性腎絲球腎炎（acute glomerulonephritis）\nD: 過敏性紫斑症（Henoch-Schönlein purpura）",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_257",
+        "category": "MedQA_TW",
+        "question": "承上題，抽血檢查結果[Na+]136 mmol/L；[K+]4.2 mmol/L，請算出男嬰接下來24小時最適合的水分總需要量？\nA: 前2個小時先給200 mL生理食鹽水，後24小時再給1600 mL輸液\nB: 前2個小時先給200 mL生理食鹽水，後24小時再給1000 mL輸液\nC: 前8個小時先給500 mL生理食鹽水，後16小時再給500 mL輸液\nD: 前8個小時先給600 mL生理食鹽水，後16小時再給1000 mL輸液",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_258",
+        "category": "MedQA_TW",
+        "question": "肌腱（tendon）主要是由下列何者構成？\nA: 神經纖維（nerve fiber）\nB: 膠原纖維（collagen fiber）\nC: 網狀纖維（reticular fiber）\nD: 彈性纖維（elastic fiber）",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_259",
+        "category": "MedQA_TW",
+        "question": "因感染結核分枝桿菌（Mycobacterium tuberculosis）而在肺部形成的肉芽腫（granuloma）中，主要可以觀察到下列那一種細胞？\nA: 滋養細胞（trophocyte）\nB: 小膠質細胞（microglial cell）\nC: 空泡細胞（koilocyte）\nD: 蘭氏巨細胞（Langhans giant cell）",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_260",
+        "category": "MedQA_TW",
+        "question": "8 歲男孩在游泳池，被發現意識不清、休克，給予急救後，其心電圖（EKG）如圖所示。他的 11 歲哥哥，曾有運動時發生暈厥（syncope）病史。下列何者為最可能的診斷？\nA: Wolff-Parkinson-White 症候群合併心房顫動（atrial fibrillation）\nB: Long QT 症候群\nC: Lown-Ganong-Levine 症候群\nD: 遺傳性心房顫動（hereditary atrial fibrillation）",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_261",
+        "category": "MedQA_TW",
+        "question": "當嬰幼兒因為外傷被帶至急診時，下列照顧者的敘述何者最合理？\nA: 2個月的嬰兒自己翻身掉到床下撞到頭部\nB: 4個月大的嬰兒腳卡到床欄，在自行掙脫的過程中讓大腿骨折\nC: 5個月的嬰兒爬行時自己碰到熨斗而燙到手\nD: 1歲2個月的嬰兒抓到餐桌的桌巾，讓桌上熱湯翻下燙傷臉部",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_262",
+        "category": "MedQA_TW",
+        "question": "下列何種寄生蟲感染會導致皮膚幼蟲移行症（cutaneous larva migrans）？\nA: 犬心絲蟲（Dirofilaria immitis）\nB: 犬鉤蟲（Ancylostoma caninum）\nC: 犬蛔蟲（Toxocara canis）\nD: 肝毛細線蟲（Capillaria hepatica）",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_263",
+        "category": "MedQA_TW",
+        "question": "下列關於眼瞼的敘述，何者錯誤？\nA: 負責眼瞼閉合的肌肉是眼輪匝肌（orbicularis oculi muscle），由第七對腦神經控制\nB: 苗勒氏肌（Muller's muscle）由交感神經支配\nC: 東方人和西方人的雙眼皮形態不同，主要是提眼瞼肌（levator palpebrae muscle）末端筋膜（aponeurosis）附\t在眼瞼板（tarsus）的位置，東方人較西方人低\nD: 眼瞼的隔膜（septum）位於眼皮皮膚組織和眼輪匝肌之間，負有屏障作用",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_264",
+        "category": "MedQA_TW",
+        "question": "一位發燒病人的電腦斷層結果如下圖，下列敘述何者正確？\nA: 通常以藥物及經皮引流治療即可\nB: 若病人合併休克及多重器官衰竭，要趕快開刀做源頭控制（source control）\nC: 肝切除並非手術方法選擇之一\nD: 腹腔鏡手術並不適用此症",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_265",
+        "category": "MedQA_TW",
+        "question": "下列何者不是以大腸桿菌為衛生指標的理由？\nA: 容易檢驗 \t\nB: 對氯的抵抗力強\nC: 生存力較一般病原菌強\nD: 一般排泄物必有",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_266",
+        "category": "MedQA_TW",
+        "question": "54歲男性因嚴重高血壓合併低血鉀症多次來急診室處理，初步診斷疑有hyperaldosteronism，手術前的病灶定位以何者之敏感性（sensitivity）最高？\nA: 超音波掃描\nB: 電腦斷層掃描\nC: 鉈掃描（thallium-201 scan）\nD: 血管造影術",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_267",
+        "category": "MedQA_TW",
+        "question": "使用 ribavirin 治療肝炎之最大副作用為：\nA: 凝血酶原時間（prothrombin time）延長\nB: 貧血\nC: 白血球減少 \t\nD: 血小板減少",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_268",
+        "category": "MedQA_TW",
+        "question": "下列各種與癌症形成有關的基因中，何者並非轉錄因子（transcription factor）基因？\nA: c-myc \t\nB: p53 \t\nC: bcl-2 \t\nD: 以上皆為轉錄因子基因",
+        "answer": "C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_269",
+        "category": "MedQA_TW",
+        "question": "某研究想估計社區 65 歲以上老人失智症的盛行率，該研究決定以家戶訪視的方法到社區內有 65 歲以上老人的家庭進行失智症的評估，該研究並未受到拒訪的情形，但同時發現所有戶籍登記有案的老人中只有 70%住在家裡。此研究的結果應該要注意：\nA: 干擾偏差\nB: 選樣偏差\nC: 訊息偏差\nD: 診斷偏差",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_270",
+        "category": "MedQA_TW",
+        "question": "重症肌無力（myasthenia gravis）與下列那一個組織或器官的增生有關？\nA: 胸腺（thymus） \t\nB: 甲狀腺（thyroid gland）\nC: 腎上腺皮質（adrenal gland）\nD: 骨髓內之漿細胞（plasma cell）",
+        "answer": "A",
+        "eval": "Accuracy"
+    }
+]

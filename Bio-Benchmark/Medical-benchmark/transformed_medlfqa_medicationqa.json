@@ -1,0 +1,887 @@
+[
+    {
+        "no": "MQA_421",
+        "category": "MedLFQA_MedicationQA",
+        "question": "how dextroamphetamine works",
+        "answer": {
+            "free_form_answer": "Dextroamphetamine is used as part of a treatment program to control symptoms of attention deficit hyperactivity disorder (ADHD; more difficulty focusing, controlling actions, and remaining still or quiet than other people who are the same age) in adults and children. Dextroamphetamine is also used to treat narcolepsy (a sleep disorder that causes excessive daytime sleepiness and sudden attacks of sleep). Dextroamphetamine is in a class of medications called central nervous system stimulants. It works by changing the amounts of certain natural substances in the brain.",
+            "must_have": [
+                "Dextroamphetamine is used as part of a treatment program for controlling symptoms of ADHD and treating narcolepsy in adults and children.",
+                "It is a central nervous system stimulant and works by changing the amounts of certain natural substances in the brain."
+            ],
+            "nice_to_have": [
+                "Attention deficit hyperactivity disorder in individuals leads to more difficulty in focusing, controlling actions, and remaining still or quiet than others of the same age.",
+                "Narcolepsy is a sleep disorder that causes excessive daytime sleepiness and sudden attacks of sleep."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_422",
+        "category": "MedLFQA_MedicationQA",
+        "question": "what strengths do valproic acid come in meds come in",
+        "answer": {
+            "free_form_answer": "Valproic Acid Capsules, USP are supplied as 250 mg off-white colored soft gelatin capsules, imprinted with \"U-S 250\", packaged in bottles containing 100.",
+            "must_have": [
+                "Valproic acid capsules come in a strength of 250 mg.",
+                "They are supplied as off-white colored soft gelatin capsules with the imprint \"U-S 250\"."
+            ],
+            "nice_to_have": [
+                "Valproic Acid Capsules are packaged in bottles containing 100 capsules."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_423",
+        "category": "MedLFQA_MedicationQA",
+        "question": "is pramipexole addictive?",
+        "answer": {
+            "free_form_answer": "you should know that some people who took medications such as pramipexole to treat Parkinson's disease or restless legs syndrome developed gambling problems, an increased interest in shopping or sex, overeating problems, or other intense urges or behaviors that were compulsive or unusual for them. There is not enough information to tell whether the people developed these problems because they took the medication or for other reasons. Call your doctor if you develop intense urges or have difficulty controlling any of these behaviors. Tell your family members about these risks so that they can call the doctor even if you do not realize that your behavior has become a problem.",
+            "must_have": [
+                "Some people who took medications such as pramipexole to treat Parkinson's disease or restless legs syndrome developed gambling problems, increased interest in shopping or sex, overeating problems, or other intense urges or behaviors that were compulsive or unusual for them."
+            ],
+            "nice_to_have": [
+                "If you develop intense urges or have difficulty controlling any of these behaviors, you should call your doctor.",
+                "Inform your family members about these risks so that they can call the doctor even if you do not realize that your behavior has become a problem.",
+                "There is not enough information to confirm whether the people developed these problems because they took the medication or for other reasons."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_424",
+        "category": "MedLFQA_MedicationQA",
+        "question": "how to stop taking amlodipine\n",
+        "answer": {
+            "free_form_answer": "Continue to take amlodipine even if you feel well. Do not stop taking amlodipine without talking to your doctor.",
+            "must_have": [
+                "Never stop taking amlodipine abruptly.",
+                "Discontinuing amlodipine should be done under a healthcare provider's supervision to avoid withdrawal symptoms and the possible worsening of medical conditions."
+            ],
+            "nice_to_have": [
+                "Continuing to take amlodipine even when feeling well is suggested as it helps maintain a consistent level of medication in the body.",
+                "Furthermore, it helps prevent fluctuations of blood pressure and reduces the risk of severe health consequences like strokes or heart attacks."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_425",
+        "category": "MedLFQA_MedicationQA",
+        "question": "what is the length of entecavir treatment",
+        "answer": {
+            "free_form_answer": "The optimal duration of treatment with entecavir tablets for patients with chronic hepatitis B virus infection and the relationship between treatment and long-term outcomes such as cirrhosis and hepatocellular carcinoma are unknown.",
+            "must_have": [
+                "The specific length of entecavir treatment for chronic hepatitis B infections is not clearly established.",
+                "The relationship between the duration of the entecavir treatment and long-term health outcomes such as cirrhosis and hepatocellular carcinoma is unknown."
+            ],
+            "nice_to_have": [
+                "Entecavir is a potent oral antiviral drug used against hepatitis B virus.",
+                "It is used for the treatment of chronic hepatitis B virus infection in adults with active viral replication and evidence of active inflammatory disease in the liver."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_426",
+        "category": "MedLFQA_MedicationQA",
+        "question": "is dronabinol marijuana how much are ten mg pills worth",
+        "answer": {
+            "free_form_answer": "The cost for dronabinol oral capsule 2.5 mg is around $94 for a supply of 60 capsules, depending on the pharmacy you visit.",
+            "must_have": [
+                "The cost for dronabinol oral capsule 2.5 mg is usually around $94 for a supply of 60 capsules."
+            ],
+            "nice_to_have": [
+                "Dronabinol is a synthetic form of a certain natural substance in marijuana (delta-9-THC).",
+                "It is used to treat nausea and vomiting caused by chemotherapy in people who have already taken other medications to treat these symptoms without good results.",
+                "It is also used to treat loss of appetite and weight loss in people who have acquired immunodeficiency syndrome (AIDS)."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_427",
+        "category": "MedLFQA_MedicationQA",
+        "question": "how often do you need a zoster vaccine?",
+        "answer": {
+            "free_form_answer": "People 60 years of age or older should get shingles vaccine (Zostavax). They should get the vaccine whether or not they recall having had chickenpox, which is caused by the same virus as shingles. Studies show that more than 99% of Americans aged 40 and older have had chickenpox, even if they don\u2019t remember getting the disease. There is no maximum age for getting shingles vaccine.A new shingles vaccine called Shingrix was licensed by the U.S. Food and Drug Administration (FDA) in 2017. CDC recommends that healthy adults 50 years and older get two doses of Shingrix, 2 to 6 months apart. Shingrix provides strong protection against shingles and PHN. Shingrix is the preferred vaccine, over Zostavax.",
+            "must_have": [
+                "People 60 years of age or older should receive the shingles vaccine, regardless if they recall having had chickenpox.",
+                "Healthy adults 50 years and older should get two doses of Shingrix, 2 to 6 months apart.",
+                "Even if you have had shingles, you can still receive the shingles vaccine to help prevent future occurrences."
+            ],
+            "nice_to_have": [
+                "There is no maximum age for getting the shingles vaccine.",
+                "More than 99% of Americans aged 40 and older have had chickenpox, even if they don\u2019t remember getting the disease.",
+                "In 2017, the U.S. FDA licensed a new shingles vaccine called Shingrix.",
+                "You should generally make sure the shingles rash has disappeared before getting vaccinated.",
+                "The decision on when to get vaccinated should be made with your healthcare provider.",
+                "Shingrix is preferred over Zostavax due to its strong protection against shingles and PHN."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_428",
+        "category": "MedLFQA_MedicationQA",
+        "question": "what are beta blockers\n",
+        "answer": {
+            "free_form_answer": "Beta blockers, also known as beta-adrenergic blocking agents, are medications that reduce your blood pressure. Beta blockers work by blocking the effects of the hormone epinephrine, also known as adrenaline.",
+            "must_have": [
+                "Beta blockers work by blocking the effects of the hormone epinephrine, also known as adrenaline.",
+                "Because of this action, they cause the heart to beat more slowly and with less force, thereby reducing blood pressure.",
+                "They are used for treating various conditions including hypertension, angina, arrhythmias, heart attack, migraine, and some forms of tremors."
+            ],
+            "nice_to_have": [
+                "Beta blockers also help blood vessels open up to improve blood flow which further regulates the blood pressure.",
+                "They are often prescribed along with lifestyle changes like diet and exercise to manage conditions like hypertension or angina."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_429",
+        "category": "MedLFQA_MedicationQA",
+        "question": "what does spironolactone 25 mg pill look like",
+        "answer": {
+            "free_form_answer": "Spironolactone Tablets USP, 25 mg are white, film-coated, round tablets, debossed \u201cAN\u201d above \u201c511\u201d on one side and plain on other side.",
+            "must_have": [
+                "Spironolactone Tablets USP, 25 mg are white, film-coated, round tablets.",
+                "They are debossed \u201cAN\u201d above \u201c511\u201d on one side and plain on the other side."
+            ],
+            "nice_to_have": [
+                "The tablets are used as a part of various treatments, including certain patients with congestive heart failure, cirrhosis of the liver with associated edema and/or ascites, nephrotic syndrome, and in patients with hypokalemia when other measures are considered inappropriate or inadequate."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_430",
+        "category": "MedLFQA_MedicationQA",
+        "question": "why did my doctor give me levetiracetam\n",
+        "answer": {
+            "free_form_answer": "Levetiracetam Extended-release Tablets is indicated as adjunctive therapy in the treatment of partial onset seizures in patients 12 years of age and older with epilepsy.",
+            "must_have": [
+                "Levetiracetam is used as adjunctive therapy in the treatment of partial onset seizures.",
+                "It's also indicated for the treatment of tonic-clonic seizures and myoclonic seizures.",
+                "This medication should be used under the direction of a healthcare professional."
+            ],
+            "nice_to_have": [
+                "The goal of treatment with Levetiracetam is to reduce the frequency and severity of seizures.",
+                "Treatment protocols may differ depending on the individual patient's needs and response to the medication."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_431",
+        "category": "MedLFQA_MedicationQA",
+        "question": "what are steroids",
+        "answer": {
+            "free_form_answer": "any of various compounds containing a 17-carbon 4-ring system and including the sterols and numerous hormones (such as anabolic steroids or corticosteroids) and glycosides",
+            "must_have": [
+                "Steroids are compounds that contain a 17-carbon 4-ring system.",
+                "They include sterols, numerous hormones such as anabolic steroids or corticosteroids, and glycosides."
+            ],
+            "nice_to_have": [
+                "The term \"steroid\" refers to both natural and synthetic substances.",
+                "Natural steroids are produced in the body and include hormones such as testosterone.",
+                "Synthetic steroids are man-made and are used as medicines for a variety of conditions, including inflammation, allergies, asthma, and autoimmunity diseases.",
+                "These compounds have a similar structure to certain hormones in the body, allowing them to interact with and influence the function of body cells, tissues, and organs."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_432",
+        "category": "MedLFQA_MedicationQA",
+        "question": "what is rate for iv infusion cilastatin/imipenem",
+        "answer": {
+            "free_form_answer": "Recommend that the maximum total daily dosage not exceed 4 g/day.",
+            "must_have": [
+                "The maximum total daily dosage of cilastatin/imipenem should not exceed 4 g/day.",
+                "A 500 mg dose of cilastatin/imipenem should be administered by intravenous infusion over 20 to 30 minutes.",
+                "A 1,000 mg dose of cilastatin/imipenem should be administered by intravenous infusion over 40 to 60 minutes."
+            ],
+            "nice_to_have": [
+                "There is a specific duration for the infusion of cilastatin/imipenem depending on the dosage to ensure the most effective absorption and minimal side effects.",
+                "Following these guidelines for infusion can be crucial in treatment effectiveness."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_433",
+        "category": "MedLFQA_MedicationQA",
+        "question": "what types of insulin for resistance\n",
+        "answer": {
+            "free_form_answer": "Insulin sensitizers like Glucophage (Metformin) may be prescribed to help your body use insulin more effectively.",
+            "must_have": [
+                "Glucophage (Metformin) is a type of insulin sensitizer used in managing insulin resistance.",
+                "Insulins such as Regular (R), novolin, Apidra, Novolog, Humalog, NPH (N), Novolin N, detemir (Levemir) and glargine (Lantus, Toujeo) can be used in severe cases of insulin resistance or type 2 diabetes."
+            ],
+            "nice_to_have": [
+                "It's critical for patients to follow healthcare provider's instructions on using insulin to manage insulin resistance to avoid major health consequences."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_434",
+        "category": "MedLFQA_MedicationQA",
+        "question": "marijuana is what schedule drug\n",
+        "answer": {
+            "free_form_answer": "Cannabis , also known as marijuana, is a plant grown in many parts of the world which produces a resin containing compounds called cannabinoids. Some cannabinoids are psychoactive (acting on the brain and changing mood or consciousness) (see Question 1).\nThe use of Cannabis for medicinal purposes dates back to ancient times (see Question 3).\nBy federal law, the possession of Cannabis is illegal in the United States outside of approved research settings. However, a growing number of states, territories, and the District of Columbia have enacted laws to legalize medical marijuana (see Question 1).\nIn the United States, Cannabis is a controlled substance requiring special licensing for its use (see Question 1 and Question 3).",
+            "must_have": [
+                "Marijuana is classified as a Schedule I drug under the Controlled Substances Act of the United States, which indicates that it has a high potential for abuse and no currently accepted medical use in treatment in the United States.",
+                "The federal law of the United States still considers the use, sale, and possession of marijuana to be illegal even though it is legal according to some state laws."
+            ],
+            "nice_to_have": [
+                "The use of Cannabis for medicinal purposes dates back to ancient times.",
+                "Marijuana is a plant that produces a resin containing compounds called cannabinoids, some of which are psychoactive.",
+                "A growing number of states, territories, and the District of Columbia have enacted laws to legalize medical marijuana despite it being classified as a controlled substance requiring special licensing for its use."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_435",
+        "category": "MedLFQA_MedicationQA",
+        "question": "how to wean off calan sr\n",
+        "answer": {
+            "free_form_answer": "Do not stop taking verapamil without talking to your doctor.",
+            "must_have": [
+                "Do not stop taking verapamil abruptly without consulting your doctor.",
+                "Discuss with your doctor if you want to stop taking Calan SR and strictly follow their instructions."
+            ],
+            "nice_to_have": [
+                "Verapamil or Calan SR is often prescribed to treat conditions such as high blood pressure, angina, and certain heart rhythm disorders.",
+                "Abrupt discontinuation of verapamil can cause your condition to worsen and may lead to withdrawal symptoms."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_436",
+        "category": "MedLFQA_MedicationQA",
+        "question": "testosterone over counter?\n",
+        "answer": {
+            "free_form_answer": "NATURAL TESTOSTERONE- avena sativa. epimedium, lycopodium clavatum, damiana, testosterone, agnus castus spray",
+            "must_have": [
+                "Over-the-counter testosterone boosters are dietary supplements that aim to increase natural testosterone production.",
+                "These are not the same as prescription testosterone.",
+                "Consultation with a healthcare provider is advisable before starting any new supplement regimen."
+            ],
+            "nice_to_have": [
+                "They contain various ingredients, like avena sativa, epimedium, lycopodium clavatum, damiana, agnus castus.",
+                "Over-the-counter testosterone boosters' safety and efficacy are not guaranteed as they are not regulated by the FDA."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_437",
+        "category": "MedLFQA_MedicationQA",
+        "question": "warfarin and cabbage?",
+        "answer": {
+            "free_form_answer": "Some foods can change the way warfarin works in your body. Make sure you check with your provider before making any big changes in your diet.You do not have to avoid these foods, but try to eat or drink only small amounts of them. In the least, DO NOT change much of these foods and products you eat day-to-day or week-to-week:",
+            "must_have": [
+                "Some foods, including raw green cabbage, can alter the way warfarin works in the body.",
+                "If a person is taking warfarin, they should consult with their healthcare provider before making any significant dietary changes.",
+                "Regular and consistent consumption of these foods is important; major changes in their consumption can influence the effectiveness of warfarin."
+            ],
+            "nice_to_have": [
+                "Other foods that can interact with warfarin include mayonnaise, certain oils like canola, olive, and soybean, vegetables like broccoli, Brussels sprouts, endive, lettuce, spinach, parsley, watercress, garlic, scallions (green onions), kale, collard greens, mustard greens, and turnip greens, cranberry juice, green tea, and fish oil supplements.",
+                "Consuming small quantities of these products is usually fine, but a sudden increase in consumption could potentially affect the consistency of warfarin therapy."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_438",
+        "category": "MedLFQA_MedicationQA",
+        "question": "cbd from marijuana to treat what",
+        "answer": {
+            "free_form_answer": "Cannabis and cannabinoids have been studied in the laboratory and the clinic for relief of pain, nausea and vomiting, anxiety, and loss of appetite (see Question 6 and Question 7).",
+            "must_have": [
+                "Cannabis and cannabinoids have been studied for relief of pain, nausea and vomiting, anxiety, and loss of appetite.",
+                "Two cannabinoids (dronabinol and nabilone) are FDA-approved drugs for preventing or treating chemotherapy-related nausea and vomiting."
+            ],
+            "nice_to_have": [
+                "There is growing interest in treating children for symptoms such as nausea with Cannabis and cannabinoids.",
+                "Cannabis and cannabinoids might have benefits in treating cancer symptoms or the side effects of cancer therapies."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_439",
+        "category": "MedLFQA_MedicationQA",
+        "question": "how to stop using estradiol transdermal system patch",
+        "answer": {
+            "free_form_answer": "There's no limit on how long you can take HRT, but talk to your GP about the duration of treatment they recommend. Most women stop taking it once their menopausal symptoms pass, which is usually after a few years. When you decide to stop, you can choose to do so suddenly or gradually. Gradually decreasing your HRT dose is usually recommended because it's less likely to cause your symptoms to come back in the short term. Contact your GP if you have symptoms that persist for several months after you stop HRT, or if you have particularly severe symptoms. You may need to start HRT again.",
+            "must_have": [
+                "The choice to stop using the estradiol transdermal patch should be discussed and decided upon with a medical professional.",
+                "Dosage of the patch should be decreased gradually as opposed to stopping its use abruptly.",
+                "If symptoms persist for several months after stopping use of the estradiol patch, or if symptoms are severe, it is necessary to consult with a healthcare provider as it may be necessary to resume HRT."
+            ],
+            "nice_to_have": [
+                "There's no definitive limit on how long HRT, such as the estradiol transdermal patch, can be used; this is typically decided based on individual symptom relief and in consultation with a healthcare provider.",
+                "Most women discontinue HRT once their menopausal symptoms resolve, which usually happens over a span of a few years."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_440",
+        "category": "MedLFQA_MedicationQA",
+        "question": "how long should i take dutasteride\n",
+        "answer": {
+            "free_form_answer": "We strongly recommend that physicians discuss with their patients these potential serious adverse effects of long-term dutasteride therapy prior to instituting this form of treatment.",
+            "must_have": [
+                "The duration of dutasteride treatment depends on your specific medical condition and personal response to treatment.",
+                "You should not exceed the duration recommended by your healthcare provider.",
+                "To maintain the benefits of this medication, it needs to be taken regularly and it might take 6 months or more to see the full benefits."
+            ],
+            "nice_to_have": [
+                "Dutasteride is generally used to treat male-pattern baldness or hair loss and enlarged prostate.",
+                "Patients should be informed about possible serious side effects of long-term dutasteride treatment before starting the therapy."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_441",
+        "category": "MedLFQA_MedicationQA",
+        "question": "what is the difference between atorvastatin and lipitor\n",
+        "answer": {
+            "free_form_answer": "LIPITOR \u00ae (atorvastatin calcium) tablets, for oral use",
+            "must_have": [
+                "Atorvastatin and Lipitor have the same active ingredients and serve the same purpose.",
+                "Lipitor is the brand-name version of atorvastatin produced by Pfizer."
+            ],
+            "nice_to_have": [
+                "Atorvastatin, as a generic medication, is traditionally cheaper than its brand-name counterpart Lipitor.",
+                "Despite the sources, both are used to treat high cholesterol and reduce the risk of heart diseases."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_442",
+        "category": "MedLFQA_MedicationQA",
+        "question": "what opioid is in the bupropion patch",
+        "answer": {
+            "free_form_answer": "Active Ingredient/Active Moiety: Ingredient Name buprenorphine (UNII: 40D3SCR4GZ) (buprenorphine - UNII:40D3SCR4GZ)",
+            "must_have": [
+                "The active ingredient in the buprenorphine patch, often referred to as a \"bupropion patch\", is in fact buprenorphine, which is an opioid."
+            ],
+            "nice_to_have": [
+                "The term \"bupropion patch\" is often used inaccurately, as bupropion is an entirely different drug used to treat depression and help people stop smoking, while buprenorphine is used to treat opioid use disorder and pain."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_443",
+        "category": "MedLFQA_MedicationQA",
+        "question": "how to administer denosumab",
+        "answer": {
+            "free_form_answer": "Denosumab injection comes as a solution (liquid) to be injected subcutaneously (under the skin) in your upper arm, upper thigh, or stomach area. It is usually injected by a doctor or nurse in a medical office or clinic. Denosumab injection (Prolia) is usually given once every 6 months. When denosumab injection (Xgeva) is used to reduce the risk of fractures from multiple myeloma, or cancer that has spread to the bones, it is usually given once every 4 weeks. When denosumab injection (Xgeva) is used to treat giant cell tumor of bone, or high calcium levels caused by cancer, it is usually given every 7 days for the first three doses (on day 1, day 8, and day 15) and then once every 4 weeks starting 2 weeks after the first three doses.Your doctor will tell you to take supplements of calcium and vitamin D while you are being treated with denosumab injection. Take these supplements exactly as directed.",
+            "must_have": [
+                "Denosumab injection is usually administered subcutaneously (under the skin) in the upper arm, upper thigh, or stomach area by a doctor or nurse.",
+                "Depending on the specific condition being treated, denosumab injection is given once every 4 to 6 months, or every 7 days for the first three doses and then once every 4 weeks.",
+                "While being treated with denosumab injection, it is essential to take supplements of calcium and vitamin D exactly as directed by the doctor."
+            ],
+            "nice_to_have": [
+                "Denosumab injection (Prolia) comes with a manufacturer's patient information sheet (Medication Guide).",
+                "Patients are advised to read this carefully and ask any questions they have to their doctor or pharmacist.",
+                "This information can also be found on the FDA's website or the manufacturer's website."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_444",
+        "category": "MedLFQA_MedicationQA",
+        "question": "how do steroids effect the digestive system",
+        "answer": {
+            "free_form_answer": "teroid abuse can also be hepatotoxic, promoting disturbances such as biliary stasis, peliosis hepatis, and even hepatomas, which are all usually reversible upon discontinuation.Steroids, also known as corticosteroids, can have a significant impact on the digestive system. One of the main areas affected is the stomach. Steroids can increase the production of stomach acid, and their prolonged use can lead to the development of gastric ulcers, gastroesophageal reflux disease (GERD), and gastritis. They may also contribute to a delay in gastric emptying which leads to a feeling of bloating and discomfort.Another area where steroids can have an effect is the liver. Steroids are metabolized in the liver and can potentially cause damage to this organ. As a result of prolonged use, steroids can cause a condition called steroid-induced cholestasis. This is a condition where the flow of bile from the liver is slowed, leading to itching, jaundice, and even liver failure in serious cases.Furthermore, steroids can also affect nutrient absorption in the intestines. They can impair the absorption of calcium and vitamin D, increasing the risk of bone loss and osteoporosis over time.",
+            "must_have": [
+                "Steroids can increase the production of stomach acid, potentially leading to the development of gastric ulcers, GERD, and gastritis.",
+                "Steroid use can also cause steroid-induced cholestasis, a liver condition where the flow of bile is slowed.",
+                "Steroids can also impair the absorption of calcium and vitamin D in the intestines, increasing the risk of bone loss and osteoporosis over time."
+            ],
+            "nice_to_have": [
+                "Prolonged steroid use may cause a feeling of bloating and discomfort due to delayed gastric emptying.",
+                "In serious cases, steroid-induced cholestasis can lead to itching, jaundice, and even liver failure."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_445",
+        "category": "MedLFQA_MedicationQA",
+        "question": "how to reduce bisoprolol\n",
+        "answer": {
+            "free_form_answer": "Cessation of Therapy\nIf withdrawal of bisoprolol fumarate and hydrochlorothiazide therapy is planned, it should be achieved gradually over a period of about 2 weeks.",
+            "must_have": [
+                "Bisoprolol fumarate and hydrochlorothiazide therapy should be gradually reduced over two weeks time if it needs to be withdrawn.",
+                "Patients should be observed for any negative effects that might originate due to the withdrawal of the medication."
+            ],
+            "nice_to_have": [
+                "Consultation with a doctor is recommended before making any changes to your bisoprolol fumarate and hydrochlorothiazide therapy.",
+                "This is especially important if the patient has existing heart-related issues, as abrupt discontinuation can worsen these conditions."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_446",
+        "category": "MedLFQA_MedicationQA",
+        "question": "what class is diazepam\n",
+        "answer": {
+            "free_form_answer": "Diazepam is a benzodiazepine that exerts anxiolytic, sedative, muscle-relaxant, anticonvulsant and amnestic effects.",
+            "must_have": [
+                "Diazepam belongs to the class of drugs called benzodiazepines which have anxiolytic, sedative, muscle-relaxant, anticonvulsant and amnestic effects.",
+                "Its effects are thought to result from the facilitation of the action of GABA, an inhibitory neurotransmitter in the central nervous system."
+            ],
+            "nice_to_have": [
+                "Diazepam is often used in the treatment of anxiety disorders, alcohol withdrawal symptoms, or muscle spasms and can also be used in combination with other medications to control seizures.",
+                "It's generally recommended for short term use, no longer than 2-4 weeks."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_447",
+        "category": "MedLFQA_MedicationQA",
+        "question": "what is ciprodex?",
+        "answer": {
+            "free_form_answer": "Ciprofloxacin and dexamethasone otic is used to treat outer ear infections in adults and children and acute (suddenly occurring) middle ear infections in children with ear tubes. Ciprofloxacin is in a class of medications called quinolone antibiotics. Dexamethasone is in a class of medications called corticosteroids. The combination of ciprofloxacin and dexamethasone works by killing the bacteria that cause infection and reducing swelling in the ear.",
+            "must_have": [
+                "Ciprodex is a combination of ciprofloxacin, a quinolone antibiotic, and dexamethasone, a corticosteroid.",
+                "It is used to treat ear infections in both adults and children.",
+                "It works by killing the bacteria causing the infection and reducing ear swelling."
+            ],
+            "nice_to_have": [
+                "Ciprodex is used to treat both outer ear infections in adults and children and acute middle ear infections in children with ear tubes."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_448",
+        "category": "MedLFQA_MedicationQA",
+        "question": "what size doses of metformin are available?",
+        "answer": {
+            "free_form_answer": "Metformin Hydrochloride Tablets, USP ... 500 mg ... 850 mg ... 1000 mg",
+            "must_have": [
+                "Metformin Hydrochloride is available in 500 mg, 850 mg, and 1000 mg tablets."
+            ],
+            "nice_to_have": [
+                "Metformin is a prescription medication used primarily to treat type 2 diabetes.",
+                "It's also used in conjunction with lifestyle changes like diet and exercise to improve blood sugar control in adults with type 2 diabetes."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_449",
+        "category": "MedLFQA_MedicationQA",
+        "question": "how long it takes for withdrawals to go away on oxycodone",
+        "answer": {
+            "free_form_answer": "Withdrawal from oxycodone usually starts within 8-12 hours of taking the drug, and it peaks in the first 72 hours. Symptoms generally subside in about a week, although some of the psychological effects and drug cravings may persist for longer.",
+            "must_have": [
+                "Withdrawal symptoms from oxycodone usually start within 8-12 hours of taking the drug.",
+                "The symptoms are typically at their worst in the first 72 hours.",
+                "Physical symptoms generally ease after about a week."
+            ],
+            "nice_to_have": [
+                "The psychological effects and cravings associated with oxycodone withdrawal may persist beyond a week.",
+                "It's highly recommended to seek medical assistance when attempting to withdraw from oxycodone, as the process can be difficult and potentially dangerous."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_450",
+        "category": "MedLFQA_MedicationQA",
+        "question": "is viagra a treament for cor pulmonale?\n",
+        "answer": {
+            "free_form_answer": "Sildenafil (Revatio, Viagra) and tadalafil (Cialis, Adcirca) are sometimes used to treat pulmonary hypertension.",
+            "must_have": [
+                "Viagra (sildenafil) and Cialis (tadalafil) are sometimes used to treat pulmonary hypertension, a condition which may arise in cor pulmonale, but they are not the primary treatments for cor pulmonale.",
+                "The primary goal of treatment in cor pulmonale is to manage the underlying lung disorder and improve oxygenation and right ventricular function."
+            ],
+            "nice_to_have": [
+                "The use of Viagra (sildenafil) or Cialis (tadalafil) in cor pulmonale can help relax and widen the blood vessels in the lungs, promoting easier blood flow.",
+                "However, always seek medical advice from a healthcare provider before starting any new treatments."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_451",
+        "category": "MedLFQA_MedicationQA",
+        "question": "it is latanoprost a cholinergic?\n",
+        "answer": {
+            "free_form_answer": "Latanoprost ophthalmic is used to treat glaucoma (a condition in which increased pressure in the eye can lead to gradual loss of vision) and ocular hypertension (a condition which causes increased pressure in the eye). Latanoprost is in a class of medications called prostaglandin analogs.",
+            "must_have": [
+                "Latanoprost is not a cholinergic drug.",
+                "It is in a class of medications called prostaglandin analogs.",
+                "It works towards reduction of pressure in the eye by increasing the flow of natural eye fluids."
+            ],
+            "nice_to_have": [
+                "Latanoprost is used to treat glaucoma and ocular hypertension - conditions characterized by increased eye pressure that could lead to vision loss.",
+                "Cholinergic drugs mimic the action of neurotransmitter acetylcholine, leading to effects such as increased heart rate, digestion, and salivation, among others - these are not the effects caused by Latanoprost."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_452",
+        "category": "MedLFQA_MedicationQA",
+        "question": "where does fluorouracil come from",
+        "answer": {
+            "free_form_answer": "dailymed list of manufacturersFluorouracil, also known as 5-FU, is a chemotherapy medication used in the treatment of cancer. It is a synthetic compound classified as an antimetabolite. Fluorouracil is made in pharmaceutical laboratories and is not naturally occurring. The manufacture of fluorouracil begins with the reaction of uracil with phosphorus oxychloride to produce 2,4-dichloropyrimidine, which is then substituted with fluorine to create fluorouracil.Some of the well-known manufacturers of fluorouracil include Teva Pharmaceuticals, Mylan Pharmaceuticals, and Fresenius Kabi Oncology Ltd., among others. It is always important to ensure that the medication is produced by a reputable and trusted manufacturer.",
+            "must_have": [
+                "It begins with a reaction of uracil, then is substituted with fluorine to create fluorouracil.",
+                "It does not occur naturally.",
+                "Fluorouracil is a synthetic drug that is typically produced in a laboratory.",
+                "Fluorouracil is a synthetic medication made in pharmaceutical labs.",
+                "It is a nucleoside metabolic inhibitor that interferes with DNA synthesis, and to a lesser extent, RNA formation."
+            ],
+            "nice_to_have": [
+                "Pharmaceutical companies that specialize in oncology medications are typically responsible for the production of Fluorouracil.",
+                "It's always important to ensure your medication is made by a trusted manufacturer.",
+                "Fluorouracil is not derived from a natural source like a plant or animal.",
+                "Some of the manufacturers include Teva Pharmaceuticals, Mylan Pharmaceuticals, and Fresenius Kabi Oncology Ltd."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_453",
+        "category": "MedLFQA_MedicationQA",
+        "question": "what is magnesium chelated good for",
+        "answer": {
+            "free_form_answer": "Chelated magnesium is used as a supplement to maintain adequate magnesium in the body.Magnesium plays a key role in hundreds of enzymatic reactions in the body, including those involved in the synthesis of protein, muscle and nerve function, blood glucose control, and blood pressure regulation. It is also essential for bone health and the synthesis of DNA, RNA, and the antioxidant glutathione.Chelated magnesium is a type of magnesium salt that has been chemically bound to a chelating agent, which is a substance that can bond with metals and minerals, increasing their absorption in the body. Therefore, compared to other forms of magnesium, chelated magnesium is more easily and efficiently absorbed by the body.",
+            "must_have": [
+                "Magnesium is necessary for hundreds of enzymatic reactions in the body, including those related to protein synthesis, muscle and nerve function, blood glucose control, and blood pressure regulation.",
+                "It is also essential for bone health, and the synthesis of DNA, RNA, and glutathione.",
+                "Chelated magnesium has been chemically bound to a chelating agent, increasing its absorption in the body."
+            ],
+            "nice_to_have": [
+                "Chelated magnesium is used as a supplement to maintain adequate magnesium in the body.",
+                "Using a chelated form of magnesium allows for a more efficient absorption of this essential mineral."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_454",
+        "category": "MedLFQA_MedicationQA",
+        "question": "how long keep patient on chantix",
+        "answer": {
+            "free_form_answer": "Patients should be treated with CHANTIX for 12 weeks. For patients who have successfully stopped smoking at the end of 12 weeks, an additional course of 12 weeks' treatment with CHANTIX is recommended to further increase the likelihood of long-term abstinence.",
+            "must_have": [
+                "Chantix should be used for a duration of 12 weeks.",
+                "For those who successfully quit smoking after this period, an additional 12 weeks of treatment with Chantix can be considered."
+            ],
+            "nice_to_have": [
+                "Prolonged treatment with Chantix beyond the initial 12 weeks can increase the likelihood of long-term abstinence from smoking.",
+                "Always consult with a healthcare provider for personalized medication advice."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_455",
+        "category": "MedLFQA_MedicationQA",
+        "question": "blood pressure when on eliquis\n",
+        "answer": {
+            "free_form_answer": "Less common adverse reactions \u2026 Vascular disorders: hypotension (including procedural hypotension)",
+            "must_have": [
+                "Eliquis, or apixaban, is an anticoagulant medication.",
+                "It is not typically associated with significant changes in blood pressure.",
+                "Eliquis can less commonly cause hypotension, including procedural hypotension.",
+                "Patients experiencing symptoms of low blood pressure while taking Eliquis should seek medical help immediately."
+            ],
+            "nice_to_have": [
+                "Eliquis is prescribed for prevention of strokes and blood clots in certain conditions.",
+                "Symptoms of low blood pressure can include dizziness, fainting, and unusually fast or slow heartbeat."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_456",
+        "category": "MedLFQA_MedicationQA",
+        "question": "clonazepam \".25mg\" lowest dosage?\n",
+        "answer": {
+            "free_form_answer": "Klonopin Wafers (clonazepam orally disintegrating tablets) are white, round and debossed with the tablet strength \u2026 0.125 mg  debossed 1/8 \u2026",
+            "must_have": [
+                "The lowest dosage of Clonazepam available is 0.125 mg, which is used in the initial stages of treatment depending on medical need and patient tolerance."
+            ],
+            "nice_to_have": [
+                "Clonazepam is a prescribed drug used primarily in the treatment of seizure disorders and panic disorder.",
+                "It belongs to the family of benzodiazepines, reflecting its function in offering relief from anxiety and inducing sleep or relaxation in patients."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_457",
+        "category": "MedLFQA_MedicationQA",
+        "question": "how long does ecstasy or mda leave your body",
+        "answer": {
+            "free_form_answer": "In terms of its metabolism,\u00a0research suggests\u00a0that MDMA taken by mouth reaches its maximal blood concentration in about two hours. As ecstasy is metabolized, it is secreted into the urine and can be present for up to two days.",
+            "must_have": [
+                "Research suggests that MDMA, taken by mouth, reaches its maximal blood concentration in about two hours.",
+                "MDMA or ecstasy is secreted into the urine and can be present for up to two days."
+            ],
+            "nice_to_have": [
+                "MDMA or ecstasy leaves the body mainly through excretion in urine.",
+                "The process of metabolism of the drug may vary depending on the activity level, hydration status, and overall health of the user."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_458",
+        "category": "MedLFQA_MedicationQA",
+        "question": "oxycodone hcl 5 mg & oxycodone \"10-325\" apap the same?",
+        "answer": {
+            "free_form_answer": "PERCOCET - oxycodone hydrochloride and acetaminophen tablet. Each tablet, for oral administration, contains oxycodone hydrochloride and acetaminophen in the following strengths: Oxycodone Hydrochloride, USP          10 mg*",
+            "must_have": [
+                "A PERCOCET tablet contains both oxycodone hydrochloride and acetaminophen.",
+                "The \"10-325\" indicates that the tablet contains 10 mg of oxycodone hydrochloride and 325 mg of acetaminophen.",
+                "10 mg of oxycodone hydrochloride is equivalent to 8.9637 mg of oxycodone."
+            ],
+            "nice_to_have": [
+                "The oxycodone HCL 5mg is a medication that contains only oxycodone hydrochloride at a lesser dosage, i.e., 5mg, and does not contain acetaminophen unlike the PERCOCET \"10-325\".",
+                "Therefore, while both medications contain oxycodone, they are not the same due to the different concentrations of oxycodone and the presence or absence of acetaminophen."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_459",
+        "category": "MedLFQA_MedicationQA",
+        "question": "how long will 6 mgs of suboxone block opiates",
+        "answer": {
+            "free_form_answer": "Comparisons of buprenorphine with full agonists such as methadone and hydromorphone suggest that sublingual buprenorphine produces typical opioid agonist effects which are limited by a ceiling effect.In non-dependent subjects, acute sublingual doses of SUBOXONE tablets produced opioid agonist effects, which reached a maximum between doses of 8 mg and 16mg of SUBUTEX. The effects of 16mg SUBOXONE were similar to those produced by 16mg SUBUTEX (buprenorphine alone).",
+            "must_have": [
+                "Sublingual doses of SUBOXONE tablets produce opioid agonist effects.",
+                "The effects reach a maximum between doses of 8 mg and 16 mg of SUBUTEX.",
+                "There is a dose of buprenorphine that produces no further effect; this is referred to as its \"ceiling effect\".",
+                "Typically, this ceiling effect can be observed at around 48 hours post administration for higher doses of buprenorphine."
+            ],
+            "nice_to_have": [
+                "In a study with 16 opioid-experienced, non-dependent subjects, higher doses of buprenorphine (8-32 mg) kept agonist objective rating scores elevated for longer than the lower doses and did not return to baseline until 48 hours after drug administrations.",
+                "The peak effect appears to reach after about 100 minutes for buprenorphine."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_460",
+        "category": "MedLFQA_MedicationQA",
+        "question": "can i eat after taking rapaflo?\n",
+        "answer": {
+            "free_form_answer": "The recommended dose is 8 mg orally once daily with a meal.",
+            "must_have": [
+                "Rapaflo (silodosin) should be taken orally once daily with a meal.",
+                "Increased absorption is seen when Rapaflo is taken with food."
+            ],
+            "nice_to_have": [
+                "It's advisable to consult with your healthcare provider or pharmacist for specific details related to your medication and the consumption of it relative to meals."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_461",
+        "category": "MedLFQA_MedicationQA",
+        "question": "how is cyanocobalamin adminitsered\n",
+        "answer": {
+            "free_form_answer": "Cyanocobalamin Injection, USP is a sterile solution of cyanocobalamin for intramuscular or subcutaneous injection. Each mL contains 1000 mcg cyanocobalamin.",
+            "must_have": [
+                "Cyanocobalamin is most commonly administered as an intramuscular or subcutaneous injection.",
+                "It can also be administered as oral tablets, nasal spray, or sublingual forms.",
+                "Cyanocobalamin should always be administered as directed by a healthcare provider."
+            ],
+            "nice_to_have": [
+                "Cyanocobalamin is a synthetic form of vitamin B12.",
+                "An injection of Cyanocobalamin is often given by a healthcare provider in a medical setting.",
+                "It can also be self-administered under strict guidance and instructions from a healthcare provider.",
+                "Its use should be monitored to ensure safety and efficacy."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_462",
+        "category": "MedLFQA_MedicationQA",
+        "question": "heroin mixed with fentanyl what are the symptoms of an overdose",
+        "answer": {
+            "free_form_answer": "People use heroin to get high. But if they overdose on it, they get extremely sleepy or may become unconsciousness and stop breathing.Below are symptoms of a heroin overdose in different parts of the body.Symptoms include:- Slow and shallow breathing\n- Deceased pulse rate\n- Exhaustion, to the point of potentially losing consciousness\n- Bluish lips and fingernails\n- Skin turning cold and clammy \n- Pinpoint pupils \n- Delirium, disorientation or coma\n- Nausea and vomiting.When heroin is mixed with fentanyl, an overdose can occur more easily because fentanyl is 50 times more potent than heroin. Also, symptoms of an overdose might occur rapidly after drug use due to fentanyl's potency.",
+            "must_have": [
+                "The symptoms of an overdose from heroin mixed with fentanyl include slow and shallow breathing, decreased pulse rate, exhaustion, bluish lips and fingernails, pinpoint pupils, and periods of delirium or coma.",
+                "Immediate medical attention is necessary if an overdose is suspected.",
+                "A noticeable characteristic of an overdose is skin turning cold and clammy.",
+                "Overdose may occur more easily and rapidly when heroin is mixed with fentanyl due to its higher potency.",
+                "The symptoms of overdosing on a combination of heroin and fentanyl may include respiratory depression, stupor or coma, skeletal muscle flaccidity, cold and clammy skin, constricted pupils, and potential death."
+            ],
+            "nice_to_have": [
+                "Nausea and vomiting can also occur with an overdose.",
+                "Overdose symptoms can include atypical snoring, slow heartbeat, low blood pressure, and blue lips, nails or extremities possibly due to lack of oxygen.",
+                "If someone is showing any of these symptoms following drug use, it's crucial to seek emergency medical attention immediately.",
+                "Heroin is often used for its euphoric effects; however, it can be deadly when misused or mixed with other potent substances like fentanyl.",
+                "If the person overdosing is conscious, they might show signs of severe confusion or disorientation, have difficulty walking or standing, or behave ubiquitously.",
+                "Mixing fentanyl with other drugs, such as heroin, increases the risk of an overdose."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_463",
+        "category": "MedLFQA_MedicationQA",
+        "question": "how is tetracycline metabolized?",
+        "answer": {
+            "free_form_answer": "Tetracyclines are readily absorbed and are bound to plasma proteins in varying degrees. They are concentrated by the liver in the bile and excreted in the urine and feces at high concentrations in a biologically active form.",
+            "must_have": [
+                "Tetracyclines are absorbed and bound to plasma proteins and they are concentrated by the liver in the bile.",
+                "The excretion of tetracyclines is via urine and feces.",
+                "The tetracyclines are excreted in high concentrations in a biologically active form."
+            ],
+            "nice_to_have": [
+                "The extent to which tetracyclines bind to plasma proteins may vary."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_464",
+        "category": "MedLFQA_MedicationQA",
+        "question": "how other inject cortisone to the knee\n",
+        "answer": {
+            "free_form_answer": "A steroid injection is a shot of medicine used to relieve a swollen or inflamed area that is often painful. It can be injected into a joint, tendon, or bursa.\n\nDescription\nYour health care provider inserts a small needle and injects medicine into the painful and inflamed area. Depending on the site, your provider may use an x-ray or ultrasound to see where to place the needle.\n\nFor this procedure:\n\nYou will lie on a table and the injection area will be cleaned.\nA numbing medicine may be applied to the injection site.\nYou may be given medicine to help you relax.\nSteroid injections can be given into a bursa, joint, or tendon.",
+            "must_have": [
+                "Health care provider uses a small needle for injecting cortisone.",
+                "Depending on the site, an x-ray or ultrasound may be used to guide the needle to the exact location.",
+                "The procedure involves cleaning of the injection area, application of a numbing medicine, and possible administration of relaxants.",
+                "The cortisone injection is delivered directly into the joint or inflamed area.",
+                "If the injection is given in the knee, some fluid may be withdrawn for testing before injecting the medication."
+            ],
+            "nice_to_have": [
+                "The person receiving the injection will be asked to lie on a table for the procedure.",
+                "The process may cause temporary discomfort, however, a numbing medicine is often used to reduce any pain from the needle.",
+                "Normally, you can return home soon after the cortisone injection."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_465",
+        "category": "MedLFQA_MedicationQA",
+        "question": "where yo get tetanus shots",
+        "answer": {
+            "free_form_answer": "Getting vaccinated is convenient \u2014 you can get most recommended vaccines at your doctor\u2019s office. Many recommended vaccines are also available at local pharmacies, health centers, health departments, and travel clinics. Below you\u2019ll find information and tools to help you find out where to get vaccinated near you \u2014 and some tips for making an appointment.",
+            "must_have": [
+                "You can get a tetanus shot at your local doctor's office, pharmacies, health centers, health departments, and travel clinics.",
+                "It's important to call and make an appointment for vaccination."
+            ],
+            "nice_to_have": [
+                "Tools and resources are available to help you find out where to get vaccinated near you.",
+                "While it's most often recommended to get a tetanus shot at your doctor's office, there are other convenient locations such as local pharmacies, health centers, and health departments."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_466",
+        "category": "MedLFQA_MedicationQA",
+        "question": "what is prochlorperazine",
+        "answer": {
+            "free_form_answer": "For control of severe nausea and vomiting.Prochlorperazine is effective for the short-term treatment of generalized non-psychotic anxiety. However, prochlorperazine is not the first drug to be used in therapy for most patients with non-psychotic anxiety, because certain risks associated with its use are not shared by common alternative treatments (e.g., benzodiazepines).When used in the treatment of non-psychotic anxiety, prochlorperazine should not be administered at doses of more than 20 mg per day or for longer than 12 weeks, because the use of prochlorperazine at higher doses or for longer intervals may cause persistent tardive dyskinesia that may prove irreversible (see WARNINGS).The effectiveness of prochlorperazine as treatment for non-psychotic anxiety was established in 4-week clinical studies of outpatients with generalized anxiety disorder. This evidence does not predict that prochlorperazine will be useful in patients with other non-psychotic conditions in which anxiety, or signs that mimic anxiety, are found (e.g., physical illness, organic mental conditions, agitated depression, character pathologies, etc.).",
+            "must_have": [
+                "Prochlorperazine is used for the treatment of severe nausea and vomiting, and schizophrenia.",
+                "When treating non-psychotic anxiety, the drug should not be administered at doses exceeding 20 mg per day or for longer than 12 weeks due to the risk of persistent tardive dyskinesia.",
+                "The drug is not effective in treating behavioral complications in patients with mental retardation."
+            ],
+            "nice_to_have": [
+                "Prochlorperazine is not the first choice drug for patient with non-psychotic anxiety due to certain risks.",
+                "Its effectiveness in treating non-psychotic anxiety was established in 4-week clinical studies with outpatients suffering from generalized anxiety disorder.",
+                "Its efficacy does not guarantee its usefulness in patients with other non-psychotic conditions where anxiety or symptoms mimicking anxiety are present, such as physical illness, organic mental conditions, agitated depression, character pathologies, etc."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_467",
+        "category": "MedLFQA_MedicationQA",
+        "question": "vit b12 tabet?",
+        "answer": {
+            "free_form_answer": "Vitamin B12 is found in almost all multivitamins. Dietary supplements that contain only vitamin B12, or vitamin B12 with nutrients such as folic acid and other B vitamins, are also available. Check the Supplement Facts label to determine the amount of vitamin B12 provided.Vitamin B12 is also available in sublingual forms (which are dissolved under the tongue). There is no evidence that sublingual forms are better absorbed than pills that are swallowed.",
+            "must_have": [
+                "Vitamin B12 is available in multiple forms including multivitamins, individual supplements, sublingual forms, and prescription forms such as shots and nasal gels.",
+                "It is primarily used to treat vitamin B12 deficiency."
+            ],
+            "nice_to_have": [
+                "There is no evidence to suggest that sublingual forms of Vitamin B12 (dissolved under the tongue) are better absorbed than those that are swallowed.",
+                "Always check the Supplement Facts label to determine the amount of vitamin B12 in a supplement."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_468",
+        "category": "MedLFQA_MedicationQA",
+        "question": "how to stop pregabalin lyrica",
+        "answer": {
+            "free_form_answer": "When discontinuing LYRICA, taper gradually over a minimum of 1 week.",
+            "must_have": [
+                "LYRICA (pregabalin) should be discontinued gradually over a period of at least one week."
+            ],
+            "nice_to_have": [
+                "It is not recommended to abruptly stop taking LYRICA (pregabalin) because it may lead to withdrawal symptoms.",
+                "Consultation with a healthcare provider is advised when considering stopping LYRICA (pregabalin)."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_469",
+        "category": "MedLFQA_MedicationQA",
+        "question": "what mg is the lowest does of coreg?\n",
+        "answer": {
+            "free_form_answer": "The white, oval, film\u2011coated tablets are available in the following strengths: \u2022 3.125 mg \u2013 engraved with \u201c39\u201d and \u201cSB\u201d \u2022 6.25 mg \u2013 engraved with \u201c4140\u201d and \u201cSB\u201d \u2022 12.5 mg \u2013 engraved with \u201c4141\u201d and \u201cSB\u201d \u2022 25 mg \u2013 engraved with \u201c4142\u201d and \u201cSB\u201d",
+            "must_have": [
+                "The lowest dosage of Coreg (carvedilol) available is 3.125 mg."
+            ],
+            "nice_to_have": [
+                "The other available dosages for Coreg are 6.25 mg, 12.5 mg and 25 mg.",
+                "These dosages are identified by engraving on the tablets."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_470",
+        "category": "MedLFQA_MedicationQA",
+        "question": "what does using fluorouracil make your face look like",
+        "answer": {
+            "free_form_answer": "The most frequent adverse reactions to Fluorouracil 5% Topical Cream occur locally and are often related to an extension of the pharmacological activity of the drug. These include burning, crusting, allergic contact dermatitis, erosions, erythema, hyperpigmentation, irritation, pain, photosensitivity, pruritus, scarring, rash, soreness and ulceration.",
+            "must_have": [
+                "The use of fluorouracil 5% topical cream can lead to local adverse reactions such as burning, crusting, allergic contact dermatitis, erosions, erythema, hyperpigmentation, irritation, pain, photosensitivity, pruritus, scarring, rash, soreness, and ulceration."
+            ],
+            "nice_to_have": [
+                "Most of the adverse reactions related to the use of fluorouracil are often an extension of the drug's pharmacological activity."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    }
+]

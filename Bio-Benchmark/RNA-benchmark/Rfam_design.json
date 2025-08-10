@@ -1,0 +1,1404 @@
+{
+    "RNA family sequence design": [
+        {
+            "no": "Protein_1",
+            "category": "RNA family sequence design",
+            "question": "Please de sign RNA sequence for the RNA family RF00085.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_2",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF01261.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_3",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00426.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_4",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00157.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_5",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00972.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_6",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00286.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_7",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00263.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_8",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF01241.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_9",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF02371.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_10",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF01277.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_11",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00662.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_12",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00642.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_13",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00005.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_14",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF01255.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_15",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00009.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_16",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00422.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_17",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00404.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_18",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00887.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_19",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00163.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_20",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF01848.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_21",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00569.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_22",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00158.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_23",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00065.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_24",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF02276.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_25",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00302.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_26",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00928.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_27",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00746.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_28",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00355.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_29",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00530.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_30",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF01429.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_31",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF01139.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_32",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00918.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_33",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00821.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_34",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00680.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_35",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF01240.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_36",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00403.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_37",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00216.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_38",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF01725.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_39",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00449.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_40",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00326.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_41",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF01525.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_42",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF02410.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_43",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00559.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_44",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00495.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_45",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF01191.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_46",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00698.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_47",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00732.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_48",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00708.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_49",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF01509.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_50",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF02000.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_51",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00568.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_52",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00439.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_53",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF01911.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_54",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00247.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_55",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00692.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_56",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00514.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_57",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00350.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_58",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00335.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_59",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF01042.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_60",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00613.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_61",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00272.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_62",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF01505.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_63",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00473.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_64",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00622.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_65",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF01144.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_66",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00689.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_67",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00264.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_68",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00394.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_69",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF01185.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_70",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00221.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_71",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF01436.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_72",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00309.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_73",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00952.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_74",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF01059.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_75",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF01614.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_76",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00051.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_77",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF01018.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_78",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF01630.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_79",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00377.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_80",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00751.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_81",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF01242.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_82",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00663.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_83",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF01602.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_84",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00261.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_85",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00418.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_86",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF01234.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_87",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00644.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_88",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF01219.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_89",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00643.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_90",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00275.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_91",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF01223.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_92",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF01173.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_93",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00099.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_94",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00546.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_95",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00723.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_96",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00284.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_97",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00513.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_98",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00575.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_99",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF01302.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_100",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00713.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_101",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF01430.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_102",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00452.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_103",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00425.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_104",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00424.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_105",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00885.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_106",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00900.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_107",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00359.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_108",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF01997.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_109",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00052.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_110",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00693.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_111",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00562.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_112",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00030.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_113",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00075.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_114",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00408.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_115",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF02285.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_116",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00818.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_117",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF01179.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_118",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00420.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_119",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00300.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_120",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00458.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_121",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00155.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_122",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF01022.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_123",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF01199.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_124",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00457.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_125",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00504.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_126",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00138.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_127",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF01515.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_128",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF02288.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_129",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00340.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_130",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00483.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_131",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF01431.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_132",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00768.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_133",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00104.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_134",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF01210.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_135",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00357.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_136",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF01208.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_137",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00572.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_138",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF02490.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_139",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00950.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_140",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF02254.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_141",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00904.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_142",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF01012.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_143",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF01262.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_144",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00464.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_145",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF01290.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_146",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00998.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_147",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00226.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_148",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF01045.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_149",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00791.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_150",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00325.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_151",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00727.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_152",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00339.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_153",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00899.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_154",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00387.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_155",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF02289.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_156",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF01198.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_157",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00487.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_158",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00579.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_159",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00405.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_160",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00200.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_161",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00151.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_162",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF01158.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_163",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00324.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_164",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF01254.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_165",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00150.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_166",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00001.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_167",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00714.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_168",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF01287.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_169",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF01524.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_170",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00494.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_171",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF02094.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_172",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00757.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_173",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00545.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_174",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00056.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_175",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00162.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_176",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF01482.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_177",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF01171.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_178",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF01206.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_179",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00736.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_180",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF01239.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_181",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF01428.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_182",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00564.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_183",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00669.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_184",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00556.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_185",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00174.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_186",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00095.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_187",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF01264.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_188",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00045.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_189",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00720.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_190",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF01433.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_191",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00694.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_192",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00296.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_193",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00794.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_194",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00960.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_195",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00028.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_196",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00598.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_197",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF01617.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_198",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00565.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_199",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF01131.",
+            "answer": null,
+            "eval": "Infernal cm"
+        },
+        {
+            "no": "Protein_200",
+            "category": "RNA family sequence design",
+            "question": "Please design a RNA sequence for the RNA family RF00478.",
+            "answer": null,
+            "eval": "Infernal cm"
+        }
+    ]
+}

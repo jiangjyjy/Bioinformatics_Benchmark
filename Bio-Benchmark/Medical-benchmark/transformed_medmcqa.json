@@ -1,0 +1,702 @@
+[
+    {
+        "no": "MQA_471",
+        "category": "MedMCQA Anatomy",
+        "question": "Which of the following vessels supply the anal canal?\nA: Superior rectal aery\nB: Middle rectal aery\nC: Inferior rectal aery\nD: all of the following",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_472",
+        "category": "MedMCQA Dental",
+        "question": "ADA specification of orthodontic wire:\nA: 29\nB: 25\nC: 32\nD: 30",
+        "answer": "C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_473",
+        "category": "MedMCQA Physiology",
+        "question": "In relaxed state, chest wall and lung recoil are balanced at:\nA: Minute volume\nB: TLC\nC: Residual volume\nD: FRC",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_474",
+        "category": "MedMCQA Biochemistry",
+        "question": "Which of the following is \u03c99 family?\nA: Oleic Acid\nB: Linoleic acid\nC: Linolenic acid\nD: Arachidonic acid",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_475",
+        "category": "MedMCQA Dental",
+        "question": "\"Cut back\" incision made on laterally displaced flap is:\nA: Mesial cut toward the donor site\nB: Distal cut toward the donor site\nC: Mesial cut toward the recipient site\nD: Distal cut toward the recipient site",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_476",
+        "category": "MedMCQA Surgery",
+        "question": "Patellar cluck syndrome is interposition of soft tissue at or hyperophied scar:\nA: Superior pole of patella and impinging on femoral component during flexion\nB: Superior pole of patella and impinging on femoral component during extension\nC: Inferior pole of patella and impinging on femoral component during flexion\nD: Inferior pole of patella and impinging on femoral component during extension",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_477",
+        "category": "MedMCQA Social & Preventive Medicine",
+        "question": "Which of the following parameters is used to determine the sensitivity of vaccine due to heat?\nA: VVM\nB: VMV\nC: VCM\nD: VMM",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_478",
+        "category": "MedMCQA Surgery",
+        "question": "Which of the following PPE (Personal Protective Equipment) is removed first?\nA: Gloves\nB: Face shield\nC: Gown\nD: Mask",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_479",
+        "category": "MedMCQA Biochemistry",
+        "question": "The activity of the following enzyme is affected by biotin deficiency:\nA: Transketolase\nB: Dehydrogenase\nC: Oxidase\nD: Carboxylase",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_480",
+        "category": "MedMCQA Dental",
+        "question": "Treatment of ANUG utilizes all except:\nA: Debridement\nB: Oral hygiene\nC: Penicillin\nD: Topical steroid",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_481",
+        "category": "MedMCQA Microbiology",
+        "question": "Which is not a dimorphic fungi?\nA: P. marneffi\nB: Histoplasma capsulatum\nC: Blastomyces dermatitidis\nD: Pneumocystis jirovecii",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_482",
+        "category": "MedMCQA Orthopaedics",
+        "question": "Which fracture results in the given deformity?\nA: Supracondylar fracture of humerus\nB: Lateral condylar fracture\nC: Olecranon fracture\nD: Radial head fracture",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_483",
+        "category": "MedMCQA Pediatrics",
+        "question": "Which of the following is the most common inherited malignancy :\nA: Infant leukemia\nB: Retinoblastoma\nC: Wilm's tumour\nD: Neuroblastoma",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_484",
+        "category": "MedMCQA Medicine",
+        "question": "Gait apraxia is seen in thromboembolic episode involving:\nA: ACA\nB: MCA\nC: PCA\nD: Posterior choroidal aery",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_485",
+        "category": "MedMCQA Pediatrics",
+        "question": "CASE -2 SR visit again but the condition is not improved but this time IV cannula was set. What drug should be given now?\nA: Midazolam\nB: I/V Phenobarbital\nC: Oral valproate\nD: IV carbamazepine",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_486",
+        "category": "MedMCQA Dental",
+        "question": "What % collagen fibers and fibroblasts are present In gingival connective tissue\nA: 60% & 5%\nB: 65% & 5%\nC: 60%& 10%\nD: 65%& 10%",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_487",
+        "category": "MedMCQA Dental",
+        "question": "The setting time of irreversible hydrocolloids can be decreased by:\nA: Raising the temperature of water used for mixing\nB: Using excess water for mixing\nC: Lowering the temperature of water used for mixing\nD: None of the above",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_488",
+        "category": "MedMCQA Dental",
+        "question": "A patient shows gingival swelling in lower premolar region. Biopsy was taken and histopathological examination showed endothelium-lined vascular spaces and the extreme proliferation of fibroblasts and budding endothelial cells. What could this lesion be:\nA: Pyogenic granuloma\nB: Fibroma\nC: Aneurysmal bone cyst\nD: Traumatic bone cyst",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_489",
+        "category": "MedMCQA Dental",
+        "question": "The most effective, scientifically proven and cost efficient caries prevention program in children is:\nA: Enameloplasty\nB: Oral health education\nC: Pit and fissure sealants\nD: ART",
+        "answer": "C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_490",
+        "category": "MedMCQA Pediatrics",
+        "question": "To establish the diagnosis of H-type trachea-esophageal fistula, which if the following is required?\nA: Chest X-ray\nB: Tracheo-bronchoscopy\nC: CT scan\nD: Esophagoscopy",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_491",
+        "category": "MedMCQA Biochemistry",
+        "question": "A young man was on high protein diet and raw eggs. After 3 days he developed weakness. Blood investigation revealed hypoglycemia. Hypoglycemia is due to inhibition of which of the following enzymes\nA: Glucose 6 phosphatase\nB: Glycogen phosphorylase\nC: Pyruvate Carboxylase\nD: Glucokinase",
+        "answer": "C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_492",
+        "category": "MedMCQA Dental",
+        "question": "Object permanence seen in which stage of Jean Piaget\u2019s theory\nA: Sensorimotor\nB: Pre-operational stage\nC: Concrete operations stage\nD: Formal operations stage",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_493",
+        "category": "MedMCQA Pathology",
+        "question": "A 28 year old man has lenticonus and end stage renal disease now. His maternal uncle also died of the same illness. What is the most likely diagnosis?\nA: Autosomal dominant polycystic kidney disease\nB: Autosomal recessive polycystic kidney disease\nC: Oxalosis\nD: Alport syndrome",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_494",
+        "category": "MedMCQA Surgery",
+        "question": "Numbness on shaving after parotidectomy due to which nerve injury?\nA: Facial nerve\nB: Auriculotemporal nerve\nC: Greater auricular nerve\nD: Occipital nerve",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_495",
+        "category": "MedMCQA Dental",
+        "question": "Which of the following type of failure may occur, if the coefficient of thermal expansion of ceramic is much lower than that of metal?\nA: Cohesive failure of ceramic\nB: Adhesive failure of metal ceramic bond\nC: Cohesive failure of metal\nD: Cohesive failure of metal ceramic bond",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_496",
+        "category": "MedMCQA Gynaecology & Obstetrics",
+        "question": "A 28 years old female presented with the history of recurrent aboions, pain in calves for 4 years. Patient is suffering from congenital deficiency of:\nA: Protein C\nB: Thrombin\nC: Plasmin\nD: Factor XIII",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_497",
+        "category": "MedMCQA Dental",
+        "question": "Integration between blade vent implant and bone Is\nA: Fibto-oeseous integration\nB: Osseo-integration\nC: Osseo vent integration\nD: Fibrocartilaginous",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_498",
+        "category": "MedMCQA Dental",
+        "question": "Phallic stage of Freud corresponds to which of the following stages of Piaget\nA: Sensorimotor\nB: Pre operational\nC: Concrete operational\nD: Formal operational",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_499",
+        "category": "MedMCQA Gynaecology & Obstetrics",
+        "question": "Paograph represents various stages of labor with respect to time. True about paograph is all except:\nA: Each small square represents one hour\nB: Ale and action lines are separated by a difference of 4 hours\nC: Paograph recording should be staed at a cervical dilation of 4 cm\nD: Send the patient to first referral unit if the labor progression line crosses the ale line",
+        "answer": "C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_500",
+        "category": "MedMCQA Pathology",
+        "question": "Cysts associated with vital teeth are:\nA: Dentigerous cyst, Globulomaxillary cyst, lateral periodontal cyst, OKC\nB: Dentigerous cyst, Globulomaxillary cyst, radicular cyst\nC: Dentigerous cyst, OKC, radicular cyst\nD: 'B' & 'C'",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_501",
+        "category": "MedMCQA Anatomy",
+        "question": "Lateral part of middle cranial fossa and posterior\ncranial fossa are divided by:\nA: Petrous temporal bone\nB: Crista galli\nC: Transverse groove\nD: Sphenoid bone",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_502",
+        "category": "MedMCQA Dental",
+        "question": "The neutralization of saliva is due to\nA: Mucin\nB: Ammonia\nC: Amino a cids\nD: Bicarbonates",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_503",
+        "category": "MedMCQA Dental",
+        "question": "Which of the following Is not an etiological agent for gingival recession\nA: Gingival abrasion\nB: Gingival ablation\nC: Gingival inflammation\nD: TFO",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_504",
+        "category": "MedMCQA Pediatrics",
+        "question": "A 5 year old child is rushed to casualty reportedly electrocuted while playing in a park. The child is apneic and is ventilated with bag and a mask. Which of the following will be the next step in the management \u2013\nA: Check pulses\nB: Start chest compressions\nC: Intubate\nD: Check oxygen saturation",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_505",
+        "category": "MedMCQA Dental",
+        "question": "Stimulated saliva as compared to unstimulated saliva has more\nA: Bicarbonate\nB: Cl\nC: Na\nD: H",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_506",
+        "category": "MedMCQA Pediatrics",
+        "question": "A 10 year old child presented with headache, vomiting, gait instability and diplopia. On examination he had papilledema and gait ataxia. The most probable diagnosis is \u2013\nA: Hydrocephalus\nB: Brain stem tumour\nC: Suprasellar tumour\nD: Midline posterior fossa tumour",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_507",
+        "category": "MedMCQA Dental",
+        "question": "A patient with acute history of blistering and denudation involving >30% BSA along with erosions of the lips with hemorrhagic crusting and other mucosa for few days. What is the most common triggering factor?\nA: Bacterial infection\nB: Viral infection\nC: Drug induced\nD: Idiopathic",
+        "answer": "C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_508",
+        "category": "MedMCQA Pharmacology",
+        "question": "'Store in a cool place' is written on a drug label. It means drug should be stored at a temperature of:\nA: -2 degree Celsius\nB: 0 degree Celsius\nC: 2-8 degree Celsius\nD: 8-15 degree Celsius",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_509",
+        "category": "MedMCQA Dental",
+        "question": "Size of apical foramen\nA: Remain constant\nB: Increases with age\nC: Decreases with age\nD: May increase or decrease with age",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_510",
+        "category": "MedMCQA Surgery",
+        "question": "Treatment of choice in a patient with a staghorn calculus with mild hydronephrosis?\nA: ESWL\nB: PCNL\nC: RIRS\nD: Open surgery",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_511",
+        "category": "MedMCQA Dental",
+        "question": "Reactive oxygen metabolite in lysosomes is released by\nA: Peroxidase\nB: NADPH oxidase\nC: Superoxide dismutase\nD: Catalase",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_512",
+        "category": "MedMCQA Dental",
+        "question": "About zinc oxide eugenol all are true except\nA: ZnO is converted to Zn(OH)2\nB: Reaction is autocatalytic\nC: Water is the byproduct of reaction\nD: Dehydrated ZnO reacts with dehydrated eugenol",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_513",
+        "category": "MedMCQA Surgery",
+        "question": "Ameloblastoma histologically resembles:\nA: BCC\nB: SCC\nC: Osteosarcoma\nD: Fibrosarcoma",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_514",
+        "category": "MedMCQA Dental",
+        "question": "An 11-year-old boy complains of spacing between maxillary incisors. The appropriate treatment is with:\nA: Hawley's appliance\nB: Fixed appliance\nC: No treatment\nD: Oral screen",
+        "answer": "C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_515",
+        "category": "MedMCQA Dental",
+        "question": "Simple random sampling is ideal for:\nA: Vaccinated people\nB: Heterogenous population\nC: Homogenous population\nD: All of the above",
+        "answer": "C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_516",
+        "category": "MedMCQA Anatomy",
+        "question": "Which of the following is the only complete cailage ring in the respiratory tree?\nA: Cricoid cailage\nB: Thyroid cailage\nC: Cunieform cailage\nD: Epiglottis",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_517",
+        "category": "MedMCQA Radiology",
+        "question": "The principal reason for placing an aluminium filter in\nthe primary beam of radiation is to:\nA: Reduce exposure time\nB: Decrease development time of the films\nC: Reduce radiation to the skin of the patient\nD: Obtain greater definition of the images of teeth",
+        "answer": "C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_518",
+        "category": "MedMCQA Ophthalmology",
+        "question": "Which of the following drug should not be given in a patient of narrow angle glaucoma?\nA: Phenylephrine\nB: Timolol\nC: Acetazolamide\nD: Homatropine",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_519",
+        "category": "MedMCQA Dental",
+        "question": "The bacteria of oral flora which plays least role in periodontitis is:\nA: Actinomyces\nB: Actinomycetam comitans\nC: Spirocheates\nD: Bacteriodes",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_520",
+        "category": "MedMCQA Dental",
+        "question": "KRI paste composition is:\nA: Iodoform+ZOE\nB: Iodoform+chlorophenol+menthol\nC: Iodoform+CaOH\nD: Iodoform only",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_521",
+        "category": "MedMCQA Anatomy",
+        "question": "Duct of parotid gland crosses over masseter muscle and pierces the:\nA: Buccinator muscle\nB: Superior constrictor\nC: Masseter\nD: Zygomaticus major",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_522",
+        "category": "MedMCQA Anatomy",
+        "question": "Umblical cord contains:\nA: 3 arteries & 1 vein\nB: 1 artery& 3 veins\nC: 1 artery & 1 vein\nD: 2 arteries & 1 vein",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_523",
+        "category": "MedMCQA Pediatrics",
+        "question": "A 3 week neonate with ambiguous genitalia presented with Na+ 127 meq/L, K+ 7.2 meq/L wit BP 52/24 mm Hg and he was managed with IV fluids. What is the next step of management?\nA: Spironolactone\nB: Hydrocoisone administration\nC: Broad spectrum antibiotics\nD: Calcium gluconate",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_524",
+        "category": "MedMCQA Pathology",
+        "question": "Which of the following tooth structure during formation\nis most effected due to Vit -A deficiency\nA: Enamel\nB: Dentin\nC: Cementom\nD: Periodontal Ligament",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_525",
+        "category": "MedMCQA Anaesthesia",
+        "question": "Which of the following nerve fibre types is least susceptible to LA blockade?\nA: A beta\nB: A alpha\nC: B fibers\nD: C fibers",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_526",
+        "category": "MedMCQA Biochemistry",
+        "question": "Method of transpo of glucose in the intestine is:\nA: Primary active transpo\nB: Secondary active transpo\nC: Simple diffusion\nD: Counter transpo",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_527",
+        "category": "MedMCQA Radiology",
+        "question": "For a maxillary premolar in a radiograph, the facial root appears distal to the palatal root, the film was exposed with:\nA: Increased vertical angulation\nB: Decreased vertical angulation\nC: From mesial side of the tooth\nD: From distal side of the tooth",
+        "answer": "C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_528",
+        "category": "MedMCQA Dental",
+        "question": "In treating a tooth with a nonvital pulp and a sinus, the\nsinus should be treated as follows:\nA: No special treatment\nB: Cauterisation\nC: Curettage of sinus\nD: Use of cautery to eliminate the sinus",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_529",
+        "category": "MedMCQA Radiology",
+        "question": "Best noninvasive investigation to check for bility of myocardium is:\nA: FDG-18 PET CT\nB: MIBG scintigraphy\nC: Echocardiogram\nD: Thallium scintigraphy",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_530",
+        "category": "MedMCQA Anatomy",
+        "question": "The primitives palate is formed from:\nA: Frontonasal process.\nB: 2 palatal process.\nC: Maxillary process.\nD: All of the above.",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_531",
+        "category": "MedMCQA Pathology",
+        "question": "Swollen joint, anemic, loose teeth & dentin dysplasia are\nbecause of deficiency of:\nA: Vitamin C\nB: Vitamin D\nC: Vitamin B1\nD: Vitamin E & D",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_532",
+        "category": "MedMCQA Gynaecology & Obstetrics",
+        "question": "Dose of dexamethasone given to mother in anticipated preterm delivery:\nA: 12 mg 12 hourly 2 doses\nB: 12 mg 24 hourly 4 doses\nC: 6 mg 24 hourly 2 doses\nD: 6 mg 12 hourly 4 doses",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_533",
+        "category": "MedMCQA Anaesthesia",
+        "question": "A pregnant woman with placenta pre staed to bleed as she went into labor. Her blood pressure was 80/50 mm Hg. A lower segment caesarean section was planned in view of acute shock. What type of anesthesia will you plan for this patient?\nA: General anesthesia with IV induction by ketamine\nB: Spinal anesthesia up to L4 level\nC: General anesthesia with IV induction by propofol followed by maintenance with fluranes\nD: Sedation and epidural analgesia",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_534",
+        "category": "MedMCQA Gynaecology & Obstetrics",
+        "question": "Maximum level of alpha fetoprotein is seen in:\nA: Fetal serum\nB: Placenta\nC: Amniotic fluid\nD: Maternal serum",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_535",
+        "category": "MedMCQA Surgery",
+        "question": "Check point for ZMC fracture reduction is:\nA: Intraorbital margin\nB: Fronto-zygomatic suture region\nC: Zygomatico-maxillary buttress region\nD: Symmetry of arch",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_536",
+        "category": "MedMCQA Dental",
+        "question": "O\ufb03ce personnel who are at higher risk of NO toxicity, to prevent this, the most  sensitive test for nitrous oxide detection is\nA: Laminar \ufb02ow\nB: Dosimeter\nC: Infrared spectrophotometer\nD: High suction speed",
+        "answer": "C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_537",
+        "category": "MedMCQA Pathology",
+        "question": "Dentigerous cyst is likely to cause which neoplasia\nA: Ameloblastoma\nB: Adeno carcinoma\nC: Fibrosarcoma\nD: All of the above",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_538",
+        "category": "MedMCQA Gynaecology & Obstetrics",
+        "question": "Which of the following drug is not used for medical management of ectopic pregnancy:\nA: Potassium Chloride\nB: Methotrexate\nC: Actinomycin D\nD: Misoprostol",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_539",
+        "category": "MedMCQA Surgery",
+        "question": "A man has 1x1.5cm pedunculated lesion on the soft palate which has a rough, \"warty\" surface but is the same colour as adjacent mucosa. Appropriate management of this lesion is to:\nA: Perform an incisional biopsy\nB: Perform excisional biopsy\nC: Scrape for exfoliative cytology\nD: Observe for two weeks",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_540",
+        "category": "MedMCQA Surgery",
+        "question": "I.V. diazepam causes following in a patient on dental chair:\nA: Tinel's sign\nB: Virrel's sign\nC: Batters sign\nD: Bell's sign",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_541",
+        "category": "MedMCQA Dental",
+        "question": "The microwave method of processing resin is better than the conventional in that it provides:\nA: Better shine\nB: Less porosity\nC: Less shrinkage\nD: Color stability",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_542",
+        "category": "MedMCQA Medicine",
+        "question": "Infective endocarditis is most commonly seen in:\nA: ASD\nB: VSD\nC: PDA\nD: Pulmonary stenosis",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_543",
+        "category": "MedMCQA Dental",
+        "question": "When it is made up of same steel, size 55, which will be more prone to fracture:\nA: Triangular reamer\nB: Rhomboid cross section file\nC: Square cross section file\nD: Headstrom file",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_544",
+        "category": "MedMCQA Dental",
+        "question": "Fluoride pit and fissure sealants belong to which\ngeneration?\nA: I\nB: II\nC: III\nD: IV",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_545",
+        "category": "MedMCQA ENT",
+        "question": "All of the following are true regarding tonsillectomy in children except:\nA: Extracapsular approach is best for cold approach\nB: Sleep apnea is an indication\nC: Adenoids should also be removed if significantly involved\nD: Cricothyroid region is high and anterior in children than adults",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_546",
+        "category": "MedMCQA Dental",
+        "question": "Ellis and deway classification of traumatic fractures are\nhow many\nA: 9\nB: 5\nC: 3\nD: 4",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_547",
+        "category": "MedMCQA Physiology",
+        "question": "Which hormone has permissive role in pubey?\nA: Leptin\nB: GnRH\nC: Insulin\nD: GH",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_548",
+        "category": "MedMCQA Pathology",
+        "question": "Complete obliteration of pulp is seen in all except:\nA: Type I dentinogenesis imperfecta\nB: Type II dentinogenesis imperfecta\nC: Type III dentinogenesis imperfecta\nD: Dentin dysplasia",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_549",
+        "category": "MedMCQA Dental",
+        "question": "Dark points on teeth along with tooth destruction of 4 years old patient\nA: ECC\nB: Staining\nC: Fluorosis\nD: Deep caries",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_550",
+        "category": "MedMCQA Pediatrics",
+        "question": "In SCHWARTZ formula for calculation of creatinine clearance in a child, the constant depends on the following except \u2013\nA: Age\nB: Method of estimation of creatinine\nC: Mass\nD: Severity of renal failure",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_551",
+        "category": "MedMCQA Forensic Medicine",
+        "question": "Paradoxical undressing seen in -\nA: Immersion syndrome\nB: Heat cramps\nC: Hypothermia\nD: Heat exhaustion",
+        "answer": "C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_552",
+        "category": "MedMCQA Physiology",
+        "question": "Which of the following is not a vitamin K dependent procoagulant?\nA: Factor II\nB: Factor VII\nC: Factor IX\nD: Factor XI",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_553",
+        "category": "MedMCQA Dental",
+        "question": "Periodontosis manifests itself mainly in:\nA: Molars\nB: Upper incisors\nC: Molars and incisors\nD: Premolars",
+        "answer": "C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_554",
+        "category": "MedMCQA Social & Preventive Medicine",
+        "question": "Number of vision centers under vision 2020, a national program for control of blindness are -\nA: 20\nB: 200\nC: 2000\nD: 20000",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_555",
+        "category": "MedMCQA Pediatrics",
+        "question": "All of the following are good progonostic factor for ALL except \u2013\nA: Age of onset between 2-8 years\nB: Initial WBC count less than 50000\nC: Hyperdiploidy\nD: t (9 : 22), t (8 : 14), t (4 : 11)",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_556",
+        "category": "MedMCQA Pediatrics",
+        "question": "A child presented with abdominal distension, hepatomegaly, doll like facies and recurrent episodes of hypoglycemia. Which of the following is the most likely diagnosis?\nA: Menkes disease\nB: Down syndrome\nC: Von gierke disease\nD: Lesch nyhan syndrome",
+        "answer": "C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_557",
+        "category": "MedMCQA Dental",
+        "question": "Modulus of elasticity of which cement is best to support under complex amalgam restoration?\nA: GIC\nB: ZnPO4\nC: ZOE\nD: Polycarboxylate",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_558",
+        "category": "MedMCQA Dental",
+        "question": "Etching depth after 30 sec for orthodontic bracket with orthophosphoric acid is:\nA: 10 \u03bcm \u2014 20 \u03bcm\nB: 3 \u03bcm \u2014 9 \u03bcm\nC: 50 \u03bcm \u2014 110 \u03bcm\nD: 200 \u03bcm \u2014 250 \u03bcm",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_559",
+        "category": "MedMCQA Anatomy",
+        "question": "Lymph from lower lip-middle part drains directly into:\nA: Submandibular nodes\nB: Submental nodes\nC: Sublingual nodes\nD: Preauricular nodes",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_560",
+        "category": "MedMCQA Dental",
+        "question": "Recently two methods of cPAP; conventional and bubble cPAP were compared. In the conventional method, 90 out of 160 showed extubation failure while 40 out of 160 showed extubation failure in bubble method, which test would be the best to compare the statistical significance between the rates of extubation failure in the two tests?\nA: Chi square test\nB: Student's test\nC: Paired t test\nD: Analysis of variance",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_561",
+        "category": "MedMCQA Physiology",
+        "question": "Iodine is primarily important in the biochemical synthesis of:\nA: ACTH\nB: Thyroxine\nC: Adrenaline\nD: Calcitonin",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_562",
+        "category": "MedMCQA Dental",
+        "question": "Etching of dentin does not include:\nA: Removal of smear layer\nB: Exposure of collagen fibres\nC: Opening of dentinal tubules\nD: Increases surface energy",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_563",
+        "category": "MedMCQA Dental",
+        "question": "The undesirable side effect most commonly associated with the use of finger spring to tip the crown of a tooth is:\nA: Pain\nB: Gingival irritation\nC: Tendency for the root apex to move in the direction opposite from the crown\nD: Tendency for the tooth to intrude",
+        "answer": "C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_564",
+        "category": "MedMCQA Dental",
+        "question": "ADA specification for orthodontic wires is\nA: 32\nB: 30\nC: 27\nD: 25",
+        "answer": "A",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_565",
+        "category": "MedMCQA Pediatrics",
+        "question": "A child presented in the OPD with multiple permeating lesions involving all the bones of the body which of the following is the most probable diagnosis :\nA: Neuroblastoma\nB: Metastasis from osteosarcoma\nC: Histiocytosis X\nD: Metastasis from Wilm's tumour",
+        "answer": "C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_566",
+        "category": "MedMCQA Pathology",
+        "question": "In a patient with Hepatitis B infection. Which one of the markers will be increased?\nA: HbsAg\nB: HbcAg\nC: Anti HbsAg IgG\nD: Anti HbcAg IgG",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_567",
+        "category": "MedMCQA Anatomy",
+        "question": "Finger with two dorsal interossei attached?\nA: Little\nB: Index\nC: Middle\nD: Ring",
+        "answer": "C",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_568",
+        "category": "MedMCQA Surgery",
+        "question": "All the following are true about imaging in primary survey of a trauma patient except:\nA: Cervical X-ray is not mandatory\nB: Chest X-ray and pelvic X-ray are taken as a pa of primary survey\nC: Hemodynamically unstable patients should not be sent for CT scan\nD: All patients should have chest X-ray-PA view only",
+        "answer": "D",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_569",
+        "category": "MedMCQA Dental",
+        "question": "Crab claw separator is\nA: Farrier separator\nB: Elliot separator\nC: Both\nD: None",
+        "answer": "B",
+        "eval": "Accuracy"
+    },
+    {
+        "no": "MQA_570",
+        "category": "MedMCQA Dental",
+        "question": "Junctional epithelium\nA: Lines the gingival sulcus\nB: Is permeable\nC: Is derived initially from the outer enamel epithelium\nD: Is attached to enamel by desmosomes",
+        "answer": "B",
+        "eval": "Accuracy"
+    }
+]

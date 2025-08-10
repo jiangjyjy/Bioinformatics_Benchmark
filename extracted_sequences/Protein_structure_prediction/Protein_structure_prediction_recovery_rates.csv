@@ -1,0 +1,13 @@
+Model Name,Dataset Name,Shot Type,Average Recovery Rate (%)
+internlm2_5-20b-hf,Protein_structure_prediction,0shot,3.9600790483023514
+internlm2_5-20b-hf,Protein_structure_prediction,5shot,28.212771962447654
+yi-1.5-34b-chat-hf,Protein_structure_prediction,0shot,5.990313668461613
+yi-1.5-34b-chat-hf,Protein_structure_prediction,5shot,23.98704466481982
+qwen2.5-72b-instruct-hf,Protein_structure_prediction,0shot,18.11236910583853
+qwen2.5-72b-instruct-hf,Protein_structure_prediction,5shot,27.130974313064094
+gpt-4o,Protein_structure_prediction,0shot,25.087103884817623
+gpt-4o,Protein_structure_prediction,5shot,29.792039997402355
+llama-3_1-70b-instruct-hf,Protein_structure_prediction,0shot,24.630371156486547
+llama-3_1-70b-instruct-hf,Protein_structure_prediction,5shot,34.30652448435722
+mixtral-large-2-instruct-turbomind,Protein_structure_prediction,0shot,21.02251676872995
+mixtral-large-2-instruct-turbomind,Protein_structure_prediction,5shot,24.231322443662762

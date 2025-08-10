@@ -1,0 +1,941 @@
+[
+    {
+        "no": "MQA_371",
+        "category": "MedLFQA_LiveQA",
+        "question": "Are confusion and facial itch possible side effects of methadone?",
+        "answer": {
+            "free_form_answer": "The major hazards of methadone are respiratory depression and, to a lesser degree, systemic hypotension. Respiratory arrest, shock, cardiac arrest, and death have occurred.",
+            "must_have": [
+                "Confusion is indeed a possible side effect of methadone.",
+                "Methadone may also cause an itchy rash, which could potentially affect the face.",
+                "It's crucial to note that both of these side effects should prompt immediate medical attention."
+            ],
+            "nice_to_have": [
+                "Among other potential side effects of methadone are lightheadedness, dizziness, sedation, nausea, vomiting, and sweating.",
+                "These effects usually decrease over time with prolonged administration of methadone.",
+                "The major hazards associated with methadone include respiratory depression, cardiac complications, and even death in severe cases."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_372",
+        "category": "MedLFQA_LiveQA",
+        "question": "Can electrical high voltage shock cause swallowing difficulty?\n",
+        "answer": {
+            "free_form_answer": " An electrical injury is damage to the skin or internal organs when a person comes into direct contact with an electrical current. Symptoms may include: Changes in alertness (consciousness) Broken bones Heart attack (chest, arm, neck, jaw, or back pain) Headache Problems with swallowing, vision, or hearing Irregular heartbeat Muscle spasms and pain Numbness or tingling Breathing problems or lung failure Seizures Skin burns\n\t\t\t\t",
+            "must_have": [
+                "After a high voltage electrical shock, symptoms and complications can vary widely depending on numerous factors including the intensity of the shock and the pathway it took through the body.",
+                "Immediate medical attention is crucial if someone experiences a high voltage electrical shock, as some complications might not be immediately obvious.",
+                "Swallowing difficulties can be one of the potential complications following an electrical injury."
+            ],
+            "nice_to_have": [
+                "Symptoms and potential complications of an electrical shock can be as varied as changes in consciousness, broken bones, heart issues, headache, vision and hearing impairment, muscle spasms and pain, numbness or tingling, breathing difficulties, seizures, and skin burns.",
+                "Personal health status can also influence the severity of the complications from an electrical shock."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_373",
+        "category": "MedLFQA_LiveQA",
+        "question": "How does one taper off the drug Amlodipine and start Atenolol to avoid adverse side effects?",
+        "answer": {
+            "free_form_answer": "Abrupt cessation may precipitate angina, MI, arrhythmias, or rebound HTN; discontinue by tapering over 1-2 weeks. Do not abruptly discontinue without physician's advice.",
+            "must_have": [
+                "One should consult with a healthcare provider before stopping the Amlodipine.",
+                "It is crucial to taper off amlodipine over a period of 1 to 2 weeks to prevent complications such as angina, myocardial infarction, arrhythmias or rebound hypertension.",
+                "It is important not to abruptly discontinue amlodipine without the advice of a healthcare provider.",
+                "When starting Atenolol, it should be under the guidance and monitoring of a healthcare provider to manage any potential side effects."
+            ],
+            "nice_to_have": [
+                "Proper medical consultation and monitoring is critical when switching from one medication to another, especially with cardiovascular drugs like Amlodipine and Atenolol.",
+                "These medications should never be stopped or started without the guidance of a healthcare provider.",
+                "Tapering off and starting medications should be personalized and depending on the patient's unique needs and circumstances."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_374",
+        "category": "MedLFQA_LiveQA",
+        "question": "I want information on Schmorl's nodes.",
+        "answer": {
+            "free_form_answer": "Schmorl nodes, also referred as intravertebral disc herniations, refer to protrusions of the cartilage of the intervertebral disc through the vertebral body endplate and into the adjacent vertebra. The protrusions may contact the marrow of the vertebra, leading to inflammation. Schmorl nodes can be asymptomatic, meaning they do not cause any symptoms, or they can cause back pain, particularly during the teen years and young adulthood. They are often found in people who perform heavy physical work, such as lifting.Schmorl nodes can be detected through radiologic testing like X-rays, CT scans or MRIs and are considered a common finding in spinal imaging. The diagnosis needs to be differentiated from other causes of back pain. The treatment for Schmorl nodes typically focuses on managing symptoms, and it often involves physical therapy and pain relieving medications.In extreme cases where the Schmorl nodes are large or cause severe symptoms, surgical intervention could be considered, but this is rare.",
+            "must_have": [
+                "Treatment typically focuses on managing symptoms and can involve physical therapy and pain relieving medications.",
+                "If Schmorl's nodes become large or cause inflammation in the vertebra, they can cause back pain and stiffness.",
+                "Schmorl's nodes, also known as intravertebral disc herniations, occur when the cartilage of the intervertebral disc protrudes through the vertebral body endplate into the adjacent vertebra.",
+                "Schmorl's nodes are protrusions of the intervertebral disc cartilage through the vertebral body endplate and into the adjacent vertebra.",
+                "They often do not cause symptoms and are usually discovered during spine X-rays performed for other reasons."
+            ],
+            "nice_to_have": [
+                "Surgery is rarely required for Schmorl's nodes and is usually only considered if conservative treatments have been unsuccessful in managing chronic, debilitating pain.",
+                "Treatment for Schmorl's nodes often involves nonsurgical methods, including pain medications, physical therapy, and lifestyle modifications.",
+                "Schmorl nodes can cause back pain, particularly during the teen years and young adulthood, and are often found in people who carry out heavy physical labor.",
+                "If the nodes are large or cause severe symptoms, surgical intervention may be considered, but this is a rare occurrence."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_375",
+        "category": "MedLFQA_LiveQA",
+        "question": "What are the most common ways of spreading cold germs?",
+        "answer": {
+            "free_form_answer": "Common cold Prevention To lower your chances of getting sick:",
+            "must_have": [
+                "Common ways of spreading cold germs include not washing hands after nose-wiping, diapering, and using the bathroom, and before eating and preparing food.",
+                "Other ways include not disinfecting commonly touched surfaces and sharing cloth towels.",
+                "The use of antibiotics when not needed can also aid in spreading cold germs."
+            ],
+            "nice_to_have": [
+                "Smoking, especially secondhand smoke, can lead to many health problems, including colds.",
+                "Breastfeeding infants can help protect against respiratory tract infections.",
+                "Consuming probiotics and getting adequate sleep can also aid in preventing colds.",
+                "It is beneficial to drink plenty of fluids to help your immune system function properly.",
+                "Using instant hand sanitizers and choosing smaller daycare classes can also be helpful in preventing the spread of cold germs."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_376",
+        "category": "MedLFQA_LiveQA",
+        "question": "What causes Hypoglycemia in newborns and is there a way for a pregnant woman to avoid giving birth to a child with Hypoglycemia?",
+        "answer": {
+            "free_form_answer": "Babies need blood sugar (glucose) for energy. Most of that glucose is used by the brain.",
+            "must_have": [
+                "Neonatal hypoglycemia occurs when the newborn's blood glucose level is below a safe level for the baby's age, causing symptoms.",
+                "Risk factors for hypoglycemia in newborns include being born early, having a serious infection, needing oxygen right after delivery, having a mother with diabetes, having slower than usual growth in the womb during pregnancy, and being smaller in size than normal for their gestational age.",
+                "A pregnant woman with diabetes must work closely with her healthcare provider to control her blood sugar level to reduce the risk of her baby developing hypoglycemia."
+            ],
+            "nice_to_have": [
+                "Most of the glucose in a baby's body is used by the brain.",
+                "Before birth, a baby receives glucose from the mother through the placenta, and after birth, a baby gets glucose from the mother's milk or formula, and also produces it in the liver.",
+                "The baby's glucose levels can drop if there's too much insulin in the blood, the baby isn't producing enough glucose, the baby's body is using more glucose than is being produced, or the baby isn't feeding enough to keep the glucose level up.",
+                "It's important that a newborn's blood sugar level is monitored after birth, especially if the mother has diabetes or there were other risk factors present.",
+                "Neonatal hypoglycemia occurs in about 1 to 3 out of every 1,000 births."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_377",
+        "category": "MedLFQA_LiveQA",
+        "question": "What medication should a 65 year old male use for leg pain?",
+        "answer": {
+            "free_form_answer": "Take over-the-counter pain medicines like acetaminophen or ibuprofen. 2. Try over-the-counter pain relievers such as ibuprofen (Advil, Motrin IB, others) or naproxen sodium (Aleve)",
+            "must_have": [
+                "Over-the-counter pain relievers such as ibuprofen (Advil, Motrin IB, etc.)",
+                "or naproxen sodium (Aleve) can be used for leg pain.",
+                "Acetaminophen can also be used for pain relief."
+            ],
+            "nice_to_have": [
+                "These medications are non-prescription drugs and may offer temporary relief.",
+                "However, if the pain persists or worsens despite medication, medical attention should be sought.",
+                "It is also important for the individual to consider their overall health condition when choosing a pain reliever; for example, those with certain health issues like kidney disease or stomach problems need to be careful when taking NSAIDs like ibuprofen and naproxen."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_378",
+        "category": "MedLFQA_LiveQA",
+        "question": "Is a calcium supplement beneficial for persons who have osteoporosis, and will the addition of magnesium be of greater benefit?",
+        "answer": {
+            "free_form_answer": "1. It's also a good idea to take your calcium supplements at a different time from your multivitamin or an iron-rich meal. Calcium may not be absorbed as well if it's taken at the same time as iron, zinc or magnesium. 2. Vitamin D intake: this nutrient, obtained from food and produced by skin when exposed to sunlight of sufficient intensity, improves calcium absorption. 3. In 1993, the U.S. Food and Drug Administration authorized a health claim related to calcium and osteoporosis for foods and supplements [58]. In January 2010, this health claim was expanded to include vitamin D. Model health claims include the following: \"Adequate calcium throughout life, as part of a well-balanced diet, may reduce the risk of osteoporosis\" and \"Adequate calcium and vitamin D as part of a healthful diet, along with physical activity, may reduce the risk of osteoporosis in later life\"",
+            "must_have": [
+                "Calcium supplements can be beneficial for persons diagnosed with osteoporosis as sufficient calcium intake may reduce the risk of osteoporosis.",
+                "Alongside calcium, intake of vitamin D is also important as it aids in the absorption of calcium in the body."
+            ],
+            "nice_to_have": [
+                "Magnesium, iron or zinc should be taken at a different time from calcium as these elements can interfere with calcium absorption.",
+                "Adequate physical activity alongside a well-balanced diet including calcium and vitamin D can help reduce the risk of osteoporosis later in life.",
+                "Vitamin D can also be produced by skin when exposed to sufficient sunlight.",
+                "The U.S. Food and Drug Administration has authorized health claims related to calcium and osteoporosis for foods and supplements."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_379",
+        "category": "MedLFQA_LiveQA",
+        "question": "What doctor specializes in testing for and treating autoimmune diseases?",
+        "answer": {
+            "free_form_answer": "Since autoimmune diseases vary greatly in presentation, many different physician specialists care for patients with these disorders. The specialist is usually skilled in treating diseases of a particular system. For example: rheumatologists tend to treat diseases affecting the joints and connective tissue; neurologists, autoimmune diseases of the central and/or peripheral nervous system; dermatologists; diseases of the skin; gastroenterologists, diseases of the intestinal tract; and endocrinologists, diseases of endocrine organs. It can be truly said that physicians of any specialty may encounter patients with autoimmune disease.  ",
+            "must_have": [
+                "Autoimmune diseases can be diagnosed and treated by different specialist physicians depending on the system or tissue affected by the disease.",
+                "These specialists can include rheumatologists, neurologists, dermatologists, gastroenterologists, and endocrinologists."
+            ],
+            "nice_to_have": [
+                "Due to the varying nature of autoimmune diseases, physicians from any specialty may encounter patients with these disorders.",
+                "Therefore it's crucial to have a thorough diagnosis depending on the symptoms and the organ system affected by the disease."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_380",
+        "category": "MedLFQA_LiveQA",
+        "question": "Why should Simvastatin be taken in the evening, rather than morning?\n",
+        "answer": {
+            "free_form_answer": "Simvastatin comes as a tablet to take by mouth. It usually is taken once a day in the evening. Take simvastatin at around the same time every day. ",
+            "must_have": [
+                "Simvastatin works by inhibiting an enzyme involved in cholesterol production that is most active at night, hence it should be taken in the evening."
+            ],
+            "nice_to_have": [
+                "Simvastatin should be taken at around the same time every day to ensure consistency and effectiveness of the medication."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_381",
+        "category": "MedLFQA_LiveQA",
+        "question": "I want information on Beckwith-Wieddeman Syndrome.",
+        "answer": {
+            "free_form_answer": "Beckwith-Wiedemann syndrome is a condition that affects many parts of the body. It is classified as an overgrowth syndrome, which means that affected infants are considerably larger than normal (macrosomia) and tend to be taller than their peers during childhood. Growth begins to slow by about age 8, and adults with this condition are not unusually tall. In some children with Beckwith-Wiedemann syndrome, specific parts of the body on one side or the other may grow abnormally large, leading to an asymmetric or uneven appearance. This unusual growth pattern, which is known as hemihyperplasia, usually becomes less apparent over time. The signs and symptoms of Beckwith-Wiedemann syndrome vary among affected individuals. Some children with this condition are born with an opening in the wall of the abdomen (an omphalocele) that allows the abdominal organs to protrude through the belly-button. Other abdominal wall defects, such as a soft out-pouching around the belly-button (an umbilical hernia), are also common. Some infants with Beckwith-Wiedemann syndrome have an abnormally large tongue (macroglossia), which may interfere with breathing, swallowing, and speaking. Other major features of this condition include abnormally large abdominal organs (visceromegaly), creases or pits in the skin near the ears, low blood sugar (hypoglycemia) in infancy, and kidney abnormalities. Children with Beckwith-Wiedemann syndrome are at an increased risk of developing several types of cancerous and noncancerous tumors, particularly a form of kidney cancer called Wilms tumorand a form of liver cancer called hepatoblastoma. Tumors develop in about 10 percent of people with this condition and almost always appear in childhood. Most children and adults with Beckwith-Wiedemann syndrome do not have serious medical problems associated with the condition. Their life expectancy is usually normal.",
+            "must_have": [
+                "Beckwith-Wiedemann syndrome is an overgrowth condition, which could lead to greater than average size in infancy and childhood.",
+                "It could result in asymmetric or uneven body appearance due to abnormal growth of specific body parts.",
+                "It could also involve major features like an opening in the abdomen (omphalocele), large tongue (macroglossia), larger than normal abdominal organs (visceromegaly), skin creases or pits near the ears, low blood sugar (hypoglycemia), kidney abnormalities.",
+                "Children with this syndrome are susceptible to cancerous and noncancerous tumors such as Wilms' tumor and hepatoblastoma.",
+                "These tumors usually appear in childhood."
+            ],
+            "nice_to_have": [
+                "The growth in those with Beckwith-Wiedemann syndrome tends to slow down by about age 8 and as adults, they are not particularly tall.",
+                "The unusual growth pattern known as hemihyperplasia, usually becomes less apparent over time.",
+                "Other abdominal wall defects common to this condition include a soft out-pouching around the belly-button (an umbilical hernia).",
+                "The large tongue could interfere with breathing, swallowing, and speech.",
+                "Most people with this syndrome do not have major medical issues and life expectancy is typically normal."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_382",
+        "category": "MedLFQA_LiveQA",
+        "question": "What causes rib cage pain? How is it remedied?",
+        "answer": {
+            "free_form_answer": "Ribcage pain may be caused by any of the following: Bruised, cracked, or fractured rib Inflammation of cartilage near the breastbone (costochondritis) Osteoporosis Pleurisy (the pain is worse when breathing deeply) Rest and not moving the area (immobilization) are the best cures for a ribcage fracture.",
+            "must_have": [
+                "The causes of rib cage pain may include a bruised, cracked, or fractured rib, inflammation of the cartilage near the breastbone (costochondritis), osteoporosis, or pleurisy.",
+                "The best remedies for a rib cage fracture would be rest and immobilization.",
+                "It's important to follow your healthcare provider's instructions for treating the cause of ribcage pain."
+            ],
+            "nice_to_have": [
+                "Seeking professional medical advice is highly recommended if ribcage pain persists, as the underlying cause may need a thorough evaluation.",
+                "The cause of rib cage pain may vary from person to person and could involve skeletal issues, muscle strain, or underlying diseases."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_383",
+        "category": "MedLFQA_LiveQA",
+        "question": "Is a high dose, 50,000 IUs, of vitamin D safe if you have a deficiency? Can high doses cause flatulence or other side effects?",
+        "answer": {
+            "free_form_answer": "Can vitamin D be harmful? Yes, when amounts in the blood become too high. Signs of toxicity include nausea, vomiting, poor appetite, constipation, weakness, and weight loss. And by raising blood levels of calcium, too much vitamin D can cause confusion, disorientation, and problems with heart rhythm. Excess vitamin D can also damage the kidneys.The upper limit for vitamin D is 1,000 to 1,500 IU/day for infants, 2,500 to 3,000 IU/day for children 1-8 years, and 4,000 IU/day for children 9 years and older, adults, and pregnant and lactating teens and women. Vitamin D toxicity almost always occurs from overuse of supplements. Excessive sun exposure doesn't cause vitamin D poisoning because the body limits the amount of this vitamin it produces.",
+            "must_have": [
+                "High levels of vitamin D in the blood can be harmful, causing symptoms such as nausea, vomiting, poor appetite, constipation, weakness, confusion, disorientation, heart rhythm problems, and kidney damage.",
+                "Overuse of vitamin D supplements can lead to vitamin D toxicity.",
+                "The upper limit for vitamin D is 4,000 IU/day for children 9 years and older, adults, and pregnant and lactating teens and women."
+            ],
+            "nice_to_have": [
+                "While a high dose of vitamin D can cause certain side effects, it does not specifically cause flatulence.",
+                "An excess of vitamin D is typically due to overuse of supplements rather than excessive sun exposure, as the body limits the amount of vitamin D it produces from sun exposure.",
+                "Signs of vitamin D toxicity can also include weight loss.",
+                "The upper limit for vitamin D for infants is 1,000 to 1,500 IU/day and for children 1-8 years it is 2,500 to 3,000 IU/day."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_384",
+        "category": "MedLFQA_LiveQA",
+        "question": "Can I stop using the patch (menopausal hormone therapy) after only 4.5 months?",
+        "answer": {
+            "free_form_answer": "Climara (Estradiol Transdermal System) Patients should be started at the lowest dose. Six (6.5, 9.375, 12.5, 15, 18.75 and 25 cm2 ) Climara systems are available. For the treatment of vasomotor symptoms, treatment should be initiated with the 6.5 cm2 (0.025 mg/day) Climara system applied to the skin once weekly. The dose should be adjusted as necessary to control symptoms. Clinical responses (relief of symptoms) at the lowest effective dose should be the guide for establishing administration of the Climara system, especially in women with an intact uterus. Attempts to taper or discontinue the medication should be made at 3- to 6-month intervals. ",
+            "must_have": [
+                "The dose of Estradiol Transdermal System should be started at the lowest dose and adjusted as necessary to control symptoms.",
+                "Clinical responses should be the guide for establishing the administration of the system, especially in women with an intact uterus.",
+                "Attempts to taper or discontinue the medication should be made at 3- to 6-month intervals."
+            ],
+            "nice_to_have": [
+                "Six different system sizes are available for the Estradiol Transdermal System, starting from the 6.5 cm2 (0.025 mg/day) Climara system.",
+                "This system is applied to the skin once weekly for the treatment of vasomotor symptoms related to menopause."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_385",
+        "category": "MedLFQA_LiveQA",
+        "question": "What is hepatitis and how is it transmitted?",
+        "answer": {
+            "free_form_answer": "Scientists have identified 5 unique hepatitis viruses, identified by the letters A, B, C, D, and E. While all cause liver disease, they vary in important ways.",
+            "must_have": [
+                "Hepatitis is transmitted through various ways depending on the type: Hepatitis A is transmitted through consumption of contaminated water or food or through certain sex practices; Hepatitis B and C are mainly transmitted through exposure to infective blood, semen, and other body fluids, through transfusions of contaminated blood, contaminated injections during medical procedures, and through injection drug use; Hepatitis D occurs only in those already infected with Hepatitis B; Hepatitis E is mainly transmitted through consumption of contaminated water or food."
+            ],
+            "nice_to_have": [
+                "All five types of hepatitis cause liver diseases, however, their severity can vary.",
+                "Vaccines are available to prevent Hepatitis A, B, and E, however, no vaccine is available for Hepatitis C. Hepatitis D only occurs in those already infected with Hepatitis B.",
+                "Hepatitis E is a common cause of hepatitis outbreaks in developing parts of the world but is increasingly recognized as an important cause of disease in developed countries.",
+                "Vaccines to prevent Hepatitis E infection have been developed but are not widely available."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_386",
+        "category": "MedLFQA_LiveQA",
+        "question": "What is fibromyalgia and how is it treated?",
+        "answer": {
+            "free_form_answer": "What do we know about the effectiveness of complementary health approaches for fibromyalgia? Although some studies of tai chi, yoga, mindfulness meditation, and biofeedback for fibromyalgia have had promising results, the evidence is too limited to allow definite conclusions to be reached about whether these approaches are helpful. It's uncertain whether acupuncture is helpful for fibromyalgia pain. Vitamin D supplements may reduce pain in people with fibromyalgia who are deficient in this vitamin. Some preliminary research on transcranial magnetic stimulation (TMS) for fibromyalgia symptoms has had promising results.",
+            "must_have": [
+                "Finding the most effective treatment for fibromyalgia often may require trying a variety of approaches and requires a team of healthcare providers.",
+                "Other common treatments prescribed for fibromyalgia include physical exercise, cognitive behavioral therapies and other forms of psychotherapy, healthy nutrition, stress management and relaxation.",
+                "Conventional pharmaceuticals may also be prescribed by doctors.",
+                "It's uncertain whether acupuncture is helpful for fibromyalgia pain."
+            ],
+            "nice_to_have": [
+                "Some studies suggest that complementary health approaches such as tai chi, yoga, mindfulness meditation, and biofeedback may yield promising results for treating fibromyalgia, though evidence is currently limited.",
+                "Vitamin D supplements may reduce pain in people with fibromyalgia who are deficient in this vitamin.",
+                "Preliminary research on transcranial magnetic stimulation (TMS) for fibromyalgia symptoms has also yielded promising results."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_387",
+        "category": "MedLFQA_LiveQA",
+        "question": "Can an abscessed tooth cause a heart attack?",
+        "answer": {
+            "free_form_answer": "1. A heart attack happens if the flow of oxygen-rich blood to a section of heart muscle suddenly becomes blocked and the heart can't get oxygen. Most heart attacks occur as a result of coronary heart disease (CHD).",
+            "must_have": [
+                "An abscessed tooth can potentially lead to an infection spreading to the heart known as infective endocarditis, if bacteria from the tooth abscess get into the bloodstream and attach to certain areas of the heart.",
+                "This is more common in individuals with damaged or artificial heart valves, congenital heart defects, or implanted heart devices, but can occur in people with normal heart valves as well.",
+                "Poor dental hygiene and unhealthy teeth and gums increase the risk for infection."
+            ],
+            "nice_to_have": [
+                "Infective endocarditis is a serious condition that can cause damage to the heart, leading to serious and sometimes fatal complications.",
+                "It can develop quickly, known as acute infective endocarditis, or slowly, known as subacute infective endocarditis.",
+                "Although there is a potential link between an abscessed tooth and heart issues, it's important to understand that most heart attacks are a result of coronary heart disease."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_388",
+        "category": "MedLFQA_LiveQA",
+        "question": "The questioner is seeking information on a condition that affects children and is called Oppositional Defiant Disorder.",
+        "answer": {
+            "free_form_answer": "Oppositional defiant disorder is a pattern of disobedient, hostile, and defiant behavior toward authority figures. This disorder is more common in boys than in girls. Some studies have shown that it affects 20% of school-age children. However, most experts believe this figure is high due to changing definitions of normal childhood behavior. It may also possibly have racial, cultural, and gender biases.",
+            "must_have": [
+                "Oppositional defiant disorder is known for manifesting as a pattern of disobedient, hostile, and defiant behavior toward authority figures in children.",
+                "The behavior must be lasting for at least 6 months, and be more than normal misbehavior for a child's age and developmental level.",
+                "The behaviors should lead to significant problems in school or social activities.",
+                "A mental health professional should evaluate children presenting symptoms of oppositional defiant disorder."
+            ],
+            "nice_to_have": [
+                "It typically starts by age 8, but may begin as early as the preschool years, and it affects more boys than girls.",
+                "Treatment often involves individual and possibly family therapy, with parents learning to manage the child's behavior.",
+                "Medication may also be beneficial, especially if other conditions such as depression, childhood psychosis, or ADHD are present.",
+                "Some children respond well to treatment, while others do not.",
+                "The disorder is possibly influenced by biological, psychological, and social factors.",
+                "Instances of this disorder may potentially be influenced by biases related to race, culture, and gender."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_389",
+        "category": "MedLFQA_LiveQA",
+        "question": "Can a birth control drug called Ocella cause Deep Vein Thrombosis?",
+        "answer": {
+            "free_form_answer": "Some studies show that women who take oral contraceptives that contain drosperinone (Beyaz, Gianvi, Loryna, Ocella, Safyral, Syeda, Yasmin, Yaz, and Zarah) may be more likely to develop deep vein thrombosis (a serious or life-threatening condition in which blood clots that form in the veins, usually in the legs and may move through the body to the lungs) than women who take oral contraceptives that do not contain drosperinone. However, other studies do not show this increased risk. Before you begin taking oral contraceptives, talk to your doctor about the risk that you will develop blood clots and about which oral contraceptive or other method of birth control may be the best choice for you.Oral contraceptives may cause other side effects. Call your doctor if you have any unusual problems while taking this medication.  ",
+            "must_have": [
+                "Oral contraceptives that contain drosperinone, including Ocella, have been associated with a potential increased risk of deep vein thrombosis.",
+                "It is essential to discuss the potential risk of blood clot formation with a healthcare provider before starting any oral contraceptive."
+            ],
+            "nice_to_have": [
+                "There have been varying results from studies looking at the risk of deep vein thrombosis with the use of oral contraceptives containing drosperinone, with some studies finding an increased risk and others not.",
+                "Additionally, other side effects are associated with oral contraceptives and any unusual problems experienced while taking this medication should be reported to a doctor."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_390",
+        "category": "MedLFQA_LiveQA",
+        "question": "Is the shingles virus contagious in the workplace, especially where food is being prepared?",
+        "answer": {
+            "free_form_answer": "Shingles cannot be passed from one person to another. However, the virus that causes shingles, the varicella zoster virus, can be spread from a person with active shingles to another person who has never had chickenpox. In such cases, the person exposed to the virus might develop chickenpox, but they would not develop shingles. The virus is spread through direct contact with fluid from the rash blisters caused by shingles. A person with active shingles can spread the virus when the rash is in the blister-phase. A person is not infectious before the blisters appear. Once the rash has developed crusts, the person is no longer contagious. Shingles is less contagious than chickenpox and the risk of a person with shingles spreading the virus is low if the rash is covered.",
+            "must_have": [
+                "The varicella zoster virus, which causes shingles, can be spread from a person with active shingles to another person who has not had chickenpox.",
+                "The virus is spread through direct contact with fluid from the rash blisters caused by shingles.",
+                "A person with active shingles is not infectious before the blisters appear.",
+                "After the rash has developed crusts, the person is no longer contagious."
+            ],
+            "nice_to_have": [
+                "Shingles on its own cannot be passed from person to person.",
+                "The virus that causes shingles can lead to chickenpox in a person who has never had it, but not shingles.",
+                "Shingles is less contagious than chickenpox and the risk of spreading the virus is low if the rash is covered.",
+                "Consequently, a person with shingles working in a food preparation environment should be cautious, as contact with food may potentially spread the virus to others who have not had chickenpox, leading to their developing chickenpox rather than shingles."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_391",
+        "category": "MedLFQA_LiveQA",
+        "question": "At what age should one receive shingles vaccine?",
+        "answer": {
+            "free_form_answer": "A single dose of shingles vaccine is recommended for adults 60 years of age and older.",
+            "must_have": [
+                "The shingles vaccine is recommended for adults aged 60 years and older."
+            ],
+            "nice_to_have": [
+                "The shingles vaccine is administered to prevent the occurrence of shingles, a painful rash that is a complication of chickenpox.",
+                "It is often given to older adults who are at higher risk of developing this condition."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_392",
+        "category": "MedLFQA_LiveQA",
+        "question": "I have a toddler, 22 months, who may have back problems. What kind of doctor should I see.",
+        "answer": {
+            "free_form_answer": "The history and physical exam will help determine the severity and acuity of the patient's back pain. If there are no red flag issues, send the patient to be evaluated by a physical therapist who provides care for children and follow up with the patient in clinic. If the history and physical uncover red flag issues, request appropriate radiographs and lab tests. See Page 2 for a guide to imaging studies. If screening radiographs point to a serious orthopedic condition, request an MRI or refer the patient to an orthopedic specialist who will get the necessary MRI. ",
+            "must_have": [
+                "If there are concerns about a toddler experiencing potential back problems, it is essential to consider a physical therapist who specializes in children.",
+                "If there are any red flag issues or serious concerns uncovered during a physical exam or from the child's history, a referral to an orthopedic specialist should be considered.",
+                "Appropriate imaging studies such as radiographs and possibly an MRI may be required to diagnose serious orthopedic conditions."
+            ],
+            "nice_to_have": [
+                "In cases where the toddler's condition is not urgent or severe, follow-up appointments in an in-clinic setting could be arranged for periodic assessment of the child's condition after initial physical therapy.",
+                "Various diagnostic tests, such as radiographs or MRI might be helpful to determine the exact nature and severity of the child's back issues."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_393",
+        "category": "MedLFQA_LiveQA",
+        "question": "Is uveitis an autoimmune disease?",
+        "answer": {
+            "free_form_answer": "Uveitis is swelling and irritation of the uvea. The uvea is the middle layer of the eye. The uvea provides most of the blood supply to the retina. Uveitis can be caused by autoimmune disorders. These diseases occur when the body's immune system attacks and destroys healthy body tissue by mistake. Examples are: Ankylosing spondylitis; Psoriasis; Reactive arthritis; Rheumatoid arthritis; Sarcoidosis.",
+            "must_have": [
+                "Uveitis is an inflammation of the uvea, the middle layer of the eye.",
+                "This condition can be caused by autoimmune disorders, where the body's immune system mistakenly attacks healthy tissue."
+            ],
+            "nice_to_have": [
+                "Uveitis could also be caused by infections - such as AIDS, CMV retinitis, Herpes zoster infection, Histoplasmosis, Kawasaki disease, Syphilis, Toxoplasmosis, and Tuberculosis - exposure to toxins or injuries.",
+                "In many cases, the cause is unknown.",
+                "Examples of autoimmune diseases that can cause uveitis include Ankylosing spondylitis, Psoriasis, Reactive arthritis, Rheumatoid arthritis, and Sarcoidosis."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_394",
+        "category": "MedLFQA_LiveQA",
+        "question": "How does trisomy 7 affect the body and are there any treatments for it?",
+        "answer": {
+            "free_form_answer": "1. Trisomy 7 is extremely rare at birth and is generally considered lethal in embryogenesis. All surviving children are mosaics with variable and nonspecific clinical features. Chromosomal mosaicism may be suggested by body asymmetry and/or Blaschkolinear skin pigmentary dysplasia associated with developmental delay. Cultured skin fibroblasts cytogenetic analysis confirms mosaicism and identifies its chromosomal origin. In amniocytes, trisomy 7 is frequently a cell culture artifact leading to single- or multiple-cell pseudomosaicism with normal fetal outcome.2. 7q11.23 duplication syndrome is considered to be an autosomal dominant condition, which means one copy of chromosome 7 with the duplication in each cell is sufficient to cause the disorder. Most cases result from a duplication that occurs during the formation of reproductive cells (eggs and sperm) or in early fetal development. These cases occur in people with no history of the disorder in their family. Less commonly, an affected person inherits the chromosome with a duplicated segment from a parent.3. Rearrangements of chromosomes include deletions of DNA sequences and duplications of segments, both of which can encompass thousands to hundreds of thousands of bases. Why do these large rearrangements occur? For one, certain structural features of the genome, also referred to as genome architecture, can render various regions fragile and thus prone to events such as chromosome breakage, which often result in translocations, deletions, and duplications. Often, these alterations happen due to errors during cell division when chromosomes align (Figure 1). Homologous recombination between areas of concentrated repeated sequences frequently creates deletions and duplications. Because they commonly involve more than one gene, the disorders caused by these large deletion and duplication mutations are often severe.",
+            "must_have": [
+                "Trisomy 7 is generally considered lethal in embryogenesis and surviving children are mosaics with variable and nonspecific clinical features.",
+                "There is no specific treatment for Trisomy 7, as it is a chromosomal abnormality."
+            ],
+            "nice_to_have": [
+                "7q11.23 duplication syndrome is considered to be an autosomal dominant condition, which means one copy of the duplicated chromosome 7 in each cell is sufficient to cause the disorder.",
+                "Rearrangements of chromosomes include deletions of DNA sequences and duplications of segments, both of which can encompass thousands to hundreds of thousands of bases.",
+                "These alterations often happen due to errors during cell division when chromosomes align.",
+                "Homologous recombination between areas of concentrated repeated sequences frequently creates deletions and duplications."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_395",
+        "category": "MedLFQA_LiveQA",
+        "question": "What is the treatment for someone who thinks he has taken an overdose of Iron pills?",
+        "answer": {
+            "free_form_answer": "",
+            "must_have": [
+                "If someone has taken an overdose of Iron pills, it is essential to call the local emergency services or the national toll-free Poison Help hotline (1-800-222-1222).",
+                "An overdose of iron pills can be particularly dangerous for children.",
+                "This information should not be used in place of seeking professional medical help in the event of an actual overdose."
+            ],
+            "nice_to_have": [
+                "The information needed when calling the emergency services in the event of an overdose includes the person's age, weight, and condition, the name of the product (including ingredients and strength if known), the time it was swallowed, the amount swallowed, and if the medicine was prescribed for the person.",
+                "It would also be beneficial to remember that iron overdose can occur if someone takes more than the normal or recommended amount of the mineral, whether accidentally or intentionally."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_396",
+        "category": "MedLFQA_LiveQA",
+        "question": "Does Fibromyalgia cause swelling in your body?",
+        "answer": {
+            "free_form_answer": "1. Fibromyalgia is a disorder that causes muscle pain and fatigue. People with fibromyalgia have \"tender points\" on the body. Tender points are specific places on the neck, shoulders, back, hips, arms, and legs. These points hurt when pressure is put on them.",
+            "must_have": [
+                "Fibromyalgia is a disorder that is characterized by muscle pain, fatigue, and tender points on the body, but it does not typically cause swelling.",
+                "Symptoms of fibromyalgia can include trouble sleeping, morning stiffness, headaches, painful menstrual periods, and tingling or numbness in hands and feet."
+            ],
+            "nice_to_have": [
+                "Swelling in the body, particularly in the feet, legs, and ankles, is common under certain conditions such as after long periods of inactivity, being overweight, aging, having a leg infection or a blood clot in the leg, following injury or surgery involving the leg, ankle, or foot.",
+                "Swelling can also be a side effect of certain medications, and may occur in women who take estrogen or during parts of the menstrual cycle, as well as during pregnancy, and can also be a sign of heart failure, kidney failure, or liver failure."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_397",
+        "category": "MedLFQA_LiveQA",
+        "question": "How frequently should a dose of 5 mg of oxybutinin be taken?",
+        "answer": {
+            "free_form_answer": "Adults The usual dose is one 5-mg tablet two to three times a day. The maximum recommended dose is one 5-mg tablet four times a day. A lower starting dose of 2.5 mg two or three times a day is recommended for the frail elderly.",
+            "must_have": [
+                "The usual dose for adults taking oxybutynin is one 5mg tablet two to three times a day.",
+                "The maximum dose should not exceed one 5-mg tablet four times a day.",
+                "For frail elderly patients, a lower starting dose of 2.5 mg two or three times a day is suggested."
+            ],
+            "nice_to_have": [
+                "Adults may gradually increase the dosage based on the response of the individual and tolerability, but should not exceed the maximum recommended amount.",
+                "It is advisable for patients to communicate any side effects or concerns to their healthcare provider for optimal dosage adjustments."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_398",
+        "category": "MedLFQA_LiveQA",
+        "question": "WHAT exercises can I do, safely, with asthma?",
+        "answer": {
+            "free_form_answer": "Exercise-induced bronchoconstriction (EIB), also called exercise-induced asthma, is a narrowing of the airways in the lungs that is triggered by physical activity.",
+            "must_have": [
+                "Patients with exercise-induced bronchoconstriction (EIB) are typically sensitive to low temperatures and dry air.",
+                "Symptoms of EIB include wheezing, a tight chest, coughing, shortness of breath, and rarely, chest pain.",
+                "Warm-weather activities and those requiring only short bursts of energy such as hiking, baseball, golf, walking and leisure biking are less likely to trigger symptoms."
+            ],
+            "nice_to_have": [
+                "Individuals with EIB should avoid sports like cross-country skiing, running, soccer, basketball and hockey, as these activities require continuous exertion and could exacerbate symptoms.",
+                "Other triggers for EIB include air pollutants, high pollen levels, and viral respiratory infections.",
+                "Even the sport you choose can affect your symptoms.",
+                "Swimming is less likely to cause asthma symptoms because the warm, humid environment of the pool does not aggravate the airways."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_399",
+        "category": "MedLFQA_LiveQA",
+        "question": "Can Lipnodes and/or Liver cancer be detected in an upper GI endoscopy?",
+        "answer": {
+            "free_form_answer": "1. Upper GI endoscopy can identify many different diseases",
+            "must_have": [
+                "Upper GI endoscopy is capable of identifying a variety of diseases, but it cannot detect liver cancer or lymph nodes.",
+                "The detection of liver cancer typcially involves imaging tests such as ultrasound, CT or MRI, or biopsy procedures like needle biopsy, laparoscopic biopsy, or surgical biopsy."
+            ],
+            "nice_to_have": [
+                "In addition to imaging and biopsy procedures, lab tests may also be used in the detection of liver cancer.",
+                "Upper GI endoscopy can identify conditions such as anemia, gastroesophageal reflux disease, ulcers, cancer, inflammation, precancerous abnormalities, and celiac disease."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_400",
+        "category": "MedLFQA_LiveQA",
+        "question": "Is it recommended for patients on Lipitor to have their liver function monitored by blood testing every six months.",
+        "answer": {
+            "free_form_answer": "prospective monitoring of serum enzymes upon initiating atorvastatin therapy is no longer recommended. Clinically apparent liver injury attributed to atorvastatin is usually self-limited and recovery is complete within 1 to 4 months.  ",
+            "must_have": [
+                "It is no longer recommended to monitor serum enzymes upon initiating atorvastatin (Lipitor) therapy.",
+                "Liver injury attributed to atorvastatin is usually self-limited and recovery is complete within 1 to 4 months."
+            ],
+            "nice_to_have": [
+                "Patients who are experiencing symptoms that may indicate liver damage, such as persistent nausea, stomach pain, or jaundice, should seek medical attention immediately.",
+                "Regular medical checkups and lab tests can help ensure atorvastatin is working effectively without causing harm to the liver."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_401",
+        "category": "MedLFQA_LiveQA",
+        "question": "If a person is allergic to Penicillin, is he likely to be allergic to Cephalexin also?\n",
+        "answer": {
+            "free_form_answer": "Administration of cephalothin, cephalexin, cefadroxil, and cefazolin in penicillin-allergic patients is associated with a significant increase in the rate of allergic reactions; whereas administration of cefprozil, cefuroxime, cefpodoxime, ceftazidime, and ceftriaxone is not.",
+            "must_have": [
+                "Patients who are allergic to penicillin have a risk of allergic reactions to cephalexin.",
+                "Although not guaranteed, because both drugs are part of the beta-lactam antibiotics family and share a similar structure, allergic reactions could potentially be triggered.",
+                "Patients with penicillin allergy should always inform their healthcare provider before taking any new medication, including cephalexin."
+            ],
+            "nice_to_have": [
+                "Cephalothin, cephalexin, cefadroxil, and cefazolin, in particular, have been associated with a higher rate of allergic reactions in penicillin-allergic patients when compared to cefprozil, cefuroxime, cefpodoxime, ceftazidime, and ceftriaxone."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_402",
+        "category": "MedLFQA_LiveQA",
+        "question": "What, besides cipro, penicillin, and drugs containing dairy products, can my doctor prescribe for my bad UTI?",
+        "answer": {
+            "free_form_answer": "Antibiotic Regimen. Oral antibiotic treatment cures nearly all uncomplicated urinary tract infections, although the rate of recurrence remains high. The following antibiotics are commonly used for uncomplicated UTIs: * The standard regimen is a 3-day course of trimethoprim-sulfamethoxazole, commonly called TMP-SMX (Bactrim, Septra, generic). TMP-SMX combines an antibiotic with a sulfa drug. A single dose of TMP-SMX is sometimes prescribed in mild cases, but cure rates are generally lower than with 3-day regimens. Allergies to sulfa are common and may be serious. * Nitrofurantoin (Furadantin, Macrobid, Macrodantin, generic) is another first-line option. It is usually taken daily for 5 days. * Fosfomycin (Monurol) is not as effective as other antibiotics but may be used during pregnancy. Resistance rates to this drug are very low. * Fluoroquinolone antibiotics, also called quinolones, are only recommended for UTIs when other antibiotics cannot be used. Ciprofloxacin (Cipro, generic) is the quinolone antibiotic most commonly prescribed. Quinolones are usually given over a 3-day period. Pregnant women should not take these drugs. * Other antibiotics may also be used, including amoxicillin-clavulanate cefdinir, cefaclor, and cefpodoxime-proxetil. These drugs may be prescribed when other antibiotics are not appropriate. They are usually given in 3 - 7 day regimens. Antibiotic Regimen. Oral antibiotic treatment cures nearly all uncomplicated urinary tract infections, although the rate of recurrence remains high. The following antibiotics are commonly used for uncomplicated UTIs: The standard regimen is a 3-day course of trimethoprim-sulfamethoxazole, commonly called TMP-SMX (Bactrim, Septra, generic). TMP-SMX combines an antibiotic with a sulfa drug. A single dose of TMP-SMX is sometimes prescribed in mild cases, but cure rates are generally lower than with 3-day regimens. Allergies to sulfa are common and may be serious. Nitrofurantoin (Furadantin, Macrobid, Macrodantin, generic) is another first-line option. It is usually taken daily for 5 days. Fosfomycin (Monurol) is not as effective as other antibiotics but may be used during pregnancy. Resistance rates to this drug are very low. Fluoroquinolone antibiotics, also called quinolones, are only recommended for UTIs when other antibiotics cannot be used. Ciprofloxacin (Cipro, generic) is the quinolone antibiotic most commonly prescribed. Quinolones are usually given over a 3-day period. Pregnant women should not take these drugs. Other antibiotics may also be used, including amoxicillin-clavulanate cefdinir, cefaclor, and cefpodoxime-proxetil. These drugs may be prescribed when other antibiotics are not appropriate. They are usually given in 3 - 7 day regimens.",
+            "must_have": [
+                "Other alternatives for UTI treatment besides cipro, penicillin, and drugs containing dairy products include trimethoprim-sulfamethoxazole (TMP-SMX), nitrofurantoin, fosfomycin, fluoroquinolone antibiotics like ciprofloxacin, and other antibiotics such as amoxicillin-clavulanate, cefdinir, cefaclor, and cefpodoxime-proxetil.",
+                "Pregnant women should not take fluoroquinolone antibiotics.",
+                "Potential allergic reactions should be considered for all prescribed antibiotics."
+            ],
+            "nice_to_have": [
+                "TMP-SMX is commonly used for uncomplicated UTIs and is typically prescribed as a 3-day course.",
+                "Nitrofurantoin is usually taken daily for 5 days.",
+                "Fosfomycin is not as effective as other antibiotics but can be used during pregnancy.",
+                "Fluoroquinolones are typically given over a 3-day period but should only be recommended for UTIs when other antibiotics cannot be used."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_403",
+        "category": "MedLFQA_LiveQA",
+        "question": "What are the treatments and precautions for VDRL positive (syphilis) patients?",
+        "answer": {
+            "free_form_answer": "Syphilis If the RPR, VDRL, or TRUST tests are positive, one of the following tests will be needed to confirm the diagnosis: FTA-ABS (fluorescent treponemal antibody test); MHA-TP; TP-EIA; TP-PA. Syphilis can be treated with antibiotics, such as: Doxycycline (type of tetracycline given to people who are allergic to penicillin); Penicillin G benzathine. Length of treatment depends on how severe the syphilis is, and factors such as the person's overall health. Several hours after getting treatment for the early stages of syphilis, people may experience the Jarisch-Herxheimer reaction. This process is caused by an immune reaction to the breakdown products of the infection. Follow-up blood tests must be done at 3, 6, 12, and 24 months to ensure that the infection is gone. Avoid sexual contact when the chancre is present. Use condoms until two follow-up tests have shown that the infection has been cured, to reduce the chance of transmitting the infection. All sexual partners of the person with syphilis should also be treated. Syphilis can spread very easily in the primary and secondary stages.",
+            "must_have": [
+                "Syphilis can be diagnosed through tests such as RPR, VDRL, TRUST, FTA-ABS, MHA-TP, TP-EIA, and TP-PA.",
+                "The treatment of Syphilis includes antibiotics like Doxycycline or Penicillin G benzathine.",
+                "Anyone who has been diagnosed with syphilis must undergo follow-up blood tests at 3, 6, 12, and 24 months to ensure the infection is eliminated.",
+                "Sexual precautionary measures, such as avoiding sexual contact with the chancre and using condoms until the infection gets cured, should be taken to reduce the risk of transmission.",
+                "All sexual partners of the Syphilis patient needs to be treated as well."
+            ],
+            "nice_to_have": [
+                "People may experience the Jarisch-Herxheimer reaction after getting treatment for the early stages of syphilis, due to an immune response to the breakdown products of the infection.",
+                "Syphilis can spread very easily in the primary and secondary stages.",
+                "The duration of treatment can vary depending on the severity of the infection and individual's overall health.",
+                "Therefore, it is crucial to follow the recommended treatment regimen and precautions to prevent further spread and reinfection."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_404",
+        "category": "MedLFQA_LiveQA",
+        "question": "What is maximum daily dosage of Metformin?",
+        "answer": {
+            "free_form_answer": "The maximum recommended daily dose of metformin hydrochloride tablets are 2550 mg in adults and 2000 mg in pediatric patients (10-16 years of age).",
+            "must_have": [
+                "The maximum recommended daily dose of metformin for adults is 2550 mg. For pediatric patients aged between 10 to 16 years, the maximum recommended daily dose of metformin is 2000 mg."
+            ],
+            "nice_to_have": [
+                "Metformin hydrochloride is a medication primarily used for the management of type 2 diabetes.",
+                "The dosage may vary and should always be established by a healthcare provider considering the patient's health condition."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_405",
+        "category": "MedLFQA_LiveQA",
+        "question": "I take Loperamide for chronic diahrrea, stopping periodically to have a movement, which is loose. Is there a way for a happy medium?",
+        "answer": {
+            "free_form_answer": "IMODIUM - loperamide hydrochloride capsule Chronic Diarrhea Adults: The recommended initial dose is 4 mg (two capsules) followed by 2 mg (one capsule) after each unformed stool until diarrhea is controlled, after which the dosage of IMODIUM should be reduced to meet individual requirements. When the optimal daily dosage has been established, this amount may then be administered as a single dose or in divided doses. The average daily maintenance dosage in clinical trials was 4 to 8 mg (two to four capsules). A dosage of 16 mg (eight capsules) was rarely exceeded. If clinical improvement is not observed after treatment with 16 mg per day for at least 10 days, symptoms are unlikely to be controlled by further administration. IMODIUM administration may be continued if diarrhea cannot be adequately controlled with diet or specific treatment.",
+            "must_have": [
+                "Loperamide (Imodium) initial dose for managing chronic diarrhea in adults is usually 4mg, followed by 2mg after each unformed stool until diarrhea is controlled.",
+                "The dosage should then be reduced to meet individual requirements, which can be administered as single or divided doses.",
+                "The average daily maintenance dosage is 4 to 8mg.",
+                "Loperamide dosage rarely exceeds 16mg and should not be continued if symptoms are not controlled after 10 days of treatment."
+            ],
+            "nice_to_have": [
+                "Chronic diarrhea can sometimes be controlled with dietary modifications or specific treatments.",
+                "While Loperamide is an effective medication for managing diarrhea symptoms, its dosage and use should be properly customized to each individual's needs and based on their response to treatment.",
+                "It should not be used as a long-term treatment solution without consultation from a healthcare professional."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_406",
+        "category": "MedLFQA_LiveQA",
+        "question": "Is it harmful to use peroxide drops in the ear followed by a warm water flush to clean out ear wax?",
+        "answer": {
+            "free_form_answer": "To clean the ears, wash the external ear with a cloth, but do not insert anything into the ear canal. Most cases of ear wax blockage respond to home treatments used to soften wax. Patients can try placing a few drops of mineral oil, baby oil, glycerin, or commercial drops in the ear. Detergent drops such as hydrogen peroxide or carbamide peroxide (available in most pharmacies) may also aid in the removal of wax. Irrigation or ear syringing is commonly used for cleaning and can be performed by a physician or at home using a commercially available irrigation kit. Common solutions used for syringing include water and saline, which should be warmed to body temperature to prevent dizziness. Ear syringing is most effective when water, saline, or wax dissolving drops are put in the ear canal 15 to 30 minutes before treatment.",
+            "must_have": [
+                "Hydrogen peroxide drops can be used in the ear to help remove wax; they should be followed by irrigation with warm (not hot) water or saline.",
+                "Do not insert anything into the ear canal to try to remove wax.",
+                "If symptoms persist, consult a healthcare provider."
+            ],
+            "nice_to_have": [
+                "Other options to soften ear wax at home include placing a few drops of mineral oil, baby oil, or glycerin in the ear.",
+                "Commercial drops are also available.",
+                "Ear syringing is more effective when water, saline, or wax dissolving drops are placed in the ear canal 15 to 30 minutes before the treatment is performed."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_407",
+        "category": "MedLFQA_LiveQA",
+        "question": "To what extent is quinine in seltzer water effective in treating leg cramps?",
+        "answer": {
+            "free_form_answer": "Muscle cramps can occur anywhere and in anyone; however, leg cramps are especially common in older people. Quinine is a medicine which has been used to treat cramps for many years. There is conflicting evidence for its ability to reduce cramps. Quinine can cause serious, even fatal adverse events, especially in overdosage.",
+            "must_have": [
+                "Quinine has been historically used to treat cramps but there is conflicting evidence for its efficiency to reduce cramps.",
+                "Quinine, especially in overdosage, can cause serious, even fatal adverse events.",
+                "There is low quality evidence that quinine (200 mg to 500 mg daily) significantly reduces cramp number and cramp days and moderate quality evidence that quinine reduces cramp intensity.",
+                "There is moderate quality evidence of minor adverse events with quinine compared to placebo but no increase in major adverse events.",
+                "More research is needed concerning dosage and duration of quinine treatment, as well as alternatives to quinine for cramps."
+            ],
+            "nice_to_have": [
+                "Leg cramps can happen in anyone but are especially common in older people.",
+                "Additionally, certain sources suggest that an overdose of quinine can cause serious harm including death.",
+                "The evidence about quinine's effectiveness in treating leg cramps is current to October 2014."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_408",
+        "category": "MedLFQA_LiveQA",
+        "question": "Is trisomy 13 (Patau syndrome) progressive and how is it diagnosed?",
+        "answer": {
+            "free_form_answer": "Trisomy 13, also called Patau syndrome, is a chromosomal condition associated with severe intellectual disability and physical abnormalities in many parts of the body. Individuals with trisomy 13 often have heart defects, brain or spinal cord abnormalities, very small or poorly developed eyes (microphthalmia), extra fingers or toes, an opening in the lip (a cleft lip) with or without an opening in the roof of the mouth (a cleft palate), and weak muscle tone (hypotonia). Due to the presence of several life-threatening medical problems, many infants with trisomy 13 die within their first days or weeks of life. Only five percent to 10 percent of children with this condition live past their first year. Trisomy 13 is not progressive; instead, it is a congenital condition that is present from birth.Diagnosis of trisomy 13 is usually made based on clinical examination at birth due to the presence of numerous physical abnormalities. In addition, prenatal screening can detect the presence of trisomy 13, including noninvasive prenatal testing (NIPT), and diagnostic tests such as amniocentesis and chorionic villus sampling (CVS). High-resolution ultrasound is also used during pregnancy to detect physical characteristics symptomatic of trisomy 13. For a definitive diagnosis, a karyotype - a test that evaluates the number and structure of a person's chromosomes - is done, which can identify the third copy of chromosome 13 that causes trisomy 13.",
+            "must_have": [
+                "Trisomy 13, or Patau syndrome, is present at birth and not progressive.",
+                "Diagnosis of trisomy 13 usually involves clinical examination at birth, prenatal screening, and a karyotype test to identify the extra copy of chromosome 13."
+            ],
+            "nice_to_have": [
+                "Symptoms for Trisomy 13 often include heart defects, brain or spinal cord abnormalities, very small or poorly developed eyes (microphthalmia), extra fingers or toes, an opening in the lip (cleft lip) with or without a cleft palate, and weak muscle tone (hypotonia).",
+                "Noninvasive prenatal testing (NIPT), high-resolution ultrasound during pregnancy, and diagnostic tests like amniocentesis and chorionic villus sampling can also aid in the diagnosis of trisomy 13."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_409",
+        "category": "MedLFQA_LiveQA",
+        "question": "oxytetracycline hydrochloride and neomycin sulfate powder (NEO-OXY 100/100)is used for the treatment of what conditions and in what subjects?",
+        "answer": {
+            "free_form_answer": "Calves (milk replacer): For Calves (up to 250 lb): For treatment of bacterial enteritis caused by Escheria coli susceptible to oxytetracycline; treatment and control of colibacillosis (bacterial enteritis) caused by Escheria coli susceptible by neomycin. Feed continuously for 7-14 days in milk replacer or starter feed. Treatment should continue 24 to 48 hours beyond remission of disease symptoms. Calves, Beef Cattle, and Nonlactating Dairy Cattle: For treatment of bacterial enteritis caused by Escheria coli and bacterial pneumonia (shipping fever complex) caused by Pasteurella multocide susceptible to oxytetracycline; treatment and control of colibacillosis (bacterial enteritis) caused by Escheria coli susceptible by neomycin. Feed continuously for 7-14 days in feed or milk replacersTreatment should continue 24 to 48 hours beyond remission of disease symptoms. Mix Neo-Oxy 100/100 MR with non-medicated milk replacer to provide the following concentrations:Use Level of Oxytetracycline and Neomycin: 10 mg/lb body weight/day",
+            "must_have": [
+                "NEO-OXY 100/100 is used for the treatment of bacterial enteritis caused by Escheria coli that are susceptible to oxytetracycline; for the treatment and control of colibacillosis (bacterial enteritis) caused by Escheria coli susceptible to neomycin.",
+                "It is also used for the treatment of bacterial pneumonia (shipping fever complex) caused by Pasteurella multocida susceptible to oxytetracycline.",
+                "Its use is intended for calves (up to 250 lb), beef cattle, and nonlactating dairy cattle.",
+                "The medication should be fed continuously for 7-14 days in feed or milk replacers and the treatment should continue 24 to 48 hours beyond remission of disease symptoms."
+            ],
+            "nice_to_have": [
+                "Mix NEO-OXY 100/100 with non-medicated milk replacer to provide a concentration of 10 mg/lb body weight/day of Oxytetracycline and Neomycin."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_410",
+        "category": "MedLFQA_LiveQA",
+        "question": "How do I safely dispose of Hydrogen Peroxide?\n",
+        "answer": {
+            "free_form_answer": "Hydrogen peroxide solutions can be disposed of with no special treatment. You can safely pour them down the drain of a sink or into a toilet.",
+            "must_have": [
+                "Hydrogen peroxide solutions can be safely poured down the sink drain or a toilet, or on the ground outdoors.",
+                "Containers that held hydrogen peroxide should be thoroughly rinsed before disposal or recycling."
+            ],
+            "nice_to_have": [
+                "If you have a larger quantity of hydrogen peroxide to dispose of, it is better to seek advice from your local waste disposal facility or a hazardous waste disposal company."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_411",
+        "category": "MedLFQA_LiveQA",
+        "question": "What are the most current findings regarding causation, treatment and therapy for children with Kippel-Tranaunay-Syndrome (KTS)?",
+        "answer": {
+            "free_form_answer": "Supportive care for Klippel-Trenaunay syndrome",
+            "must_have": [
+                "Klippel-Trenaunay syndrome may require wearing compression garments to reduce pain, swelling and to protect the limb.",
+                "In the case of differing leg lengths, a heel insert may be utilized to aid in walking.",
+                "As a precaution against blood clots, anticoagulant therapy may be required.",
+                "For excessively large foot or leg, an orthopedic surgeon may reshape the limb, halt growth, or remove problematic veins.",
+                "Debulking, sclerotherapy, and laser therapy are other potential surgical interventions."
+            ],
+            "nice_to_have": [
+                "Pain medications and antibiotics may also be part of the treatment.",
+                "In some circumstances, doctors may recommend an injection of an irritating solution to collapse the abnormal veins.",
+                "Pulsed dye laser treatments can be used to lighten the capillary malformation (port wine stain) and speed healing if the lesion begins to bleed."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_412",
+        "category": "MedLFQA_LiveQA",
+        "question": "What is sleep apnea and how effective is surgery in treating it?",
+        "answer": {
+            "free_form_answer": "Surgery is an effective and safe treatment option for many patients with snoring and sleep apnea, particularly those who are unable to use or tolerate CPAP. Proper patient and procedure selection is critical to successful surgical management of obstructive sleep apnea. Talk to your Ear, Nose and Throat doctor for a complete evaluation and to learn what treatment may be best for you. ",
+            "must_have": [
+                "Surgery is a viable treatment option for patients with sleep apnea, especially those who cannot tolerate or use CPAP.",
+                "Proper patient selection is integral to the success of the surgical treatment of sleep apnea.",
+                "It is important to consult your ENT doctor for a comprehensive evaluation and to discuss appropriate treatment options."
+            ],
+            "nice_to_have": [
+                "Sleep apnea is a serious sleep disorder where the patient's breathing repeatedly stops and starts during sleep.",
+                "This can cause several health problems, including high blood pressure, heart problems, type 2 diabetes, metabolic syndrome, liver problems, and complications with medications and surgery.",
+                "If left untreated, obstructive sleep apnea can also lead to difficulties in performing daily tasks, affecting quality of life.",
+                "Hence it is important to seek a medical evaluation if you suspect you have sleep apnea."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_413",
+        "category": "MedLFQA_LiveQA",
+        "question": "Define Syncope (ischemic stroke)?",
+        "answer": {
+            "free_form_answer": "1. The defining characteristics of syncope include rapid onset with transient loss of consciousness usually accompanied by falling, followed by spontaneous, complete, and usually prompt recovery without intervention. Because some patients use the term dizziness to describe syncopal events, it is important to ask patients exactly what they mean by dizziness and whether loss of consciousness occurred.",
+            "must_have": [
+                "Syncope is characterized by rapid onset, transient loss of consciousness usually followed by falling and it needs to be differentiated from vertigo, coma, drop attacks, dizziness, sudden cardiac death, and seizures.",
+                "It is important to ask patients about their symptoms to determine if syncope has occurred.",
+                "In the context of ischemic stroke, Transient ischemic attack (TIA) versus mimics should be diagnosed correctly and early as early interventions can lead to significant reduction in risk of recurrent ischemic events."
+            ],
+            "nice_to_have": [
+                "Some patients describe syncope events as dizziness.",
+                "Drop attacks could be due to underlying cardiovascular disease, blockage of arteries or cerebral aqueduct or vertebrobasilar stroke with immediate recovery and no loss of consciousness.",
+                "In 15 percent of syncopal patients, limb jerking could be a symptom but other sign of seizures would be absent.",
+                "TIA mimics are more likely with gradual onset of symptoms and nonspecific symptoms like memory loss or headache."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_414",
+        "category": "MedLFQA_LiveQA",
+        "question": "Will an unopened, unrefrigerated calcitonin salmon nasal spray be as effective as if it had been refrigerated? The directions say it needs to be refrigerated .\n",
+        "answer": {
+            "free_form_answer": "Store unopened bottle in refrigerator between 2 degrees to 8 degrees C (36 degrees to 46 degrees F). Protect from freezing.\n Store bottle in use at room temperature between 20 degrees to 25 degrees C (68 degrees to 77 degrees F) in an upright position, for up to 30 days (2 mL fill) or 35 days (3.7 mL fill).\n\t\t\t\t",
+            "must_have": [
+                "Calcitonin salmon nasal spray should be stored in a refrigerator at a temperature between 2 degrees to 8 degrees C (36 degrees to 46 degrees F), prior to use.",
+                "A bottle in use should be stored at room temperature, between 20 degrees to 25 degrees C (68 degrees to 77 degrees F), in an upright position for up to 30 days (2 mL fill) or 35 days (3.7 mL fill).",
+                "An unrefrigerated calcitonin salmon nasal spray may lose its effectiveness."
+            ],
+            "nice_to_have": [
+                "For any doubts regarding the storage conditions or efficacy of the calcitonin salmon nasal spray, it would be advisable to consult a healthcare professional or pharmacist."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_415",
+        "category": "MedLFQA_LiveQA",
+        "question": "What is hantavirus and is it fatal?",
+        "answer": {
+            "free_form_answer": "Hantavirus is a serious infection that gets worse quickly. Lung failure can occur and may lead to death. Even with aggressive treatment, more than one half of people who have this disease in their lungs die.",
+            "must_have": [
+                "Hantavirus is a severe infection that can rapidly deteriorate.",
+                "It can cause lung failure and potentially lead to death.",
+                "Even with comprehensive treatment, over half of the infected individuals with this disease in their lungs succumb to it."
+            ],
+            "nice_to_have": [
+                "The symptoms of hantavirus can include fatigue, fever, muscle aches, and in certain conditions, it may turn into a more severe condition, hantavirus pulmonary syndrome (HPS), which is often fatal.",
+                "Early symptoms such as fever, muscle aches, and fatigue are often mistaken for influenza, making the condition harder to diagnose at its onset.",
+                "The fatality rate despite aggressive medical intervention indicates the severity of this disease."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_416",
+        "category": "MedLFQA_LiveQA",
+        "question": "What is plantar fasiciitis, and how is it treated?",
+        "answer": {
+            "free_form_answer": "You are more likely to get plantar fasciitis if you:Treatment options for plantar fasciitis may include physical therapies such as stretches and exercises, which can help strengthen your plantar fascia and Achilles tendon and improve your stability. Treating plantar fasciitis may also involve the use of over-the-counter pain relievers and anti-inflammatories, orthotic shoe inserts which can help distribute pressure more equally across your foot, corticosteroid injections, and in severe cases, surgery. Resting and staying off your feet can also help alleviate some of the pain caused by plantar fasciitis.",
+            "must_have": [
+                "Physical therapies, strengthening exercises, over-the-counter pain relievers and anti-inflammatories, orthotic shoe inserts, corticosteroid injections, rest, and in severe cases, surgery are common treatment options for plantar fasciitis.",
+                "Plantar fasciitis is a common cause of heel pain involving inflammation of a thick band of tissue running across the bottom of your foot."
+            ],
+            "nice_to_have": [
+                "Factors that can increase your risk of plantar fasciitis include having foot arch problems, running long distances or on uneven surfaces, sudden weight gain, having a tight Achilles tendon, wearing shoes with poor arch support or soft soles, and changing your activities."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_417",
+        "category": "MedLFQA_LiveQA",
+        "question": "How much urine does an average human bladder hold, in fluid oz., cups or milliliters (ml)?",
+        "answer": {
+            "free_form_answer": "Normal functional bladder capacity in adults ranges from approximately 300 to 400 ml (58,59). ",
+            "must_have": [
+                "The urge to urinate typically begins when the bladder is about a fourth of its capacity.",
+                "The average adult human bladder can hold between 300 to 400 milliliters of urine.",
+                "Holding urine for too long can lead to urinary tract infections or bladder damage.",
+                "The average human bladder can hold approximately 300 to 400 ml of urine."
+            ],
+            "nice_to_have": [
+                "In terms of other units of measurements, the bladder's capacity is about 10 to 13.5 fluid ounces or about 1.27 to 1.69 cups.",
+                "This bladder capacity is equivalent to approximately 10 to 14 fluid ounces or approximately 1 to 1.7 cups.",
+                "There is little difference in bladder capacity between men and women, with men's bladders typically able to hold slightly more."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_418",
+        "category": "MedLFQA_LiveQA",
+        "question": "What is methylprednisolone and how does it affect the body?",
+        "answer": {
+            "free_form_answer": "Methylprednisolone, a corticosteroid, is similar to a natural hormone produced by your adrenal glands. It is often used to replace this chemical when your body does not make enough of it. It relieves inflammation (swelling, heat, redness, and pain) and is used to treat certain forms of arthritis; skin, blood, kidney, eye, thyroid, and intestinal disorders (e.g., colitis); severe allergies; and asthma. Methylprednisolone is also used to treat certain types of cancer. This medication is sometimes prescribed for other uses; ask your doctor or pharmacist for more information.",
+            "must_have": [
+                "Methylprednisolone is a corticosteroid similar to a hormone produced by the adrenal glands.",
+                "It is used to replace this hormone when the body does not produce enough of it.",
+                "It is used for treating certain forms of arthritis, skin, blood, kidney, eye, thyroid, and intestinal disorders, severe allergies, asthma, and certain types of cancer."
+            ],
+            "nice_to_have": [
+                "Methylprednisolone helps in relieving inflammation that includes swelling, heat, redness, and pain.",
+                "This medication can also be prescribed for other uses, so for further uses, consult your doctor or pharmacist."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_419",
+        "category": "MedLFQA_LiveQA",
+        "question": "Is aclidinium a steroid? Is it contraindicated within 12 months prior to cataract surgery?",
+        "answer": {
+            "free_form_answer": "1. Aclidinium is in a class of medications called bronchodilators. It works by relaxing and opening the air passages to the lungs to make breathing easier.",
+            "must_have": [
+                "Aclidinium is not a steroid but a bronchodilator and is used in the treatment of Chronic Obstructive Pulmonary Disease (COPD).",
+                "Contraindications of Aclidinium include severe hypersensitivity to milk proteins and hypersensitivity to aclidinium bromide or any of the excipients."
+            ],
+            "nice_to_have": [
+                "There is no specific contraindication noted for aclidinium bromide within 12 months prior to cataract surgery.",
+                "However, patients should always consult their healthcare provider if they are taking this medication and planning to undergo such surgery.",
+                "While concerns have been raised about possible associations of muscarinic receptor antagonists, including aclidinium, and cardiovascular safety, the most advanced compounds seem to have an improved safety profile."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_420",
+        "category": "MedLFQA_LiveQA",
+        "question": "How long has Non-aspirin NSAID been implicated in erectile dysfunction?",
+        "answer": {
+            "free_form_answer": "Non-aspirin NSAID use was associated with an increased risk of mild/moderate ED (HR 1.16; P = 0.02) and aspirin use was associated with an increased risk of severe ED (HR 1.16; P = 0.03, respectively). The associations of NSAID use with ED risk were attenuated after controlling for indications for NSAID use.",
+            "must_have": [
+                "Non-aspirin NSAID use was associated with an increased risk of mild/moderate ED.",
+                "The associations of NSAID use with ED risk were likely due to confounding indications for NSAID use.",
+                "NSAID use was not found to be directly associated with ED risk."
+            ],
+            "nice_to_have": [
+                "The risk of erectile dysfunction associated with non-aspirin NSAID may be dependent on the underlying health conditions of a person rather than a direct effect of the drug.",
+                "Therefore, further research is necessary to understand the connections between NSAID use and erectile dysfunction."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    }
+]

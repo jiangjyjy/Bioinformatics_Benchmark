@@ -1,0 +1,492 @@
+[
+    {
+        "no": "RBP_1",
+        "category": "RNA-protein interaction",
+        "question": "Predict with the given sequence if the RNA sequence can bind to the protein Pp_0237 in the species Physcomitrella patens. The sequence is AGAAGGUGUGAGAUUAAUGGAUGGGGUAGCUGACG.",
+        "answer": 1,
+        "Accuracy": "binary"
+    },
+    {
+        "no": "RBP_2",
+        "category": "RNA-protein interaction",
+        "question": "Predict with the given sequence if the RNA sequence can bind to the protein Pp_0237 in the species Physcomitrella patens. The sequence is AGAACAUUAAUUUAAUUGCCAUCGGCGCAUGUCUGCUA.",
+        "answer": 1,
+        "Accuracy": "binary"
+    },
+    {
+        "no": "RBP_3",
+        "category": "RNA-protein interaction",
+        "question": "Predict with the given sequence if the RNA sequence can bind to the protein Pp_0237 in the species Physcomitrella patens. The sequence is AGAAUGGAUCAGAAUUGUGCGCCCGGGCUCCCUGC.",
+        "answer": 1,
+        "Accuracy": "binary"
+    },
+    {
+        "no": "RBP_4",
+        "category": "RNA-protein interaction",
+        "question": "Predict with the given sequence if the RNA sequence can bind to the protein Pp_0237 in the species Physcomitrella patens. The sequence is AGAAUGAGUAAGGCGAUACAUCGGUGUGUU.",
+        "answer": 1,
+        "Accuracy": "binary"
+    },
+    {
+        "no": "RBP_5",
+        "category": "RNA-protein interaction",
+        "question": "Predict with the given sequence if the RNA sequence can bind to the protein Pp_0237 in the species Physcomitrella patens. The sequence is AGACACGGAGUGACGUCAUAGAUAAUCCUUGGAGUGCA.",
+        "answer": 1,
+        "Accuracy": "binary"
+    },
+    {
+        "no": "RBP_6",
+        "category": "RNA-protein interaction",
+        "question": "Predict with the given sequence if the RNA sequence can bind to the protein Pp_0237 in the species Physcomitrella patens. The sequence is AGAUAACGGCCGUUCAGUCCUCACUUCGCAAUCACCCA.",
+        "answer": 0,
+        "Accuracy": "binary"
+    },
+    {
+        "no": "RBP_7",
+        "category": "RNA-protein interaction",
+        "question": "Predict with the given sequence if the RNA sequence can bind to the protein Pp_0237 in the species Physcomitrella patens. The sequence is AGACACUACAGGACGCGGUUGAUGGACCCAAAGGUUAA.",
+        "answer": 0,
+        "Accuracy": "binary"
+    },
+    {
+        "no": "RBP_8",
+        "category": "RNA-protein interaction",
+        "question": "Predict with the given sequence if the RNA sequence can bind to the protein Pp_0237 in the species Physcomitrella patens. The sequence is AGAACCCCUUGUCUCCCACGUGCGCCGACCAUCAA.",
+        "answer": 0,
+        "Accuracy": "binary"
+    },
+    {
+        "no": "RBP_9",
+        "category": "RNA-protein interaction",
+        "question": "Predict with the given sequence if the RNA sequence can bind to the protein Pp_0237 in the species Physcomitrella patens. The sequence is AGAUGGAUGGUCUGAUUGUUUGCGCCGAUAUGUUGUAGG.",
+        "answer": 0,
+        "Accuracy": "binary"
+    },
+    {
+        "no": "RBP_10",
+        "category": "RNA-protein interaction",
+        "question": "Predict with the given sequence if the RNA sequence can bind to the protein Pp_0237 in the species Physcomitrella patens. The sequence is AGGUUCCACUGAAACAAUUAACGUGCUCUUGACGUCCC.",
+        "answer": 0,
+        "Accuracy": "binary"
+    },
+    {
+        "no": "RBP_11",
+        "category": "RNA-protein interaction",
+        "question": "Predict with the given sequence if the RNA sequence can bind to the protein ANKHD1 in the species Homo sapiens. The sequence is AGACGAUGGCUACGCUGGCAAUGGGGCAUG.",
+        "answer": 1,
+        "Accuracy": "binary"
+    },
+    {
+        "no": "RBP_12",
+        "category": "RNA-protein interaction",
+        "question": "Predict with the given sequence if the RNA sequence can bind to the protein ANKHD1 in the species Homo sapiens. The sequence is AGACGUUGCGGUUGGGUCGGCGCUGGGGGC.",
+        "answer": 1,
+        "Accuracy": "binary"
+    },
+    {
+        "no": "RBP_13",
+        "category": "RNA-protein interaction",
+        "question": "Predict with the given sequence if the RNA sequence can bind to the protein ANKHD1 in the species Homo sapiens. The sequence is AGACGCGUUGAUCGCCUUUACAUUUUGCCCGAGUCCGU.",
+        "answer": 1,
+        "Accuracy": "binary"
+    },
+    {
+        "no": "RBP_14",
+        "category": "RNA-protein interaction",
+        "question": "Predict with the given sequence if the RNA sequence can bind to the protein ANKHD1 in the species Homo sapiens. The sequence is AGACGUGUUGAGGUUUAACCACCAUUCCGCUGCCCGCU.",
+        "answer": 1,
+        "Accuracy": "binary"
+    },
+    {
+        "no": "RBP_15",
+        "category": "RNA-protein interaction",
+        "question": "Predict with the given sequence if the RNA sequence can bind to the protein ANKHD1 in the species Homo sapiens. The sequence is AGACGUUGACGGAUCCCACAGUAUGAAGCUUCCUC.",
+        "answer": 1,
+        "Accuracy": "binary"
+    },
+    {
+        "no": "RBP_16",
+        "category": "RNA-protein interaction",
+        "question": "Predict with the given sequence if the RNA sequence can bind to the protein ANKHD1 in the species Homo sapiens. The sequence is AGACCGACAGGGCUCCAGCGGCGACUUCCG.",
+        "answer": 0,
+        "Accuracy": "binary"
+    },
+    {
+        "no": "RBP_17",
+        "category": "RNA-protein interaction",
+        "question": "Predict with the given sequence if the RNA sequence can bind to the protein ANKHD1 in the species Homo sapiens. The sequence is AGAGCCGGAAUCCUUUUGAACGCCUGUUAUCCACACUC.",
+        "answer": 0,
+        "Accuracy": "binary"
+    },
+    {
+        "no": "RBP_18",
+        "category": "RNA-protein interaction",
+        "question": "Predict with the given sequence if the RNA sequence can bind to the protein ANKHD1 in the species Homo sapiens. The sequence is AGAAUCUAUCGGAUCUUGUGUAAUAAAUCACUGUGUGA.",
+        "answer": 0,
+        "Accuracy": "binary"
+    },
+    {
+        "no": "RBP_19",
+        "category": "RNA-protein interaction",
+        "question": "Predict with the given sequence if the RNA sequence can bind to the protein ANKHD1 in the species Homo sapiens. The sequence is AGAUUUAGCGCGAGCAUGGCAGGGGUUCUU.",
+        "answer": 0,
+        "Accuracy": "binary"
+    },
+    {
+        "no": "RBP_20",
+        "category": "RNA-protein interaction",
+        "question": "Predict with the given sequence if the RNA sequence can bind to the protein ANKHD1 in the species Homo sapiens. The sequence is AGAACACUAAGUUGUCUACGAUAAAGCGACCGAUCGGU.",
+        "answer": 0,
+        "Accuracy": "binary"
+    },
+    {
+        "no": "RBP_21",
+        "category": "RNA-protein interaction",
+        "question": "Predict with the given sequence if the RNA sequence can bind to the protein IGF2BP2 in the species Homo sapiens. The sequence is AGACUACGUGCAUAACUUAUCACCUUUACAUUGGCGGA.",
+        "answer": 1,
+        "Accuracy": "binary"
+    },
+    {
+        "no": "RBP_22",
+        "category": "RNA-protein interaction",
+        "question": "Predict with the given sequence if the RNA sequence can bind to the protein IGF2BP2 in the species Homo sapiens. The sequence is AGAUGUACCGGGGUCUUUCAACAAUCAAUGAACACGCA.",
+        "answer": 1,
+        "Accuracy": "binary"
+    },
+    {
+        "no": "RBP_23",
+        "category": "RNA-protein interaction",
+        "question": "Predict with the given sequence if the RNA sequence can bind to the protein IGF2BP2 in the species Homo sapiens. The sequence is AGACUAAGGCUACAUGAAGGAACUGGGUACACCAA.",
+        "answer": 1,
+        "Accuracy": "binary"
+    },
+    {
+        "no": "RBP_24",
+        "category": "RNA-protein interaction",
+        "question": "Predict with the given sequence if the RNA sequence can bind to the protein IGF2BP2 in the species Homo sapiens. The sequence is AGGACAAUAGAUAAUCAGGUCGGCAAAUGGGCUUCGUG.",
+        "answer": 1,
+        "Accuracy": "binary"
+    },
+    {
+        "no": "RBP_25",
+        "category": "RNA-protein interaction",
+        "question": "Predict with the given sequence if the RNA sequence can bind to the protein IGF2BP2 in the species Homo sapiens. The sequence is AGAAAGCAACACAGCCUCCAAUUUCAGGGAUAUCUAUU.",
+        "answer": 1,
+        "Accuracy": "binary"
+    },
+    {
+        "no": "RBP_26",
+        "category": "RNA-protein interaction",
+        "question": "Predict with the given sequence if the RNA sequence can bind to the protein IGF2BP2 in the species Homo sapiens. The sequence is AGAGUAGGACCCACUAAAAAUUCGAUUUACUAUGCUGG.",
+        "answer": 0,
+        "Accuracy": "binary"
+    },
+    {
+        "no": "RBP_27",
+        "category": "RNA-protein interaction",
+        "question": "Predict with the given sequence if the RNA sequence can bind to the protein IGF2BP2 in the species Homo sapiens. The sequence is AGGCUUGUUGAAGGUUUACAUGUUGCGUACUGCCCGGA.",
+        "answer": 0,
+        "Accuracy": "binary"
+    },
+    {
+        "no": "RBP_28",
+        "category": "RNA-protein interaction",
+        "question": "Predict with the given sequence if the RNA sequence can bind to the protein IGF2BP2 in the species Homo sapiens. The sequence is AGACUCCGGGUACUUGGGCUGUUGGGCAAC.",
+        "answer": 0,
+        "Accuracy": "binary"
+    },
+    {
+        "no": "RBP_29",
+        "category": "RNA-protein interaction",
+        "question": "Predict with the given sequence if the RNA sequence can bind to the protein IGF2BP2 in the species Homo sapiens. The sequence is AGAUGCGAAACCUACCGCUGACACCCUAAUCAGAACGA.",
+        "answer": 0,
+        "Accuracy": "binary"
+    },
+    {
+        "no": "RBP_30",
+        "category": "RNA-protein interaction",
+        "question": "Predict with the given sequence if the RNA sequence can bind to the protein IGF2BP2 in the species Homo sapiens. The sequence is AGGACGCGAAGGCAAAAAUCUGCAAUACCU.",
+        "answer": 0,
+        "Accuracy": "binary"
+    },
+    {
+        "no": "RBP_31",
+        "category": "RNA-protein interaction",
+        "question": "Predict with the given sequence if the RNA sequence can bind to the protein RBM4 in the species Homo sapiens. The sequence is AGACAUUAUGACCGCGCCCGUCACUCUAAAUUUAGCUC.",
+        "answer": 1,
+        "Accuracy": "binary"
+    },
+    {
+        "no": "RBP_32",
+        "category": "RNA-protein interaction",
+        "question": "Predict with the given sequence if the RNA sequence can bind to the protein RBM4 in the species Homo sapiens. The sequence is AGAUACAAGGAAUAACCUUCGGGCGGCGAG.",
+        "answer": 1,
+        "Accuracy": "binary"
+    },
+    {
+        "no": "RBP_33",
+        "category": "RNA-protein interaction",
+        "question": "Predict with the given sequence if the RNA sequence can bind to the protein RBM4 in the species Homo sapiens. The sequence is AGACGGUUGUGAUUGACGGGCCCGGGCGGU.",
+        "answer": 1,
+        "Accuracy": "binary"
+    },
+    {
+        "no": "RBP_34",
+        "category": "RNA-protein interaction",
+        "question": "Predict with the given sequence if the RNA sequence can bind to the protein RBM4 in the species Homo sapiens. The sequence is AGAUUUAUCGCCCGACCAGAUUGACGACUCGCGCCGCU.",
+        "answer": 1,
+        "Accuracy": "binary"
+    },
+    {
+        "no": "RBP_35",
+        "category": "RNA-protein interaction",
+        "question": "Predict with the given sequence if the RNA sequence can bind to the protein RBM4 in the species Homo sapiens. The sequence is AGACACGUAUAGAGAUUUUCGGUGAGCACGGGCUU.",
+        "answer": 1,
+        "Accuracy": "binary"
+    },
+    {
+        "no": "RBP_36",
+        "category": "RNA-protein interaction",
+        "question": "Predict with the given sequence if the RNA sequence can bind to the protein RBM4 in the species Homo sapiens. The sequence is AGAAGCCCAUUUGUCUGAACGGUCUCUCAUUGCAU.",
+        "answer": 0,
+        "Accuracy": "binary"
+    },
+    {
+        "no": "RBP_37",
+        "category": "RNA-protein interaction",
+        "question": "Predict with the given sequence if the RNA sequence can bind to the protein RBM4 in the species Homo sapiens. The sequence is AGAAGUAAAUGCCGACAACCAACUCUAUCCAGUCU.",
+        "answer": 0,
+        "Accuracy": "binary"
+    },
+    {
+        "no": "RBP_38",
+        "category": "RNA-protein interaction",
+        "question": "Predict with the given sequence if the RNA sequence can bind to the protein RBM4 in the species Homo sapiens. The sequence is AGAAGCAAUUGUAUCUCGCAGCACUCCCCGACCAGACC.",
+        "answer": 0,
+        "Accuracy": "binary"
+    },
+    {
+        "no": "RBP_39",
+        "category": "RNA-protein interaction",
+        "question": "Predict with the given sequence if the RNA sequence can bind to the protein RBM4 in the species Homo sapiens. The sequence is AGAUUCCAAAGCCCAGGUUUCAAUAGGUGAGCGGUGUU.",
+        "answer": 0,
+        "Accuracy": "binary"
+    },
+    {
+        "no": "RBP_40",
+        "category": "RNA-protein interaction",
+        "question": "Predict with the given sequence if the RNA sequence can bind to the protein RBM4 in the species Homo sapiens. The sequence is AGGGCUCAGCCAACGAACUGCAAGGUGAUCUGAUUUAU.",
+        "answer": 0,
+        "Accuracy": "binary"
+    },
+    {
+        "no": "RBP_41",
+        "category": "RNA-protein interaction",
+        "question": "Predict with the given sequence if the RNA sequence can bind to the protein LIN28A in the species Homo sapiens. The sequence is AGAAGAUCAGUCGCAACACAUGAAGGGUAGCGCCUUAG.",
+        "answer": 1,
+        "Accuracy": "binary"
+    },
+    {
+        "no": "RBP_42",
+        "category": "RNA-protein interaction",
+        "question": "Predict with the given sequence if the RNA sequence can bind to the protein LIN28A in the species Homo sapiens. The sequence is AGAAAUGAUUCAUGCGGAUGCCCACGGCUUUUAUCGGGU.",
+        "answer": 1,
+        "Accuracy": "binary"
+    },
+    {
+        "no": "RBP_43",
+        "category": "RNA-protein interaction",
+        "question": "Predict with the given sequence if the RNA sequence can bind to the protein LIN28A in the species Homo sapiens. The sequence is AGAGAGCAGAAGUAGUAUUCCGGGAUCAGUUGUCAUCC.",
+        "answer": 1,
+        "Accuracy": "binary"
+    },
+    {
+        "no": "RBP_44",
+        "category": "RNA-protein interaction",
+        "question": "Predict with the given sequence if the RNA sequence can bind to the protein LIN28A in the species Homo sapiens. The sequence is AGAAGUGUACUAUCAGUAUUGCUAACCGGGGCUUGAGA.",
+        "answer": 1,
+        "Accuracy": "binary"
+    },
+    {
+        "no": "RBP_45",
+        "category": "RNA-protein interaction",
+        "question": "Predict with the given sequence if the RNA sequence can bind to the protein LIN28A in the species Homo sapiens. The sequence is AGAAGAAGGGGUGACAUAACCAUAACAGGAGAGUUCUA.",
+        "answer": 1,
+        "Accuracy": "binary"
+    },
+    {
+        "no": "RBP_46",
+        "category": "RNA-protein interaction",
+        "question": "Predict with the given sequence if the RNA sequence can bind to the protein LIN28A in the species Homo sapiens. The sequence is AGGGUAGCUCCGCUUGAACGGUCAUAAAGAAUAAUACA.",
+        "answer": 0,
+        "Accuracy": "binary"
+    },
+    {
+        "no": "RBP_47",
+        "category": "RNA-protein interaction",
+        "question": "Predict with the given sequence if the RNA sequence can bind to the protein LIN28A in the species Homo sapiens. The sequence is AGGCAUACAAUAACGAGACUCGGCAAUCAGUGAUUUGA.",
+        "answer": 0,
+        "Accuracy": "binary"
+    },
+    {
+        "no": "RBP_48",
+        "category": "RNA-protein interaction",
+        "question": "Predict with the given sequence if the RNA sequence can bind to the protein LIN28A in the species Homo sapiens. The sequence is AGACGCGUCCUUCUUUGCAUACCUUUUCUUAUCGUGAC.",
+        "answer": 0,
+        "Accuracy": "binary"
+    },
+    {
+        "no": "RBP_49",
+        "category": "RNA-protein interaction",
+        "question": "Predict with the given sequence if the RNA sequence can bind to the protein LIN28A in the species Homo sapiens. The sequence is AGGGACGUCAUGCGGUGUGGGUAAUCCGAACUAAUCUA.",
+        "answer": 0,
+        "Accuracy": "binary"
+    },
+    {
+        "no": "RBP_50",
+        "category": "RNA-protein interaction",
+        "question": "Predict with the given sequence if the RNA sequence can bind to the protein LIN28A in the species Homo sapiens. The sequence is AGGGAUUCCGGGGUUGUAAACGUGUUAAGAGAAGGCGC.",
+        "answer": 0,
+        "Accuracy": "binary"
+    },
+    {
+        "no": "RBP_51",
+        "category": "RNA-protein interaction",
+        "question": "Predict with the given sequence if the RNA sequence can bind to the protein Nab2p in the species Saccharomyces cerevisiae. The sequence is AGACCGUGUAGACUAUAUGUUAGGGAUCGUUGACAAAA.",
+        "answer": 1,
+        "Accuracy": "binary"
+    },
+    {
+        "no": "RBP_52",
+        "category": "RNA-protein interaction",
+        "question": "Predict with the given sequence if the RNA sequence can bind to the protein Nab2p in the species Saccharomyces cerevisiae. The sequence is AGAGCAAGCUCCGAUACCGUCAGUGAUUACUCCUUCGU.",
+        "answer": 1,
+        "Accuracy": "binary"
+    },
+    {
+        "no": "RBP_53",
+        "category": "RNA-protein interaction",
+        "question": "Predict with the given sequence if the RNA sequence can bind to the protein Nab2p in the species Saccharomyces cerevisiae. The sequence is AGGCAUUAUGGUCUGCGGCAGAGUUCAACACUUAG.",
+        "answer": 1,
+        "Accuracy": "binary"
+    },
+    {
+        "no": "RBP_54",
+        "category": "RNA-protein interaction",
+        "question": "Predict with the given sequence if the RNA sequence can bind to the protein Nab2p in the species Saccharomyces cerevisiae. The sequence is AGAAUCGCUCAGCCUCUCAGGUCUAUAUCGUAGAACUA.",
+        "answer": 1,
+        "Accuracy": "binary"
+    },
+    {
+        "no": "RBP_55",
+        "category": "RNA-protein interaction",
+        "question": "Predict with the given sequence if the RNA sequence can bind to the protein Nab2p in the species Saccharomyces cerevisiae. The sequence is AGACGGCUACUAUUUUUACCGGAUUUAAAAGCACCCAC.",
+        "answer": 1,
+        "Accuracy": "binary"
+    },
+    {
+        "no": "RBP_56",
+        "category": "RNA-protein interaction",
+        "question": "Predict with the given sequence if the RNA sequence can bind to the protein Nab2p in the species Saccharomyces cerevisiae. The sequence is AGAUCUAUUACAUGAGCACUCGGGGAAGUUACGCC.",
+        "answer": 0,
+        "Accuracy": "binary"
+    },
+    {
+        "no": "RBP_57",
+        "category": "RNA-protein interaction",
+        "question": "Predict with the given sequence if the RNA sequence can bind to the protein Nab2p in the species Saccharomyces cerevisiae. The sequence is AGAUAUCUGGACUGGGUACCAAGACCGUUAAUGGC.",
+        "answer": 0,
+        "Accuracy": "binary"
+    },
+    {
+        "no": "RBP_58",
+        "category": "RNA-protein interaction",
+        "question": "Predict with the given sequence if the RNA sequence can bind to the protein Nab2p in the species Saccharomyces cerevisiae. The sequence is AGGAUUAACUUGGUUUGGGGCGCGCGAUAACGGUAUGA.",
+        "answer": 0,
+        "Accuracy": "binary"
+    },
+    {
+        "no": "RBP_59",
+        "category": "RNA-protein interaction",
+        "question": "Predict with the given sequence if the RNA sequence can bind to the protein Nab2p in the species Saccharomyces cerevisiae. The sequence is AGGUAGAAAGCAAGGGAGCGUCGCGGUGGAAUCGAUAU.",
+        "answer": 0,
+        "Accuracy": "binary"
+    },
+    {
+        "no": "RBP_60",
+        "category": "RNA-protein interaction",
+        "question": "Predict with the given sequence if the RNA sequence can bind to the protein Nab2p in the species Saccharomyces cerevisiae. The sequence is AGGUCGACCAAUCGAGUCACAAAUACCGCCCGUCAAGU.",
+        "answer": 0,
+        "Accuracy": "binary"
+    },
+    {
+        "no": "RBP_61",
+        "category": "RNA-protein interaction",
+        "question": "Predict with the given sequence if the RNA sequence can bind to the protein PUM in the species Drosophila melanogaster. The sequence is AGACCUGUCCAGUGGGAUCAAUAUGUACAUCAGAGCCA.",
+        "answer": 1,
+        "Accuracy": "binary"
+    },
+    {
+        "no": "RBP_62",
+        "category": "RNA-protein interaction",
+        "question": "Predict with the given sequence if the RNA sequence can bind to the protein PUM in the species Drosophila melanogaster. The sequence is AGAUUCCUGUGUAUUCAAUUCCCUCCGGCUGUUCGGCA.",
+        "answer": 1,
+        "Accuracy": "binary"
+    },
+    {
+        "no": "RBP_63",
+        "category": "RNA-protein interaction",
+        "question": "Predict with the given sequence if the RNA sequence can bind to the protein PUM in the species Drosophila melanogaster. The sequence is AGGCGCAUAGGUGAACUUGUACAUUCUGGAAUCCCUUA.",
+        "answer": 1,
+        "Accuracy": "binary"
+    },
+    {
+        "no": "RBP_64",
+        "category": "RNA-protein interaction",
+        "question": "Predict with the given sequence if the RNA sequence can bind to the protein PUM in the species Drosophila melanogaster. The sequence is AGGGACUGACAACUGUACACCAAGACCGCUGGGCCAAG.",
+        "answer": 1,
+        "Accuracy": "binary"
+    },
+    {
+        "no": "RBP_65",
+        "category": "RNA-protein interaction",
+        "question": "Predict with the given sequence if the RNA sequence can bind to the protein PUM in the species Drosophila melanogaster. The sequence is AGAACACGGGUAAUGUACAUAGGCCGAUGGCAAUCGCA.",
+        "answer": 1,
+        "Accuracy": "binary"
+    },
+    {
+        "no": "RBP_66",
+        "category": "RNA-protein interaction",
+        "question": "Predict with the given sequence if the RNA sequence can bind to the protein PUM in the species Drosophila melanogaster. The sequence is AGAGCGCGUCACGGUGGAUCUAGUUAGUACGAUCA.",
+        "answer": 0,
+        "Accuracy": "binary"
+    },
+    {
+        "no": "RBP_67",
+        "category": "RNA-protein interaction",
+        "question": "Predict with the given sequence if the RNA sequence can bind to the protein PUM in the species Drosophila melanogaster. The sequence is AGAUUUCCUUAUCUUACAGCGUUGGCGGGCUCCAG.",
+        "answer": 0,
+        "Accuracy": "binary"
+    },
+    {
+        "no": "RBP_68",
+        "category": "RNA-protein interaction",
+        "question": "Predict with the given sequence if the RNA sequence can bind to the protein PUM in the species Drosophila melanogaster. The sequence is AGAUUUGGUCUAACGCUCUGUGGCACUUAUCCUGU.",
+        "answer": 0,
+        "Accuracy": "binary"
+    },
+    {
+        "no": "RBP_69",
+        "category": "RNA-protein interaction",
+        "question": "Predict with the given sequence if the RNA sequence can bind to the protein PUM in the species Drosophila melanogaster. The sequence is AGGCAUACAAGUUUAAAACACUAUAUCGUGGUCAGUAC.",
+        "answer": 0,
+        "Accuracy": "binary"
+    },
+    {
+        "no": "RBP_70",
+        "category": "RNA-protein interaction",
+        "question": "Predict with the given sequence if the RNA sequence can bind to the protein PUM in the species Drosophila melanogaster. The sequence is AGAUAGUGAGAGCAGCAUUACACCAGUCCAGGCGAGUC.",
+        "answer": 0,
+        "Accuracy": "binary"
+    }
+]

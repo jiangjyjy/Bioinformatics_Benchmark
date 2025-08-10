@@ -1,0 +1,13 @@
+Model Name,Dataset Name,Shot Type,Average Recovery Rate (%)
+internlm2_5-20b-hf,Protein_inverse_folding,5shot,4.637012135308519
+internlm2_5-20b-hf,Protein_inverse_folding,0shot,1.4633935325123484
+yi-1.5-34b-chat-hf,Protein_inverse_folding,5shot,5.7730838834194165
+yi-1.5-34b-chat-hf,Protein_inverse_folding,0shot,4.482887655262684
+qwen2.5-72b-instruct-hf,Protein_inverse_folding,5shot,6.946228384671983
+qwen2.5-72b-instruct-hf,Protein_inverse_folding,0shot,7.017537411808345
+gpt-4o,Protein_inverse_folding,5shot,6.292793164238473
+gpt-4o,Protein_inverse_folding,0shot,6.970409750828315
+llama-3_1-70b-instruct-hf,Protein_inverse_folding,5shot,6.875693947193652
+llama-3_1-70b-instruct-hf,Protein_inverse_folding,0shot,6.693030701787968
+mixtral-large-2-instruct-turbomind,Protein_inverse_folding,5shot,6.700236376494419
+mixtral-large-2-instruct-turbomind,Protein_inverse_folding,0shot,5.645948034851946

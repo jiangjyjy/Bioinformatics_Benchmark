@@ -1,0 +1,2104 @@
+{
+    "sgRNA efficiency prediction": [
+        {
+            "no": "RNA_881",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAAUUGGAGGCCUUUCCCCUGGGCA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "90",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_882",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAACAUAUAAAUACAAUGAAUGGGAGA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "67",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_883",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAGACUGAGGAAAUCAUGAAGGAAG, just output the number of peptide percentage from 0 to 100.",
+            "answer": "80",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_884",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAACAACCUGAAGAAAGCCACAGGUAA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "16",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_885",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAUCUCACUUACUUUGGAUUGGAAG, just output the number of peptide percentage from 0 to 100.",
+            "answer": "47",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_886",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAACCAUUGGUUCACCAAAAAGGAUU, just output the number of peptide percentage from 0 to 100.",
+            "answer": "65",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_887",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAACAUGCAUUGUCCAGCAUCAGGUAU, just output the number of peptide percentage from 0 to 100.",
+            "answer": "65",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_888",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAACAGAGCAAAUACCUGAAUGGGGGG, just output the number of peptide percentage from 0 to 100.",
+            "answer": "92",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_889",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAAAACCAUGGCAGCAAGGCGGAUG, just output the number of peptide percentage from 0 to 100.",
+            "answer": "18",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_890",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAAAGGUACCUUCUGGCCAAGGUCA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "36",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_891",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAUCCUAACCUCUCAGCAUGGGUGU, just output the number of peptide percentage from 0 to 100.",
+            "answer": "70",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_892",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAACUCGGUCAGUCCCUUGCAGGCUC, just output the number of peptide percentage from 0 to 100.",
+            "answer": "56",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_893",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAAUACAACAGUUUCUGGAAGGUGA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "52",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_894",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAAAUUUUGAAGAUUCUUGAGGGUA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "33",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_895",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAUUUUGUUGGACAAAUUUUGGUGU, just output the number of peptide percentage from 0 to 100.",
+            "answer": "10",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_896",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAUUCUUUUGAGGUGGAAGUGGUCU, just output the number of peptide percentage from 0 to 100.",
+            "answer": "46",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_897",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAAAUUCACGUUUCCCGUCUGGCCU, just output the number of peptide percentage from 0 to 100.",
+            "answer": "83",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_898",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAACAGAAACAAGGGAAAGACGGGUGA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "27",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_899",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAACAGACGAGCCAGACUAAGAGGAGG, just output the number of peptide percentage from 0 to 100.",
+            "answer": "51",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_900",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAAAUGAAGCCUUUUCCCAUGGAGC, just output the number of peptide percentage from 0 to 100.",
+            "answer": "28",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_901",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAAUGUUAAUUUACCUUGAUGGGAA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "45",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_902",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAGAAAGCCAUGACUGUGGGGGAGU, just output the number of peptide percentage from 0 to 100.",
+            "answer": "72",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_903",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAGUUGAAACGAAAAAUCCUGGGAC, just output the number of peptide percentage from 0 to 100.",
+            "answer": "68",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_904",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAAAUCCUACAUACCUGGAUGGUUA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "72",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_905",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAGCCUGAAGACAUUAAGAAGGAAG, just output the number of peptide percentage from 0 to 100.",
+            "answer": "9",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_906",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAUUCAACUUACGCCCCCCAGGCCA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "75",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_907",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAAUUUUGAAGAUUCUUGAGGGUAA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "39",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_908",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAACACAGCUUUCUUAGUCAAAGGGAG, just output the number of peptide percentage from 0 to 100.",
+            "answer": "46",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_909",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAAAACAGAGUCUUACUGUUGGCUA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "11",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_910",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAUGAGCCUACCUCUUCCAAGGUAG, just output the number of peptide percentage from 0 to 100.",
+            "answer": "37",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_911",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAACUUUCAGGCUGUCUCACAGGGCA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "81",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_912",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAAUUCUGGUCUAAAUUGUGGGACU, just output the number of peptide percentage from 0 to 100.",
+            "answer": "16",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_913",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAAAAGAAAUACCUUGAAGAGGUGC, just output the number of peptide percentage from 0 to 100.",
+            "answer": "59",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_914",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAACAAUACCUUAGCACUGAGGGGCAG, just output the number of peptide percentage from 0 to 100.",
+            "answer": "78",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_915",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAAAAAAGCCCUCACCAACUGGGGC, just output the number of peptide percentage from 0 to 100.",
+            "answer": "68",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_916",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAACAGUGAGAAAUACGGAGAUGGAUA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "90",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_917",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAACAUUUUGUAGUAUUGGCUGGCUG, just output the number of peptide percentage from 0 to 100.",
+            "answer": "96",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_918",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAACAAAUCCAUUUCAUUUGCUGGAUG, just output the number of peptide percentage from 0 to 100.",
+            "answer": "84",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_919",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAAUUACCGAGAAAUAGCAAGGCUC, just output the number of peptide percentage from 0 to 100.",
+            "answer": "46",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_920",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAUUAUUGUUUAUUCCAACGGGAAU, just output the number of peptide percentage from 0 to 100.",
+            "answer": "25",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_921",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAACCCGUUAUGACUAAUCCUUGGGAA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "29",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_922",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAACUUUGCUGCCAAUACUCUGGGUA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "7",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_923",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAAUCAAACAUACCUUCGCUGGCAU, just output the number of peptide percentage from 0 to 100.",
+            "answer": "91",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_924",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAUAGCUGUGUGAUUUUGUAGGGAA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "12",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_925",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAAUAAAUCCACCUCUUGCAGGGUG, just output the number of peptide percentage from 0 to 100.",
+            "answer": "91",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_926",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAUUAUCAUUACCUGAUCAAGGUUU, just output the number of peptide percentage from 0 to 100.",
+            "answer": "62",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_927",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAUCCAACUGCAAAGGCUCAGGGAU, just output the number of peptide percentage from 0 to 100.",
+            "answer": "69",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_928",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAUUUUCUUUUCCACAAUGUGGUUC, just output the number of peptide percentage from 0 to 100.",
+            "answer": "26",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_929",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAACCAGGAAGCAGAUGUCCAGGAAG, just output the number of peptide percentage from 0 to 100.",
+            "answer": "23",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_930",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAACAAUCUUUUAAACAGACUGGAGA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "4",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_931",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAACCAGAUGGGCCAAUACAGGCCA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "32",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_932",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAAGCCUUACCUUUGUUUUGGGUUC, just output the number of peptide percentage from 0 to 100.",
+            "answer": "45",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_933",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAGCGCUGUCUCCAGCAGGGGGAAG, just output the number of peptide percentage from 0 to 100.",
+            "answer": "69",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_934",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAUUGGUUUUUCGGUGUCUAGGUCU, just output the number of peptide percentage from 0 to 100.",
+            "answer": "62",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_935",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAUUGGAGGCCUUUCCCCUGGGCAC, just output the number of peptide percentage from 0 to 100.",
+            "answer": "96",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_936",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAGGUCUGCAAGAGAAGAACGGAAA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "32",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_937",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAACCCCAAAACUUACCAACUGGCAU, just output the number of peptide percentage from 0 to 100.",
+            "answer": "84",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_938",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAACAUAUUUGAGAAGAGGUAAGGACC, just output the number of peptide percentage from 0 to 100.",
+            "answer": "26",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_939",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAGGCCAGACAGUCUUUAAAGGGGC, just output the number of peptide percentage from 0 to 100.",
+            "answer": "38",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_940",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAGGGGAAAGCCCUUGAGCUGGGCG, just output the number of peptide percentage from 0 to 100.",
+            "answer": "55",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_941",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAGCCAAGAUUAAAAUUAAAGGUUA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "78",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_942",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAUGAAGAACGAAGAAAGGAGGAUG, just output the number of peptide percentage from 0 to 100.",
+            "answer": "12",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_943",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAAAAAAAAGACUCACAGGUGGACC, just output the number of peptide percentage from 0 to 100.",
+            "answer": "3",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_944",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAGGAAAGAAAAAAUCUGUAGGUCG, just output the number of peptide percentage from 0 to 100.",
+            "answer": "6",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_945",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAACAACAGAGAAGCAACUAUUGGGGU, just output the number of peptide percentage from 0 to 100.",
+            "answer": "56",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_946",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAGAUGAAGUUGGGCAAAGUGGAGU, just output the number of peptide percentage from 0 to 100.",
+            "answer": "81",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_947",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAACAUGUUCCUUCAAAGAAAAGGCUU, just output the number of peptide percentage from 0 to 100.",
+            "answer": "48",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_948",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAGAAAAAGUCCAGUAACCGGGAAU, just output the number of peptide percentage from 0 to 100.",
+            "answer": "29",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_949",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAGAUGAAGCUGGGCAAAGUGGAGU, just output the number of peptide percentage from 0 to 100.",
+            "answer": "22",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_950",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAGCGAAGGUUGGAAGAGGAGGCUC, just output the number of peptide percentage from 0 to 100.",
+            "answer": "40",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_951",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAAUACCCAAUCUAUUUGCUGGAUU, just output the number of peptide percentage from 0 to 100.",
+            "answer": "95",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_952",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAACAGGAGUCAGAACAAGCAGGGGUU, just output the number of peptide percentage from 0 to 100.",
+            "answer": "28",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_953",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAACUCACCAAGACCUGUUUAGGACA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "19",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_954",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAACCAUGGCAGCAAGGCGGAUGGCGC, just output the number of peptide percentage from 0 to 100.",
+            "answer": "79",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_955",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAGGAAAAAAGGAAACAUGUGGACC, just output the number of peptide percentage from 0 to 100.",
+            "answer": "66",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_956",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAGAAAUCCUAUACCUGAGAGGACG, just output the number of peptide percentage from 0 to 100.",
+            "answer": "5",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_957",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAACACCCUUGCAGUGUGUGAUGGAGG, just output the number of peptide percentage from 0 to 100.",
+            "answer": "14",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_958",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAAGAAUGGACCAAAAUGUGGGCAG, just output the number of peptide percentage from 0 to 100.",
+            "answer": "97",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_959",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAACCAGUGGAGGACUGUCCAAGGAUG, just output the number of peptide percentage from 0 to 100.",
+            "answer": "26",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_960",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAAAAUUAGCCAGAUGUGAUGGCGC, just output the number of peptide percentage from 0 to 100.",
+            "answer": "74",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_961",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAACAGUAAUACAUUUAUCAAUGGGAA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "93",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_962",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAGGAGAAACAGAUUGGCUAGGAUU, just output the number of peptide percentage from 0 to 100.",
+            "answer": "41",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_963",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAUGUAUUUUUCUGAAAAAAGGAAU, just output the number of peptide percentage from 0 to 100.",
+            "answer": "26",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_964",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAGAAAAAAAAAAACAACAUGGCUG, just output the number of peptide percentage from 0 to 100.",
+            "answer": "24",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_965",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAAGAGUAGCAUACCUGGUAGGUGA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "23",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_966",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAUAUGCUACUUACUUGAUUGGCUA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "27",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_967",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAAAAAAAAAGCUAACAGCAGGAGU, just output the number of peptide percentage from 0 to 100.",
+            "answer": "12",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_968",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAACAAAGGCAGCCGUAACUCAGGUUG, just output the number of peptide percentage from 0 to 100.",
+            "answer": "26",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_969",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAUAGGUUUUUUCCUCGACAGGAUU, just output the number of peptide percentage from 0 to 100.",
+            "answer": "80",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_970",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAACCAAAACUUUACUUUAGUUGGGCA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "1",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_971",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAACAGCGUGUCACAAAGCAGUGGUGA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "86",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_972",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAGACAGGUGUCUCCAUGAUGGAUC, just output the number of peptide percentage from 0 to 100.",
+            "answer": "48",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_973",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAUCGGAAGAUGUUCAUGGCGGUUA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "53",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_974",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAAUUGGAUGUGGCAAUUUUGGAGA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "73",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_975",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAGACUGGCAGCAAGAGUGUGGAUG, just output the number of peptide percentage from 0 to 100.",
+            "answer": "48",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_976",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAACCAACCCUGAUAAAGAUGGUAA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "31",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_977",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAGUCCAUAAAUUUUUCGAUGGGAC, just output the number of peptide percentage from 0 to 100.",
+            "answer": "41",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_978",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAGAUGACACAAUUGGAGAUGGAAA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "28",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_979",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAUUGUUUUUUGACAGGGUUGGACA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "96",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_980",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAAAAAAAAAAAAUGGCGGCGGCGA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "77",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_981",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAACUGCAAAUCGACAGUCUAGGCUC, just output the number of peptide percentage from 0 to 100.",
+            "answer": "20",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_982",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAAACUUACCCUCAAAGUAUGGUGU, just output the number of peptide percentage from 0 to 100.",
+            "answer": "17",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_983",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAACACUGAAGUUGUGCAUGUGGGGCG, just output the number of peptide percentage from 0 to 100.",
+            "answer": "46",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_984",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAACAGGCGCGCAAGGUCCGGAGGCUG, just output the number of peptide percentage from 0 to 100.",
+            "answer": "95",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_985",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAUGGAAUUCCUAUUCGUACGGUCA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "22",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_986",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAACAGGCUUACUUUUUCAUGGGCAC, just output the number of peptide percentage from 0 to 100.",
+            "answer": "9",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_987",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAUGGACAACAAAGAAAUACGGAGA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "2",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_988",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAGUCGUUGAUCGCUUACGUGGGGG, just output the number of peptide percentage from 0 to 100.",
+            "answer": "67",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_989",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAACCUAGUAGUCACAGAGACUGGAGA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "55",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_990",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAGGCCUCCGAUGAAGCAGAGGAAA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "61",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_991",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAAGAACUUACCUUCUGGAUGGGAG, just output the number of peptide percentage from 0 to 100.",
+            "answer": "75",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_992",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAGGAGAAAAAACAAGAGGAGGAGG, just output the number of peptide percentage from 0 to 100.",
+            "answer": "83",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_993",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAACCUCUUUGUUCAUCAAAUGGCUC, just output the number of peptide percentage from 0 to 100.",
+            "answer": "82",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_994",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAUGUCUGGAGGCCAGAGCGGGUAU, just output the number of peptide percentage from 0 to 100.",
+            "answer": "60",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_995",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAAAAAAAGGAUACAAUCUUGGAAU, just output the number of peptide percentage from 0 to 100.",
+            "answer": "49",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_996",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAACCAUUUACCUGAAAAAUGGAAU, just output the number of peptide percentage from 0 to 100.",
+            "answer": "9",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_997",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAAAGCCAUACCUUUAGUAAGGAAG, just output the number of peptide percentage from 0 to 100.",
+            "answer": "69",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_998",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAUCUCAGGCUCUGAUGCUAGGCAG, just output the number of peptide percentage from 0 to 100.",
+            "answer": "7",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_999",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAACUGAAGAAAAAUGGAAUUGGCUA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "34",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1000",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAACAUACAUGCAAUGAAUGUGGGAA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "81",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1001",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAUAAUCUCACCUGGUUCAAGGUAG, just output the number of peptide percentage from 0 to 100.",
+            "answer": "9",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1002",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAACACAAUCCAUAUCAUGGGGCAG, just output the number of peptide percentage from 0 to 100.",
+            "answer": "4",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1003",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAACAAGGAUCCACUGGCUCCAGGGUU, just output the number of peptide percentage from 0 to 100.",
+            "answer": "35",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1004",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAACCAUGAAGCUGGAACAUCAGGUAA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "22",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1005",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAAGGGUAUCAUGAAGUAGAGGGAA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "1",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1006",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAGUCUGCAGACUUACUGAAGGAGC, just output the number of peptide percentage from 0 to 100.",
+            "answer": "40",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1007",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAGCUGGAAAAAGAAGAAGAGGAAA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "38",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1008",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAACAAAAAACCAACCUGAAGGGAAA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "8",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1009",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAACAAGUCUAGUUCUGUGGUGGAGG, just output the number of peptide percentage from 0 to 100.",
+            "answer": "97",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1010",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAGAAAAAACACCUACCGAUGGAAA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "53",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1011",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAACAUCUCAGUCUCCACAGGAGGGCA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "61",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1012",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAACUUGUCGGAUUCGGGAGAGGAGC, just output the number of peptide percentage from 0 to 100.",
+            "answer": "25",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1013",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAAAAAAAAUAGAUAUAAUUGGCCU, just output the number of peptide percentage from 0 to 100.",
+            "answer": "87",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1014",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAACAUACCUGUUGAUCUCCAAGGAAA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "94",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1015",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAAAAUCUACUUACGGCAGUGGCUC, just output the number of peptide percentage from 0 to 100.",
+            "answer": "71",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1016",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAGAAAUCAGAAGAGGGAUGGGCUA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "57",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1017",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAACAAGGACAUCCUACCUAUGGGGUC, just output the number of peptide percentage from 0 to 100.",
+            "answer": "54",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1018",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAACGAGCCCUUCUUACCUCUGGAGG, just output the number of peptide percentage from 0 to 100.",
+            "answer": "28",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1019",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAAAUACCGGAAUCUGAAGCGGAAG, just output the number of peptide percentage from 0 to 100.",
+            "answer": "92",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1020",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAGAGUUUGAAGCUAAUUUUGGCAA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "34",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1021",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAAGUUUACCUUGCAAUCAAGGAGC, just output the number of peptide percentage from 0 to 100.",
+            "answer": "4",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1022",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAACUAUAGACAUACCUCACGGACU, just output the number of peptide percentage from 0 to 100.",
+            "answer": "33",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1023",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAACAACUUACCCUGUUAACUGGCAG, just output the number of peptide percentage from 0 to 100.",
+            "answer": "91",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1024",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAGAUACCUGUCAUACUGUUGGGAG, just output the number of peptide percentage from 0 to 100.",
+            "answer": "78",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1025",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAGCUGGUGAGAUGCCAGGAGGGAG, just output the number of peptide percentage from 0 to 100.",
+            "answer": "67",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1026",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAACAAUACCUUAGCACUGAGGGGCA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "37",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1027",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAACAGGAUACUGAAGCAGCCAGGAAA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "89",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1028",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAUAAGCUCACCCAGGAUCAGGAUC, just output the number of peptide percentage from 0 to 100.",
+            "answer": "62",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1029",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAAAGUUCUUACUUUAGACAGGAGA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "3",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1030",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAAUAGGAGGCCUGCCAGUCGGAAG, just output the number of peptide percentage from 0 to 100.",
+            "answer": "81",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1031",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAUAAAUCCACCUCUUGCAGGGUGG, just output the number of peptide percentage from 0 to 100.",
+            "answer": "7",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1032",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAACAAGGUGAAGGGGCAAUCUGGGCG, just output the number of peptide percentage from 0 to 100.",
+            "answer": "56",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1033",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAACAGGAAAAAGCCCUUCGGCGGCUC, just output the number of peptide percentage from 0 to 100.",
+            "answer": "47",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1034",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAUGAGGAAAGUCAACUGGAGGAAG, just output the number of peptide percentage from 0 to 100.",
+            "answer": "49",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1035",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAACAAGAAUCACUUCACUGAGGUGU, just output the number of peptide percentage from 0 to 100.",
+            "answer": "5",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1036",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAAAAGGCUUACCAAGGCCAGGAAA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "20",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1037",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAAUACCUACCGUCCAUUGAGGCAG, just output the number of peptide percentage from 0 to 100.",
+            "answer": "36",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1038",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAUUUUUACAAUGAACAUGAGGAGA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "62",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1039",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAGGAUUUUUGCUUCUUCAGGGACU, just output the number of peptide percentage from 0 to 100.",
+            "answer": "90",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1040",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAACGUAAGGAAACCUGAAAAGGCAG, just output the number of peptide percentage from 0 to 100.",
+            "answer": "4",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1041",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAUCUGUCAAGUCAUAAAAAGGCUA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "21",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1042",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAUCUUUAAAACUUACCUGGGGAAC, just output the number of peptide percentage from 0 to 100.",
+            "answer": "42",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1043",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAGCAGUGGUGGCGGCCUUGGGUUG, just output the number of peptide percentage from 0 to 100.",
+            "answer": "38",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1044",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAUCUUUAAAACAUACCUUUGGAAG, just output the number of peptide percentage from 0 to 100.",
+            "answer": "32",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1045",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAACAGAAGAUAACUCACCUGGGGGAU, just output the number of peptide percentage from 0 to 100.",
+            "answer": "94",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1046",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAAUAGCAUCAGAGAUAUGUGGUGA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "7",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1047",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAUAAGUCAAGAAAACCACUGGAUG, just output the number of peptide percentage from 0 to 100.",
+            "answer": "44",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1048",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAACAAGAAAGCUCAUGCCCCAGGUAA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "25",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1049",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAACCCACCAAAGCCAGGGUCAGGUCA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "99",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1050",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAUGCAGUGUAAGAAGCAUUGGAAG, just output the number of peptide percentage from 0 to 100.",
+            "answer": "74",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1051",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAGUCAGAAAGGUGCCUCCUGGUUU, just output the number of peptide percentage from 0 to 100.",
+            "answer": "85",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1052",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAUUCACUGCUGCACUCACAGGAUC, just output the number of peptide percentage from 0 to 100.",
+            "answer": "13",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1053",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAAGUCCUGAGAGCCAGAAGGGCGU, just output the number of peptide percentage from 0 to 100.",
+            "answer": "97",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1054",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAACCAUGCUAACUUUAACUUUGGUAU, just output the number of peptide percentage from 0 to 100.",
+            "answer": "56",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1055",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAACCCAUUCCCACACUAGCUCGGACU, just output the number of peptide percentage from 0 to 100.",
+            "answer": "40",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1056",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAACAUGAGAGAAUUCAUACUGGGGA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "12",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1057",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAAAAGCCCUUACCGCAUCUGGAUA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "99",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1058",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAUCAUCACAAAACACAAAUGGAGU, just output the number of peptide percentage from 0 to 100.",
+            "answer": "22",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1059",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAUGAAGAUUUAGGACAGGAGGAAA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "59",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1060",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAAAAACAAACAGAUUAUGAGGACU, just output the number of peptide percentage from 0 to 100.",
+            "answer": "69",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1061",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAACCAACUGAGAAAUGAGAAUGGGUG, just output the number of peptide percentage from 0 to 100.",
+            "answer": "94",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1062",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAGAGCAAAUGGAACGAGAUGGAUG, just output the number of peptide percentage from 0 to 100.",
+            "answer": "95",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1063",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAAUUUCACGUUUCUCGUCUGGCUU, just output the number of peptide percentage from 0 to 100.",
+            "answer": "10",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1064",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAGCGGGUGCCGUGCUUGGCGGGUU, just output the number of peptide percentage from 0 to 100.",
+            "answer": "16",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1065",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAACAUCCGAAGUCAUGACCUGGGAUA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "17",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1066",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAAUGCCCACCUGCAGCUCUGGUGA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "80",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1067",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAACCGUCUUUGCCGAAAUCUAGGAAA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "24",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1068",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAAGUCAGGCUACCUGAAAAGGUGG, just output the number of peptide percentage from 0 to 100.",
+            "answer": "7",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1069",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAUCUUCCUCCUUUGGUGGAGGGGA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "47",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1070",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAAACAAGAUUAUUUGCAAGGGGCA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "7",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1071",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAACAAUCACGGCAAUUUCCUGGUGU, just output the number of peptide percentage from 0 to 100.",
+            "answer": "81",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1072",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAACAUAUUUAAAAAAAAUUCUGGCGG, just output the number of peptide percentage from 0 to 100.",
+            "answer": "25",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1073",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAACAUGUUCCAUUAUGUUGGUGGUAU, just output the number of peptide percentage from 0 to 100.",
+            "answer": "55",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1074",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAACACAGAGAAAUUAAACUACGGGAA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "98",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1075",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAAUGGGUGCUGAUUUGCUUGGAUC, just output the number of peptide percentage from 0 to 100.",
+            "answer": "16",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1076",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAGCAUUCGCACCUGAAGUUGGGCC, just output the number of peptide percentage from 0 to 100.",
+            "answer": "28",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1077",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAACCUACCUGAAGACUGCAAGGGUCA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "57",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1078",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAACACAUCAUUCAAGACUGGUGGACA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "38",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1079",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAGGACUACUUCUAGCCAAUGGCAG, just output the number of peptide percentage from 0 to 100.",
+            "answer": "69",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1080",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAAUAUCAGAAAAUUAAUUUGGACG, just output the number of peptide percentage from 0 to 100.",
+            "answer": "97",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1081",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAACACUUCUGUUUCUCUCAGUGGAGU, just output the number of peptide percentage from 0 to 100.",
+            "answer": "26",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1082",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAACUUACACUUGGCCAGCAAGGGGU, just output the number of peptide percentage from 0 to 100.",
+            "answer": "2",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1083",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAGUGGACCUCCUUCCUAAAGGCCA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "24",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1084",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAGGAGAAAGAGAAAUCAAAGGAUA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "70",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1085",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAAGUCUUACUUCCUGUCUUGGAUC, just output the number of peptide percentage from 0 to 100.",
+            "answer": "99",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1086",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAAAAAAAGAGCUUACGGCAGGUUU, just output the number of peptide percentage from 0 to 100.",
+            "answer": "98",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1087",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAUAUGCAGAGAAGUAUUCCGGCAU, just output the number of peptide percentage from 0 to 100.",
+            "answer": "26",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1088",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAAAUACUGACCAUAAUUUUGGAGG, just output the number of peptide percentage from 0 to 100.",
+            "answer": "53",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1089",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAACACUAUCUUCUCAAAUAGGGAUG, just output the number of peptide percentage from 0 to 100.",
+            "answer": "74",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1090",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAACAUGGAGUCUAUUGGGUUAGGAAU, just output the number of peptide percentage from 0 to 100.",
+            "answer": "16",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1091",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAGCCGACUUACAUGCUUUAGGUGC, just output the number of peptide percentage from 0 to 100.",
+            "answer": "97",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1092",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAACUUACAUGCCCAAGUGUUGGCCC, just output the number of peptide percentage from 0 to 100.",
+            "answer": "29",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1093",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAACAUAUGCUCUGAGUUGCCAGGAUC, just output the number of peptide percentage from 0 to 100.",
+            "answer": "91",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1094",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAACAAGAAGGCACCCCUGAGGGGCUC, just output the number of peptide percentage from 0 to 100.",
+            "answer": "76",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1095",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAAGAAAAUACUUACAGGAUGGUCU, just output the number of peptide percentage from 0 to 100.",
+            "answer": "71",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1096",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAGUGUAUGAAGAACAUCUGGGCCA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "55",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1097",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAAGCUAAUUUUUGCUACUUGGGUU, just output the number of peptide percentage from 0 to 100.",
+            "answer": "18",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1098",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAUGCUGUGCUAGACAGAAUGGCGG, just output the number of peptide percentage from 0 to 100.",
+            "answer": "28",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1099",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAACAUAUUUAAAAAACAUUCUGGAGG, just output the number of peptide percentage from 0 to 100.",
+            "answer": "97",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1100",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAACCUCAUGUCAUACAUCGAGGGUUC, just output the number of peptide percentage from 0 to 100.",
+            "answer": "7",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1101",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAACAACAGUCACAUUGUGUUUGGACU, just output the number of peptide percentage from 0 to 100.",
+            "answer": "31",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1102",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAACAUGAAUGUGGAGAAUGUGGGAAA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "58",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1103",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAUGAUGACAACAGCAAUGUGGGAU, just output the number of peptide percentage from 0 to 100.",
+            "answer": "85",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1104",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAACAACAUCCCUGGAACUGGGUCU, just output the number of peptide percentage from 0 to 100.",
+            "answer": "19",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1105",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAAUAGGUUCCUGACAUAAGGGAUG, just output the number of peptide percentage from 0 to 100.",
+            "answer": "34",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1106",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAAAAGGCAAAAGAAAAUCCGGCCA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "84",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1107",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAACAUUAAUGGACAUGUGGAAGGCCC, just output the number of peptide percentage from 0 to 100.",
+            "answer": "61",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1108",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAGAAAAAGUCCAAUCACCAGGAAU, just output the number of peptide percentage from 0 to 100.",
+            "answer": "20",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1109",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAACCUUACUAUCUGACACAGGCAC, just output the number of peptide percentage from 0 to 100.",
+            "answer": "31",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1110",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAACAAUAUCUCAAAUCAAAUUGGAAU, just output the number of peptide percentage from 0 to 100.",
+            "answer": "21",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1111",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAAGUUUACUUACUUUUCUCGGCAA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "51",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1112",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAACAACUUACCCCCCUCUAGGUGG, just output the number of peptide percentage from 0 to 100.",
+            "answer": "92",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1113",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAUUCAUGCAUCUCAACAAAGGUGG, just output the number of peptide percentage from 0 to 100.",
+            "answer": "19",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1114",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAACAACAGAGAAGCUACUAUUGGGGU, just output the number of peptide percentage from 0 to 100.",
+            "answer": "56",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1115",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAGAAGUUUGACAAAGAGACGGAAA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "4",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1116",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAAAAAACAGUUUUGGGGCGGGGCG, just output the number of peptide percentage from 0 to 100.",
+            "answer": "17",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1117",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAACAAAACUAUUUUUACCUUUGGUGG, just output the number of peptide percentage from 0 to 100.",
+            "answer": "42",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1118",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAUAGGAUGGAAGAAUGGAUGGCAA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "81",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1119",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAACAUAAGAUAAUCCAUACUGGGGAA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "44",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1120",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAACCCUUACCACACUUGCUGAGGUGU, just output the number of peptide percentage from 0 to 100.",
+            "answer": "32",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1121",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAGGCUACGUAGGCACUCUGGGGAA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "18",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1122",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAAGCACACUCACGGCUUCUGGUGU, just output the number of peptide percentage from 0 to 100.",
+            "answer": "97",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1123",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAUUCCUGGUUACCGUUGGGGGGAC, just output the number of peptide percentage from 0 to 100.",
+            "answer": "37",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1124",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAGAGAAGGUGUCACUCCCUGGGCA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "52",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1125",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAACAUGAAGAAGCAGAGAAGCGGAAG, just output the number of peptide percentage from 0 to 100.",
+            "answer": "6",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1126",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAACAUGCGUGUGCUAAAAUGUGGGCA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "38",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1127",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAACCGCCAGCGUCAUCUAAUGGGGUU, just output the number of peptide percentage from 0 to 100.",
+            "answer": "73",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1128",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAGAGUACCUGUGCCUAGUUGGUCA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "0",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1129",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAACAAACCGCUGCACAGCUGGCAU, just output the number of peptide percentage from 0 to 100.",
+            "answer": "90",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1130",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAGAAAAAGAAAAGGCCGAAGGUCA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "39",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1131",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAAAAACCAAUGUUAGAAAAGGUUU, just output the number of peptide percentage from 0 to 100.",
+            "answer": "69",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1132",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAACAGACUGACCCCUCCAGCAGGCUU, just output the number of peptide percentage from 0 to 100.",
+            "answer": "30",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1133",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAAAGACUUUUACCUUGAGUGGUGA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "43",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1134",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAACAUGAUGCCAGCAGAGAAGGGCCG, just output the number of peptide percentage from 0 to 100.",
+            "answer": "13",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1135",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAUUUUUUUGAGGUGGAAGUGGUCU, just output the number of peptide percentage from 0 to 100.",
+            "answer": "90",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1136",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAACAGAAGACGCUCUGCAAAAGGUAU, just output the number of peptide percentage from 0 to 100.",
+            "answer": "40",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1137",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAUGGAACAAAUAAAAGCAGGGAAC, just output the number of peptide percentage from 0 to 100.",
+            "answer": "3",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1138",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAACAUCCGAGCAGCUUCAUAAGGCUG, just output the number of peptide percentage from 0 to 100.",
+            "answer": "49",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1139",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAUCUUACCUGAGCCAUUAUGGAUC, just output the number of peptide percentage from 0 to 100.",
+            "answer": "48",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1140",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAACCCACAGGGUUACCAUUUGGAUG, just output the number of peptide percentage from 0 to 100.",
+            "answer": "27",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1141",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAACUAUUAGUCCCAGUGUUCGGUUG, just output the number of peptide percentage from 0 to 100.",
+            "answer": "42",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1142",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAACAGUGAAGGAGCGGGAAGAGGAGA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "15",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1143",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAAAGCCUUACCUUUGUUUUGGGUU, just output the number of peptide percentage from 0 to 100.",
+            "answer": "29",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1144",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAAUGCCUAAACUCCUACAAGGCGU, just output the number of peptide percentage from 0 to 100.",
+            "answer": "14",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1145",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAGGAAAAGAAAGACAAGAAGGACA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "35",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1146",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAACAGACCACAUAUUCUGAAGGGUUA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "23",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1147",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAACAAUACCUUAGCACUGAGGGGC, just output the number of peptide percentage from 0 to 100.",
+            "answer": "89",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1148",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAGGAAGUCAUCUUACAUCUGGCAU, just output the number of peptide percentage from 0 to 100.",
+            "answer": "86",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1149",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAGUCUUACCUUAAAUGUCAGGAGA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "11",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1150",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAAGUUCAAGGAGACGUUGAGGCCU, just output the number of peptide percentage from 0 to 100.",
+            "answer": "13",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1151",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAUAAGUAUCGUCACCAACUGGAAU, just output the number of peptide percentage from 0 to 100.",
+            "answer": "47",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1152",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAACCAGAUGAAAUUGAAGGUUGGGAG, just output the number of peptide percentage from 0 to 100.",
+            "answer": "51",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1153",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAACACCAUGUUUUCUUCUCAAGGUAC, just output the number of peptide percentage from 0 to 100.",
+            "answer": "86",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1154",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAACCUCAGAAAAAGGUCUCACGGCAG, just output the number of peptide percentage from 0 to 100.",
+            "answer": "61",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1155",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAAACACAAUCCAUAUCAUGGGGCA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "59",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1156",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAACCACUGGGAAGAAUAUGCGGGACC, just output the number of peptide percentage from 0 to 100.",
+            "answer": "98",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1157",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAACCAGAGAAGAGACUGAGACGGCAU, just output the number of peptide percentage from 0 to 100.",
+            "answer": "5",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1158",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAUGCUGAACUCACCAGAGUGGCAA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "65",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1159",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAUCUGUAGGUUCUGACUGGGGAGA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "67",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1160",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAACACAUAGCAAUUAAAAAUGGGCUU, just output the number of peptide percentage from 0 to 100.",
+            "answer": "81",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1161",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAACAGAGAGGUGACAGCCACAGGUGG, just output the number of peptide percentage from 0 to 100.",
+            "answer": "52",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1162",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAACAUGCUCAGUCCCCAGCAGGUUC, just output the number of peptide percentage from 0 to 100.",
+            "answer": "68",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1163",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAACAGCAGUGUGAUGAAAGCAGGGAA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "1",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1164",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAAGAAAAAGUCCAGUAACCGGGAA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "9",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1165",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAACCAGAUCCUUUUAAAAUCUGGGCC, just output the number of peptide percentage from 0 to 100.",
+            "answer": "86",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1166",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAACCUACCUGAAGACUGCAAGGGUC, just output the number of peptide percentage from 0 to 100.",
+            "answer": "56",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1167",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAAAAUCUCUCACUUGACUUGGUUU, just output the number of peptide percentage from 0 to 100.",
+            "answer": "47",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1168",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAUACUUGCAGAAAAUAGUAGGAAA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "37",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1169",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAUCAGUGAGCAAGAAAGUAGGUCU, just output the number of peptide percentage from 0 to 100.",
+            "answer": "0",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1170",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAACAAAACUAAUUAGCUGCUUGGCGG, just output the number of peptide percentage from 0 to 100.",
+            "answer": "62",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1171",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAACUAUGAGAAAGAUUUGUUGGAUC, just output the number of peptide percentage from 0 to 100.",
+            "answer": "97",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1172",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAAAAGCCCUCACCAACUGGGGCAA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "54",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1173",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAACAGAAAUUAAAGUCUACUGGAAU, just output the number of peptide percentage from 0 to 100.",
+            "answer": "53",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1174",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAACAGCAAAGGAGCUAGAAGAGGAGG, just output the number of peptide percentage from 0 to 100.",
+            "answer": "20",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1175",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAAUGUACCUGCAGUUCCCAGGAAA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "3",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1176",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAUACCACAUGCAGAUUGUGGGGGA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "4",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1177",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAACAGAGAAAGGAAACUCAGCGGAAA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "72",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1178",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAAAAAAAAAAAAAUGCAGCGGGAG, just output the number of peptide percentage from 0 to 100.",
+            "answer": "50",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1179",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAGAUUCACUUACCUCUUGAGGAAA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "96",
+            "eval": "Accuracy"
+        },
+        {
+            "no": "RNA_1180",
+            "category": "sgRNA efficiency prediction",
+            "question": "Please predict the efficiency of the following sequence AAAAAAAAACUUACCUCUGCAAUUAGGUCA, just output the number of peptide percentage from 0 to 100.",
+            "answer": "21",
+            "eval": "Accuracy"
+        }
+    ]
+}

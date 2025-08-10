@@ -1,0 +1,352 @@
+{
+    "0": {
+        "origin_prompt": "You are a leading expert in MedQA_CN. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: 1．病毒性脑膜炎脑脊液检查往往是（　　）。\nA: 外观清亮的\nB: 外观呈毛玻璃样\nC: 墨汁染色\nD: 脑脊液白细胞数为数百至数千\nE: 抗酸染色\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. Viral meningitis is typically caused by a viral infection, which can include enteroviruses, herpesviruses, and arboviruses.\n2. The characteristic feature of viral meningitis is the presence of a clear cerebrospinal fluid (CSF) with a mild increase in white blood cells, usually less than 500 cells/mm³, predominantly lymphocytes.\n3. In contrast, bacterial meningitis would typically show cloudy CSF, a high white blood cell count, and other abnormalities like increased protein and decreased sugar levels.\n\nFinal answer: A (Appearance of the CSF is usually clear in viral meningitis)"
+        ],
+        "gold": "A"
+    },
+    "1": {
+        "origin_prompt": "You are a leading expert in MedQA_CN. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: 高渗性非酮症糖尿病昏迷补液时常选用（　　）。\nA: 低渗盐水\nB: 等渗盐水\nC: 高渗盐水\nD: 胶体液\nE: 葡萄糖液\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. High osmotic nonketotic diabetic coma (HNDC) is a severe complication of diabetes characterized by hyperglycemia, dehydration, and hyperosmolarity.\n2. The primary treatment for HNDC involves aggressive fluid replacement to correct dehydration and reduce osmolarity.\n3. The choice of fluid for replacement should be isotonic to avoid further osmotic damage to the cells.\n4. Among the options provided, the most suitable fluid for this purpose is isotonic saline (0.9% sodium chloride solution).\n\nFinal answer: B. Isotonic saline (0.9% sodium chloride solution) is the preferred fluid for replacement therapy in high osmotic nonketotic diabetic coma."
+        ],
+        "gold": "B"
+    },
+    "2": {
+        "origin_prompt": "You are a leading expert in MedQA_CN. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: 甲状腺功能亢进内科治疗宜选用（　　）。\nA: 大剂量碘剂\nB: 甲巯咪唑\nC: 甲苯磺丁脲\nD: 小剂量碘剂\nE: 以上都不是\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. The question asks for the preferred choice of medication for the internal treatment of hyperthyroidism.\n2. Among the given options, we need to identify which one is commonly used for this condition.\n3. Iodine is known to be used in the treatment of hyperthyroidism, but the key is to determine the appropriate dose.\n4. Large doses of iodine can be used in certain situations, but they are not the primary choice for long-term treatment.\n5. Small doses of iodine are typically used for other purposes, such as in the treatment of goiter.\n6. Methylmercaptoimidazole (MMI) or carbimazole, commonly known as thiamazole, is a medication used to treat hyperthyroidism by reducing the production of thyroid hormones.\n7. Methylmercaptoimidazole is the active ingredient in both thiamazole and carbimazole, making it the most appropriate choice for the internal treatment of hyperthyroidism.\n\nFinal answer: B. Methylmercaptoimidazole (MMI) or carbimazole"
+        ],
+        "gold": "B"
+    },
+    "3": {
+        "origin_prompt": "You are a leading expert in MedQA_CN. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: 合并急性左心衰竭的阵发性室上性心动过速，最佳治疗是（　　）。\nA: 静脉注射维拉帕米\nB: Valsalva动作\nC: 直流电复律\nD: 置入起搏器\nE: 射频消融\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. The patient has acute left heart failure and阵发性室上性心动过速 (paroxysmal supraventricular tachycardia, PSVT).\n2. In patients with heart failure, electrical cardioversion (direct current, DC shock) is the preferred method to treat PSVT, as it is quick and effective.\n3. Drugs like verapamil (A) can be used, but they may have negative inotropic effects and could potentially worsen heart failure.\n4. Valsalva maneuver (B) and pacemaker insertion (D) are not effective treatments for PSVT.\n5. Catheter ablation (E) is a possible long-term solution, but not the best choice for an acute situation like this.\n\nFinal answer: C. 直流电复律 (direct current cardioversion)"
+        ],
+        "gold": "C"
+    },
+    "4": {
+        "origin_prompt": "You are a leading expert in MedQA_CN. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: 下列哪项属于Ⅱ型超敏反应的疾病？（　　）\nA: 血小板减少性紫癜\nB: 过敏性鼻炎\nC: SLE\nD: 血清病\nE: 溃疡性结肠炎\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. II型超敏反应，又称细胞毒型或细胞溶解型超敏反应，其特点是抗原结合靶细胞表面的抗原，通过抗体依赖的细胞介导的细胞毒作用（ADCC）或补体依赖的细胞毒作用（CDC），导致靶细胞损伤。\n2. 血小板减少性紫癜是一种自身免疫性疾病，其中自身抗体攻击患者的血小板，导致血小板减少和出血倾向。这符合II型超敏反应的特点。\n3. 过敏性鼻炎、SLE、血清病和溃疡性结肠炎虽然都是免疫性疾病，但它们分别属于I型（速发型）、III型（免疫复合物型）、III型和IV型（迟发型）超敏反应，而不是II型超敏反应。\n\nFinal answer: A. 血小板减少性紫癜"
+        ],
+        "gold": "A"
+    },
+    "5": {
+        "origin_prompt": "You are a leading expert in MedQA_CN. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: 颈椎骨折脱位合并截瘫的严重并发症不包括（　　）。\nA: 呼吸道感染\nB: 心血管系统紊乱\nC: 泌尿系感染和结石\nD: 褥疮\nE: 高热\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. The question asks for a severe complication that is not associated with cervical spine fractures and dislocations leading to paralysis.\n2. We need to identify the common complications of such injuries, which include respiratory issues, urinary tract infections and stones, bedsores, and high fever.\n3. Cardiovascular system紊乱 (disorders) is not a recognized complication of cervical spine injuries and paralysis.\n\nFinal answer: B (心血管系统紊乱)"
+        ],
+        "gold": "B"
+    },
+    "6": {
+        "origin_prompt": "You are a leading expert in MedQA_CN. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: 女性，28岁，10天前自海口来京。来京后，开始发冷、发热，持续3小时后出汗、热退，每两日发作一次，涂片找到疟原虫滋养体。最常用的治疗方案是（　　）。\nA: 氯喹加伯氨喹\nB: 乙胺嘧啶加伯氨喹\nC: 奎宁加伯胺喹\nD: 磺胺加乙胺嘧啶\nE: 阿的平加伯氨喹\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. The patient is a 28-year-old female who has recently traveled from Haikou to Beijing.\n2. She has a history of fever with chills, followed by sweating and resolution of fever, occurring every two days.\n3. Blood smear examination has confirmed the presence of malaria parasites (Plasmodium species).\n\nGiven the patient's symptoms and the identification of malaria parasites, the most appropriate treatment would be a combination of chloroquine and伯氨喹 (primaquine). This combination is effective against both the blood-stage (chloroquine) and liver-stage (伯氨喹) of the malaria parasite.\n\nFinal answer: A. chloroquine + 伯氨喹"
+        ],
+        "gold": "A"
+    },
+    "7": {
+        "origin_prompt": "You are a leading expert in MedQA_CN. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: 3．颈胸手术后可采取（　　）。\nA: 侧卧位\nB: 俯卧位\nC: 头高脚低斜坡卧位\nD: 高半坐位卧位\nE: 低半坐位卧位\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. The question asks about the appropriate position for a patient after neck and chest surgery.\n2. The options provided are various types of lying positions, and we need to determine which one is suitable for postoperative care.\n3. High semi-Fowler's position (high half-sitting position) is commonly used for patients who have undergone neck or chest surgery, as it helps to reduce the risk of aspiration, improve lung function, and facilitate drainage of secretions.\n\nFinal answer: D. High semi-Fowler's position (high half-sitting position)"
+        ],
+        "gold": "D"
+    },
+    "8": {
+        "origin_prompt": "You are a leading expert in MedQA_CN. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: 根据乳腺癌在不同部位发生率，扪诊时最需要注意的是乳腺的（　　）。\nA: 内上象限\nB: 内下象限\nC: 外下象限\nD: 外上象限\nE: 中央区\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. The question asks about the most important area to focus on during breast examination for detecting breast cancer.\n2. Breast cancer has different incidence rates in various parts of the breast.\n3. The highest incidence of breast cancer is found in the upper outer quadrant of the breast.\n\nFinal answer: D. 外上象限"
+        ],
+        "gold": "D"
+    },
+    "9": {
+        "origin_prompt": "You are a leading expert in MedQA_CN. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: 男，40岁。田间劳动时右足底被割破，伤口长2cm，深达肌腱，自行包扎。10天后感乏力、畏光、咀嚼无力、下肢痛。无神经系统疾病史。查体：满面大汗，苦笑脸，张口困难，角弓反张，阵发性四肢痉挛，心肺查体无异常，腹肌强直，无压痛。2．下列治疗措施中最重要的是（　　）。\nA: 控制肌肉痉挛，防止窒息\nB: 中和血中毒素\nC: 应用大剂量青霉素\nD: 纠正水电解质失衡\nE: 吸氧\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. The patient has a history of a foot injury that was not properly treated, leading to symptoms of tetanus.\n2. Tetanus is a serious bacterial infection that causes muscle stiffness and spasms, which can be life-threatening.\n3. The most important treatment for tetanus is to control the muscle spasms and prevent complications such as respiratory failure.\n\nFinal answer: A"
+        ],
+        "gold": "A"
+    },
+    "10": {
+        "origin_prompt": "You are a leading expert in MedQA_CN. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: 1．新生儿生理性黄疸的主要原因是（　　）。\nA: 皮肤发亮，水肿毳毛多\nB: 皮肤色红润，皮下脂肪丰满，毳毛少\nC: 肝葡萄糖醛酸基转移酶活性低\nD: 呼吸常不规则，甚至呼吸暂停\nE: 足月新生儿生后3～5天出现乳腺肿大\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. The question asks about the primary cause of physiological jaundice in newborns.\n2. Option A describes the appearance of a newborn with edema and vellus hair, which is not related to jaundice.\n3. Option B describes the normal appearance of a newborn's skin, which is not the cause of jaundice.\n4. Option C mentions low activity of glucuronyl transferase, which is a key enzyme in bilirubin metabolism. This is a possible cause of jaundice.\n5. Option D describes irregular breathing, which is a separate issue and not related to jaundice.\n6. Option E mentions breast enlargement in full-term newborns, which is a normal生理现象 and not related to jaundice.\n\nFinal answer: C (肝葡萄糖醛酸基转移酶活性低)"
+        ],
+        "gold": "C"
+    },
+    "11": {
+        "origin_prompt": "You are a leading expert in MedQA_CN. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: 1．支气管哮喘患者发生Ⅱ型呼吸衰竭最主要的机制是（　　）。\nA: 肺泡通气量下降\nB: 通气/血流比例失衡\nC: 弥散性功能障碍\nD: 肺内分流\nE: 耗氧量增加\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. In II型呼吸衰竭, the main issue is a decrease in the partial pressure of oxygen (PaO2) and an increase in the partial pressure of carbon dioxide (PaCO2) in the arterial blood.\n2. Bronchial asthma is a condition characterized by narrowing of the airways, which can lead to air trapping and increased airway resistance, making it difficult for patients to exhale and remove carbon dioxide from their lungs.\n3. The primary mechanism behind II type respiratory failure in bronchial asthma patients is the decrease in alveolar ventilation due to the obstruction of the airways, which results in the retention of carbon dioxide and a subsequent increase in PaCO2.\n\nFinal answer: A (肺泡通气量下降)"
+        ],
+        "gold": "A"
+    },
+    "12": {
+        "origin_prompt": "You are a leading expert in MedQA_CN. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: 作为幽门螺旋杆菌根除治疗后复查的首选方法是（　　）。\nA: 胃组织学检查\nB: 快速尿素酶试验\nC: 幽门螺旋杆菌培养\nD: 14C尿素呼气试验\nE: 血清学检查\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. The question asks for the preferred method to check for the eradication of Helicobacter pylori after treatment.\n2. Among the given options, we need to identify the most accurate and non-invasive method.\n3. 14C尿素呼气试验 (D) is a non-invasive test that measures the amount of urea broken down by H. pylori in the stomach, indicating the presence or absence of the bacteria.\n4. This test is considered the gold standard for detecting H. pylori and is also suitable for post-treatment follow-up.\n\nFinal answer: D. 14C尿素呼气试验"
+        ],
+        "gold": "D"
+    },
+    "13": {
+        "origin_prompt": "You are a leading expert in MedQA_CN. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: 患者，女，55岁。胸骨后剧烈疼痛5小时，伴大汗淋漓，血压80/40mmHg，心率144次/分，面色苍白，四肢发冷，心电图提示广泛心肌梗死。3．该患者最理想的有效治疗措施是（　　）。\nA: 硝酸甘油扩血管\nB: 毛花苷丙强心\nC: 尿激酶溶栓\nD: 主动脉内球囊反搏术\nE: 直接PTCA术\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. The patient is a 55-year-old female with chest pain, hypotension, tachycardia, and signs of shock, indicating a severe cardiovascular event.\n2. The heart attack is extensive, as indicated by the ECG showing widespread myocardial infarction.\n3. The ideal treatment for such a patient should be focused on quickly restoring blood flow to the affected heart muscle.\n\nFinal answer: E. Direct PTCA (percutaneous transluminal coronary angioplasty) is the most effective treatment for this patient, as it directly opens the blocked coronary artery, restoring blood flow and minimizing heart muscle damage."
+        ],
+        "gold": "D"
+    },
+    "14": {
+        "origin_prompt": "You are a leading expert in MedQA_CN. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: 下列哪项是易出现逆行性遗忘症状的疾病？（　　）\nA: 脑外伤\nB: 精神分裂症\nC: 焦虑性神经症\nD: 老年性痴呆\nE: 抑郁症\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. The question asks about a disease that is likely to cause symptoms of retrograde amnesia, which is the inability to recall memories from before a certain point in time.\n2. Among the given options, brain injuries, such as those caused by a traumatic brain injury, can lead to memory loss, including retrograde amnesia.\n3. The other options, such as anxiety, depression, and some forms of dementia, can also cause memory issues, but they are not specifically associated with retrograde amnesia.\n\nFinal answer: A (脑外伤)"
+        ],
+        "gold": "A"
+    },
+    "15": {
+        "origin_prompt": "You are a leading expert in MedQA_CN. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: 人类的MHC定位的染色体（　　）。\nA: 第17号染色体\nB: 第2号染色体\nC: 第15号染色体\nD: 第6号染色体\nE: 第9号染色体\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. The question asks about the location of the Major Histocompatibility Complex (MHC) in humans, which is a set of genes that play a crucial role in the immune system.\n2. MHC genes are located on specific chromosomes, and the question provides several options (A, B, C, D, and E) for the correct chromosome.\n3. To find the correct answer, we need to identify the chromosome on which the MHC genes are located in humans.\n\nFinal answer: The MHC in humans is located on chromosome 6 (option D)."
+        ],
+        "gold": "D"
+    },
+    "16": {
+        "origin_prompt": "You are a leading expert in MedQA_CN. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: 附睾结核多继发于（　　）。\nA: 肾结核\nB: 骨结核\nC: 淋巴结核\nD: 肠结核\nE: 肺结核\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. The question asks about the most common source of infection for epididymal tuberculosis.\n2. Tuberculosis is a bacterial infection caused by Mycobacterium tuberculosis, which primarily affects the lungs but can spread to other parts of the body.\n3. Among the options provided, the most common route of spread for tuberculosis is through the lymphatic system or bloodstream from a primary site of infection, such as the lungs.\n\nFinal answer: E. Lung tuberculosis is the most common source of infection for epididymal tuberculosis."
+        ],
+        "gold": "A"
+    },
+    "17": {
+        "origin_prompt": "You are a leading expert in MedQA_CN. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: 运动员百米赛跑途中突然闻及左膝撕裂声，然后倒地，查体左膝不能主动伸，X线片显示髌骨中段骨折，考虑造成骨折的原因是（　　）。\nA: 直接暴力\nB: 间接暴力\nC: 病理性骨折\nD: 肌肉拉力\nE: 积累性劳损\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. The question describes a scenario where an athlete experiences a sudden knee injury during a race, followed by a fracture in the middle of the patella (kneecap) as observed on X-rays.\n2. The patella is a small bone that sits at the front of the knee joint, and its primary function is to protect the knee and improve the efficiency of the quadriceps muscle. It is connected to the quadriceps tendon above and the patellar tendon below.\n3. The question asks for the cause of the fracture, and the options provided are direct暴力, indirect暴力,病理性骨折,肌肉拉力, and积累性劳损.\n\nFinal answer: D. 肌肉拉力"
+        ],
+        "gold": "D"
+    },
+    "18": {
+        "origin_prompt": "You are a leading expert in MedQA_CN. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: 第二产程期间诊断胎儿窘迫，最有价值的方法是（　　）。\nA: 用听筒听取胎心率并计数\nB: 测胎儿头皮血pH\nC: B型超声检查羊水平段\nD: 测定孕妇尿雌三醇值\nE: 羊膜镜观察羊水性状\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. The question asks for the most valuable method to diagnose fetal distress during the second stage of labor.\n2. Among the options, A, B, C, D, and E, we need to identify which method is most effective in this specific situation.\n3. Option A, using a stethoscope to listen to and count the fetal heart rate, is a common method but may not be the most accurate during labor.\n4. Option B, measuring fetal scalp blood pH, provides direct information about the acid-base balance of the fetus, which is crucial for diagnosing fetal distress.\n5. Option C, B-type ultrasound to check the amniotic fluid level, is helpful for assessing fetal well-being but may not be as direct in diagnosing fetal distress during labor.\n6. Option D, measuring the mother's urine estriol level, is an indirect indicator of fetal well-being but not specific to the second stage of labor.\n7. Option E, observing the amniotic fluid's status with a speculum, can indicate fetal distress but may not provide immediate information during labor.\n\nFinal answer: B (measuring fetal scalp blood pH)"
+        ],
+        "gold": "B"
+    },
+    "19": {
+        "origin_prompt": "You are a leading expert in MedQA_CN. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: Thomas征阳性提示（　　）。\nA: 骶髂关节炎\nB: 膝关节屈曲挛缩\nC: 腰椎间盘突出症\nD: 髋关节屈曲挛缩\nE: 腰椎管狭窄\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. Thomas征是一种用于检查髋关节屈曲挛缩的测试。\n2. 当患者仰卧，将健侧膝关节屈曲并贴近胸部时，如果患侧膝关节不能完全接触床面，则提示髋关节屈曲挛缩。\n3. 因此，Thomas征阳性提示髋关节屈曲挛缩。\n\nFinal answer: D. 髋关节屈曲挛缩"
+        ],
+        "gold": "D"
+    },
+    "20": {
+        "origin_prompt": "You are a leading expert in MedQA_CN. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: 10个月女婴，体重10kg，头围45cm，方颅，前囟1.5cm平坦，今晨突然抽搐一次，持续1～2分钟缓解，当时测体温38.5℃，抽搐后即入睡，醒后活动如常。查血钙1.75mmol/L（7mg/d1），血磷1.45mmol/L（4.5mg/dl）。最可能的惊厥原因是（　　）。\nA: 脑积水、脑发育不良\nB: 低血糖症发作\nC: 癫痫\nD: 低钙惊厥\nE: 高热惊厥\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. The patient is a 10-month-old female with a weight of 10kg and a head circumference of 45cm, which is within the normal range for her age. The presence of a square skull (方颅) and a flat anterior fontanelle (前囟1.5cm平坦) suggests rickets or another condition affecting bone development.\n2. The patient experienced a single episode of seizures lasting 1-2 minutes, accompanied by a fever of 38.5℃. After the seizure, she fell asleep and appeared normal upon waking.\n3. Laboratory tests revealed a blood calcium level of 1.75mmol/L (7mg/dL) and a blood phosphorus level of 1.45mmol/L (4.5mg/dL), both of which are below normal ranges.\n\nFinal answer: D. Low calcium惊厥"
+        ],
+        "gold": "D"
+    },
+    "21": {
+        "origin_prompt": "You are a leading expert in MedQA_CN. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: 患儿，8个月，腹泻4天，水样便，1日10余次。12小时无尿，呼吸深大，前囟眼窝明显凹陷，四肢凉。血钠127mmol/L，血钾4mmol/L，血钙2.25mmol/L，二氧化碳合力11.2mmol/L。1．该患儿的诊断是小儿腹泻伴（　　）。\nA: 重度脱水酸中毒，低钾血症\nB: 中度脱水酸中毒，低钾血症\nC: 中度等渗性脱水，酸中毒\nD: 重度低渗性脱水，酸中毒\nE: 中度低渗性脱水，酸中毒\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. The child is 8 months old and has been experiencing diarrhea for 4 days, with water-like stools and up to 10 episodes per day.\n2. The child has not urinated in the past 12 hours, has deep breathing, and presents with sunken eyes and a sunken fontanelle, indicating severe dehydration.\n3. The blood sodium level is 127mmol/L, which is below the normal range (135-145mmol/L), suggesting low渗性脱水.\n4. The blood potassium level is 4mmol/L, which is within the normal range (3.5-5.5mmol/L), so there is no low钾血症.\n5. The blood calcium level is 2.25mmol/L, which is within the normal range (2.2-2.7mmol/L), so there is no hypocalcemia.\n6. The carbon dioxide combination is 11.2mmol/L, which is below the normal range (20-28mmol/L), indicating acid中毒.\n\nFinal answer: The child is diagnosed with severe hypotonic dehydration and acidosis."
+        ],
+        "gold": "D"
+    },
+    "22": {
+        "origin_prompt": "You are a leading expert in MedQA_CN. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: 女性，24岁，临床诊断糖尿病1型，给予胰岛素治疗，病人经常于清晨3～4点出现手抖，大汗，饥饿感，空腹血糖11mmol/L，尿糖（＋＋＋＋），尿酮体（＋＋＋＋），夜间尿糖阴性，应采取的措施是（　　）。\nA: 减少晚餐的热量\nB: 增加睡前中效胰岛素的用量\nC: 加用双胍类药物\nD: 减少睡前胰岛素用量\nE: 后夜加餐\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. The patient is a 24-year-old woman with a clinical diagnosis of type 1 diabetes, treated with insulin.\n2. She experiences symptoms of hypoglycemia (hand tremors, sweating, and hunger) around 3-4 AM, despite having a high fasting blood glucose level (11 mmol/L) and positive urine sugar and ketone levels.\n3. The fact that her nighttime urine sugar is negative suggests that she may be experiencing Somogyi effect, which is a nocturnal hypoglycemia followed by a rebound hyperglycemia in the morning.\n\nFinal answer: D. Reduce the dose of the bedtime insulin."
+        ],
+        "gold": "B"
+    },
+    "23": {
+        "origin_prompt": "You are a leading expert in MedQA_CN. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: 男，25岁。腰背部疼痛8年，晨起明显，活动后减轻，近1个月腰痛加重，活动受限。查体：腰椎前屈、后伸受限，Schober试验（＋），双侧“4”字试验（＋）。2．对确诊最有价值的检查是（　　）。\nA: 血沉\nB: 骶髂关节X线片\nC: 血常规\nD: HLA-B27\nE: 类风湿因子\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. The patient is a 25-year-old male with a history of腰背部疼痛 that is worse in the morning and improves with activity, which is a common presentation for ankylosing spondylitis.\n2. The physical examination findings, such as limited腰椎前屈、后伸 and a positive Schober test, along with positive双侧“4”字试验, are consistent with an inflammatory condition affecting the spine, particularly ankylosing spondylitis.\n3. The most valuable test for confirming the diagnosis of ankylosing spondylitis is骶髂关节X线片, as it can show the characteristic bone changes and fusion of the sacroiliac joints.\n\nFinal answer: B. 骶髂关节X线片"
+        ],
+        "gold": "B"
+    },
+    "24": {
+        "origin_prompt": "You are a leading expert in MedQA_CN. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: 女，67岁。车祸后即昏迷，伤后2小时被送往医院。查体：昏迷状态，左顶枕部有一直径4cm头皮血肿，右侧瞳孔散大，对光反应消失，左侧肢体肌张力增高，病理反射阳性。头颅CT示右额颞部骨板下新月形高密度影。2．该患者颅内出血最可能来自于（　　）。\nA: 脑表面小血管\nB: 硬脑膜中动脉\nC: 大脑中动脉\nD: 蛛网膜颗粒\nE: 矢状窦\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. The patient is in a coma and has a right-sided pupillary dilation with no light reflex, which suggests a severe brain injury.\n2. The left-sided hemiparesis and increased muscle tone, along with the presence of pathological reflexes, indicate a lesion in the right hemisphere.\n3. The head CT shows a right frontotemporal subdural hematoma, which is a crescent-shaped high-density area beneath the inner table of the skull.\n\nFinal answer: A"
+        ],
+        "gold": "A"
+    },
+    "25": {
+        "origin_prompt": "You are a leading expert in MedQA_CN. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: 分泌雄激素的细胞是（　　）。\nA: 睾丸生精细胞\nB: 睾丸支持细胞\nC: 睾丸间质细胞\nD: 精原细胞\nE: 精子细胞\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. The question asks about the cell responsible for secreting androgens, which are a group of hormones that include testosterone.\n2. Among the options provided, we need to identify which cell type is known for producing androgens.\n3. Testicular cells can be divided into several types, including:\n   - Testicular support cells: They provide structural support and nourishment to the germ cells.\n   - Testicular germ cells: These are the cells that give rise to spermatozoa, including spermatogonia, primary spermatocytes, secondary spermatocytes, spermatids, and mature spermatozoa.\n   - Testicular interstitial cells (Leydig cells): These cells are responsible for producing androgens, including testosterone.\n\nFinal answer: C. Testicular interstitial cells (Leydig cells) are the cells that secrete androgens."
+        ],
+        "gold": "C"
+    },
+    "26": {
+        "origin_prompt": "You are a leading expert in MedQA_CN. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: 极低出生体重儿的标准是指婴儿出生后1小时内的体重低于（　　）。\nA: 2000g\nB: 800g\nC: 1500g\nD: 1000g\nE: 2500g\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. The question asks for the standard weight of an extremely low birth weight (ELBW) infant, which is defined as a weight below a certain threshold within the first hour of birth.\n2. The given options are 2000g, 800g, 1500g, 1000g, and 2500g.\n3. The correct answer should be the lowest weight that qualifies as ELBW.\n\nFinal answer: B (800g)"
+        ],
+        "gold": "C"
+    },
+    "27": {
+        "origin_prompt": "You are a leading expert in MedQA_CN. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: 小儿肺炎引起脓胸最常见的病原菌是（　　）。\nA: 肠球菌\nB: 肺炎链球菌\nC: 溶血性链球菌\nD: 流感嗜血杆菌\nE: 金黄色葡萄球菌\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. The question asks about the most common pathogen causing empyema in children with pneumonia.\n2. Among the given options, we need to identify which bacterium is most commonly associated with this condition.\n3. Empyema is a collection of pus in a body cavity, and it can be a complication of pneumonia. The pathogen causing empyema in children with pneumonia should be the one that is most likely to lead to this severe complication.\n\nFinal answer: E. Staphylococcus aureus"
+        ],
+        "gold": "E"
+    },
+    "28": {
+        "origin_prompt": "You are a leading expert in MedQA_CN. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: 4．由NK细胞介导的是（　　）。\nA: 迟发型超敏反应性炎症反应\nB: 促进B细胞的增殖与分化\nC: 特异性杀伤肿瘤细胞\nD: 非特异性杀伤肿瘤细胞\nE: 外源性抗原的加工递呈\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. NK cells, or natural killer cells, are a type of lymphocyte that plays a role in the innate immune response. They are known for their ability to kill tumor cells and virus-infected cells without the need for prior sensitization or activation.\n2. The question asks which process is mediated by NK cells. We need to identify the option that best describes the function of NK cells.\n3. Option A, B, and E are related to other immune cells, such as T cells and dendritic cells, which are involved in adaptive immunity and antigen presentation, not NK cells.\n4. Option C, \"specialized killing of tumor cells,\" could be a possible answer, but it's important to consider if there's a more accurate description.\n\nFinal answer: D. non-specific killing of tumor cells"
+        ],
+        "gold": "D"
+    },
+    "29": {
+        "origin_prompt": "You are a leading expert in MedQA_CN. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: 男孩，4岁，一向偏食，不吃鱼、肉、蛋，仅食蔬菜，近日发现面色渐苍白，不愿活动，时而腹泻。查体：心肺正常，肝脏于肋下触及3cm，脾未及。血象：Hb 60g/L，RBC 2.90×1012/L，血涂片：红细胞大小不等，以小为主，中心淡染区扩大。3．引起此病的主要病因是（　　）。\nA: 生长发育过快\nB: 长期腹泻\nC: 先天贮备不足\nD: 摄入量不足\nE: 患有慢性失血性疾病\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. The patient is a 4-year-old boy with a history of偏食, specifically avoiding fish, meat, and eggs, and only consuming vegetables.\n2. The symptoms mentioned, such as pale complexion, lack of energy, and occasional diarrhea, are consistent with iron deficiency.\n3. The blood test results show anemia (low hemoglobin and red blood cell count) with microcytic hypochromic red cells, which is characteristic of iron deficiency anemia.\n4. The patient's diet, which lacks iron-rich foods like meat, fish, and eggs, is the most likely cause of the anemia.\n\nFinal answer: D. Intake deficiency"
+        ],
+        "gold": "D"
+    },
+    "30": {
+        "origin_prompt": "You are a leading expert in MedQA_CN. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: 关于肩关节周围炎，下列哪项不正确？（　　）\nA: 好发于50岁左右的中老年人\nB: 能自愈\nC: 主要为肩痛，活动受限\nD: 常伴有手指麻木感\nE: 醋酸泼尼松龙局部封闭有效\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. The question is about adhesive capsulitis, commonly known as shoulder joint periarthritis or shoulder joint periarthritis.\n2. Adhesive capsulitis typically affects individuals aged 50 and above, so option A is correct.\n3. The condition is characterized by shoulder pain and limited range of motion, making option C accurate.\n4. Adhesive capsulitis does not usually involve neurological symptoms such as finger numbness, so option D is incorrect.\n5. Local corticosteroid injections, like those containing acetylsalicylic acid, can be used to manage pain and inflammation, making option E correct.\n\nFinal answer: D"
+        ],
+        "gold": "D"
+    },
+    "31": {
+        "origin_prompt": "You are a leading expert in MedQA_CN. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: 1.5岁男孩，发热、咳嗽、气促1周，突然呼吸困难加重。查体：体温39.5℃，心率161次/分，呼吸62次/分，左胸部呼吸运动受限，语颤减弱，叩诊浊音，听诊呼吸音消失，腹部平坦，肝在肋下1.5cm。根据病例诊断为（　　）。\nA: 肺炎合并心肌炎\nB: 肺炎合并心衰\nC: 肺炎合并中毒性脑病\nD: 肺炎合并脓胸\nE: 肺炎合并脓气胸\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. The patient is a 1.5-year-old boy with a history of fever, cough, and difficulty breathing for a week. These symptoms are consistent with a respiratory infection.\n2. The sudden worsening of breathing difficulty, along with an elevated heart rate (161 beats per minute) and respiratory rate (62 breaths per minute), suggests a complication of the initial infection.\n3. The physical examination reveals abnormalities on the left side of the chest, including limited breathing movement, reduced chest wall vibration, and the presence of fluid (浊音) when tapping the chest. These findings are indicative of a pleural effusion or other chest cavity abnormality.\n4. The absence of a distended abdomen and the liver being palpable at the level of the ribcage (1.5cm below the costal margin) rules out significant abdominal pathology and supports the chest cavity focus.\n\nFinal answer: Based on the provided information, the most likely diagnosis is pneumonia合并脓胸 (D), as the clinical presentation and physical examination findings are consistent with this condition."
+        ],
+        "gold": "D"
+    },
+    "32": {
+        "origin_prompt": "You are a leading expert in MedQA_CN. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: 关于急性血源性骨髓炎的治疗下列选项错误的是（　　）。\nA: 立即开始联合应用足量广谱抗生素\nB: 抗生素治疗48～72小时后，局部症状仍不能控制，应手术治疗\nC: 手术行软组织切开引流术\nD: 少量多次输血，增加病人的抵抗力\nE: 患肢可用皮牵引或石膏托固定\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. Acute blood源性骨髓炎的治疗通常需要立即开始联合应用足量广谱抗生素，以控制感染。\n2. 如果抗生素治疗48～72小时后，局部症状仍不能控制，手术治疗可能是必要的，以防止感染扩散。\n3. 手术可能包括软组织切开引流术，以排出脓液并减轻压力。\n4. 输血可以增加病人的抵抗力，但应少量多次进行，以避免过度刺激免疫系统。\n5. 患肢可用皮牵引或石膏托固定，以减少活动，促进愈合。\n\nFinal answer: C (手术行软组织切开引流术)"
+        ],
+        "gold": "C"
+    },
+    "33": {
+        "origin_prompt": "You are a leading expert in MedQA_CN. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: 1．狂犬病病毒基因组是（　　）。\nA: 单股负链线状RNA，不分节段含有5个结构基因\nB: 正链线状RNA，含有三个结构基因和至少七个调节基因\nC: 单股负链RNA，分为8个节段\nD: 单股负链RNA，可分为7个节段\nE: 双链环状RNA\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. The question asks about the structure of the rabies virus genome.\n2. The rabies virus, also known as the狂犬病病毒, is a member of the Rhabdoviridae family.\n3. The rabies virus genome is composed of a single-stranded RNA molecule that is negative-sense and linear.\n4. It is not segmented, unlike some other viruses.\n5. The genome contains five structural genes, which encode the viral proteins.\n\nFinal answer: A. The rabies virus genome is a single-strand negative-sense linear RNA that is not segmented and contains five structural genes."
+        ],
+        "gold": "A"
+    },
+    "34": {
+        "origin_prompt": "You are a leading expert in MedQA_CN. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: 随机抽取的300名大学生身高和体重资料，P＜0.01（α＝0.05），说明身高和体重（　　）。\nA: 呈正比\nB: 存在相关性\nC: 呈反比\nD: 存在紧密联系\nE: 存在直线相关关系\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. The question presents a statistical test result with P < 0.01 and a significance level of α = 0.05.\n2. A P-value less than 0.01 indicates that the observed data is very unlikely under the null hypothesis (in this case, that there is no relationship between height and weight).\n3. Since the P-value is less than the chosen significance level (α = 0.05), we reject the null hypothesis and conclude that there is a statistically significant relationship between height and weight.\n\nFinal answer: E. There is a statistically significant linear relationship between height and weight."
+        ],
+        "gold": "E"
+    },
+    "35": {
+        "origin_prompt": "You are a leading expert in MedQA_CN. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: 下列哪项是特异性杀伤肿瘤的细胞？（　　）\nA: Tc（CTL）\nB: LAK\nC: Mφ\nD: NK\nE: 中性粒细胞\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. Tc (CTL) cells, or Cytotoxic T Lymphocytes, are a type of T cell that can directly kill cancer cells, infected cells, or cells that are damaged in other ways.\n2. LAK cells, or Lymphokine-Activated Killer cells, are a type of immune cell that can kill tumor cells, but they are not as specific as Tc cells.\n3. Mφ, or Macrophages, are a type of white blood cell that can engulf and digest cellular debris, foreign substances, microbes, and cancer cells, but they are not as specific as Tc cells.\n4. NK cells, or Natural Killer cells, can kill cancer cells, but they are not as specific as Tc cells.\n5. Neutrophils are a type of white blood cell that helps to fight infection, but they are not specifically designed to kill cancer cells.\n\nFinal answer: Tc (CTL) cells are the type of cell that is specifically designed to kill tumor cells."
+        ],
+        "gold": "A"
+    },
+    "36": {
+        "origin_prompt": "You are a leading expert in MedQA_CN. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: 兴奋性突触后电位是突触后膜对哪一种离子的通透性增加而引起的?（　　）\nA: Na+和K+，尤其是K+\nB: K+和Ca2+\nC: Na+和K+尤其是Na+\nD: Na+和Ca2+\nE: Cl-\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. The question asks about the ionic basis of兴奋性突触后电位 (EPSP), which is a depolarization of the postsynaptic membrane.\n2. EPSPs are caused by an influx of positive ions into the postsynaptic cell, leading to an increase in the membrane potential.\n3. The primary ions involved in EPSPs are sodium (Na+) and potassium (K+), but the contribution of Na+ is particularly significant in generating the depolarization.\n\nFinal answer: Na+ and K+, particularly Na+"
+        ],
+        "gold": "C"
+    },
+    "37": {
+        "origin_prompt": "You are a leading expert in MedQA_CN. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: 患儿，男，2岁半，自幼人工喂养，食欲极差，有时腹泻。身高85cm，体重7500g，皮肤干燥、苍白，腹部皮下脂肪厚度约0.3cm，脉搏缓慢，心音较低钝。2．如果此患儿出现哭而少泪，眼球结膜有毕脱斑，那么下列哪项正确？（　　）\nA: 维生素A缺乏\nB: 维生素E缺乏\nC: 维生素C缺乏\nD: 维生素D缺乏\nE: 维生素B缺乏\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. The patient is a 2.5-year-old male who has been artificially fed since birth and has a history of poor appetite and occasional diarrhea.\n2. The child's growth parameters are below average, with a height of 85 cm and a weight of 7500 g, which is indicative of malnutrition.\n3. The skin is dry and pale, and the abdominal subcutaneous fat thickness is only 0.3 cm, suggesting severe protein-energy malnutrition.\n4. The pulse is slow, and the heart sounds are low and dull, which could be due to anemia or heart failure secondary to malnutrition.\n5. The presence of xerophthalmia (dry eyes) and Bitot's spots on the conjunctiva are classic signs of vitamin A deficiency.\n\nFinal answer: A. Vitamin A deficiency"
+        ],
+        "gold": "A"
+    },
+    "38": {
+        "origin_prompt": "You are a leading expert in MedQA_CN. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: 病情恢复后不发生病原携带状态的传染病是（　　）。\nA: 乙型肝炎\nB: 甲型肝炎\nC: 细菌性痢疾\nD: 丙型肝炎\nE: 伤寒\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. The question asks for a type of infectious disease that does not result in a carrier state after recovery.\n2. Among the given options, we need to identify which disease does not typically result in a carrier state post-recovery.\n3. A carrier state refers to a condition where an individual continues to carry the pathogen after recovering from the disease, potentially transmitting it to others.\n4. Option A (Hepatitis B) is known for its carrier state, as are options C (Bacterial Dysentery) and E (Typhoid Fever).\n5. Option D (Hepatitis C) also has a high rate of carrier state post-recovery.\n6. Option B (Hepatitis A) is an acute viral infection that usually does not result in a carrier state after recovery.\n\nFinal answer: B (Hepatitis A)"
+        ],
+        "gold": "B"
+    },
+    "39": {
+        "origin_prompt": "You are a leading expert in MedQA_CN. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: 2．可出现Homans征阳性的疾病是（　　）。\nA: 动脉硬化性闭塞症\nB: 雷诺综合征\nC: 下肢深静脉血栓形成\nD: 血栓闭塞性脉管炎\nE: 单纯性下肢静脉曲张\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. Homans sign is a test used to diagnose deep vein thrombosis (DVT) in the lower leg. It involves dorsiflexing the foot and observing for pain in the calf, which is indicative of DVT.\n2. Among the given options, only \"C. 下肢深静脉血栓形成\" (lower limb deep vein thrombosis) is a condition that can present with Homans sign.\n3. The other options, such as arterial diseases like \"A. 动脉硬化性闭塞症\" (arteriosclerotic occlusive disease) and \"D. 血栓闭塞性脉管炎\" (thromboangiitis obliterans), or conditions like \"B. 雷诺综合征\" (Raynaud's syndrome) and \"E. 单纯性下肢静脉曲张\" (simple lower limb varicose veins), are not typically associated with Homans sign.\n\nFinal answer: C. 下肢深静脉血栓形成"
+        ],
+        "gold": "C"
+    },
+    "40": {
+        "origin_prompt": "You are a leading expert in MedQA_CN. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: 心室肌的后负荷是指（　　）。\nA: 心房压力\nB: 快速射血期心室内压\nC: 减慢射血期心室内压\nD: 等容收缩期初心室内压\nE: 大动脉血压\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. The question asks about the \"后负荷\" (afterload) of the ventricular myocardium, which is a concept in cardiovascular physiology.\n2. Afterload refers to the pressure that the heart must overcome to eject blood into the aorta during systole.\n3. Among the given options, A (heart chamber pressure), B (intraventricular pressure during rapid ejection), C (intraventricular pressure during slow ejection), D (intraventricular pressure at the beginning of isovolumetric contraction), and E (aortic pressure), the one that best represents the afterload is E, as it is the pressure in the aorta that the heart must push against to eject blood.\n\nFinal answer: E (大动脉血压)"
+        ],
+        "gold": "E"
+    },
+    "41": {
+        "origin_prompt": "You are a leading expert in MedQA_CN. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: 1．以系统妄想为主要症状，内容较固定，有一定的现实基础，主要表现为被害、嫉妒、钟情等内容的是（　　）。\nA: 偏执型分裂症\nB: 单纯型分裂症\nC: 紧张型分裂症\nD: 妄想性障碍\nE: 急性短暂性精神障碍\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. The question describes a condition characterized by a predominant delusional system with fixed content, a certain reality basis, and themes such as被害 (persecution), 嫉妒 (jealousy), and 钟情 (being loved by someone).\n2. This condition is not associated with prominent hallucinations, disorganized speech, or catatonic behavior, which rules out A (paranoid schizophrenia), C (catatonic schizophrenia), and E (acute transient psychotic disorder).\n3. The condition also does not fit the criteria for B (simple schizophrenia) as it has a specific delusional system.\n4. The condition is most consistent with D (delusional disorder, now known as persistent delusional disorder), which is characterized by the presence of one or more delusions without prominent hallucinations or other symptoms of psychosis.\n\nFinal answer: D. Delusional disorder (persistent delusional disorder)"
+        ],
+        "gold": "D"
+    },
+    "42": {
+        "origin_prompt": "You are a leading expert in MedQA_CN. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: 诊断肺栓塞的“金标准”是（　　）。\nA: 超声心动图\nB: CT\nC: PET\nD: 肺通气/灌注（V/Q）显像\nE: 肺血管造影\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. The question asks for the \"gold standard\" in diagnosing pulmonary embolism (PE), which refers to the most accurate and reliable diagnostic method.\n2. Among the given options, we need to identify which one is considered the most accurate for diagnosing PE.\n3. Ultrasonography, CT, PET, and V/Q scintigraphy are all imaging techniques, but they may not provide the highest level of accuracy for diagnosing PE.\n4. Pulmonary angiography, on the other hand, directly visualizes the pulmonary arteries and is considered the most accurate method for diagnosing PE.\n\nFinal answer: E. Pulmonary angiography"
+        ],
+        "gold": "E"
+    },
+    "43": {
+        "origin_prompt": "You are a leading expert in MedQA_CN. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: 较稳定的股骨颈骨折是（　　）。\nA: 外展型\nB: 内收型\nC: 头下型\nD: 基底型\nE: 粗隆间型\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. The question asks for the type of stable femoral neck fracture.\n2. Among the given options, we need to identify which type is considered stable.\n3. Stability in fractures is often determined by the alignment of the bone fragments and the blood supply to the area.\n4. The base of the femoral neck is the strongest part of the bone, and fractures in this area are more likely to be stable due to the strong bone structure and good blood supply.\n\nFinal answer: D. Base type"
+        ],
+        "gold": "A"
+    },
+    "44": {
+        "origin_prompt": "You are a leading expert in MedQA_CN. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: 革兰染色阳性时，下列哪项符合细胞的颜色？（　　）\nA: 蓝紫色\nB: 蓝色\nC: 红色\nD: 黄色\nE: 无色\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. The question is asking about the color of a cell when it is Gram-positive.\n2. Gram-positive cells retain the crystal violet stain during the Gram staining process.\n3. Crystal violet is a blue-purple dye, so when a cell is Gram-positive, it will appear blue-purple.\n\nFinal answer: A. Blue purple"
+        ],
+        "gold": "A"
+    },
+    "45": {
+        "origin_prompt": "You are a leading expert in MedQA_CN. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: 卵巢动、静脉通过的韧带是（　　）。\nA: 圆韧带\nB: 主韧带\nC: 宫骶韧带\nD: 阔韧带\nE: 骨盆漏斗韧带\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. The question asks about the ligament through which the ovarian arteries and veins pass.\n2. Among the given options, we need to identify the one that is specifically related to the ovaries and their blood supply.\n3. The ovarian blood supply comes from the ovarian arteries and veins, which are branches of the aorta and inferior vena cava, respectively.\n4. The ligament that is associated with the ovarian blood supply is the mesovarium, which is a part of the broad ligament.\n5. The broad ligament is a fold of peritoneum that extends from the lateral pelvic wall to the uterus and contains the ovarian ligament, ovarian vessels, and the uterine tubes.\n\nFinal answer: D.阔韧带"
+        ],
+        "gold": "E"
+    },
+    "46": {
+        "origin_prompt": "You are a leading expert in MedQA_CN. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: 女孩，2岁。反复发作喘息4次以上，昨又突然发作喘息，查两肺满布哮鸣音，皮下注射肾上腺素后，哮鸣音明显减少。患儿幼时对花粉过敏，母有哮喘史。1．患儿哮喘诊断的评分是（　　）。\nA: 12分\nB: 10分\nC: 8分\nD: 6分\nE: 4分\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. The patient is a 2-year-old girl with a history of recurrent wheezing episodes, which is a common symptom of asthma.\n2. She has a positive family history of asthma, as her mother has the condition.\n3. The patient has a history of allergies, specifically to花粉, which is a common trigger for asthma.\n4. The patient's symptoms improved significantly after receiving肾上腺素, which is a medication used to treat asthma.\n\nBased on these points, the diagnosis of asthma can be supported. According to the scoring system for asthma diagnosis, each of the following criteria is assigned a certain number of points:\n- Recurrent wheezing: 4 points\n- Positive family history: 2 points\n- Allergic history: 2 points\n- Response to treatment: 2 points\n\nAdding these points together, the total score is 10 points.\n\nFinal answer: B. 10分"
+        ],
+        "gold": "B"
+    },
+    "47": {
+        "origin_prompt": "You are a leading expert in MedQA_CN. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: 急性病毒性肝炎病程一般为（　　）。\nA: ＜5个月\nB: 2～4个月\nC: ＜2个月\nD: ＜半年\nE: ＞半年\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. The question asks about the duration of acute viral hepatitis.\n2. Acute viral hepatitis is typically a short-term illness, usually lasting less than 6 months.\n3. Among the given options, we need to find the one that best represents this duration.\n\nFinal answer: D. ＜半年"
+        ],
+        "gold": "B"
+    },
+    "48": {
+        "origin_prompt": "You are a leading expert in MedQA_CN. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: 下述关于丙咪嗪（米帕明）的效应哪一项是错误的？（　　）\nA: 拟交感胺作用\nB: 阿托品样作用\nC: 增强外源性去甲肾上腺素作用\nD: 镇静作用\nE: 提高惊厥阈值\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1.丙咪嗪（米帕明）是一种三环类抗抑郁药，具有多种药理作用，包括拟交感胺作用、阿托品样作用、增强外源性去甲肾上腺素作用等。\n2. 拟交感胺作用是指丙咪嗪能够增加去甲肾上腺素的释放，从而产生类似交感神经兴奋的效果。\n3. 阿托品样作用是指丙咪嗪能够阻断M胆碱受体，产生抗胆碱能效应，如口干、便秘等。\n4. 增强外源性去甲肾上腺素作用是指丙咪嗪能够抑制去甲肾上腺素的再摄取，增加其在突触间隙的浓度，从而增强其作用。\n5. 然而，丙咪嗪并没有镇静作用，反而可能引起兴奋、失眠等副作用。\n6. 此外，丙咪嗪还能够降低惊厥阈值，增加癫痫发作的风险。\n\nFinal answer: D. 镇静作用"
+        ],
+        "gold": "E"
+    },
+    "49": {
+        "origin_prompt": "You are a leading expert in MedQA_CN. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: 药物的治疗指数是指（　　）。\nA: ED50与LD50之间的距离\nB: ED50与LD50的比值\nC: LD50与ED50的比值\nD: ED95与LD5的比值\nE: ED90与LD10的比值\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            "Analysis:\n1. The question asks for the definition of the therapeutic index of a drug.\n2. The therapeutic index is a measure of the safety of a drug, calculated by comparing the dose that causes a therapeutic effect (ED50) to the dose that causes a toxic effect (LD50).\n3. The therapeutic index is calculated as the ratio of the LD50 to the ED50.\n\nFinal answer: C. LD50 with ED50"
+        ],
+        "gold": "C"
+    }
+}

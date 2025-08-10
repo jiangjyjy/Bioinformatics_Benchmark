@@ -1,0 +1,1004 @@
+[
+    {
+        "no": "MQA_321",
+        "category": "MedLFQA_KQA",
+        "question": "Can i take the painkiller and the antibiotics at the same time or wait hours in between ?",
+        "answer": {
+            "free_form_answer": "If your healthcare provider prescribes both antibiotics and painkillers, it is generally safe to take them together. However, some antibiotics should not be combined with painkillers due to potential drug interactions. It is best to consult your healthcare provider about the possibility and proper timing of combining those drugs.",
+            "must_have": [
+                "Some antibiotics are not recommended to use in combination with painkillers due to possible drug interactions.",
+                " If your healthcare provider prescribes both antibiotics and painkillers, it is generally safe to take them together.",
+                "It is best to consult your healthcare provider about the possibility and proper timing of combining antibiotics and painkillers drugs."
+            ],
+            "nice_to_have": []
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_322",
+        "category": "MedLFQA_KQA",
+        "question": "What is chlorhexidine?",
+        "answer": {
+            "free_form_answer": "Chlorhexidine is an antiseptic and disinfectant substance that is used to prevent infection. It is effective against bacteria and fungi. It is available in various formulations, such as mouthwashes, solutions, creams, swabs, lozenges, throat sprays and soaps. Over-the-counter chlorhexidine topical antiseptics are used for the sterilization of skin before surgery, oral care, wound cleaning, and as an antiseptic hand rinse. Chlorhexidine can also be prescribed as an oral rinse for the treatment of gingivitis (gum inflammation). ",
+            "must_have": [
+                "Chlorhexidine is an antiseptic and disinfectant substance used to prevent infection.",
+                " Chlorhexidine is effective against bacteria and fungi."
+            ],
+            "nice_to_have": [
+                "Over-the-counter chlorhexidine topical antiseptics are used as an antiseptic hand rinse.",
+                " Over-the-counter chlorhexidine topical antiseptics are used for the sterilisation of skin before surgery.",
+                " Chlorhexidine can be prescribed as an oral rinse for the treatment of gingivitis (gum inflammation).",
+                " Over-the-counter chlorhexidine topical antiseptics are used for oral care.",
+                " Chlorhexidine is available in various formulations such as mouthwashes, solutions, creams, swabs, lozenges, throat sprays and soaps.",
+                " Over-the-counter chlorhexidine topical antiseptics are used for wound cleaning."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_323",
+        "category": "MedLFQA_KQA",
+        "question": "Is there anti nausea medication that can be taken to allow fluids to stay down?",
+        "answer": {
+            "free_form_answer": "There are a variety of drugs suitable for treating nausea and vomiting, depending on the cause of the nausea. In cases of nausea due to dizziness or motion sickness \u2013 recommended drugs include antihistamines such as Dimenhydrinate (Daramine, Drimite) and Meclizine (Dramamine less drowsy). In cases of nausea due to cancer treatment or post-operative nausea, recommended drugs include Metoclopramide (Gimoti Reglan), Ondansetron (Zofran), and Granisetron (Sancuso).\n",
+            "must_have": [
+                "For nausea due to dizziness or motion sickness, recommended drugs include antihistamines such as dimenhydrinate (Daramine, Drimite) and meclizine (Dramamine less drowsy).",
+                " Drugs suitable for treating nausea and vomiting are prescribed depending on the cause of the nausea.",
+                " For nausea due to cancer treatment or post operative nausea, possible drugs include metoclopramide (Gimoti Reglan), ondansetron (Zofran) granisteron (Sancuso)."
+            ],
+            "nice_to_have": []
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_324",
+        "category": "MedLFQA_KQA",
+        "question": "Is there a cream that you can prescribe for anal fissure like topical nitro ?",
+        "answer": {
+            "free_form_answer": "The first-line treatment for an anal fissure includes increasing dietary fiber and water intake, using a stool softener or laxative, having warm sitz baths, or applying topical agents. Prescription topical vasodilators such as topical nitroglycerin or topical nifedipine, with or without topical analgesics like Lidocaine, can be used to treat anal fissures. In case of refractory cases, other medications, injections, or surgeries may be required. It is essential to consult your healthcare provider for a treatment plan for an anal fissure.",
+            "must_have": [
+                "Topical treatment for an anal fissure can be done with prescription topical vasodilators such as topical nifedipine.",
+                " Topical treatment for an anal fissure can be done with or without a topical analgesics such as Lidocaine, which can help to alleviate the pain.",
+                " Topical treatment for an anal fissure can be done with prescription topical vasodilators such as topical nitroglycerin.",
+                " First-line treatment for an anal fissure can include using stool softener or laxative.",
+                " First-line treatment for an anal fissure can include having warm sitz baths.",
+                " Refractory cases of anal fissures may require alternatives such as surgeries.",
+                " First-line treatment for an anal fissure can include increasing dietary fiber and water intake."
+            ],
+            "nice_to_have": [
+                "Refractory cases of anal fissures may require alternatives such as injections.",
+                " Refractory cases of anal fissures may require alternatives such as other medications.",
+                " You should consult your healthcare provider about a treatment plan for an anal fissure."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_325",
+        "category": "MedLFQA_KQA",
+        "question": "is there any specific brand you recommend for the omeprazole?",
+        "answer": {
+            "free_form_answer": "All brands and generic forms of omeprazole contain the same active ingredient and are considered equally effective. If you have difficulty swallowing, Prilosec is available as a granule packet that can be mixed into water.",
+            "must_have": [
+                "All brands and generic forms of omeprazole contain the same active ingredient and are generally considered equally effective."
+            ],
+            "nice_to_have": [
+                "If you have difficulty swallowing, Prilosec is available as a granule packet that can be mixed into water"
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_326",
+        "category": "MedLFQA_KQA",
+        "question": "Does bronchitis turn into pneumonia?",
+        "answer": {
+            "free_form_answer": "Acute bronchitis is inflammation of the bronchi, commonly caused by a respiratory viral infection, bacterial infection, or irritants such as smoke. It usually resolves without treatment in 1-3 weeks, but non-pharmacological cough relief may help. Pneumonia is more severe with fever, fatigue, and difficulty breathing. Both infections have similar symptoms, but differentiation can be done by a physical examination and chest X-ray. It's uncommon for bronchitis to turn into pneumonia, but it's possible - especially with bacterial bronchitis. A physician should be consulted if bronchitis symptoms worsen or do not resolve within three weeks.",
+            "must_have": [
+                "It's uncommon for bronchitis to turn into pneumonia, but it's possible",
+                "In cases where bronchitis does not resolve in three weeks, one should be checked by a physician for pneumonia",
+                "In cases of worsening of symptoms, one should be checked by a physician for pneumonia"
+            ],
+            "nice_to_have": [
+                "It is also possible for a person with bronchitis to develop a separate pneumonia infection.",
+                " Symptoms of both bronchitis and pneumonia could appear similar and differentiation between the two should be done by a physical examination and chest Xray.",
+                " Acute bronchitis is inflammation of the bronchi, commonly caused by a respiratory viral infection or bacteria",
+                "Acute bronchitis can be caused by irritants such as smoke",
+                "Pneumonia is more severe than bronchitis",
+                "Pneumonia usually present with fever, fatigue, and difficulty breathing. "
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_327",
+        "category": "MedLFQA_KQA",
+        "question": "Is Augmentin the same thing as Amoxcicilin?",
+        "answer": {
+            "free_form_answer": "Augmentin is an antibacterial medication which is consisted of two active drugs: amoxicillin and clavulanic acid. Amoxicillin is an antibiotic from the penicillin family, which is used against certain bacterial infections. Some bacteria developed mechanisms of resistance to amoxicillin effect. The added-on compound of clavulanic acid inhibits some of these mechanisms which results in amoxicillin having a broader spectrum of anti-bacterial activity. ",
+            "must_have": [
+                "Augmentin is an antibacterial medication composed of two active drugs: amoxicillin and clavulanic acid.",
+                " Clavulanic acid, a component of Augmentin, inhibits some mechanisms of bacterial resistance to amoxicillin."
+            ],
+            "nice_to_have": [
+                "Amoxicillin is an antibiotic from the penicillin family, used against certain bacterial infections.",
+                " Some bacteria have developed mechanisms of resistance to amoxicillin."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_328",
+        "category": "MedLFQA_KQA",
+        "question": "Is it ok to take the antibiotic along with my thyroid meds?",
+        "answer": {
+            "free_form_answer": "If you are taking medication to treat hypothyroidism, like Levothyroxine (Synthroid, Levoxyl, Unithyroid), it is generally safe to take antibiotics, except for Ciprofloxacin (Ciproxin) and Rifampin (Rifadin), which may interact with your hypothyroidism medication. It is important to note that you should space out taking any other medication at least one hour apart from your hypothyroidism medication. If you are taking medication to treat hyperthyroidism, like Methimazole (Tapazole, Northyx), it is safe to take antibiotics.",
+            "must_have": [
+                "Medications intended to treat hypothyroidism such as Levothyroxine (Synthroid, Levoxyl, Unithyroid) are safe to use with most antibiotics",
+                " Medications intended to treat hyperthyroidism such as Methimazole(Tapazole, Northyx) are safe to use with antibiotics",
+                " It's recommended to separate all medications from hypothyroidism medication by at least 1 hour.",
+                " Rifampin(Rifadin) might cause drug interactions with hypothyroidism medication",
+                " Ciprofloxacin(Ciproxin) might cause drug interactions with hypothyroidism medication"
+            ],
+            "nice_to_have": []
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_329",
+        "category": "MedLFQA_KQA",
+        "question": "Is there a steroid cream that I can use for the bite on my face?",
+        "answer": {
+            "free_form_answer": "Hydrocortisone cream, including brands like Ala-Cort, Cortizone-10, and Cotacort, is a type of steroid cream that can effectively treat swelling, itching, and irritation, including those caused by insect bites. However, it's important to note that using hydrocortisone cream for a long period may cause side effects, such as burning, itching, irritation, redness, dryness, acne, unwanted hair growth, skin color changes, and an increased risk of infection. It is recommended to consult with your healthcare provider before applying this cream to your face. Additionally, it's important only to use hydrocortisone cream for a maximum of two weeks. Other non-steroidal creams may also alleviate symptoms of insect bites, such as Diphenhydramine (Benadryl) and Lidocaine (Anastia, Lido-K).",
+            "must_have": [
+                "Hydrocortisone cream (Ala-Cort, Cortizone-10, Cotacort) is a steroid cream intended to treat swelling, itching and irritation.",
+                " Hydrocortisone cream can alleviate symptoms caused by insect bites.",
+                " Hydrocortisone cream should be used for no longer than two weeks.",
+                " It is highly recommended to consult your healthcare provider before applying Hydrocortisone cream on your face."
+            ],
+            "nice_to_have": [
+                "long term usage of Hydrocortisone cream has possible side effects such as skin color changes.",
+                " long term usage of Hydrocortisone cream has possible side effects such as the risk of infection.",
+                " long term usage of Hydrocortisone cream has possible side effects such as burning, itching, irritation, redness, or dryness of the skin.",
+                " Lidocaine (Anastia,Lido-K) is a non-steroidal cream that can also alleviate the symptoms of insect bites.",
+                " long term usage of Hydrocortisone cream has possible side effects such as unwanted hair growth.",
+                " long term usage of Hydrocortisone cream has possible side effects such as acne.",
+                " Diphenhydramine (Benadryl) is a non-steroidal cream that can also alleviate the symptoms of insect bites."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_330",
+        "category": "MedLFQA_KQA",
+        "question": "Is there something like ambient which could help on those occasions where I have a big presentation or something and really need to sleep?",
+        "answer": {
+            "free_form_answer": "Patients experiencing severe insomnia that affects their daily functioning and does not improve with non-pharmacological treatments can be prescribed medications for rapid relief. However, these medications should not be used for long-term treatment. Ambien (zolpidem) is a sedative-hypnotic drug among other approved medications for insomnia treatment. It is advisable to combine medication use with non-pharmacological treatments such as cognitive behavioral therapy, good sleep hygiene, exercise, and relaxation therapy.",
+            "must_have": [
+                "Use of medications for insomnia is generally reserved for cases that do not improve with non-pharmacological treatments.",
+                " Medications can be prescribed for patients who require rapid relief of severe insomnia.",
+                "Medications can be prescribed for patients whose insomnia interferes with daily functioning.",
+                "  Medications for insomnia are not typically intended for long-term use.",
+                " Non-pharmacological treatments, such as cognitive behavioural therapy, good sleep hygiene, exercise, and relaxation therapy, should be used in combination with any medications for insomnia."
+            ],
+            "nice_to_have": []
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_331",
+        "category": "MedLFQA_KQA",
+        "question": "Can a nausea prescription be taken at the same time as Dramamine?",
+        "answer": {
+            "free_form_answer": "Dimenhydrinate is an over-the-counter medication used to treat motion sickness and nausea. Some nausea medications, such as Bismuth subsalicylate (Pepto-Bismol) and Ondansetron (Zofran), are safe to use in combination with Dimenhydrinate, while others like Prochlorperazine (Compazine) and Metoclopramide (Reglan) may have unwanted interactions.\n\n",
+            "must_have": [
+                "Ondansetron (Zofran) is safe to use in combination with Dimenhydrinate.",
+                "Metoclopramide (Reglan) may have unwanted interactions when used in combination with Dimenhydrinate.",
+                "It is important to consult your healthcare provider before using Dimenhydrinate in combination with other medications.",
+                "Bismuth subsalicylate (Pepto-Bismol) is safe to use in combination with Dimenhydrinate.",
+                "Some nausea medications may have unwanted interactions when used in combination with Dimenhydrinate.",
+                "Prochlorperazine (Compazine) may have unwanted interactions when used in combination with Dimenhydrinate"
+            ],
+            "nice_to_have": [
+                "Dimenhydrinate (Dramamine, Driminate) is used to treat motion sickness and nausea.",
+                "Some nausea medications are safe to use in combination with Dimenhydrinate."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_332",
+        "category": "MedLFQA_KQA",
+        "question": "I am a healthy adult but my ALT is elevated can this also cause diarrhea?",
+        "answer": {
+            "free_form_answer": "Elevated levels of ALT in the blood do not directly cause diarrhea. Alanine transaminase (ALT) is an enzyme found mainly in the liver. Elevated ALT levels may indicate liver injury or disease, which could be caused by a wide range of conditions, such as non alcoholic or alcoholic fatty liver, viral hepatitis and drugs adverse effects. Conditions that injure the liver may also cause gastrointestinal disturbances, including diarrhea. However, diarrhea can also be linked to conditions unrelated to the liver such as gastrointestinal infections. A healthcare provider will investigate abnormal liver enzyme levels and diarrhea by conducting a thorough physical examination, detailed history taking, blood tests, and an abdominal ultrasound if needed. Contact your healthcare provider if the diarrhea persists for more than 2 days without improvement or if you experience fever, severe pain, dehydration, or bloody stools.",
+            "must_have": [
+                "Contact your healthcare provider if the diarrhea persists for more than 2 days without improvement",
+                " Further investigations may be needed such as blood tests and an abdominal ultrasound for abnormal liver enzyme levels and diarrhea",
+                " Conditions that injure the liver may cause gastrointestinal disturbances, including diarrhea",
+                " A healthcare provider will investigate abnormal liver enzyme levels and diarrhea by conducting a physical examination and detailed history taking",
+                " Diarrhea can also be linked to conditions unrelated to the liver such as gastrointestinal infections",
+                " Elevated ALT levels may indicate liver injury or disease",
+                " Contact your healthcare provider if you experience fever, severe pain, dehydration or bloody stools"
+            ],
+            "nice_to_have": [
+                "Liver injury or disease could be caused by viral hepatitis",
+                " Liver injury or disease could be caused by alcoholic liver disease",
+                " Liver injury or disease could be caused by non alcoholic liver disease",
+                " Liver injury or disease could be caused by inflammatory bowel disease",
+                " Liver injury or disease could be caused by celiac disease",
+                " Alanine transaminase (ALT) is an enzyme found mainly in the liver",
+                " Liver injury or disease could be caused by drugs"
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_333",
+        "category": "MedLFQA_KQA",
+        "question": "Does Allopurinal affect fertility?",
+        "answer": {
+            "free_form_answer": "Allopurinol (Zyloprim, Lopurin, Aloprim) is a prescription medication used to treat gout, high levels of uric acid in the blood, and recurrent uric acid kidney stones. It may cause side effects such as rash, joint pain, stiffness, or swelling. Male infertility has been reported in less than 1% of patients taking the drug while a similar association has not been found for female infertility. However, pregnant or breastfeeding women should consider alternatives due to the lack of safety information.",
+            "must_have": [
+                "Male infertility has been associated with Allopurinol in less than 1% of patients taking the drug.",
+                " No association was found between Allopurinol and female infertility.",
+                " Alternatives for Allopurinol should be considered while pregnant or breastfeeding."
+            ],
+            "nice_to_have": [
+                "Common side effects of Allopurinol include rash and joint pain, stiffness or swelling.",
+                " Allopurinol is a prescription drug used to treat gout, high levels of uric acid in the blood and recurrent uric acid kidney stones."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_334",
+        "category": "MedLFQA_KQA",
+        "question": "Can I take nyquil and benedryl at the same time?",
+        "answer": {
+            "free_form_answer": "Doxylamine (an ingredient in NyQuil) and Diphenhydramine (Benadryl) are antihistamine medications. Taking both together may increase the risk of side effects such as drowsiness, dizziness, and impaired coordination.\nAlso, it is possible to overdose on antihistamines.\nAntihistamine overdose includes symptoms such as drowsiness, dry mouth and eyes, blurred vision, urinary retention, rapid heartbeat, flushing, and gastrointestinal symptoms. Severe antihistamine overdose can lead to seizures, hallucinations, delirium, and respiratory or cardiovascular distress.\nSeek immediate medical attention in case of suspicion of an antihistamine overdose.\n",
+            "must_have": [
+                "Taking Doxylamine and Diphenhydramine simultaneously can increase the risk of side effects",
+                "Seek immediate medical attention in case of suspicion of an antihistamine overdose.",
+                "It is possible to overdose on antihistamines.",
+                ""
+            ],
+            "nice_to_have": [
+                "Doxylamine and Diphenhydramine are both antihistamines",
+                "Symptoms of antihistamine overdose include drowsiness, dry mouth and eyes, blurred vision, urinary retention, rapid heartbeat, flushing, and gastrointestinal symptoms.",
+                "Severe antihistamine overdose can lead to seizures, hallucinations, delirium, and respiratory or cardiovascular distress."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_335",
+        "category": "MedLFQA_KQA",
+        "question": "What would cause immunocompromise?",
+        "answer": {
+            "free_form_answer": "Immunocompromisation can be caused by primary and secondary immunodeficiencies. Primary immunodeficiencies are rare genetic conditions where a part of the immune system is missing or not working properly. Examples include chronic granulomatous disease (CGD), common variable immunodeficiency (CVID), severe combined immunodeficiency (SCID), and selective IgA deficiency. Secondary immunodeficiencies are acquired throughout a person's life and can result from various causes. Chronic diseases like autoimmune diseases (systemic lupus erythematosus, rheumatoid arthritis), malignancies (leukemia, multiple myeloma), hepatic or renal insufficiency, and diabetes mellitus can impair immune system function. Medical treatments like corticosteroids, certain chemotherapies, treatments for organ transplantation rejection, and biological therapies can also cause immunodeficiencies. Infections like HIV, measles, herpes viruses, bacterial, mycobacterial, and parasitic infections can weaken the immune system. Malnutrition, burns, pregnancy, stress, asplenia, environmental radiation and toxin exposure, and old age have also been linked to a weakened immune system and increased infection risk.",
+            "must_have": [
+                "Severe combined immunodeficiency is a type of primary immunodeficiency.",
+                " Hepatic or renal insufficiency can cause secondary immunodeficiencies.",
+                " Stress can weaken the immune system and increase the risk of infection.",
+                " Asplenia can weaken the immune system and increase the risk of infection.",
+                " Malnutrition can weaken the immune system and increase the risk of infection.",
+                " Environmental exposure to radiation and toxins can weaken the immune system and increase the risk of infection.",
+                " Chronic granulomatous disease is a type of primary immunodeficiency.",
+                " Selective IgA deficiency is a type of primary immunodeficiency.",
+                " Burns can weaken the immune system and increase the risk of infection.",
+                " Old age is associated with a weakened immune system and an increased risk of infection.",
+                " Common variable immunodeficiency is a type of primary immunodeficiency. Pregnancy can weaken the immune system and increase the risk of infection.",
+                " Medical treatments such as corticosteroids, some chemotherapies, treatments against rejection after organ transplantation and many biological therapies can cause secondary immunodeficiencies.",
+                " Infections such as HIV, measles and herpes group viruses as well as some bacterial, mycobacterial and parasitic infections can weaken the immune system.",
+                " Chronic diseases such as systemic lupus erythematosus and rheumatoid arthritis can cause secondary immunodeficiencies.",
+                " Diabetes mellitus can cause secondary immunodeficiencies.",
+                " Some malignancies such as leukemia and multiple myeloma can cause secondary immunodeficiencies."
+            ],
+            "nice_to_have": [
+                "Immunocompromisation is a situation in which a person's immune system is weakened, decreasing its ability to fight infections and other diseases.",
+                " Primary immunodeficiencies are a group of more than 450 rare, chronic conditions of hereditary genetic defects in which a part of the body\u2019s immune system is missing or does not function correctly.",
+                " Secondary immunodeficiencies are a group of conditions in which the immunodeficiency is acquired throughout the person's life."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_336",
+        "category": "MedLFQA_KQA",
+        "question": "Is Buspar a good medicine to take with the Zoloft?",
+        "answer": {
+            "free_form_answer": "Both Buspirone (Buspar) and Sertraline (Zoloft) elevate the serotonin levels in the brain. \nThis combination may increase the risk of serotonin syndrome, a serious and life-threatening condition. Symptoms of serotonin syndrome include diarrhea, nausea, vomiting, tremors, sweating, high fever, muscle stiffness, seizures, and abnormal or rapid heartbeat. Patients taking both medications should be closely monitored for any of these symptoms. If you suspect serotonin syndrome, seek immediate medical attention.",
+            "must_have": [
+                "Buspirone (Buspar) and Sertraline (Zoloft) both elevate serotonin levels in the brain",
+                "Combining Buspirone (Buspar) and Sertraline (Zoloft) may increase the risk of serotonin syndrome",
+                "Seek immediate medical attention if you suspect serotonin syndrome"
+            ],
+            "nice_to_have": [
+                "Symptoms of serotonin syndrome can include diarrhea.",
+                " Symptoms of serotonin syndrome can include high fever.",
+                " Symptoms of serotonin syndrome can include tremor.",
+                " Symptoms of serotonin syndrome can include vomiting.",
+                " Symptoms of serotonin syndrome can include seizures.",
+                " Symptoms of serotonin syndrome can include abnormal or rapid heartbeat.",
+                " Symptoms of serotonin syndrome can include nausea.",
+                " Symptoms of serotonin syndrome can include sweating.",
+                " Symptoms of serotonin syndrome can include muscle stiffness.",
+                " Serotonin syndrome is a serious and life-threatening condition",
+                "Patients taking both Buspirone (Buspar) and Sertraline (Zoloft) should be closely monitored for symptoms of serotonin syndrome"
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_337",
+        "category": "MedLFQA_KQA",
+        "question": "What type of bacteria causes Folliculitis?",
+        "answer": {
+            "free_form_answer": "Folliculitis is most commonly caused by the bacteria Staphylococcus aureus. Other bacteria like Staphylococcus epidermidis, Staphylococcus capitis, Pseudomonas aeruginosa have also been linked to folliculitis. Additionally, folliculitis can be caused by less common factors such as viruses, fungi, parasites, and non-infectious diseases.",
+            "must_have": [
+                "Staphylococcus capitis has been associated with folliculitis.",
+                " Pseudomonas aeruginosa has been associated with folliculitis.",
+                " The bacteria Staphylococcus aureus is the most common cause of folliculitis.",
+                " Staphylococcus epidermidis has been associated with folliculitis."
+            ],
+            "nice_to_have": [
+                "Folliculitis can be the result of non-infectious diseases.",
+                " Folliculitis can be caused by fungi.",
+                " Folliculitis can be caused by viruses.",
+                " Folliculitis can be caused by parasites."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_338",
+        "category": "MedLFQA_KQA",
+        "question": "No I have not is vomiting a Covid symptom?",
+        "answer": {
+            "free_form_answer": "Although respiratory symptoms predominate the clinical manifestations of COVID-19, vomiting is a possible symptom, and some patients experience nausea and vomiting as the first clinical manifestation of the disease.",
+            "must_have": [
+                "Vomiting is a possible symptom of COVID-19"
+            ],
+            "nice_to_have": [
+                "Some patients experience nausea and vomiting as the first clinical manifestation of COVID-19",
+                " espiratory symptoms predominate the clinical manifestations of COVID-19"
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_339",
+        "category": "MedLFQA_KQA",
+        "question": "Does metformin generally work pretty well?",
+        "answer": {
+            "free_form_answer": "Metformin is a treatment for type 2 diabetes that can't be managed with diet and exercise alone. It is considered a good medication for lowering blood glucose levels in type 2 diabetes mellitus patients and has also been shown to have a cardioprotective effect making it favorable for patients with metabolic syndrome. Metformin is relatively safe for patients without severe kidney dysfunction but can cause gastrointestinal side effects such as diarrhea, flatulence, nausea, and vomiting. Other less common side effects are also possible. Rarely, Metformin can cause lactic acidosis which can be life-threatening. It is important to follow up with your healthcare provider to monitor its effect and possible side effects.",
+            "must_have": [
+                "Metformin is a treatment for type 2 diabetes that can't be managed with diet and exercise alone",
+                "Metformin is considered a good medication for lowering blood glucose levels in type 2 diabetes mellitus patients",
+                "Metformin has been shown to have a cardioprotective effect making it favorable for patients with metabolic syndrome",
+                "Metformin is relatively safe for patients without severe kidney dysfunction",
+                "Metformin can cause gastrointestinal side effects such as diarrhea, flatulence, nausea, and vomiting",
+                "Rarely, Metformin can cause lactic acidosis which can be life-threatening",
+                "It is important to follow up with your healthcare provider to monitor Metformin's effect and possible side effects"
+            ],
+            "nice_to_have": []
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_340",
+        "category": "MedLFQA_KQA",
+        "question": "Back pain could be because Im starting my cycle in 2 days but I dont know?",
+        "answer": {
+            "free_form_answer": "There are many possible causes of back pain including inflammatory disorders, infections, pregnancy, trauma, musculoskeletal pain and neuropathic pain.\nBack pain associated with your period can start a few days before your period starts and get better after your period is over. This type of back pain is typically muscular and cramping.\nPlease seek medical attention if:\n-The back pain related with the period is new and you have never had it before\n-The pain is constant or worsening, or isn't relieved by medications.\n-The pain is severe.\n\n",
+            "must_have": [
+                "Back pain associated with your period can start a few days before your period starts and get better after your period is over",
+                " Back pain associated with Menstruation is typically muscular and cramping.",
+                "Please seek medical attention if the pain is constant or worsening, or isn't relieved by medications.",
+                "Please seek medical attention if the pain is severe.",
+                "Please seek medical attention if the back pain related with the period is new and you have never had it before."
+            ],
+            "nice_to_have": [
+                "Possible cause for back pain can be inflammatory disorders.",
+                "Possible cause for back pain can be trauma.",
+                "Possible cause for back pain can be neuropathic pain.",
+                "Possible cause for back pain can be infections.",
+                "Possible cause for back pain can be pregnancy.",
+                "Possible cause for back pain can be musculoskeletal pain."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_341",
+        "category": "MedLFQA_KQA",
+        "question": "What should do if I get a fever?",
+        "answer": {
+            "free_form_answer": "The average body temperature ranges from 35.3 to 37.7\u00b0C (95.5 to 99.9\u00b0F), and anything above 37.8\u00b0C (100.0\u00b0F) is typically considered a fever. Fevers are commonly associated with infectious diseases, but can also be a symptom of autoimmune and autoinflammatory conditions. Treating a fever can help alleviate accompanying symptoms like headaches, muscle and joint pain, or febrile seizures in children. Medications like acetaminophen (paracetamol) or non-steroidal anti-inflammatory drugs (NSAIDs) such as ibuprofen can be used to lower fever. Acetaminophen is usually recommended first due to fewer side effects than NSAIDs, but short-term use of either drug is safe for healthy individuals without kidney or liver impairment. While viral fevers generally resolve on their own and do not require further treatment, cases of high or prolonged fever or additional symptoms require medical attention and diagnosis. It's important to consult with a physician in these cases.",
+            "must_have": [
+                "In cases of very high fever, sustained fever or accompanying symptoms, one should be checked by a physician.",
+                " In cases of very high fever, sustained fever or accompanying symptoms, diagnosing and treating the cause of fever is needed.",
+                " Antipyretic medication such as acetaminophen (paracetamol) or non-steroidal anti-inflammatory drugs (NSAIDs) (ibuprofen) can be used to treat fever."
+            ],
+            "nice_to_have": [
+                "Most cases of fever are due to viral infections and are self-limited, not requiring additional treatment.",
+                " Treatment of fever can help prevent febrile seizure in children.",
+                " Treatment of fever can help reduce accompanying symptoms such as headaches and muscle and joint ache.",
+                " Fever is a symptom most commonly seen in infectious diseases.",
+                " Fever can also be a symptom in autoimmune and autoinflammatory diseases.",
+                " Acetaminophen (paracetamol) is usually the first recommendation for fever treatment due to less adverse effects compared to NSAIDs.",
+                " Normal body temperature ranges from 35.3 to 37.7\u00b0C (95.5 to 99.9\u00b0F).",
+                " Body temperature over 37.8\u00b0C (100.0\u00b0F) is usually considered as a fever.",
+                " In healthy individuals with no kidney or liver impairment, short term usage of acetaminophen (paracetamol) or NSAIDs is relatively safe."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_342",
+        "category": "MedLFQA_KQA",
+        "question": "What about diflucan for a yeast infection?",
+        "answer": {
+            "free_form_answer": "Oral Diflucan (fluconazole) is one of the available treatments for a yeast infection. Other possible treatments include short-course vaginal therapy, which is available as creams, ointments, tablets, and suppositories. ",
+            "must_have": [
+                "Oral Diflucan (fluconazole) is a possible treatment for a yeast infection"
+            ],
+            "nice_to_have": [
+                "Short-course vaginal therapy for yeast infection is available as creams",
+                " Short-course vaginal therapy for yeast infection is available as suppositories",
+                " Short-course vaginal therapy for yeast infection is available as tablets",
+                " Short-course vaginal therapy for yeast infection is available as ointments"
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_343",
+        "category": "MedLFQA_KQA",
+        "question": "Does the bacteria determine the antibiotic?",
+        "answer": {
+            "free_form_answer": "Antibiotics are a type of antimicrobial substance designed to target specific mechanisms or components that are unique to certain types of bacteria. Hence, the bacteria\u2019s species is a crucial factor in deciding on the right treatment for a bacterial infection. Having said that, there are additional important factors in determining the right antibiotic agent such as the severity of infection, site of infection, sensitivity testing, potential side effects of the drug, patient's medical history, and allergies. ",
+            "must_have": [
+                "The species of bacteria is a crucial factor in deciding the right treatment for a bacterial infection.",
+                " The patient's allergies are an important factor in determining the right antibiotic agent.",
+                " Potential side effects of the drug are an important factor in determining the right antibiotic agent.",
+                " The severity of infection is an important factor in determining the right antibiotic agent.",
+                " The site of infection is an important factor in determining the right antibiotic agent.",
+                " The patient's medical history is an important factor in determining the right antibiotic agent.",
+                " Sensitivity testing is an important factor in determining the right antibiotic agent."
+            ],
+            "nice_to_have": [
+                "Antibiotics are designed to target specific mechanisms or components unique to certain types of bacteria."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_344",
+        "category": "MedLFQA_KQA",
+        "question": "Can Clindamyam be used to treat a UTI",
+        "answer": {
+            "free_form_answer": "Clindamycin (Cleocin, Clinacin, Dalacin) is not the standard treatment for a urinary tract infection. This drug should only be considered in those with multiple allergies to the standard treatment.\nAntibiotics commonly used to treat urinary tract infections include Trimethoprim/sulfamethoxazole (Bactrim, Septra), Nitrofurantoin (Macrobid, Macrodantin), Ciprofloxacin (Cipro), and Fosfomycin (Monurol).\n",
+            "must_have": [
+                "Clindamycin (Cleocin, Clinacin, Dalacin) is not the standard treatment for a urinary tract infection.",
+                "Clindamycin should only be considered in those with multiple allergies to the standard treatment"
+            ],
+            "nice_to_have": [
+                "Antibiotics commonly used to treat urinary tract infections include Trimethoprim/sulfamethoxazole (Bactrim, Septra)",
+                " Antibiotics commonly used to treat urinary tract infections include Nitrofurantoin (Macrobid, Macrodantin)",
+                " Antibiotics commonly used to treat urinary tract infections include Fosfomycin (Monurol)",
+                " Antibiotics commonly used to treat urinary tract infections include Ciprofloxacin (Cipro)"
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_345",
+        "category": "MedLFQA_KQA",
+        "question": "Whats good for muscular pain",
+        "answer": {
+            "free_form_answer": "Muscular pain can be relieved through various treatments. Non-pharmacological treatments like muscle massage, rest, gentle stretching, and heat therapy can be helpful. Pharmacological treatments, such as pain relievers like Acetaminophen (Tylenol) and Ibuprofen (Advil, Motrin), and muscle relaxants like Chlorzoxazone (Lorzone), Carisoprodol (Soma), and Metaxalone (Skelaxin) can also alleviate pain. Topical creams or gels containing Methyl salicylate Menthol (Icy Hot) and Trolamine salicylate (Aspercreme) can also ease muscle soreness. It's important to seek medical attention if you experience severe pain, muscle weakness, numbness, tingling, or high fever or if the pain lasts for more than a week.",
+            "must_have": [
+                "Acetaminophen (Tylenol) is a pharmacological treatment that may alleviate muscle pain.",
+                " Ibuprofen (Advil, Motrin) is a pharmacological treatment that may alleviate muscle pain.",
+                " Methyl salicylate Menthol (Icy Hot) is a topical cream that can help to ease muscle soreness.",
+                " Metaxalone (Skelaxin) is a muscle relaxant that may alleviate muscle pain.",
+                " Chlorzoxazone (Lorzone) is a muscle relaxant that may alleviate muscle pain.",
+                " Seek medical attention if the muscle pain is severe or is functionally limiting.",
+                " Seek medical attention if you have significant muscle weakness.",
+                " Seek medical attention if the muscle pain lasts for more than a week.",
+                " Seek medical attention if you have numbness or tingling in limbs.",
+                " Carisoprodol (Soma) is a muscle relaxant that may alleviate muscle pain.",
+                " Trolamine salicylate (Aspercreme) is a topical gel that can help to ease muscle soreness.",
+                " Seek medical attention if you have a high fever."
+            ],
+            "nice_to_have": [
+                "Heat therapy is a possible non-pharmacological treatment to relieve muscular pain.",
+                " Rest may alleviate muscular pain.",
+                " Muscle massage may alleviate muscular pain."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_346",
+        "category": "MedLFQA_KQA",
+        "question": "My older sister has pcos and has had trouble conceiving. Is there a genetic component to pcos?",
+        "answer": {
+            "free_form_answer": "Research has suggested that there could be a genetic link to PCOS, but it's important to note that this alone doesn't guarantee the development of the condition. The likelihood of developing PCOS is influenced by a combination of genetic and environmental factors.",
+            "must_have": [
+                "The chances of developing PCOS are affected by both genetics and environmental factors.",
+                " There may be a genetic component to PCOS according to studies.",
+                " Having a family member with PCOS does not necessarily mean that you will develop PCOS."
+            ],
+            "nice_to_have": []
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_347",
+        "category": "MedLFQA_KQA",
+        "question": "What would a colonoscopy show?",
+        "answer": {
+            "free_form_answer": "A colonoscopy is a medical procedure that examines your large intestine or colon. A thin, flexible, lighted tube with a small camera is inserted through your rectum and into your colon. This procedure can be used to prevent and detect colon cancer by evaluating the colon lining. During this exam, polyps, which are growths that could be cancerous, are detected and evaluated. In some cases, they may be removed and sent for a biopsy. In addition, colonoscopy may also be used to diagnose other gastrointestinal issues such as chronic diarrhea, bloody stools, weight loss, and abdominal pain. If any abnormalities are found, the colonoscopy can help detect the cause. ",
+            "must_have": [
+                "Colonoscopy allows evaluation of the colon lining.",
+                " Colonoscopy can detect colitis (inflammation of the colon).",
+                " Colonoscopy is used mainly for prevention and early detection of colon cancer.",
+                " Colonoscopy can detect cancer in the colon.",
+                " During a colonoscopy, polyps (growth of the colon, that could possibly be cancerous) are detected, evaluated and in some cases resected and sent for a biopsy."
+            ],
+            "nice_to_have": [
+                "Colonoscopy can be used in cases of symptoms such as other gastrointestinal issues.",
+                " A colonoscopy is an exam of the large intestine (colon) with a thin, flexible, lighted tube and tiny camera.",
+                " Colonoscopy can be used in cases of symptoms such as weight loss.",
+                " Colonoscopy can be used in cases of symptoms such as abdominal pain.",
+                " Colonoscopy can be used in cases of symptoms such as chronic diarrhea.",
+                " The scope for a colonoscopy is put through the rectum and into the colon.",
+                " Colonoscopy can be used in cases of symptoms such as bloody stools.",
+                " Colonoscopy can help detect the cause of certain symptoms"
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_348",
+        "category": "MedLFQA_KQA",
+        "question": "Is ibuprofen a part of tylenol?",
+        "answer": {
+            "free_form_answer": "Ibuprofen( Advil, Motrin) and Acetaminophen (Tylenol) are common pain and fever relievers. Whilst the two drugs share some similar features, the active ingredient is different, and Ibuprofen is not a part of Acetaminophen. ",
+            "must_have": [
+                "The active ingredient in Ibuprofen is different from that in Acetaminophen.",
+                " Ibuprofen (Advil, Motrin) is not a part of Acetaminophen (Tylenol)."
+            ],
+            "nice_to_have": [
+                "Ibuprofen (Advil, Motrin) and Acetaminophen (Tylenol) are common pain and fever relievers."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_349",
+        "category": "MedLFQA_KQA",
+        "question": "Would it be possible to prescribe something today to help short-term (even a week) for my heart burn?",
+        "answer": {
+            "free_form_answer": "Antacids are an option to relieve mild and occasional heartburn symptoms. They provide quick relief, but the effect lasts only 30-60 minutes. Over-the-counter H2 receptor antagonists and proton pump inhibitors are also effective in treating heartburn, with a longer duration of action. For severe or frequent symptoms, prescription proton pump inhibitors are often recommended. In addition, certain lifestyle changes such as losing weight (if overweight or gained weight recently) and elevating the head of the bed can also help improve symptoms.",
+            "must_have": [
+                "Over-the-counter H2 receptor antagonists are effective for the short-term treatment of heartburn.",
+                " Over-the-counter proton pump inhibitors are effective for the short-term treatment of heartburn.",
+                " Antacids can be used for relief of mild intermittent heartburn symptoms.",
+                " H2 receptor antagonists and proton pump inhibitors have a longer duration of action than antacids.",
+                " For severe or frequent heartburn symptoms, prescription proton pump inhibitors are often used.",
+                " Antacids provide rapid relief but have a short duration of 30-60 minutes."
+            ],
+            "nice_to_have": [
+                "Elevation of the head of the bed has been shown to improve heartburn symptoms.",
+                " Weight loss can improve heartburn symptoms if the individual is overweight or has gained weight recently."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_350",
+        "category": "MedLFQA_KQA",
+        "question": "So if the diarrhea started last night, Im assuming I would be no longer contagious by tomorrow night?",
+        "answer": {
+            "free_form_answer": "The most common cause of acute diarrhea in healthy individuals is viral infection, also known as viral gastroenteritis. Other common infectious causes include bacteria, toxins, and parasites. As long as you have diarrhea, you might still be spreading the virus/bacteria and, therefore, contagious, so take precautions accordingly. Precautions include washing hands with soap and water after using the bathroom, and avoiding cooking and sharing food with others until the symptoms resolve.",
+            "must_have": [
+                "As long as you have diarrhea, you might still be spreading the virus/bacteria and therefore be contagious"
+            ],
+            "nice_to_have": [
+                "The most common cause for acute diarrhea in healthy individuals is viral gastroenteritis.",
+                " Other common infectious causes for acute diarrhea include bacteria, toxins and parasites.",
+                " Precautions for acute diarrhea include washing hands with soap and water after using the bathroom.",
+                " Precautions for acute diarrhea include avoiding cooking and sharing food with others until the symptoms resolve."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_351",
+        "category": "MedLFQA_KQA",
+        "question": "And is there any way I can get some medicine for a cold sore and a mouth ulcer that is killing me",
+        "answer": {
+            "free_form_answer": "Yes, oral antiviral medications such as valacyclovir (Valtrex), can be prescribed to shorten the healing time of cold sores by 1-2 days. However, they are most effective when taken within 48-72 hours of the onset of symptoms.\nFor pain relief, over-the-counter (OTC) topical pain relievers that contain benzocaine (Orajel) can be applied directly to the sores. Oral OTC painkillers, such as acetaminophen (Tylenol) and ibuprofen (Advil), can also ease discomfort.",
+            "must_have": [
+                "Oral OTC painkillers, such as acetaminophen (Tylenol) and ibuprofen (Advil), can also ease discomfort from cold sores and mouth ulcers.",
+                "Oral antiviral medications, such as valacyclovir (Valtrex), can be prescribed to shorten the healing time of cold sores by 1-2 days.",
+                "Oral antiviral medications are most effective when taken within 48-72 hours of the onset of symptoms.",
+                "Over-the-counter (OTC) topical pain relievers that contain benzocaine (Orajel) can be applied directly to the sores for pain relief."
+            ],
+            "nice_to_have": []
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_352",
+        "category": "MedLFQA_KQA",
+        "question": "Is there anything i should be looking out for while using minoxidil?",
+        "answer": {
+            "free_form_answer": "There are two types of minoxidil: topical and systemic. Topical minoxidil is a liquid or foam that can be obtained over the counter and applied to the scalp to help with pattern hair loss. It is generally well-tolerated, but some side effects include an itchy and dry scalp, changes in hair texture and color, hair shedding, and unwanted facial hair. On the other hand, systemic minoxidil is prescribed to treat high blood pressure. One possible side effect is excessive hair growth, which disappears after treatment. However, it is important to note that systemic minoxidil can potentially have serious side effects, such as pericardial effusion, which can lead to cardiac tamponade and worsen angina pectoris. Therefore,  You should check your weight daily and follow your doctor's instructions on checking your blood pressure and heart rate. If you experience signs of rapid or irregular heartbeat, dizziness, shortness of breath, rapid weight gain, chest pain, changes in hearing or vision, or swelling in the arms and legs, you should contact your healthcare provider immediately.",
+            "must_have": [
+                "A common side effect of systemic minoxidil is excessive hair growth that is lost when treatment is stopped.",
+                " It is important that you check your weight daily and check your blood pressure and heart rate as instructed by your doctor while using systemic minoxidil.",
+                " Contact your healthcare provider immediately if you experience signs of an allergic reaction, fast or irregular heartbeat, dizziness, shortness of breath, rapid weight gain, chest pain, change in hearing or eyesight or swelling in arms and legs while using systemic minoxidil.",
+                " side effects of topical minoxidil include: change in hair colour, change in hair texture, hair shedding and unwanted facial hair.",
+                " a side effect of topical minoxidil is a dry, itchy scalp.",
+                " Systemic minoxidil has the potential serious side effects of pericardial effusion that can lead to cardiac tamponade and the exacerbation of angina pectoris."
+            ],
+            "nice_to_have": [
+                "Topical minoxidil is an over-the-counter liquid or foam that is applied to the scalp to treat pattern hair loss.",
+                " Systemic minoxidil is prescribed to treat severly high blood pressure."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_353",
+        "category": "MedLFQA_KQA",
+        "question": "Am I contagious with respiratory infection?",
+        "answer": {
+            "free_form_answer": "Most respiratory tract infections are contagious and can be spread through sneezing and coughing. Respiratory infections are commonly caused by viruses, but can also be caused by bacteria and fungi. Protective measures such as wearing a mask, washing hands, sneezing and coughing into your elbow or a tissue, and vaccinating against respiratory infections can reduce the transmission rate of respiratory infections.",
+            "must_have": [
+                "Most respiratory tract infections are contagious."
+            ],
+            "nice_to_have": [
+                "Respiratory tract infections can be spread through sneezing and coughing.",
+                "Respiratory infections can be caused by fungi.",
+                "Respiratory infections are commonly caused by viruses.",
+                "Washing hands can reduce the transmission rate of respiratory infections.",
+                "Sneezing and coughing into your elbow or a tissue can reduce the transmission rate of respiratory infections.",
+                "Wearing a mask can reduce the transmission rate of respiratory infections.",
+                "Vaccinating against respiratory infections can reduce the transmission rate of such infections.",
+                "Respiratory infections can be caused by bacteria."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_354",
+        "category": "MedLFQA_KQA",
+        "question": "Since I took Fioricet about an hour ago, can I take ibuprofen?",
+        "answer": {
+            "free_form_answer": "Taking non-steroidal anti-inflammatory drugs like Ibuprofen (Advil, Ibuprofen, Motrin, Provil) together with Fioricet is safe, as there are no known interactions between Ibuprofen and the active ingredients of Fioricet: Butalbital, Acetaminophen, and caffeine. It's important to follow the manufacturer's recommended daily dosage limit and not exceed it.\n",
+            "must_have": [
+                "There are no known interactions between ibuprofen and the active ingredients of Fioricet ",
+                " It is safe to take Ibuprofen (Advil, Ibuprofen, Motrin, Provil) after Fioricet",
+                " There are no known interactions between Ibuprofen and caffeine.",
+                "There are no known interactions between Ibuprofen and Butalbital.",
+                "There are no known interactions between Ibuprofen and Acetaminophen."
+            ],
+            "nice_to_have": [
+                "Do not exceed the recommended daily limit of the medications as suggested by the manufacturer"
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_355",
+        "category": "MedLFQA_KQA",
+        "question": "Whats a cluster headache?",
+        "answer": {
+            "free_form_answer": "Cluster headache is a type of chronic and severe headache that is not life-threatening. It typically affects one side of the head, usually in or around the eye area, and is commonly described as a stabbing or sharp pain. Other symptoms that may be experienced on the affected side include tearing, redness of the eye, a stuffy or runny nose, sweating, and drooping eyelid. Cluster headache is characterized by frequent attacks of pain that can last from weeks to months, followed by a period of remission. Fortunately, there are effective treatments available that can help make cluster headache attacks shorter, less frequent, and less severe.",
+            "must_have": [
+                "Cluster headache is a type of chronic, severe, non-life-threatening headache.",
+                " Symptoms of cluster headache on the affected side may include tearing.",
+                " Cluster headache is usually one-sided, occurring in or around the eye.",
+                " Symptoms of cluster headache on the affected side may include a stuffy or runny nose.",
+                " Symptoms of cluster headache on the affected side may include a drooping eyelid.",
+                " Symptoms of cluster headache on the affected side may include redness of the eye.",
+                " There are effective treatments that can make cluster headache attacks less frequent.",
+                " There are effective treatments that can make cluster headache attacks less severe.",
+                " There are effective treatments that can make cluster headache attacks shorter.",
+                " Symptoms of cluster headache on the affected side may include sweating.",
+                " Cluster headache is characterized by bouts of frequent attacks of pain that can last from weeks to months.",
+                " A period of remission usually follows a bout of cluster headache."
+            ],
+            "nice_to_have": []
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_356",
+        "category": "MedLFQA_KQA",
+        "question": "is it okay to take imodium long term?",
+        "answer": {
+            "free_form_answer": "Loperamide (Imodium) is a medication intended to relieve the symptoms of diarrhea and is sold over the counter or with a doctor's prescription. For acute diarrhea, the drug shouldn't be used for more than 48 hours, and if the diarrhea persists, it is advisable to contact your healthcare provider for proper diagnosis and treatment. Under your doctor's prescription for chronic diarrhea, it is possible to take Loperamide long-term after considering if the benefit outweighs the possible side effects.",
+            "must_have": [
+                "For acute diarrhea, Loperamide (Imodium) shouldn't be used for more than 48 hours.",
+                " If diarrhea persists after using Loperamide (Imodium) for 48 hours, it is advisable to contact your healthcare provider for proper diagnosis and treatment.",
+                " For chronic diarrhea, it is possible to take Loperamide (Imodium) long-term under a doctor's prescription"
+            ],
+            "nice_to_have": [
+                "Loperamide (Imodium) is a medication intended to relieve the symptom of diarrhea "
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_357",
+        "category": "MedLFQA_KQA",
+        "question": "But what is colchicine",
+        "answer": {
+            "free_form_answer": "Colchicine (Colcrys, Gloperba, Mitigare, and Myinfla) is an anti-inflammatory drug used to treat many inflammatory conditions including Gout, Pericarditis, Behcet's disease, and Familial Mediterranean Fever. Although its mechanism of action is still being studied, it has been shown to impair multiple proinflammatory processes, such as neutrophil recruitment, and decrease levels of proinflammatory cytokines.\n\n",
+            "must_have": [
+                "Colchicine is used to treat Pericarditis.",
+                "Colchicine is used to treat Gout.",
+                "Colchicine is used to treat Familial Mediterranean Fever.",
+                "Colchicine is used to treat Behcet's disease.",
+                "Colchicine is an anti-inflammatory drug.",
+                "Colchicine mechanism of action is still being explored.",
+                "Colchicine impairs multiple proinflammatory processes such as neutrophil recruitment.",
+                " Colchicine decreases levels of the proinflammatory cytokines"
+            ],
+            "nice_to_have": []
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_358",
+        "category": "MedLFQA_KQA",
+        "question": "Is saxenda a glp1 blocker as well?",
+        "answer": {
+            "free_form_answer": "Saxenda is a GLP-1 receptor agonist that contains liraglutide. It mimics the action of GLP-1 hormone, enhancing insulin release, decreasing liver glucose production, reducing appetite, and slowing gastric emptying.",
+            "must_have": [
+                "Saxenda is a GLP-1 receptor agonist."
+            ],
+            "nice_to_have": [
+                "Liraglutide slows gastric emptying.",
+                " Saxenda contains the active ingredient liraglutide.",
+                " Liraglutide reduces appetite.",
+                " Liraglutide decreases liver glucose production.",
+                " Liraglutide mimics the action of the hormone GLP-1.",
+                " Liraglutide enhances the release of insulin."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_359",
+        "category": "MedLFQA_KQA",
+        "question": "Any thoughts on taking activated charcoal to help w stomach bug?",
+        "answer": {
+            "free_form_answer": "Activated charcoal (Actidose-Aqua, Charcocaps) is a processed form of common charcoal that contains pores that can trap chemicals and prevent bodily absorption. Activated charcoal can be used to treat certain types of chemical poisonings.\nThere is no evidence for efficacy of using activated charcoal in cases of gastroenteritis (also known as \"stomach bug\").\nFurthermore, activated charcoal can interfere with the absorption of other drugs. Possible adverse effects of activated charcoal such as vomiting, constipation, and electrolyte abnormalities can exacerbate the condition of a patient suffering from gastroenteritis and therefore should be avoided.\n",
+            "must_have": [
+                "Activated charcoal might exacerbate the condition of a patient suffering from gastroenteritis and therefore it should be avoided.",
+                "There is no evidence for efficacy of using activated charcoal in cases of gastroenteritis (also known as 'stomach bug')."
+            ],
+            "nice_to_have": [
+                "Activated charcoal can interfere with the absorption of other drugs.",
+                "Possible adverse effects of activated charcoal include vomiting, constipation, and electrolyte abnormalities.",
+                "Activated charcoal can be used to treat certain types of chemical poisonings.",
+                "Activated charcoal (Actidose-Aqua, Charcocaps) is a processed form of common charcoal that contains pores that can trap chemicals and prevent bodily absorption."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_360",
+        "category": "MedLFQA_KQA",
+        "question": "What is augmentin",
+        "answer": {
+            "free_form_answer": "Amoxicillin with Clavulanic acid (Augmentin) is a prescription antibiotic drug used to treat many different infections caused by bacteria. This drug consists of Amoxicillin, which is a penicillin antibiotic that fights against bacteria, and Clavulanic acid, which is a beta-lactamase inhibitor that helps to treat and prevent certain bacteria resistance to Amoxicillin. ",
+            "must_have": [
+                "Amoxicillin with Clavulanic acid (Augmentin) is a prescription antibiotic drug used to treat many different infections caused by bacteria.",
+                " Augmentin contains Clavulanic acid, a beta-lactamase inhibitor that helps to treat and prevent certain bacteria resistance to amoxicillin.",
+                " Augmentin contains  Amoxicillin, which is a penicillin antibiotic that fights against bacteria"
+            ],
+            "nice_to_have": []
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_361",
+        "category": "MedLFQA_KQA",
+        "question": "Does low thyroid contribute to weight gain?",
+        "answer": {
+            "free_form_answer": "When thyroid function is low, it can lead to a reduction in metabolic rate and modest weight gain. However, this weight gain is typically only around 5-10 pounds and is not commonly associated with severe obesity. Treating and balancing thyroid function can help with weight loss. If you suspect you have low thyroid function, it is important to consult your healthcare provider for assessment and treatment.",
+            "must_have": [
+                "Treating and balancing thyroid function can help with losing the weight gained due to this condition.",
+                " If you have, or suspect you have a low thyroid function, it is important to consult your healthcare provider about assessment and treatment.",
+                " Decreased activity due to fatigue from low thyroid function can contribute to weight gain.",
+                " Low thyroid function can reduce the metabolic rate.",
+                " Low thyroid function can cause accumulation of fluid in the body.",
+                " Low thyroid function can cause a modest weight gain."
+            ],
+            "nice_to_have": [
+                "Low thyroid function is not commonly associated with severe obesity."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_362",
+        "category": "MedLFQA_KQA",
+        "question": "If the side effects of the Prozac become too much is there a wean down period I would have to go through or would I be able to stop it immediately?",
+        "answer": {
+            "free_form_answer": "It is typically recommended to avoid abruptly discontinuing selective serotonin reuptake inhibitors (SSRIs) as this may result in unpleasant withdrawal symptoms. While Prozac has a lower risk of such symptoms, it is still advisable to gradually reduce doses of 20mg over a period of 1-2 weeks before stopping completely. Any change in your treatment plan should be done under your healthcare provider's guidance and supervision.",
+            "must_have": [
+                "If experiencing unpleasant side effects from Prozac, it is recommended to avoid abruptly discontinuing the medication",
+                "Abrupt discontinuation of selective serotonin reuptake inhibitors (SSRIs) may result in withdrawal symptoms",
+                "Prozac has a lower risk of withdrawal symptoms compared to other SSRIs",
+                "It is advisable to gradually reduce Prozac doses of 20mg over a period of 1-2 weeks before stopping completel",
+                "Any change in your treatment plan should be done under your healthcare provider's guidance and supervision. "
+            ],
+            "nice_to_have": []
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_363",
+        "category": "MedLFQA_KQA",
+        "question": "Is poison ivy contagious between people?",
+        "answer": {
+            "free_form_answer": "Poison Ivy is a plant that, when in direct contact with the skin, can cause a skin reaction called \"contact dermatitis\". This rash is not contagious and cannot be transferred between people. However, it is possible to develop the rash by touching objects that have been in contact with the plant's oil, such as clothes, tools, or animal fur. Additionally, being in the vicinity of burning poison ivy can also cause contact dermatitis. It's worth noting that the same substance causing the rash in poison ivy can also be found in other plants like poison oak, poison sumac, ginkgo fruit, and mango peels.",
+            "must_have": [
+                "Poison ivy causes contact dermatitis through direct contact with the plant",
+                "It is rare but possible to develop contact dermatitis from poison ivy by touching objects with the plant's oil on them",
+                " the rash caused by poison ivy is not contagious and cannot be transferred between people."
+            ],
+            "nice_to_have": [
+                "Contact dermatitis from poison ivy can be caused by being in the vicinity of burning poison ivy",
+                "The substance causing the rash in poison ivy is also found in poison oak",
+                "The substance causing the rash in poison ivy is also found in poison sumac",
+                "The substance causing the rash in poison ivy is also found in ginkgo fruit",
+                "The substance causing the rash in poison ivy is also found in mango peel"
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_364",
+        "category": "MedLFQA_KQA",
+        "question": "How is PID treated?",
+        "answer": {
+            "free_form_answer": "Pelvic inflammatory disease (PID) is treated with antibiotics that cover a broad-spectrum of likely pathogens (Chlamydia, Gonorrhea, anaerobic bacteria and others).\nTreating PID as soon as symptoms start can prevent scarring and irreversible damage to reproductive organs. Therefore, a combination of antibiotics is promptly administered and then later adjusted according to a patient\u2019s lab results. A possible combination of  antibiotics includes Ceftriaxone, Doxycycline, and Metronidazole.\nHospitalization is necessary when severe illness is suspected or when a patient is pregnant, has a tubo-ovarian abscess, or is unresponsive to oral treatment.\nWhile treatment is administered, sexual partners should be tested and treated in order to prevent reinfection. Sexual intercourse should be avoided until treatment is completed and symptoms are resolved.\n\n",
+            "must_have": [
+                "PID is treated with broad-spectrum antibiotics that cover likely pathogens such as Chlamydia, Gonorrhea, and anaerobic bacteria.",
+                " Treating PID as soon as symptoms start can prevent scarring and irreversible damage to reproductive organs.",
+                " posibble antibiotic combinations for PID treatment is Ceftriaxone, Doxycycline, and Metronidazole."
+            ],
+            "nice_to_have": [
+                "Hospitalization is necessary for PID treatment when the patient is unresponsive to oral treatment.",
+                "Hospitalization is necessary for PID treatment when severe illness is suspected.",
+                "Hospitalization is necessary for PID treatment when the patient is pregnant.",
+                "Hospitalization is necessary for PID treatment when the patient has a tubo-ovarian abscess.",
+                "Sexual intercourse should be avoided until PID treatment is completed and symptoms are resolved.",
+                "A combination of antibiotics is promptly administered for PID treatment and then later adjusted according to a patient\u2019s lab results.",
+                "Sexual partners should be tested and treated during PID treatment to prevent reinfection."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_365",
+        "category": "MedLFQA_KQA",
+        "question": "Is there anything you can prescribe for anal fissure",
+        "answer": {
+            "free_form_answer": "The treatment goal for anal fissures is to relieve pain, relax the internal anal sphincter and prevent injury by large or hard bowel movements. For typical anal fissures, initial management consists of supportive measures and a topical vasodilator for at least one month. Warm sitz baths after bowel movements can give temporary symptomatic relief. Stool softeners and laxatives can treat constipation, whilst increasing dietary fiber or fiber supplements can prevent hard bowel movements. A topical vasodilator that is applied on or around the fissure, such as topical nifedipine or nitroglycerin, can be prescribed to promote healing. For fissures that fail to respond to initial medical therapy, botulinum toxin A injections into the internal sphincter or surgery (lateral internal sphincterotomy) may indicated. ",
+            "must_have": [
+                "Stool softeners and laxatives can be used to treat constipation in patients with anal fissures.",
+                " Initial management for typical anal fissures consists of supportive measures and a topical vasodilator for at least one month.",
+                " Increasing dietary fiber or fiber supplements can prevent hard bowel movements in patients with anal fissures.",
+                " Warm sitz baths after bowel movements can give temporary symptomatic relief for anal fissures.",
+                " For anal fissures that fail to respond to initial medical therapy, botulinum toxin A injections into the internal sphincter can be considered.",
+                " For anal fissures that fail to respond to medical therapy, surgery (lateral internal sphincterotomy) may be considerd.",
+                " A topical vasodilator such as topical nifedipine or nitroglycerin can be prescribed to promote healing of anal fissures."
+            ],
+            "nice_to_have": []
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_366",
+        "category": "MedLFQA_KQA",
+        "question": "What is Valtrex?",
+        "answer": {
+            "free_form_answer": "Valtrex is the brand name of the generic drug Valacyclovir, which is an oral anti-viral drug that works by slowing the growth and spread of viruses to help the body fight the infection. This drug is most commonly used to treat infections of herpes viruses, including herpes simplex virus and varicella zoster virus which cause diseases such as cold sores, genital herpes, shingles, and chickenpox. Valacyclovir (Valtrex) is available only with a prescription and should be taken as instructed by the doctor.",
+            "must_have": [
+                "Valacyclovir is commonly used to treat infections of varicella zoster virus.",
+                " Valacyclovir is used to treat diseases such as shingles.",
+                " Valacyclovir is an oral anti-viral drug.",
+                " Valacyclovir is used to treat diseases such as chickenpox.",
+                " Valacyclovir is used to treat diseases such as genital herpes.",
+                " Valacyclovir works by slowing the growth and spread of viruses to help the body fight the infection.",
+                " Valacyclovir is commonly used to treat infections of herpes simplex virus.",
+                " Valacyclovir is used to treat diseases such as cold sores."
+            ],
+            "nice_to_have": [
+                " Valtrex is the brand name of the generic drug Valacyclovir.",
+                " Valacyclovir (Valtrex) is available only with prescription.",
+                " Valacyclovir should be taken as instructed by the doctor."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_367",
+        "category": "MedLFQA_KQA",
+        "question": "Can I take anything with the antibiotic like pepto bismol or Tylenol as needed?",
+        "answer": {
+            "free_form_answer": "It is generally safe to take most antibiotics with Tylenol (acetaminophen) except when taken with the antibiotic isoniazid (Nydrazid). Isoniazid can increase the activity of liver enzymes, which results in Tylenol being converted to toxic metabolites, thus increasing the risk of liver damage. As for Pepto-Bismol (bismuth subsalicylate), it can inhibit the absorption of tetracycline antibiotics from the digestive system. It is therefore recommended to take the two medications 2-3 hours apart from each other.",
+            "must_have": [
+                "Tylenol (acetaminophen) can generally be taken safely with most antibiotics",
+                "Tylenol should be used with caution when taken with the antibiotic isoniazid (Nydrazid) due to the risk of liver damage",
+                "It is advised that Pepto-Bismol and tetracycline antibiotics are taken 2-3 hours apart",
+                "Pepto-Bismol (bismuth subsalicylate) can inhibit the absorption of tetracycline antibiotics from the digestive system"
+            ],
+            "nice_to_have": []
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_368",
+        "category": "MedLFQA_KQA",
+        "question": "I started taking lisinopril yesterday. Should my blood pressure be normal by now?",
+        "answer": {
+            "free_form_answer": "The antihypertensive effects of lisinopril are usually noticeable within a few hours of taking it orally. The peak blood pressure reduction happens around 6 hours later. While taking the daily dosage, the blood pressure should decrease, but it may still be higher than the normal range. If, after a few weeks, the blood pressure remains high, the patient should consult a doctor as the treatment may need to be adjusted.",
+            "must_have": [
+                "While taking the daily dosage of Lisinopril, blood pressure should be lowered.",
+                " Blood pressure might still be higher than the normal range while taking Lisinopril.",
+                " Lisinopril's antihypertensive activity begins within several hours after the first oral administration.",
+                " If blood pressure is still higher than the normal range within a few weeks of taking Lisinopril, it is advised to consult a doctor."
+            ],
+            "nice_to_have": [
+                "Lisinopril's peak reduction of blood pressure is achieved by approximately 6 hours."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_369",
+        "category": "MedLFQA_KQA",
+        "question": "Is it common to have an abscess with no pain?",
+        "answer": {
+            "free_form_answer": "An abscess is a pocket of pus that can develop anywhere in your body, including the skin, mouth, and internal organs. Typically, pain is the primary symptom of an abscess, and it is often what prompts patients to seek medical help. However, some abscesses can be painless due to factors like size, location, and the patient's individual characteristics. If you suspect that you have an abscess, it is crucial to consult with a healthcare provider for proper diagnosis and treatment. Medical intervention is usually necessary for abscesses.",
+            "must_have": [
+                "Not experiencing pain does not exclude the presence of an abscess.",
+                " If you suspect you might have an abscess, you should consult your healthcare provider for diagnosis and treatment.",
+                " A common symptom of an abscess is pain.",
+                " Less commonly, an abscess can be painless due to its location, size, patient's characteristics and other causes."
+            ],
+            "nice_to_have": [
+                "An abscess is a pocket of pus that can form almost anywhere in your body including the skin, mouth and internal organs.",
+                " Abscesses usually require a medical intervention.",
+                " Pain is often the reason patients with an abscess seek medical attention."
+            ]
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    },
+    {
+        "no": "MQA_370",
+        "category": "MedLFQA_KQA",
+        "question": "Doe the buspar cause sleepiness?",
+        "answer": {
+            "free_form_answer": "Buspirone, sold under the brand name Buspar, is a medication used to treat anxiety. Common side effects include hyperactivity, restlessness, nervousness, and excitability. Less commonly, it may also cause hypoactivity, such as drowsiness and fatigue.",
+            "must_have": [
+                "Buspirone (Buspar) can cause both hyperactive side effects like restlessness, nervousness, and unusual excitement, as well as hypoactive side effects like drowsiness and unusual tiredness."
+            ],
+            "nice_to_have": []
+        },
+        "eval": "Word Composition, Semantic Similarities, Factuality"
+    }
+]

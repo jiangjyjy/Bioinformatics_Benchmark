@@ -1,0 +1,1404 @@
+{
+    "RNA inverse folding": [
+        {
+            "no": "RNA_401",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .(((((((((((((..(((((((((.....)))))))))))))).........)))))))).....................................................................................((((((((((..............(((((((((.........)))..)))))).(((((...((.....)))..)))).....((((.......(((.....((((((.....))))))...)).........))))).....))))))))))..........(((.....))).........((((((.((((((.....)))))).....((((((.........)))))).....)))))).......(((.........))).",
+            "answer": "CGGCCCAGUGAAGCAUUUGCUUUCUCAAAAGGAAAGCGAACUUCUGGCGAAGCACUGGGUUCCGAAUAAGAUGAAUUAUUCCUAGCUAAGGAAUAGUAUGUUAAACCAUUAAAUAUAACAUUAUCUAAAAUGCAAAAGUCUUCGCCUGCUGUAUCUGAAAGUAGUCUAAUGCUCCACACACAAGGGGUGUGAAUGGAGCGUCGAUGAACUCGCAAGGUGAUUCGAUUCAGUAGCGAGUAGUGCAACCGAGUGGGUAGCUCCCAUUUAGUGAAUCGAAAGCUGCUGAGUAGGAUGCAGUAUGAACGGGUGGAACUCCUUCCACCGACUAUGGCAGUUACACGAGGGAUCGUGUGGAAACGCGACUAAGAAAUAAGGUCGUUAAAGACUGCUGCUAACGGAUGUAUUCUCAAUCU",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_402",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .((((((..((((........)))).(((((.......))))).....(((((.......)))))))))))..",
+            "answer": "UGGGUUGUUGACUAAUAGGUAAGUCCCUGAAAUUUGACUUCAGUCUAUGUAAGUUCGAAUCUUACCAUCCCAU",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_403",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: ...(((((...(((..((((.(((((..((((((((((...............))))))))))..))))).))))..))).))))).......",
+            "answer": "CCUGGUUUUUGCCAUCAGCGAGGUAUAGAGUUCCUACGUUCAUAUUAUAAACUCGUAGGAACUUCAUACCGUGCUCUUGGAAGACCAAAAGAC",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_404",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .((((((((.......(((.((((((........)))))).))).......)))))).)).......((((.......(((((((((...(((......))).))))))).)).....)))).......",
+            "answer": "ACUGGAGGACUAAUCAGACUGAGUCUGAAGAGUGGGACUCAGUUGACAGUGAUCUCCUAGAAGAAAAGGGAUGGAGAGAGCAGUCCUAUGUAGAAGAAAGCAAAGGGCCCACUGUGCCAUCCAACAGUG",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_405",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: ..(((((((((....(((((...(((....)))....)))))....))))))))).........(.(((((((..((.((((((((..((((.....))))...)))))))).)).))))))).)......",
+            "answer": "GUGCAUCAGAAAGGGACGGGGUUUCCAGUUGGAUUGAUCCGUAUAAUUUUGAUGCGAAAGCAUAGAGAGGUGCAGUGUUACUCUUCAUCACGGAUUUUGUGAACGGAGAGUGUCAAGCGCUUCCCACAAUU",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_406",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .((...(((.........((.(((......(((((............))))).)))))......(((...(......((((((..(((..(((((...(((....)))))....)))).)))).)))))....)).).........((..(((((.......)))))...)))...))...)).",
+            "answer": "UGCUUUGAUGAAAACGGUAAUCUUCUUUCCCAGUCCGAUUCGACCAUGACGAUCAGGGUUUCUACCACGUCCAUCUUUCUCUGACUUGACUCUCUCUUCUCUUCGGAGGAUUGGGAGGAUAGGAUGGGAUUGUGAGGACUUUUCUUGCCAGUGUAUUACGUAUACACAACAAAGACUCUGAGCA",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_407",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .....((((.....)))).((((((.......((((((((((......))))))).))).......(((((((((((...)))))))))))............))))))",
+            "answer": "AUUGCUCGAAUUUAUAGGACUUUUUUCUAUAAAGAAUAGUUUGGACUUGAAAUGUAUUUAAAAACAAGAGGUUGGUAGAUUAUCAGCCUCUUUCUUGUCGUUGAAAAAG",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_408",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .....................................................................................................................................((((((....))))))....",
+            "answer": "AUACACAUGCGGUCAUGAUAAUGCAGUUAAGGAUGCAGCAGACUGAUUAAUCCAGACAUCCCGCUACAAGCGUACGCUGGUCAGGCCUGGUCCGGUAAAGGUGCUCUGAAUACCAGAGAUAUUUCUGGCGAAACCCACCUCAAGGUGGGUUUU",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_409",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: ...((((((((((..))))))))))......(((((((((((((................)))))))))))))............",
+            "answer": "UGUAAAUACGCUCCUUUGCGUGUUAUAAAGUGGACAUAGAGAAAGAUUCUUUGCGGGAUAGUUCUCUAUGUCUUUUAUUGUACCA",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_410",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .................((((((((...(((((((.......)))))))........(((((((.......)))))))..))))))))..............",
+            "answer": "UAUAUAAAAUAUAAACUCACUCGUAUAUGCUCAGAAAUAUGGUCUGAGAGUCUCUACCAAGAUACCGUAAAUAUCUUGACUAUGAGUGAAAUUAUUAUACCA",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_411",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .....((.(.(((((((..((((.(((.(((((((((...((((((((((....))))))).)))..))))(...)(((((.....((.....(((....))).....))....))))))))))..)))..))))))....)))))).)).....",
+            "answer": "AUGCAGUCACCGCACCUCUGUGGAUGCCGCCAUGCCAGAAGCAGUGCUGUGUAGGCAGCGCCUGUGGUGGCUUAAAUGGGUGAACGGGCCAGGGCGGUAACGCAGCAACCAUAAGCCCAGUGGCACGCAGUCUGCAGUCCCGUGCGUAGCAUUUU",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_412",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .....((((((....)))))).........................",
+            "answer": "AACUCGGUGUUUCUCAACACCACCUAGACAAAGAAUCGGAUGUGCU",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_413",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: ...............((((((.(((............)))..(((...(((((.......)))))..(((....))).(((...((((......((((((.....(((.((((((.....))))))...)))))))))........))))....)))....)))))))))...............",
+            "answer": "GUUGGCGAUGUCACUGACGGUUUAAGACAAGCUGUACUUGUCUGGGAAUCCGGUUAAAUUCCGGAGCUGCCCCCGCAACUGUAAUGGUCAGGACGAUGUCUGUUUGCCACUGAAAAUUAUUUUCGGGAAGGCGACAUCGAGCCGUAGCCAGAGCCAGGAGACCGGCCGUCGUGCAUCUCGCAUCA",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_414",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .((((((((((..[[[[[[..(((((((........(((((((.)))))))........)))))))...(((.((((........((((.....))))((((((....)))))).(((...((((((....((((........((((......((((...))))...))))....)))).)))))).))).......................]]]]]].((((((....)))))).........)))))))....))))))))))",
+            "answer": "GGUCGCGCUGAAGGCCUGUUUCCUAGGCUACAGACGGAGGACUAGUUCCUCAUUCUUCUGCCUAGGGGAAAGUCCCCGGACCUCCGGCAGAGAGUGCCGCGUGCACGCGCACGCAGACAUCCCUCAGCUUUCCACUGUAAGGACCGCCAAGAAGCGAAUCCCGCUGAGCGGCGUGGCGGCGUGGGGUGUCACCCGUCAGCUAAUGCUAGUUACGCAGGCAGUGCGUCUUCGCGCACCAACCACACGGGGCUCAUUCUCAGUGCGGC",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_415",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .(((((((((([[[[[[[.(((((((((.....)))))))))....(((.(((((((((...[[[[.((((((((((.....)))))(((((....)))).)((...(((((.............((((((((....))))))..)).......((((((.......))))))(((((((((....)))))))).)..)))..)))))))))))))...((((......((((((.....(((((.]]]])))))..)))))).....).)))......((((((((....))))))))..........]]]]]]]..................................)))))))).)))))))))).....",
+            "answer": "GGAGUGGAUCAGAUGAUCGCCGGCCUGCAGCAAGCAGACGGGAGGAAAGUCCGAGCUCCAGAGGGCAGGAUGGUCGCUAAUGACGACUGGAGGCGACUCUAAGGAAAGUGCCACAGAAAAUAUACCGCCCGACUCCGUUGGGUAAGGGUGAAAAGGCGAGGUAAGAGCUCACCGUUUUCCGGGUGACCGGAAAAGCAUGGUAAACCCCAUCCGGAGCAAGACCAAAUAGGAGAACAUUUGAGAGUGGCCCGCUCGACGUUCUCGGGUAGCGUCGCUUGAGGCAGCAGGCAACUGCUGUCCUAGAGGAAUGAUCAUCGCCAUACUCCGGGAGAUUGGAAUAUGGAACAGAACUCGGCUUAUGAUCUGCUCCGACU",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_416",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: ....((((((((........)).)))))).....",
+            "answer": "AUAGCCUCUCCCCUCGCGCGGGGGGGGGGCCUGC",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_417",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .((((((((...))))))))...........(((....)))(((......((((((.........))))))....)))",
+            "answer": "UAUCUGGUUGAAACAAGAUUUGUCGUGAGAAGUCAGCCGAAGCCAUAGUACCUGUUACUCACCAUAAUGGGGAAGGGC",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_418",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: ..........(.(((..((((((...))))))).))).....((((((...........))))))(((((((.....)))))))................................(.(....((((((((..........))))))))...))",
+            "answer": "AUCCUUAAAACAUGUUCGCUGGCGUAGCUGGCAGCAUCCCAGGCAGUCAAGGCCAUCAAGACUGCGGCGAACCUACAGUUCGCUGGCUGAUCUCAUCUCCGGACGCUCAUCGUCCAUUCCAACCCCAAGGGACCAUUCAUCCCUAUGGGGGUGA",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_419",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .......((((....)))).......................(((((((((.....)))))))))...............",
+            "answer": "AGCUGUUCCCCUCUGGAGGUUUUUUGACCUUCACAAUUAUAAGGGCCCUGGUUUUCCGGUGGCCCUCUUUUUUUGCCCAA",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_420",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .(((((((.............................................................................)))))))",
+            "answer": "CGAGCAUCAGUGAUGAGUUAGCCAAAUCGUUAUCCUUGCACUUUGAUUUUACAGUGAAGAAAAUCAUGGGGACAGAUUUCUCUGAGAUGCUC",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_421",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: ........((..((((((((((((((.(((((((((.((((.((...........)).)))))))))))).).))))))))))))))..)).......",
+            "answer": "UCAAAGCGUCUUUCUGUCUCGCCCAUCCCGUUGUUCCAAUAUUCCAACAACAAGUGAUUAUUGAGCAAUGCGCAUGUGCGGGACAGACUGAUGUCUGC",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_422",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .(((((((((((((((.((((((..((((.....((((....(((....)))....))))..))))....)))))))...))))))...)))))))).....",
+            "answer": "CGGCGGGUCUCCCCGCAUUACAGUGUGGUGAACCUGGUCAGGUCCGGAAGGAAGCAGCCACAGCCAAUUAUUGUAAGUGCCGGGGGUUAGGCUCGCCAAUUU",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_423",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .((.((((((([[[[[[...(((((.....)))))....(((.(((((((((.[[[[[[..((((((((((.......)))))(((((....)))))((...((((............(((((((((((............((......)).......))))))))..)))........))))..)))))))))))...((((...(((((.........]]]]]].......)))))......))))............]]]]]]...................................................................)))))))).)).))))).)).",
+            "answer": "GAGAGAGGAAGGACGAUUGCCGGGUAUUUGACCUGAGGAAAGUCUCCCCAUCAUCCAGAUACACGAACACCUGUGAAGGGUGUCGGGUGAGAACCCGGGCUCUGGCACAGAAACGAUACCACACCAUAUCAAUGCUAUGAUACCGAAAGGUUGAGGUCGUAUGGAACGUGGAUGGAACGGCGAAACCUCGUGGAUGCAAGUUGGAGUAGGGAUCAAGCAGGUUUCUGGACUGCCCCGAAUUUAUUAACGCAUAGCCGAAUAUCGUCAAUGCAAGUGUCCACAAGGACCAUUCCCAAAUCAGCCCUGCUGAUGGGAAGCUUUGCAUCAACAGAAGGGAGCUUACUCUCCUCACUC",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_424",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .................((((((((...(((((((.......)))))))........(((((((.......)))))))..))))))))..............",
+            "answer": "AUUUAUAUAAAGAUUUACCCUUAUAUAAUAAUGGGGAUAUGGCCCAUAAGUUUCUACCUGGCUGCCGUAAAUGGCCGGACUAUAAGGGAAAGAUGAUAUGAC",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_425",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .(((((((((([[[[[[[.(((((((((..........)))))))))....(((.(((((((((........((((((((((.....)))))(((((....)))).)((...(((((...........(((((((((((..........................)))))).)))..)).......((((((.......))))))..(((((((.....)))))).)..)))..)))))))))))))...((((......(.((((.....(((((.))))).))))).....))))......((((((((....))))))))..........]]]]]]]..........)))))))).).))))))))).....",
+            "answer": "UGAGUAAGCCGGAUAGUCGCGGGUACAGUGCCGAAAGGCCGUACACGAGGAAAGUCCGGGCUCCGCAGGGCAGGGUGCCGGGUAACUCCCGGUGAAGGCGACUUCAAGGAAAGUGCAACAGAAAUAUACCGCCUGCUGAAGAUUGAGGUCGAGUGCUUUCGGUUUUCAGCAUGGUAAGGGUGGAAAGGUGAGGUAAGAGCUCACCAGCGGUAUGGCGACUUACCGGCUAUGUAAACCCCACCCGGAGCAACACCGCAUAGAGGGACGUUAAGGUGGCCCGCCAGUCCCGGGUAGGUGGCUUGAGCUAUAUAGAAAUAUAUAGCCUAGAUAGAUGACUAUCCAAGACAGAACCCGGCUUACAGGCUUACUCAAUAU",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_426",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: (((((((..((((.......))))((((((.......))))))...(((((.......))))))))))))....",
+            "answer": "GCACCAGUGGUCUAGUGGUAGAAUAGUACCCUGCCACGGUACAGACCCGGGUUCGAUUCCCGGCUGGUGCAUCU",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_427",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: ....((((((((....((((((..((((((((......(((((((((((.....((((....))))....)))).....))((((..(((..........)))..))))....))))).......)))))))).)).....))).)))....))))))....",
+            "answer": "AAUAAACCUCGGUAGGUGAGGUUACUACAAGGAUACGGGUUGUUGCCGUAAAAGAAUGGAAACAUUCUUAACUGGUUAGCAGGUUUUGCCGAACAAAGAAGGCAUAAUCUAAUACAGCUUCAUUGCCUUGCAGAGCCAAAACUUGAACGAGAAAGUGUUGUU",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_428",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .(((((....)))))............(((((..((...(((((((((((...........(((((....(((.(((.((((((((..((((........))))...))))...............))))))).)))..).)))))))))...))))))....))..)))))",
+            "answer": "UCCACCGCGAGGUGGAAUCCAAAGGAAGCUGGAGGCAAACUUCCGGCCCAAGGAACACGAACAUCAUCAGGCAUAGGAUACGGGAUGAGUCUGCUAAACAAGACGAAGUCCAAUUAACUACACGGACGUACCAAUGUAAAUGAUGUGGGUAUAUGGAAGGAAAGUGAAUCGU",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_429",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: (((((((..((((........))))((((((.......))))))....(((((.......))))))))))))....",
+            "answer": "GAUUUGCUAGCUCAGUCGGUAGAGCACGUGACUUUUAAUCACGGUGUCCAGGGUUCGAUUCCCUGGCAGAUCACCA",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_430",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))..",
+            "answer": "GCCUUUUUAGCUCAGUGGUAGAGCAUUGUAUUUGUAAUGCGGUGGUCGUCGGUUCGAAUCCGACAAAAGGCU",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_431",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .(((((....)))))............(((((...((...(((((((((((...........((((((.....(((.(((((((((((..((((........))))...)))).........))))))).)))..))))))))))).))))))....))..)))))",
+            "answer": "AAGGCCGCGAGGAAUUGUCCGCAGGAAGCCCGAGCGCAAAGAUGCGAGCCGACGAACAGAAACUGCAUAGAAGGCUUAGUCCUGGGGCGAGUUGGCACUUGACAACGAAGUCCAAGGGUACACGGGAUAGGGUAAAUGCAGCGGUUGUGCAUCGACAGAUCAUGAA",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_432",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .............(((((.....((((.((((..((.....))..((.(((......))).)).))))..)))).)))))...........(((((((((..........)))))))))",
+            "answer": "GCGAUGAGCUGAAUUGCAUAAGCCGGCAAGGCAACCUUUUUGGAAUGCACAAUGUGGAGUGCAAGCCUUAGCCGCCGCAAGAAAGAUUGGAAAAAAGCGCCCCGGACCGGGCGCUUUUU",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_433",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .((((((((((........(((((((((.......))))).))))....))))))))))..........((((((.............((((........))))..............))))))......",
+            "answer": "UGGACAUUUAUUUUCAAGCAAUUUCUUCUUACAGCGAAGAUAACAACUACUGAAUAUCCUAGAGAAAAUCAGUAGUUCUCUGUGUAUCCUAUGCAAGUAAAAUGGGUGUAUCACCCCACUACUGACAUUU",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_434",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .....(((((((((..(((((...................)))))..........)))).....((((..((((......))))..))))..)))))............",
+            "answer": "AAACACCACUAGGGGUGCCUCGAUCGGUUUUCUGGUCGACGGGGCUGAGAUCACACCCUCUGAACCUGACCCGGGUCAUGCCGGCGAAGGGAAGUGACCAGCGUGAUCG",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_435",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: ..(..(((((((...................(((............)))..............((((............................))))......))))))))............................(((((.........))))).....",
+            "answer": "UACAGGGUACGCAACUGGCGAUAGGAGCCUGGCAUUCGCAAACUUCUGCGAGCCAACUCUGACGUGGAAAUGGGUGGGCUUGUUCCCUUCCUCAACCACUGGGGAGCGUGCACCUUGUACUGGUGUUUGGGUUCAAGGUUUCAGCCGUUCGCCUGGGCAGCCCAU",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_436",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: ...................",
+            "answer": "GGCGGAUGUAGCCAAGUGG",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_437",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .((((((..((((........)))).(((((.......)))))....(((((.......)))))))))))..",
+            "answer": "AUGACUAUAAGUUAAUAGGUAGACUGUUCGUCUUCCAAACGAAGUGUGUCGAUUCGAAUUCGACUAGUCAUA",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_438",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .((((..........))))...........(.(.......))................(((...)))........(((((((.....)))))))..........",
+            "answer": "GCGUGUUAUUAGCUCUAUGAUUUAGUAAUGAUUUUAAUGCUACCCGGCAUGACAGAAUUGCUGUGUGUAGUCUUUGCCCAUCUUUAAGAUGGGCUUUUUUUUAU",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_439",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .(((((((...((...((((..((((........))))...))))....))...))))).))........(((((((.(((((((((((...........)))))))))))..))))...)))(((((.((((((((..((((((...((...))...)))))))))))))).))))).........",
+            "answer": "UUUCUCCUCUUUCUGCCUAUCUGUUGUUCAUAAUCAACUGCGUAGUUCUGGUGAAGGAGUAAAUUAAACUGCCUCGCACCGCCGUACUCAUUUUUACCUCGAGUAUGGUGGCCGUGGAAUGGUGGUUUUUUAUGCAGUCGGGAAUGAAAGCAGCUGUAAUUUCCUUGCAUAAUGAGCCUAAAUACCU",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_440",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .......(((((((.........)))))))..........................................................((((((................................((((...(.(((((...........)))))))...))).....................((((((((((.......(((((....(((((((((.........................................................)))))))))...)))))....)))))))))).............)))))).....................",
+            "answer": "AAUCCGCGUUUUAGUUACUUAUUUUGAAAUGUAAAUCUAGAACAAAAGAAAAAUCAUGAGGGAUAUUUACGUUUUAGUUACUUAUUUUGAAAUGUAAAUGGUUUUGAAUGCUGGUGGUGAUAGUCCUAAUGAAGGUUUUAGUUACUUAUUAUGAAAUGUAAAUUUGGUUCCUUUGGAAAACAACAAUAACGUGUAGUAUUGUUUUAUUCAAUCAUUCAGAAUUGGUAAAUGCAGAAGCAGCAAAAUAACCAAAAGUAAUGACUUUCGUUUUAAUUUCUUAAGAUGAAAUAUAAAUGAAAACCUGUUAUACAUAGGAUUAUCUAUUUCCGUUAUAAUUAUUCCUUGCAA",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_441",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: ............((((((((..(((((((......(.....................((.(((...((((....(.......................................................................)....))))...))).)).....................)......)))))))..))))))))..............",
+            "answer": "AGCAUUUUAAGAGAGCUUUCUUCAGUCCACUCAUGGGUGGCGGUAGGAUUUAAUUAGCUGCCGACUCAUUCAUCCAAAUACUGAGUUAAAAAGUUCAGAAAACAAAAGGGGCGGGUGCUGUAGAAAAGAAGGUUUACCCAGUAAAUGAGUGAAUGAUGCGGGAGACAAAUUGAAUCUUAAGCUUCCUGUACUUGGACUGAAGGGAGCUCCCUUUACUGUUAUU",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_442",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .(((((((((([[[[[[[.(((((((((......................................)))))))))....(((.(((((((((...[[[[.((((((((((.....)))))(((((....)))).)((...(((((............(((((((((((......................)))))))))..)).......((((((.......)))))).(((((((((....)))))))).)..)))..)))))))))))))...((((......((((((...(((((.]]]]))))))))))).....))))......((((((((....))))))))..........]]]]]]]..........)))))))).).))))))))).....",
+            "answer": "GGAGUUAACUAGACAAUCGCUGCUUUUUUGUGUUUACAAGUGAUUAUAUAGUUGUUGUAAUUACAAAUGAAGGGGAGGAAAGUCCGGGCUCCAAAGGGCAGAGUGCCAGGUAACACCUGGGGGAUAUUAAUCUACGACAAGUGCAACAGAAAGAAAACCGCCGAUAAUUAUUUAUAAUAUGUUAUAGAAUAAUAUGGGUAAGGGUGAAAAGGCGUGGUAAGAGCACACCAUCCGAAUUGGUAACAAUUCGCGUUAUGUAAACUCCACUCGGAGCAAGGCUAAAUAGAAGUUCAACAGUAUGGUCCGUACUGAACUUGGGUAAGCUGCUGAAACUAGUGUGUGAAUGCUAGUUUAGAUGAAUGAUUGUCCGAGACAGAACCCGGCUUAUCGGUUAACUCCUUUU",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_443",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: ..........................(((((((((...((((((((.........((((((..(((((..((..(((((.(...(((((.....(((((...(((((((....((((....))))...))))))))))))...(((((((.(((....))).))...((...(((((.(((((......))))))))))..)).))))).)))))...).)))))..))...)))))...))))))))))))))...(((..((((.......))))...)))((((((.......)))))).........))))))))).............((((((((....(((........)))..))))))))...............((((((((..((((((((....)))))))).))))))))......",
+            "answer": "CUUCCAGUCCACCAAACAUAUCACAUUUUUGGCAAAGGGAGCGAUAUUUGGGAUUGGAGCGAAUAAGUUGGCAAAAAGGAGUAAAGUUACAUAAUCUAGAAACUUCGGUACCGUGUAUAUCUACAACAACUGAGGCUAAACUGGUUGCGGCUGAGAACUCAUCCAUCACUUUUUCAAUGAGCAUUUCGUUGCUUUUGGACUGUAGUAACAUAGCUAUUCCCCUUUCGGCGAGACUUGGCGUGUUUCUGUCGUUCUUAGUAUAGCAUAUUUAUAAUGCGCUUACAUUUUCUUGCCAUGAAGAUAACAAUAUAUUGCUAAGAGUAAUUUCAUAAGAGAAUGCCCAAACCAUGCAUUACUGGAUGGCUUUUUGUCAUUAUUUUUUUUGAAGGCGCAAAAUUGUGUUAAAACACGAUUCGCGUCUUCUUUUUU",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_444",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: ..((((.(((((((...(((((((...((...(((((((..............)))))))..))...)))))))...)))))))))))..",
+            "answer": "AAGCCCACGCUGUUCCUUGGCACUGGGAGAAUUCACAGGAGUUGUAAUUCAUACCCGUGAAUUUCCCGAUGCCUUAGCUCAGUGUGGUCA",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_445",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: ......(((((((((((((.((.(((.....)))(((((.........))))).......)))).)))).))))))).....",
+            "answer": "UUCUAGGGCGGGCUAUAUGUGGGAGCUUCGGCUCGCUGGUUCCGGUGACCAGCCUACCAACCCAUAUAGUCCCGCCCUUUUU",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_446",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .((((((((...((((........(((....)))......)))).((((..........)))).......)))))))).........",
+            "answer": "GCCGAGAGGGCGGAGAAUACAACACCCGAAAGGGGAAUAAUCCCGGCCGUUCUUUGUUUCGGUUUACGAACCUCUUGGCGACCCUAU",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_447",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .((((((((((...(((((.(((.......)))).))))).))...........)))))))...................................................................((((((((((..............((((((.(.(....))...).)))))(((((...((((.....))))....)))))..((((.........((((.((((((.......))))))..((((.....))))...)))..........)))))....)))))))))).........((.......))......((((((.((((((.........)))))).......((((((....)))))).....)))))).......(((.........))).",
+            "answer": "UCGGGGCGUUCUAUCUAAACUUCUCAAAAGGAAGCAAGGUAGAUGCGUGGUUGCGCGUCCUGAAUUAUGGCAUUGUUUUCGGGUUAAAUCCCACUUAACAAUUAAAAAAUUAAGCAAAAGACAACCACCUUUCCCGCUGACAAUAGCGUUAUCCCUCUGCACUUCGGUAAUAUGAGGGCACAGUAAAUCCCGCAAGGAUGAGAAUGUGAUGUGGAAUGAGUAAAUCUAAGGUGAGGAGGCAUCCUCUUUAGUCCGCAAGACACUUGGUUGAAAAGAAAGCAUAUAUAAGCUGGAAAGUACAUGGUAGUUAGUCUACUCGCUAUCCUAGUUACUUUGGAGUAAUCUAAAGUGUGUGUAAACGGGCGAAAGUCUGUAAAAUACUGGGGACAUAGGGUCAACACUCAGCCU",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_448",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .((((..............................................................))))..",
+            "answer": "UCUGAUCCAUGAUGACUUCCAAACACAUGUGGACUGUUGGAUGAAGCAUGCGGAUAUGGGACUGAGAUCAGAC",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_449",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: ....((((((((..((((((((.(((.((((((.((..............)).)))))))).).))))))))..))))))))..............",
+            "answer": "UCCAGGCUCAGGACAGCCACUGCCCACCGCACACUGCGUUGCUCCGGACCCACUGUGCGUGUGACAGCGGCUGAUCUGUCCCUGGGCAGCGCGAAC",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_450",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: ......(((((((...((....(((((((((((((((((((((.((.((.(((((((..........))))))).)))..).)))))))).))))))))))))..))....))))))))....",
+            "answer": "CGGCGGCCUCGUGCAGCACAAGCUCAGGCUGUGGUUUCAAGCUGGAGGGUGCUUUCGGGACUUCGGUGGGAAGCACCGCCAGGCUUGACCCACACAGCUUGGGACCAGUCAUCCGGGACUGCC",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_451",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .((((((..((((.....)))).(((((.......)))))....(((((........)))))))))))..",
+            "answer": "CAGAAAAUAGUUUAGUGAGAAUGAUAGCUUUGGGAGCUGUUGGUGUAAGUAUAAAGUCUUGCUUUUCUGA",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_452",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: (((((((..((((.........))))((((((.......))))))....(((((.......))))))))))))....",
+            "answer": "GGCCCAUUAGCUCAGUUGGUUAGAGCGUCGUGCUAAUAACGCGAAGGUCGCAGGUUCGAAACCUGCAUGGGCCAUUU",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_453",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .............(((((((((((...[[[[[.)))))))))))..........]]]]].",
+            "answer": "GGGAAACGGCGACCGGGCUUGGGACAAGAGCCAUCCCAAGUCCAAGGCCAGAUAGGCUCA",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_454",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .....(((((....((((((......))))))(((..(((((([[[[[[))).))).)))................))))).((((...)))).......]]]]]]...",
+            "answer": "ACCGCACAUCCAGAGUUGGGGCGACGCCCAACGCCAACCUGCCGUUCCGGGCAAGGUGGUACUCCCCGAAAGGGAGGAUGUUGCCGAACCGGCAAUUAUACGGAUGAAG",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_455",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: ..........(((((.......))))).((((.((((((.(((((((((....(((.(((..(((..(((((..((((((((((((....))))))))))).))).))))))......(((......((((((((..((...(((((((.((.((....(((((((....))))))).....)))).....((((((((((....)))))))))).....((.....)).)))))))..))))))))))(((..(.(((..((((((((.......))))))))))).....))))..((((((((....))))...))))))).((((((..........)))))).((((....))))...)))))).).....(.(((...(((((....))))).)))).)).))))))..((((......((((....)))).....)))).[.(((((((...(.....(((((....))))).....)....))))))..])..((((([[[...(((((.....((.]]])).......)))))))))).))))))))))...............................(((((((.(((((((((((....(((((((.....)))))))..)))))))))..))))))))).............",
+            "answer": "UUUGUUUGGAGAGUUUGAUCCUGGCUCAGGACGAACGCUGGCGGCGUGCUUAACACAUGCAAGUCGAACGGAAAGGUCUCUAAAAAAUCUUUUUUAGAGAUACUCGAGUGGCGAACGGGUGAGUAACACGUGGGUAAUCUGCCCUGCACUUCAGGGAUAAGCUUGGGAAACUGGGUCUAAUACCGGAUAGGACUUCAAGGCGCAUGUCUUGUGGUGGAAAGCUUUUUGCGGUGCAGGAUGGGCCCGCGGCCUAUCAGCUUGUUGGUGGGGUGACGGCCUACCAAGGCGACGACGGGUAGCCGGCCUGAGAGGGUGUACGGCCACACUGGGACUGAGAUACGGCCCAGACUCCUACGGGAGGCAGCAGUGGGGAAUAUUGCACAAUGGGCGCAAGCCUGAUGCAGCGACGCCGCGUGGGGGAUGACGGCUUUCGGGUUGUAAACCUCUUUCACCAUCGACGAAGGUCUGGGUUUUCUCGGAUUGACGGUAGGUGGAGAAGAAGCACCGGCCAACUACGUGCCAGCAGCCGCGGUAAUACGUAGGGUGCGAGCGUUGUCCGGAAUUACUGGGCGUAAAGAGCUCGUAGGUGGUUUGUCGCGUUGUUCGUGAAAUCUCACGGCUUAACUGUGAGCGUGCGGGCGAUACGGGCAGACUGGAGUACGUGAC",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_456",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .....(((((.........(((.((.....).).)))......................................((((((((........))))))))..)))))..(((((.(((...(((.(((((.......))))).))).)))))))).........",
+            "answer": "GUAUCCCCGCAACUCCAUUCAGUUCGAAAUUGAACUGUCAUUCAACCCCAAAAAUCUAGUAAAAAAUAUUGCCGAAACUUUCAGGCAUUAAGGAAAGUAAAGCGGGAUCAGAUACUCCGACUUGUGAUACACUAUUUAUCACAUGGGAGAUCUAUUUUUAUUU",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_457",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: ..............((((........))))..........",
+            "answer": "AACAAGCCGGGAUAGCUCAGUUGGUAGAGCAGAGGACUUG",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_458",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .((((((..((((............)))).(((((.......)))))....(((((.......)))))))))))..",
+            "answer": "AGAAACUUAGGAUUAACUGUCACCAAACCAAAGGCCUUCAAAGCCUUAAAUAAGAGUUAAACUCUCUUAGUUUCUG",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_459",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: ..((.(....((((((..(((((((((((...((((..............))))..))))))))))).(((((.........)))))..((((((.(((((....)))))))))))((.......))...))))))....).))......",
+            "answer": "AGAAAUUUUAUAUACCGAGCUUGUACGCCUAAGUUUUUAAAUUUAUUUGAAAAUAAGGCGGCAAUGCCAGCAAUGAAUUUUAUUGCUCAGGGAUAAUGUGGGAAACGACUUAUCCUCUCAUCUUCAGAAAGGUAUCAAAUGCAAUCUAUU",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_460",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .((.((((((([[[[[[...(((((.......)))))....(((.(((((((((.[[[[[[.((((((((((.....)))))(((((.....)))))((...((((............(((((((((((...........((...........((..(((....)))..)))).................))))))))..)))........)))).)))))))))))...((....(((((.........]]]]]]...)))))......))..............]]]]]]............))))))))..))))))).)).",
+            "answer": "GGGCCCCGGCUGGCCGCUGACGGGCCGUUCAGGCCCGAGGAAACUCCGCCCUCCCCGCGGCACCGGGGCCCCGAGAGGGGGCGCGGGUAACACCCGCGGCAACGGCACAGAAACGGCACGCCCACCCGCGGGAGGACGAUGAGGCGGCGAGGGCUCCCCGGCGACGGGGAGCCAGUAACCCGCUGAGGACCCGGGUGGGUGCGUUGAAACGGCCGUCCCCCGGGGAGCAAGGCGGCGCGCCGAUGAGGGCCGCGCGAUUGGCGCGCCGGCGUCCGCUUAGUCGGAUGCGGCCGUAGGUACAGAAGGCGGGUUAUAGCCGGGGCCC",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_461",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: ....(((((.(((((((((((.((.((..((((((..........))))))..)).)).))))))))))).)))))...",
+            "answer": "UUGUCUAGCAGAUCAGCUUUUUGUUUGUGUUAUGUUCAUACUAAAAUGUAAGACGAACAAAAAGUUUGUCUGUUGGAUG",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_462",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .(((((....))))).............((((..((...(((((((((((...........((((((......(((.((.(((((((..((((........))))...))))..............).)))....)))..))))))))))).))))))....))..)))))",
+            "answer": "UCUAUCGUGAGGUAGUGGCUGAAGGAAGCGUGUAGCGAAACUUUGAACCUAUGGACAAGAACUUGAUAAGAAGGCUAUGAGGUGGACAAGGUAGCAAUUGAUACUGAAAUCCAAAGGUAAACGUAAAACCGAAGUAGUAAAUCAAGAGGUAAUGAAGUGAAAGAUUAGAAU",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_463",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: ..........(((((((((......(((((..............)))))......)))))))))...........",
+            "answer": "UGACUGUGUGGGUUCCUGGCAUGCUGAUUUGUGACAUGAGAUAAAAAUCACAUUGCCAGGGAUUACCACGUAGCC",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_464",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .(((((((.((.((((((((....(((.((.....)).))).........))))))...))..)))))))))..........",
+            "answer": "AGUUGGUCUGGGGUUGUGGGUUAUUGUUAAAUUGUUUAACACUGUUUCCCCCCAUACCCAUGCUUGACUAACGUGGGGAAAU",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_465",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .((((((..((((........)))).(((((.......))))).............(((((.......)))))))))))..",
+            "answer": "GGAGGGAUCCCUUAGUGGCCAAAGGAUCAGACUGUAAAUCUGACGUCAUAGACUUCGAAGGUUCGAAUCCUUCUCCCUCCA",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_466",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: ...(.......((((((((((.....((((((...)))))))))))))))).....).......................................",
+            "answer": "CGAGCAAAUGAGGCUUCCUCCUCUGUGGCGGGUUUCCCGCCGGAGGGAGCCGAUGUCCGAAAAUUUUAAAAGGCUAUCCCAAAAGUAGGGUUAGGC",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_467",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: ..(((((.............(((.((((.....))))...))).(((((.(((...(.((((..(((((((.((((.((......))..))))))))).))....)))).).(((((.(.((((...(((.((((...)))).))).).)))))))))....(((((.((.(((.((....(((((.((....(((...)))...((((...((.........)).)))).).)))))..))))).))))))))..)))))))).....)))))..........(..((((((((....((((........)))).......))).))))))",
+            "answer": "UCCCAGUGUACGUCUAGCAAGGAGGCUGCGCCCCAGAGAGUCCGGGGAGCGCCGCCGGCUGGUGCCCGGCGCGCCAGGCCAUGCAACGGCGGCAGCGGCGGAGCUCAGAACGGCGGUAGCGCCCCCUGUGAGGCGGCCAGAGAUGCCCCGGCCGCUGUAAACGGUGCCGCCCGCCAGGACACGCUCAGCCCUGGACACGCUCUGCUCUGCGCGCCCGCGACGAGCACCGAGUAGAGAGAGCGGCGAGCGCUGUGAAGGCUACCUAGCCCUGGGAGAGGAGGCCAGCCGGUGCAGCGCAGGGACACUACUCAGUCUGACUCCGGCUGGCACUG",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_468",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .................((((((((...(((((((......))))))).........(((((........)))))..))))))))..............",
+            "answer": "AGGAAAAACAAAUAAAUCCCACAUAUAUGCUAGAGGAUUGGCUCUAGUGUCUCUACCCGGCACCGUAAAUGCUGGACUAUGCGGGAAAGCACUUUUGGC",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_469",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .(((((((((.....((((((((....(((((((.............))))..)))...)))))).)).(((((((..((((((....))))))..)))))))...)))))))))",
+            "answer": "UGCCUGAUGACCAUAGCGAGUUGGUACCACCCCUUCCCAUCCCGAACAGGACCGUGAAACGACUUUGCGCCGAUGAUAGUGCUGCAACCAGUGUGAAAGUAGGUCAUCGUCAGGC",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_470",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .......((((((....((..((((((...))))))))))))))..........(((.(((((........))))))))...",
+            "answer": "UUUGGCGUUGACGUAGCGGCCUUCGGCGUCGCCGAACUCUGCGAGCACCCGGGCGCCGAGGACCAGUCCCAGCCCCGGCUGC",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_471",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .((((((((((..[[[.[[[..(((((((........(.(((((.))))))......)))))))...(((.((((........((((.....))))((((((....)))))).(((...((((((((((........((((..................(()..)...)))).)))).)))))).))).......................]]]]]].((((((.....)))))).........)))))))....))))))))))",
+            "answer": "UUUCGUGUUGAAGGCCCUGUUUCCUAGGCUACAGACGGAGGACUUGUUCCUGGAACCGCCUAGGGGAAAGUCCCCGGACCUCGGGCAGAGAGUGCCACGCGCGAACGUGCGCGGGCCGACCCGCCGCUCACGGUCCUCCGCCAAGAGGCGAGCCUGCGGGCGAGCUGAGCGGCGUGGCGGCGGGCGGCCCUCCGUCAGCGGAGCGAGUGACGCAGGCAGCGCGCUGCACGCGCGCCAACCACACGGGGCUCAUUCUCAGCACGGC",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_472",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: ........(((.((...((...((((..((((((((.........)))))))).))))...))...)).)))........",
+            "answer": "UUUUAACCCCGGUUGUAGCGGAAAUCCUUUGCUUUUUUUCUUUAGAAAAGCAAAGAUUGAAGUGCAAAACGGGAAUAUGG",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_473",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: ...((((((..(.((..((...(...(((((............................................................................)))))..)))..)).)..)).))))..",
+            "answer": "UAAUUUGUUUAGGGCAGAUUCUUAUUUAGUUAUGAUAGACACACAUGGAUACUUAGGAUCACUUGUUAUCACAAGUCUUUCUAGAUCAUUGACAUUGAAAAAUAGAUAACAACUACUGUGUGAAUAAAAAAAAU",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_474",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: ......................((((..((((((((.........................................(((........(((((((((........[[[[[[[[[)))))))))...)))))............................]]].]]]]]]..))))))))).)......((((((...........................................................(((((((((..............(((...((((..........(((((((((...(((..................)))...))))))))).((((.....))))..........)))......)))...........))))..)))))................)))))))............((((((.(.(((........(((((.((((.........))))..)))))..)))).))))))........",
+            "answer": "GUGCGGACGGGCUGCGUGGGCGGGUCGGUCCGUCCUGGCACAUCUAACCCUAAAUGCGCGCUGGUUGAAGUGGCUUCUCCUGGGCGAUCGCUCGCUGUUUUUGUGGCUGGCUUUCAGCGGGCUGGAGGAGCCGGGAGCGGAGGCGGAGGACCGAGCCAAAAACGUCAGCCGAGGCCGGGCGGCCCCGCUCGUGGCCCGUCCGCACUGUCCGGGCCAGGCCCCGGCCCGAACCCCCUGGAGACAACUCCCGCAGGGUCUGCGCUGCGCCGCGGAGCCCCGGCUGCCCACGUAGAGGCGGCGGCCGUCUCGGGGCCCCUGCGUGCGGGGCGCCCACUGCGGCCGCCAAGAGCUCGUCUCUGUCAGCCUCGGGUGCACGUGGGCCCGCGGUCGAGCCCUAAGGCCGGGCGUGGGGCUGGGGUCGCAGGGAGAGUAACCGUGAGCCGGCGCCCAGCCUUCAGGGCGCUCCCUCGAGCUAUGGGAGCUGCCCCCGGGCACGGCUCGGACACCC",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_475",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .((((((..((((..)))).(((((.......)))))....(((((......)))))))))))..",
+            "answer": "GGCCUUGGGGUGUCAACACGUGGGGUUGCAAACCCCAAGAUGCAGUAUAAUACCUGCCGGGGCUU",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_476",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .(((.......................................................................))).",
+            "answer": "UUUUAAUGAUGAUAAAAUUUGUCAAAUGCAAGUAGGGACAUGAGAAUAUAAAUAUGUUCGUUAUUGUUAUCUGAAAAAA",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_477",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .((((((((((.((((.(((.((...[[[[.[[.)))))....)))).))))))))))..........................................................]]]].]].....",
+            "answer": "AAGCCCCCGAAUCUCUAUUCACAAUCUUGGCGGAUGGGUUUAGAGAGAAUCAGGGGCUCAAAUACUGGCUGCUGCCAGCAAGGAUUAUAACGCAUGUACAAUCCAAAUCAAGCCUUCCGACCCGCCAU",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_478",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .........((((((((((((((..((.(((((((((.(.[[[[.)..))))))))).)).(((((..)))))))).)))))))))))..]]]].......",
+            "answer": "GGACAGAGUAGGUAAACGUGCGUAAAGUGCCUGAGGGACGGGGAGUUGUCCUCAGGACGAACACCGAAAGGUGGCGGUACGUUUACCGCAUCUCGCUGUUC",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_479",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .......................(((...((((.....))))...)))......................(((..........))).......................................((((((...((.((((.......)))))).))))))...",
+            "answer": "UGUAAUAAAGUUGCCAUCGCUUAUCUCCUUCGUUAAAGAACAUGAAGGGUAGUGUAAGACUAUUAAUGCUUUGAAUAUAGAGGAGAAAAAAGGAAUUUUAGAAGUGGCACCAGAUUGAAUAAAUCUGGUGCGUCCGAGUGGACUCGAACCACCGACCCCCACCA",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_480",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: ................................................................................................................................................((((((..(((((................)))))))))))...",
+            "answer": "GAUAACCGAAGAUCACACCCGGAUCAAGGGUGGGGUUGGUGAUCAGGCGCACGUCGCCACCGCCAGGUGCCCAGGUGUCGUAGACACCGCCGAAGAACAUCGCCUUGAACACCAGCAGCAGGCAACCCACACCCAGAAGGAUGAGGUGAUAGCCGAUGAUGUUGGUCAUCUGGUUCUUGUCGCGCCA",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_481",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: ..((.(....((((((..(((((((((((...((((...))))..)))))))))))..(((((..........)))))..(((((((((((....)))))))))))((.......))...))))))....).))......",
+            "answer": "AAACUAGAUGAACUCCGAGCGGUUUUGCCUAAGUCCUCAUGAUAGGGGGAAACCGCCGUCAGCCGAUGUUCGAGCUGUAAGGGUCAGGAAAGAAAUGCCCUGGCCUCCCGUAUUUGGAAAGGUGUUUAUGUCGCCACUGC",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_482",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .......((((((((....))))))))...((((((.....))))))...(((((((...)))))))..........",
+            "answer": "CAACUAAAUCCACCCUUGCGGGUGGGUGAAAUAUUGCUUCGCAAUAUGAAAUACGCUUUCAGCGUAUGAAAUCGCUG",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_483",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .((................................................................))..",
+            "answer": "AAGCUAUGAAGAUUUUAUAGUUCAGCUUACCCCAGCGGAUUGAUGAUAAAUUUCGCCCCUAUCUGAGCUUU",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_484",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: (((((((((....((((((((....(((((((............))))..)))...)))))).)).(((((......(((((.(((....)))))))).....))))).))))))))).",
+            "answer": "GUAUACGGCCAUACUAGGUUGGAAACACAUCAUCCCGUUCGAUCUGAUAAGUAAAUCGACCUCAGGCCUUCCAAGUACUCUGGUUGGAGACAACAGGGGAACAUAGGGUGCUGUAUACU",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_485",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .............................(((((((.....)))))))...((((((((((((.........))))))))))))......",
+            "answer": "AGUACACUAUUAGUAGAGAAUAUGUUUGCGAGCCCCCUCGGGGGUCUCAUCGCCCUCGUUGCCGCCCCUCCUGGUGACGGGGGCUUUUUU",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_486",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .(((................................................................)))..",
+            "answer": "UUGCAAUGAUGUGAACUUCUUACUGAAUUAAACCUUGAAGUGCAAACACAUGAGCUUUUUAACCCUGAGCAAU",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_487",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .......((((.((....)).)))).....((((.(((........((((....)))).......((....))....)))..)))).......((((((((((((((.......))))))))))))))....",
+            "answer": "AUCUUAAGAAUUUCUUUUGAUAUUCAAUGUGCGACAGGAAGAAUAAGGCGUAGUCGUCAUCCGUUGCUAAUGCCCCACCUUUUUGCUAUUCAUCUGAAAAACCAGCACAAUCGUUGCUGGUUUUUUGGUUGU",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_488",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .(((((((......(((...(((......)))......)))..(((.((((((............)))..))))))............))))))).",
+            "answer": "CCACCAUCCAGAGUGGCUGAGAGACCUGGCUCGAUGAUGCCGCAGCAACCCGCUUCGUUUGCGCAGUGUGGGUGCUACCGCCAGGACCGAUGGAGG",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_489",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: ..((.(....((((((..(((((((((((...((((....))))..))))))))))).(((((.....)))))..(((((((((((....)))))))))))((........))...))))))....).))......",
+            "answer": "UUGAAUAGUCAUCUCCGAGCCGGUGCUCCUAAGGGCUGUCGCCUAUGGAACACCGGCCUGGGUUUCGUACCCAUGGGGUAGGUCGGGAAACGGGCCUGCCUCCCUUUGCUCGGAAAGGAGAUUCCCCAUGGCUUCU",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_490",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .(((((((((....))))))))..)............(((....))).((......(((((......))))....)))",
+            "answer": "UACCGCCGCUGAGAAGCGACGGAAUAGGGCGGCAGAAGUCAGCAGAUGCCGUAGUAGCCGUACCGGACGGCGAAGGGC",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_491",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: ..((((((...(((.((((((...((.........))..)))))).))).....))))))........................((((.(((.(((.....)))))).)))).....................",
+            "answer": "CAUCGCUCUCCAGCUCCAUGCUAGACGUACAUUCAGUCAGUGUGGCGUUACAAUGAGCGGAAAUUGUCACUGUUCCUAAAAACAAUUGCUAGUCUCUGUAUGAGCUAAUGAUCACCUGGUGGUUCAGACAUUU",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_492",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .....((((((((((((((.((((((.((.((..(((((((((((((.................))...)))))))))))..)))).))))))...)))))))))))))).",
+            "answer": "GUGCGUGUUGCAGUUUCGGUUUGUGACCGACACUAACGGGUAGUUAAAGGGCAUCCUCGCAUUCUGCUGGCUUACUCGUUUUUGCGAUCACAAAUUCUGAAAUUGCAACGA",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_493",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .(((((.............................................................))))).",
+            "answer": "GCUGGCAAGGAUGAUAAAUACUUGCCCUCACUUAGAUAAUAGUUCAUUGAUGAGAGCAUUGUUCUGAGCCAGU",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_494",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .....(.((...................................................................................)))",
+            "answer": "GGAGAUUACGAUGAGGAUGUACAGCUCCCUCUUCUGAUUAAGCUGAAGAGAAUUGCUGGCAGAAUCGAACCUAAAUCACUAGCCACUACUGAGUU",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_495",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: (((((((..((((.........))))((((((.......))))))....(((((.......)))))))))))).",
+            "answer": "CGGGAUAUAGCGCAGUCUGGUAGCGCUUCUGUUUUGGGAAUAGAAAGUCACAGGUUCGAAUCCUGUUAUCCCGA",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_496",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: ............................(((((((....)))......))))..........................((((((((((....))))))))))...............",
+            "answer": "AGUUGGUUAUUUAUGCUACCGAAGACUCAGGUGCCAAUAGGCUUAAUAUCCUGCCGAGGAAGAUACGUUGAAAUCCCUCUCUAUGUCUUGGUGGACAUGGAGUUUUUUAUUUUAUAA",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_497",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: (((((((..(((......))).(((((.......))))).....(((((.......))))))))))))....",
+            "answer": "AGAAAUAUGUCUGACAAAAGAGUUACAUUGAUAGUGUAAAUAAUAGAGGUUCAAACCCUCUUAUUUCUACCA",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_498",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .((((((..((((.........)))).(((((.......)))))...............(((((.......)))))))))))..",
+            "answer": "GGGUCGAUGCCCGAGCGGUUAAUGGGGACGGACUGUAAAUUCGUUGGCAAUAUGUCUACGCUGGUUCAAAUCCAGCUCGGCCCA",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_499",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .(((((..(((((.((((.((((((((((((........)).)))))))))))))).)))))..))))).",
+            "answer": "AGGGUUUGAGUAUUACAUCAGGUACUGGUUCGGUUUUGAAAAACCGGUCCCUGAGUAACACUUACAUUCU",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_500",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .((((((((((((((((((.........))))))))))))))))))....((((((((((((((..(((.....))))))))))))))))).....",
+            "answer": "CCUUCAUUGGUUUACCUCAAACCUGUUGUGAUGUAAGUUAAUGAAGCCUUAACCACGCUGUUUGCUGAGCUUGACUCCGGGCAGUGUGGCUAUUUU",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_501",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: (((((((..((((.......))))((((((.......))))))....(((((.......))))))))))))....",
+            "answer": "GGGCCGGUAGUCUAGCGGAAGGAUGCCCGCCUCGCGCGCGGGAGAUCCCGGGUUCGAAUCCCGGCCGGUCCACCA",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_502",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .((((((..((((........)))).(((((.......)))))....(((((.......)))))))))))..",
+            "answer": "UAGAAAAUAGUUUAACCAGUAAAACUAAGAAAUUUGAAUUCUUUAAUACAAGUGCAACCCUUGUUUUUCUAA",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_503",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: (((((((..((((.......))))((((((.......))))))....(((((.......)))))))))))).",
+            "answer": "UGGGGUGUAGCCAAGUGGUAAGGUAACAGGUUUUGACCCUGUAAUGCGAGGGUUCAAAUCCUUCCACCUCAG",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_504",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .......((((((((((((((((((.((.(((...............))))).)))))))))))))))))).......",
+            "answer": "CCUUGGUGCACAUACUUCUUUAUGUACCCAUAUGAACAUAUGAUAGCUAUGGAAUGUAAAGAAGUAUGUAUUCCUGGU",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_505",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .........((((((((......................(((((((.......))))))).....................))))))))...........",
+            "answer": "UAGGGUCCUGAGACUUCACUGACUGCCCAGGGUAACAUCGCUGCCGAUGCACCUGGUGGCAUGAACUCAAAUGAUAGUCAUGAAGUCUCUCAGCUAAACG",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_506",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .(((..............................................................................................................)))..",
+            "answer": "CAGCUAUGACGAGUUCUUGACGACAUGACGUCAUCACUGACAAUUAAAGAUAGUUCCCUUCGUUCGGGUUGACUAUCGUCGGAGAUGUGGACGAGCGCCUAAUCUUCUCUCUGAGCUGU",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_507",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .((((((((((((((.(((.................((((.((((((..............(((.(((((...(((((((.....((...(((((.......)))))..))....)))))))..))))).)))............)))))).))))............)))))))))))))))))..",
+            "answer": "CGUCCUCGGCCGUGUUCGAUAGCGGAUUCUUACAUUUGCCCUGACCCUAAUUAACGACCCCGGGCUCGUUACUCCUUGUUGGUGUGCAUGUCCGCCCCGGUUGCGGAAAGCCCGAUGCGAGGUUCGCUGGCCCACCUGAUCCUUGGGAUCAAGGUCGUUUGGUCCGCAACGGCACGGCGGAGGACUC",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_508",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .........(((((.(((((((....)))).)))...))))).",
+            "answer": "AUCCCGCGGGCAAUCUAAAACUAUACAGGAGGAUAAGCGUAUG",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_509",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .(.(....))............(((....)))(((......((((((............))))))....)))",
+            "answer": "AAACAAGAUUUAUCGUGAGGAAGUCAGCAGAGGCCAUCGUACUGGACGGGUUAUAGACCGUCCAGGAAGGGC",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_510",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: (((((((..((((........))))((((((.......))))))...(((((.......)))))))))))).",
+            "answer": "GUGGGCGUCGUAUAGUGGUUAUUAUACGUGCUUGCCAAGCAUGAGACGGGGGUUCGAUUCCCCUCGCCCGCU",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_511",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: ..((((((((................(((((((.....)))))))....................))))))))..",
+            "answer": "AUUCCCUAACGAUUGCGAACACCUGAAUGAAGCAGAAGGCUUCAUUUGGUGACCCCGACGUGAUAGUUAGGGAAU",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_512",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: ....(...(((((((((.(((((..((((.....((((....(((....)))....))))...))))....)))))..)))))))))...)..........",
+            "answer": "UUUUAUAAGGUAUGCAGGCAAAAACUCUGUAAUUUGGUCAGAUCAGAAAUGAAGCAGCCAUAUCAGAACCUUUUUGGGCUGCAUACCCAUUUCUUAUUUGU",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_513",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .((((((........................................................)))))).",
+            "answer": "UGUAGCCAAUGAUGAUACAAGUUAUCCCUGUCUGAACUGAAGUGUGGAGUUGUGGUAACCUGAGGCUCAG",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_514",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: ...............((((((.(((............))).....(((...(.((((.......)))))..(((...)))...(...(((......((((((....(((.(((((.))))...)))))))))...........))....)))....)))))))))...............",
+            "answer": "CAUAUCGUGCAAAAAAAAGGUGCGUAAUAUUUACAUUGCGUUAAAUGGGAAGUCUGGUGUGAAGCCAGCGCGUACCCGCCACUGUGAAGAGGAGCUGAUUGCAUUUGCCACUGUAUUCGGGAAGGCGCAAUCAAGUGAUGAAUCGAAGUCAGGAAACCAGCCUUUUUCUAAUGCUAAGCU",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_515",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: (((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).",
+            "answer": "CGUGGUGUACCCGAGAGGCCAGGGAGCUGCCUGCAAAGCAGCGCACGCGGGUUCGAAUCCCGCCACCACGU",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_516",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: ....(.(((....(((((...((((((((..((((((((((.............))))))))))..))))))))...)))))..))))....",
+            "answer": "GCUCAGCUGAUCUGUGGCUUAGGUAGUUUCAUGUUGUUGGGAUUGAGUUUUGAACUCGGCAACAAGAAACUGCCUGAGUUACAUCAGUCGGU",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_517",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: (((((..((((.........))))((((((.......))))))....(((((.......))))))))))........",
+            "answer": "CCCCGUGGUGUAGUUGGUUAACACACCCGCCUGUCACGUGGGAGAUCGCGGGUUCGAGUCCCGUCGGGGCCGCCACG",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_518",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: ...(((.........................................................................)))...",
+            "answer": "CAAUGGUUGAAAUAUGAUGAGUAUGCAAAAUGUUGAUUUUUAAAAAAUGAAAGACAAUAAGAUCCAACUCUGAUUUCAUCCAGAG",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_519",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: ..............((((((((.(((.(((((((((((....((........))...))))..)))).))))).).((((((......))).)))))))))))................((.......((((((((.....((((.(((((.......))))).)))).............)))))))).......))...........",
+            "answer": "AAAACAUUAAACAACCAUGCGUUCCACUGGCGUCACUAGUACGUACUACUAUCGUUCUGGUUUGAUGUCAAUUUUUUAUGGUGGUUUUUUUAGCGAUGCAUGGGAGAUAAAUGGUUUAAGAUGUAUCUCCAGCUAUUGAAGUGAGGGAAAGCCUUUUUCUUUCCCCCAGCCAAAAUCUGAUAUAGUUGGUCAUGUUUCUUGCGACAAAU",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_520",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .((((((((......((((((((.........[[[[[[[.......).)))))))....))))))))......[[[..((((....)))).......((.(((((.]]]((((.....))))....))).)))).].]]]]]]....(((...((((.[[[[[))))...))).........]]]]]............",
+            "answer": "UUGACUAUGUGAUCUUGCUUUCGUAAUAAAAUUCUGUACAUAAAAGUCGAAAGUAUUGCUAUAGUUAAGGUUGCGCUUGCCUAUUUAGGCAUACUUCUCAGGAUGGCGCGUUGCAGUCCAACAAGAUCCAGGGACUGUACAGAAUUUUCCUAUACCUCGAGUCGGGUUUGGAAUCUAAGGUUGACUCGCUGUAAAUAAU",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_521",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .((((((................................................................................................................)))))).",
+            "answer": "GCGUGCUAGUGAUGAUUAAAGAAGUAGCAAAAAUGGUGAAUCCUGGAUGAAUGUGCUCGCGUGCCGCUGUGUGCGCGCGCGGCCGGAGAUUUUUUCUCUCUCUCUCUGUUCUUCUGUGAGUUCUUC",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_522",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .......((((((((...(((((((..((((((((((.............))))))))))..)))))))...)))))))).........",
+            "answer": "CUGGGGGGGCAGCGGUUAAGACUUGUAGUGAUGUUUAGCUCAUCUCCACGUGAACAUCACUGCAAGUCUGUGCUGCUUCUCCCCUCCUC",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_523",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: (.((((((((....((((((((....(((((((............))))..)))...)))))).)).(((((......(((((.(((....)))))))).....))))).)))))))).)",
+            "answer": "GUGAUACGGUCAUACCACCAGGAAAACAGGCGAUCCCAUCUGAACUCGCAACUUAAGCCUGGUUGGGCAGGAUUAGUACUGGGCUGAGUGAUCUCCUGGGAAUCCCCUGUGCUGUAUCGC",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_524",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .((((((((....((((((((.((((.......))))))))))))...))))))))..........(.(((((((..........((((((((((...........))))).)))))......))))))))...",
+            "answer": "CCCUGUAUUCGAAAGUGAUCAUGGGCUACCCGUGCCCUGGUCAUUGAUAGUGCAGGGAGAGGAAUUGCUGAAAGCAUUUCCCCGUGUUUGGAGGGUCUGCAUUUGUCCCUUUCAAACUCUGGAGCUUUUGUACA",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_525",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .............((((((((((((......(.((((.......)))))..(((...))).(((...(.(((..(..)))).)....)))......))))))))))))....((((((.((((((.......))))).).))))))...",
+            "answer": "AAUUGAUUUUAGUACUUUUAAGGAUAUGGAAGUCUGGUGUAAAUCCAGCGCGGUCCCGCCACUGUGAUAAGCUUUUCAGCUUUAAGUCAGGUCUUUAUUCUUAAAUUUUAGUAGAUUUCAUGCCUCGAUGUAAGGUAGUGAUGUCAGUU",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_526",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: ..((((((((((((((.((((.(((((...(.................................................))))))))).)))))))))))))).)..",
+            "answer": "AAAGUUCCAAAGGGAUCGCAUUGAUCUAAUGUCGUUGGGUACCUAAAUGAGUUAAUUAUAAAUCUAUAAUCCAAUUCAUUGGAUCAUGCGAUCCCUUAGGAAGUCUCC",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_527",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .(((((((((((((..((((((..........((((..(((((((((((..((.((((..............).)))))...)))))))))))...((((...........))))....))))...........))))))..)))))))))))))....",
+            "answer": "GACUCGACUCCGUAGCCUGGAGGAACGUGAACGGGUUGGGUCGCGGUGUACCCCGGUUCGAGACUUGUACUCGAGCCGGCCGGAGCCGCGGCUAACGUGGUAUUGGCACUCCCGUCUCGACCCAGCCUACAAAAAUCCAGGAUACGGAAUCGAGUCGUU",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_528",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .(((((((((([[[[[[[.(((((((((.........................)))))))))....(((.(((((((((...[[[[..((((((((((.....)))))(((((....)))).)((....(((((.............((((((((....))))))..)).......((((((.......)))))).(((((((((....)))))))).)..)))..)))))))))))))...((((.....((((((............................................(((((.]]]])))))...)))))).....))))......((((((((....))))))))..........]]]]]]]..................................................................)))))))).).))))))))).....",
+            "answer": "CGAGACGGCCGGGCGAUCGCGGCGCACGGAACCACCCUGUACACGGGGCAGGCCGGGCGCGGAGGAAAGUCCGGACUCCACAGGGCAACGGUGGUUGCUAACAGCAACCCGGGGCGACCCGCGGGAACAGUGCCACAGAAAACAAACCGCCCGCCACGCGCGGGUAAGGGUGAAAAGGUGCGGUAAGAGCGCACCAGCACCCCAGGCGACUGGGGUGGCUAGGUAAACCCCACCGGGAGCAAGGUCAAGGUGCCCGCACGCACGCCAUCCCAGAUGGUGCACCAGCGUGCGGCGUAGCUCUAGGGCUGCCCGCCCAACAAUGAGCAGGUAGGCCGCUUGAAGCCACCAGCAAUGGUGGGCUCAGAUGGAUGAUCGCCUCGUCCCACGCCUUCUUCGCGUGCCCCUCGCGGGCGCUGCGGAAAUGGACGGGGGAUAGGACAGAAUCCGGCUCAUAGGCCGUCUCGGCGC",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_529",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: ............((((((.((((((.((((((.((..((((((((((....................))))))))))..)).)))))).)))))).)))))).........",
+            "answer": "UAAUUGUGAAUUGAGUGAAUUUGAUUUUGUGACCGUUAUUACGGUCAUUUUCCAUUUAUUCAUAUUUUGACCGUAAUUCCGACCACAACAUCUUAUUCGCUCGCAAUUUUU",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_530",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: ..((.(....((((((..((((((((((...((((.....))))..)))))).)))).....(((((((((((....)))))))))))((.....))...))))))....).))......",
+            "answer": "UACAGAACACGUCUCCGAGUCUUAAGCCUAAAAGGAUGGACCUCAUGGCUGACGGGCCGGCAGGGUUUCGCUGGAAACGGCGGAGCCUCCCUUUCGGAAAGGAGAUAUUUGCAUUUUGAG",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_531",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: ..(((((............((((....(......)....))))..((((.....(((.......)))......))))........)))))...(((....)))......",
+            "answer": "AAGCGACCAAUUCGAAGCGCCGGAACACGGGGUAGGAAUCCGGCCGCGUAGGACACGCGUAAGACGGAGUCAGACGCCCCCUGGAGUCGCACCGGGCCUGCCCAUAUUG",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_532",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .....((((((((((((((((((((((.....)))))(((((...........))))).......))))))))))))))))).....",
+            "answer": "CUUCAUGGCAGCCGUGUUCGGGCAGACCUCUGGUCUGGCCGGGUUUCAUGUCCUCGGUUUCUCACCCCGUACACGGUUGCCACCCAA",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_533",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .(((((.......................)))))...................................",
+            "answer": "CAGGGAAAAAACUUUCUCACCGAAACCAUUCCUUGUUUGGUAACAGCUUUCUAUAAAUCUAAAGAAUUA",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_534",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .......................(((((......(((((....(((....((((......))))...)))....)))))....))))).....................",
+            "answer": "ACUCAACACUAUAUUCUUUAAGAGGGAUGAGUCUGAGUUGUAAAAGCGCGCCGUCUUUGAACGGAUUCUUGAUCAGCUCGUUAGUCCUAUGAUUUAUUUUAAGGAGUUU",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_535",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .((....................................................)).",
+            "answer": "GGGGAUGAUGAGUUUUUCCCUCACUCUGAUUAGUGAUGAGGAGCCGAUGCACUGACCU",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_536",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .................(.(((((......((((..........).)))...)))))).........((((((((((.(.....((...........)).)))))....))))))...((((((...((((((....((.....))..((((()))))))))))....))))))...........",
+            "answer": "AAUAACUGAUUUAACGAGUGAGUGGAAUGAAAGCCUUCAUGUUGAGCUGAAACACUCCCAAUAAUACUCCUACAUGCAGAGGAAGUUGAUAGACCACACUGUAUGAAGCUAGGUGAAGACGCAUGAAGAAAGCCUAAGUAUAUGACAACAUGUAUAUGGCAAUUGAUAAUGCGGUUGGCUAUAAA",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_537",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .......................................................................................................................................((((((..(((((................)))))))))))...",
+            "answer": "CGUACUCAAACAGGACGGACAGGAUGGUGGCACCGGGGUUGGUAACCACGCGCACUUCACCAAUGGUGGAGUCGUAGACCCCAUGGAACCGCAGCCAGAUGACAAACAGCAGGGCUGCGUAACCUAAGGUGAGGAGGUGGUGACCGAGGAUGUUCCCCAGUUUGGCCGCGUCAUCCCA",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_538",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .....(((...(((...........)))..))).....((((.......)))).............................(((((....(..(((((.......)))))..)..)...)).))......((((.((((....))))))))....((((((...............................))).)))......((((((((..((((((.......))))))......))))))))........((((((....))))))",
+            "answer": "UGGUGCCCACUGUGUGGGGCCUGUAUACAGGGGCUUUAUCUUGAGGAAGAAGACUCAGGUGGCUGGCUUUGUAUACAGAAAUUCCUUUGAAUGUCGAGGGAGCCUGCCGUGGCUGAAACGAAGGGGAGUGAUAGAAUCUGAAUAUGGGACAAGCAUUAAGCUAACAUGAGGUCUUUGUGAAACAAUUAAAAGAGGCAUUAAAGGUUCGAGGAGUAAAGGUAAAAACCAACGAUCUGUUUACAUUUUUUGAUUUUGUUAAGGAUCUUUGUCCUU",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_539",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: ....................................................((((((........))))))..................(((((.(((((((((((((((.....))))))))))))))).)))))....(((((.((((....(((((......))))).......)))).)))))........((((.((.(((((((((....................))))))))))..))))).......(((((((((((((.)))))))))))))........(((((..((((((((((.....((((........((((((((((.(((......))))).)))))))))..))).....))))))))))....)))))....................(((.....))).........((((....))))(((((((((((........(((((............((((((.((((((.(....)).))))((((((((.............(((((((.....)).))))))))))))))..........))))))......))))).......))))))))))).....................",
+            "answer": "CUAGCUUUUAUGAUAAGUGACGCAGUAUCCUAGUCAGAUAAACCUUUUUGAAGGCGGGCCUAAAAAUCCGUCAAGGGCACAUCGAUGAAGUUCCUGGUGCUGGCUAUCGACGCCCAGUCGGGGGCUGGUACUGGGAGUUAAGGGGGUGGGGCGACCUGCAAUGGCAUGUGGGCGUUGACCCCGCCCCCGUGGAGACCCAAGUGCGUGGGCAGCCAUGCCGGCUUUACCGGGUGGUCAACUAUGGCUUGGGAUUAAACCUGCAUGUGGUUAAAAGCUGCGUGCAGCGUAGCCUGCCUUGAGUGGUAUGGGUGGAUAUCGGUAUUACAUACGCGUCCGCCAUGGGCCCGUGGACGGCCGUGUGGUGAUUGAAACCUAUACUGCAAAAGAGGCUAGAAAAGGUGUAAUCUGUCGAGGAAAACUCCUAGGCUGUCUGGGGUACCAGGGCGGGCCGGGGAUUAAAGUGUGGACUAAGUGGUAAUCUAGCCCCGGUGCGGCAACGAUCGGAGACAGCUUUAAAGGGAAACCGCCGGUUUGGCGACAGCCGGUAGCUGUUUGGGAAAACCUGCUAGACCUAAGCCACAAUAUUUACCCGGUCCGCUGUCACUUAUCUAAUAAUACCG",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_540",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: ..((((((((......(((.......))).....((((..............................................)))).............................................................(((((.......))))).....(((.......))).......))))))))..",
+            "answer": "GCUUAUUCUCAGGGCGGGGUGUAAUUCCCCACCGGCGGUAAACCAGUGAACGUAUGAACGAAUAAGGUUCUGCGCACUGGAAGCCCGCGAGCGCUCAGGCUGUGUUUUCCGAUAUCAAUUGUCGGUUUUCGCAACAUGAGGUCAGCAGACCCGGUGUAAUUCCGGGGCCGACGGUUAAAGUCCGGAUGGGAGAGAGUAACG",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_541",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .(.(((..(.(((.(((((..((((((((((.............................................................................................................................................................................................................................................................................................................)))))))))).))))).))).)..))).)...",
+            "answer": "UUUUAGAAGCUGAAGCUGCCAGCAUGAUCUGGUAAUCGCUACAUACGACAUACACACAUCACUAAACUUCUUUAUAAUUUAUGCACACACAUACAGCUCUUAAUGGCCACAACUCAAAGUUAUAAUUAGUGCAUGAUCUCUAGUUAUUUGACUGCUUUUAAUAUAUGUUUAUGGAUUCACGCAUGUGUGUGUAUGUACAUAAUUUACAUGCAUGCACUUUGUGUAUGGUACACAUCAAUUUGAACCCGUUCAAAAUUCUGUUUUUAUUAGUAUAUAUAUAGAUGUAUGUGGUGUGUGUGUCAGUGUGUGUGUGUGUUUAUAGAUAGUAGUACUAGGUCAUCCUGCAGCUUCAGUCACUAAAUCA",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_542",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: (((((((..((((........))))((((((.......))))))....(((((.......))))))))))))....",
+            "answer": "GCCGCGGUAGCUCAGUCGGUAGAGCGUUCGCCUGAAGAGCGAAGCGUCGAAGGUUCGAUCCCUUCCUGCGGCACCA",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_543",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .(((((....)))))............(((((..((...(((((((((((...........((((((.....(((.(.((((.((((..((((........))))...))))................)))))).)))..)))))))))))...)))))....))..)))))",
+            "answer": "UCCAUCGCGAGGUGGAAUCUGAAGGAAGCCGCAGGCAAAGCGCUGGCUCGACGAAUAGGAACCGCAUAUGAGGCGGUCAUGCCGGAUGAGAGGGCCAAUAUCUUCAAAGUCCGAUACCUGUACGGAAGGCGUGGGCGUAAAUGCGGCGGGCAUAAGCGUGAAGGUGGGUGCG",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_544",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: ...............(((((((..((((....))))..)))))))........",
+            "answer": "UUCAAAAGGAAUCGCCAUCCGUCAACGAGGGUUCGUCCACGGAUGCUUUUGUU",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_545",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: ...................................(((.(((.(.((((....((.((((.(((....))).)...))).))..)))).))))).)).............................",
+            "answer": "UUACACUUCAAAACAAACAAAUGAACACAAUUUUAAAUCAUACUUGGUGGUGGAACUUCAAGAUUUCAAUCUUCGUGAAGUAAACCCUUAGUAUAUUUAAUUUAAAAUAUUUAAAAAAGGCUUGUC",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_546",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .........(((((...((........(((((.....))))).................))...)))))...............................(((..(.(((((((.........))))))).).......)))(((.((.....)).)))...................((........(((((((((........)))))))))))..........",
+            "answer": "UUUACUCAUACACCACAGCAAUACACGUUGAGAAUAUCUCAAUACUGGUCCUAAAAAUUGUCAUGGUGUCGCCGAUGAAUACGACAAAUAUGAAGUACUGGUCAUGGAUCGGAGCGUUUUCGCUGUCAUUCCUUUUCUGGGCUGAAUUAAUCUGGUACGUCUCUCGCUAAUUCUUCCAAAAUACUGCCGCCCGAUGGUGUAUCAACCAUCGGGCUUACUCCUGACA",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_547",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: ...................((((((((.(........).))))))))........(((((....((((....))))......)))))(((((.....).)))).....(((((......(((((((....))))))).........)))))..........",
+            "answer": "AUUAUAGUUAAAGCGCCCGAACUUGAGUGAUAUAGUUCAUUUAAGUUGACGAGGAUGGGGAGAAUCGAAUCUUCGGCGGAUGCCCCACGGUACCGCACUACCGUUAGCGGUUGGUAAAAGCAGAAAGUGAUUUCUGUCACAAAGCCAAUCUGGUGUUAAAA",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_548",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .((((((....................................................................................)))))).",
+            "answer": "AUUGGAUCAAUGAUUUAAGUUAAUUAAACUGCGUUAUCUAUCUGCAAUUCUCCUCUUUCUAGGAGUUUGAAGAAAACCAUAAAAACCUGAGAUCCAGU",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_549",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: ..((((((((..........))).))))).......(((((((....)))))))...................",
+            "answer": "CAUGAUCGGACCUUCGGAUAUUCAGAUCAUCCUCGGGAAGGUGCGCCCACUUUCACGCCCCCACACCGAGGCU",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_550",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: ....((((((((......((((((.(((......................)))))))))......)))))).))........(((((((..(((((........((((((..............))))))......))))).(((.....)))))))))).....",
+            "answer": "AGUUGCUCAUUCACCUCUUUAUGAUAGUCCCGCUGUUAAGCGGAAUAUGCGCUUCAUAAGCCACCGAAUGAUGCCUAAGACUGGUGCCUAUCGUCCACCUAAACCGAUAUUGUGUGAAUGCACAUUAUCAAACAUCGGACGACACGUUGAGUGAGGCACCGCCUA",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_551",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .((((((((..(((((((...)))))))..))).))).))(((........)))((((.((((((((((.(((((....))))).)))))..))))))))).((((((((((....))).)))))))...........",
+            "answer": "GUGCUGAGUGGGUAUUUAUAUUCAAUACAGAUGAUAGACAAAGUAAAGAACCUUGCAUAUUUAUGACGAUGAGGCCGGAGUCUUCUUGUCAGAUAAAACGUUAGAUGCCAUUAAUGAAUUGAGAACUAUUCUAUUAUU",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_552",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .(((......................................................................................................................)))..",
+            "answer": "UCCUAAUGAAGAAAACCAGCACCUGUCUUACUCCUUGUCCUGGCCCCAGAGCCUGCAAAGGCGAACCCACUGGGGUCGGCUGGGGGAGAAGAUGAUAAUCUGUUCCAGCGGGAACAGUCUGAGGGAC",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_553",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: (((((((..((((.........))))((((((.......))))))....(((((.......))))))))))))....",
+            "answer": "GGGGCUGUAGCUCAGUUGGUUAGAGCACGCCGCUCAUAACGGUGUGGUCGUAGGUUCAAGUCCUACCAGCCCCACCA",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_554",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .(((((((((...((((.(.(..........)..).))))..)))))))))......(.(((((......(((((((.(((.((...))))).)))))))........))))).)......",
+            "answer": "GUGCCCUUUUACGGUUGUCAUGGUACUUUAAGAGGCUAACACAAAAGGGUAAAAGAACUCUCCAUAAAACCUAGAGAGGAAAACUACACCUCCUCUUUGGAUCCUGUCUGGAGUCAUCAAU",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_555",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .((((((..(((..((....))...)))(((..................)))....))))))........(((((...............))))).......................(((.((((((((.........))))))))...)).)",
+            "answer": "GUCAACCACCCCACCCUAAAGGAUGGGGCUUGAAAGGUGAAAGCCUUGAAAGCCCAGGUUGACCAGACCCAGAAAGGAAUUUAAAAAACCAAUCUACGUUGCCUACAGGUUAUCGGACCAACGGCAGGAUGCUUCUCCAGUCCUGCCCUCUUGA",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_556",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .........(((((...(((......))).)))))..(..((((((((((..((((((....)))))).)))...))).)))).).....................(..((((((.............(((((.(((..((((.........))))...)))....((((((((((..........)))))))))).)))))))))))...).....",
+            "answer": "CCAAUCCCAUCCGGCACAGCGGGUCCGCAGCCGGAACCGAGUGUUGCGCGUGCCGCGGGUAACUGCGGGCGUCAAGCGUACACAGGGAGCAUGCAGGCCGCGUGAUUGAGCCUCGAAAGCGUCACUGCGUGGGAGCCGACGCCGUCGGAACAGGCGGAAGGCCGUGCUGCCGUGCCGAGAGGACCGGGCACGGCGGUCCCACCGGGGUCUGAGAGCG",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_557",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: ..((((((.......((((((((((((((((....))))).))))))))))).......)))))).............((((((((.............))))))))...((((((................(..((((((......(((..((((.........)))).)))))))))).)))))).......",
+            "answer": "AUGGCCUCUUCGAAGAUCCGUAAACUUUGCAUAUUUGUGGUGGUUUAUGGAUUCAAAGCGAGGCCUAAAUUGACGAUCAUGUCUUUAUUCUUUUUAAGAGAGGGCAUAUCAUUGAAAUUUCUAAUUUCCAAAGGGAAAAAAAAACUAAAGCUGUGCUAUUUCAUGCGCUCCUUUUUUUGUUCAAUGACACAUUU",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_558",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .................((((((((((((((.(((((((((((((((((....)))))).)).)))))..)))).)))))).......(((((..(((.(((...............)))..)))......)))))))))))))..........(((...((((((..........((((..((((((((..............)).))))))))))......)))))))))....((((((((........(((((..(((.....((((...)))).....))).)))))......)))))..))).......",
+            "answer": "CUUUUUCGAACACACACGGAUCUGUGUCCAGCGAUCCUGAGCGUGGAGGCUUGUCUUCUGCGUCUCGGUUGAUUACUGGACAGUUCGACGACUUAAGGAGCCAUCACAUUCAUGGAUGGUCGAUUAUUUCCGGUCGACAGAUCUCAGAUUAAAGGUCGACAUUGGGUGUUCGCUCUGGUCUUGAGCUCCCUUCCUUUCGGGGUUGGUGAGCUCGGCUGGAGAGCCUGGUGCUCGGCGGCGUCAUAUUCCUACUCCCUUUACCGAUUUGGCCGUCGGCCCAUGAGGUUAGGGAAAAACCAUGGCCAGCCAACAUAC",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_559",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .......(((.(((((((((((((((((......((......))(((..(..(((((..........))))).)..))).....................))))))))))))))))).)))",
+            "answer": "AUAUUAAAAGUUUAAGUCACUUAUAGUUUCCUACUGCGAAAACAUAUAAUUUUUAGUUCCCACCCAUACUAAAAUUGUGUCCUUAGCUCUCUAUUAAUUUGGCUAUAGGUGGCUUAAUCUU",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_560",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .................((((((......(((((.....)))))...)))))).........((((((((((.((((...........)..)).)))))....))))))...((((((...(((((((((...((........)).)))...((((((((....))))))))))))))....))))))...........",
+            "answer": "GAGAACUGAUAUUCCAAAGAGUGGAAUGAGGGGGUAACGCCCCAAAACGCUCUCCUUAAUACUCCUACAUGCUGUGCAACUGCUGAAAUGCACAGUAUGAAGCUAGGUGAAGUCGGCAGAGAGAUACCGUAAGGCAUGAAAAUGCCACGAAAGCUGUCCAGCGGUGGGCGGUGUAUCCUAUAUGCCGGAGGUCUAUAAA",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_561",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: ..((((.(((....((((((((.(((((((.(((............))).)))))....)))))).))))...))).))))...........((((((((..))))).))).......(((((((((.((....(((.((((..(((....))).)))).)))....)).))))))))).....",
+            "answer": "UAUGAUUGGGGAACAGCUCCUAUGCGGCUUAACCCACCCAGCAUUGGGUGCAGCCUGGUACCAGACAGCCCCACCCUGACCUAGAGCAAAUGCUUGGGGCGCUCCCCUGGGCUUAGAACUUGCACUAACAGGUGUGAACAUUCUAGUAGUAGUUUGAUGAUCAUAUAUGCUACUGCAAACAGGA",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_562",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: ......................((((((.....(.(....((((.(((...((((((((...........))))))))...))))))).).)...))).)))...........................................................((((.(.......).))))",
+            "answer": "ACCCGUUGUUUGUAGAUGUUAUGGGGUUUGGCCGAGCUUAGCGUUGUUCAUUUUUUUACACAAUAGGCCUGUAAAAAAUUGAACACGCGUUCCUGAACACCCUUCGACGCGAGGUUUUUUUCGGCUUUUCGCCUGGCGAAAAUGCCCUGAAAACGGCCUCAACGCCCCACAAGAGGGCGU",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_563",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .((((.......))))...........................................................................................",
+            "answer": "AUAAUCUAAAAUAUCAUUCAAAUCAAACCUGGGAACGAUUGAGAGAAGAUUAGCAUGGCCUCUGCACAAGGAUGACACGCAUAAAUCGAGAAAUGUUCCAAAUAAAG",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_564",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: ..(((((.(((((((.............................))))))).........((........))....)))))....",
+            "answer": "AUCGUUCAUCUUCGCUAGAGCGCACCUGAAAACUUGGGUGAGCAGCGAAGACGGAAGUAGGGCAGUUGUCCCGAAGGAACGCGCC",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_565",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .......................",
+            "answer": "GAACGCGCUGGGAAUACCAGGUG",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_566",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .(((((((((((((..(((((((((.....))))))))))))))........))))))))................................................................((((((((((..............(((((((((......)))..))))))(((((...((((.....))))..)))))..(((((........((((.((((......))))....(((.((.....)).)))))))..........))))).....))))))))))........((((((.....))))))......(((.(((((((((((....)))))))).....((((((...((.......)).....))))).).....))).))).......(((.........))).",
+            "answer": "GAAAGUUGAGUGGUAUUUCCUUCUUCAAAAGAGAAGCUAGCCACCUCAGAGCUCAACUUUCAUGACUCUCACUAUGUUGAUUUAUUUAUGAAAAAAUAAACUACAGAAAGGAAAAGUCUCUGAGCGGUUAAACUGAAAGUCACCUAAUUCCUUGAGUAGAAAUACUAACGAGGAAAUUGAUAGGACCCCAAGUCCUUCAGUUUUAACUAAGAAAGUCCUAGUACCUGGGCACGGGUUUAGGGAGUCCGCAAGAUUCCAUAGAGAUUAGUAGUAGUUGAGUAGGGUUAACCGAAACGAGUGAUUGACGUAAACAAUCGGUGAUGACUUGAUACAGAUGGCAACAUUUGUGGAUACGGAAGGAAACCUUAGUACGGUAUAAUCUUCACAAAAGACAGGUCAGUUAAACGAGUAAUCUCAUCGU",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_567",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .((............(((.(((....)))..)))...((((((.............((......((((((((((...))))))..)))).........((....((((((((......))))))))..))............)).(((........)))..........))))))........))...................",
+            "answer": "GGAAUGUUCUUUUUUAUUUUAUUCCUUUCAUCAUCUCAAACAUAACCUCUCAUCCAGGAAUUUUGCCAAGAUUUAAUAAAUCAAUUGUCUUGCUUAACCCUUAUAUAAAAAGCAAAUCUUUUUUAAUUAGACACAAAUAAUAUCGGCACAACAGGUUGCUAUAAAAUUAAUGCAUAAAUUUUAUCCUUGAAAACCAUUGCUAUG",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_568",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .((((((((((..[[[[[[..(((((((.......(((((((..)))))))..........)))))))...(((.((((........((((.....))))...............................(((.........)))..(((...((((((((((((((......((((........))))...)))))))).)))))).)))...............................]]]]]].((((((..............................................)))))).........)))))))....))))))))))",
+            "answer": "CGAGUUUUUCAUGCUUGUCUCUCGGGGCUACAAACGAGUUCCUGGUAACUCUAUGCAUCGUGCCCUGGGUAAAGUCCCCGGGUCUAGGAUAGAAAGUAUCAAGGUGUAAAAUGUGCGUUUUUGUGCGCAUUCGCCUAUAUUUCGCGGAAUCUCGCCAGGCGUAGUGAUGAAGAAGGAUUCGAAAGGAUCCUGAAUCCUUGCCGUCCGGUUGUCUGCGGAAAUCUGCCAGAGUUCUUCACCUCAGAUAUGGACGAGUUGGUAGGACCUUUCCCCUCUAACUCCUCGGAGUGGGGGGAAGGAUACCGCCUACACGGAAUGGGGCUUACAUUGAGAAAUUU",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_569",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: (((((((..((((.......))))((((((.......))))))....(((((.......))))))))))))....",
+            "answer": "GGCGGCAUAGCCAAGCGGUAAGGCAGAGGUCUGCAAAACCUCCAUUCUCCAGUUCAAAUCUGGAUGCCGCCUCCA",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_570",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: ..(((((..((((.....))))........((((.....))))....)))))....",
+            "answer": "UACGUUGAUAGUCUGUUGACUACGCAAGUAAGCCAGAAGGGCUGAAGCAACGGGAA",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_571",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .((((((((((.(((((((((((((((............)))))))))))))))))))))).)))...",
+            "answer": "GCUAAAAGGAACGAUCGUUGUGAUAUGAGUUGUUCCCAACAUAUCACAGUGAUUUUCCUUUAUAUCGC",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_572",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: (((((((((........)))))....(((........)))))))(((((((((..(((((...((.((((....(((.((((((...(((.((((.(...((((((((((.(((((.(((.(((((((((.((((((((.((((....)))).)))))))).)))).(...)..(((((......(((....(((....)))....)))....))))).))))).)))..)))))))...))))))))).)))).))).))))))))))))).)).....)))))..))))))))).......",
+            "answer": "GACCGGGAGCGUGGCGUCUCCUGUAACGCGGCUACUCGUGGGUCGGAUUACGGACUGAUUUGAGGGCGGGAGUCCUGUGUGCUGGACCAGGCCAUGUUGACGGGGCGUCCGCACUAAGCUGGCCGUCAAUAUGGGUGUCACGGAGGAGUCCGAGACAUUCAGGUUGGCUAAGGAGAGACACACCGAGCGAGGGGUGACAACCAGCAGCUAAGAGUCUCCGCGGCAAGCAGUAGUGGGAUCGCGUCCCGGAGUGGACUGCCAGUGCCAGCCCGACCAACACAGUCACACUGUAAUCUUUUUUUU",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_573",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: ................................................................................................................................................((((((..(((((................)))))))))))...",
+            "answer": "UGUAGCCAAAAAUGACAGCUGGACUGGUUGUUGGAUUAGUAAUCACGCGAACAUCACCGCCGCCUGGUGCCCAUGUGUCAUAAACGCCACCCAAGUAACGAGCUUUGAGAACCAACAGCAAAGCACCAAGUCCAAGAAGCACAAGGUGAAUUCCUAAAAUGGUAGUCAUUUUGUUCUUAUCUUUCCA",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_574",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .((((.........................................................................)))).",
+            "answer": "CUAUUUAUGAUGAUUUCCCUUAAUUUUACCAUCUUUCGGGUCUGAAUUAAGAUGUGUUGAUAUUAUGGGAUAUACUGAAAUAG",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_575",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .((..(((((((......)))))))..(((((((....(((......)))....)))))))...)).........",
+            "answer": "GUAAUUAAUUGCAUGGAUGCAAUUAAAGGCGUGACUUCGCCAUGGACGGCGAAUACACGGCGGUUACGUUCAUAU",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_576",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .((((((.......((((...((((.........))))...)))).......))))))............(((((((.......(((..((((...........))))..)))........)))))))......",
+            "answer": "UGGGAGGCUGAUACACAAAUUGGGCUGAAGUACUGCUCUAAUUGUCACUAUACCUCCCUAGAAUAAUACACUGCCUUUUGAUGACCGGGACGAAUUGAGAGAAAUCGUAACGGACAGAUACGGGGCAGACAGUU",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_577",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .............((((((((....(((((((............))))..)))...)))))).)).........................",
+            "answer": "GUCUAUGGCCAUACCACCCUGAACACACCCGACCUUAUCUGAUCUUGGAAGCUCGACAGGGUCAGGCCUGAUUAAUACUUGGAUGGGAAA",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_578",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: ...((((((((((..........))))))).))).........(((((((((....))).)))))).......",
+            "answer": "ACUAGUUUGGUAGUACUUUAUAUCUAUCAAUACUUCUUGGGAAGCCUCCGCCAUACGGCAGGAGGCAUUUUUU",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_579",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: ..(((..(((..(((.((.((((((((((((((.((.(((((((...........))))))).)))))))..))))))))).)).)))....)))...))).",
+            "answer": "UCGGACACUCUUUCGCUCAGCUUUCGACAUGAUUCUAAACAAUACGUCGAGACAAUGUUGUUGAGAUCAUUAGUUGAAAGCCGAACGAUUUUGAGAUAUCCA",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_580",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .((((....((((...............)))).))))..........(((((((......)))))))........((((((.....))))))......",
+            "answer": "AGUUGCGGAGAAACUAUCAUUGGUAGUUUUUUGUAGCUGUUCCCCUCUGGAGGUUUGACGACCUUCACACUUGAAGCAUCCGUUCGCGGGUGCUUUUU",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_581",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .....(((((((((..(((((....))))).....((((((.))))))..)))).....((((..((((......))))..))))..)))))............",
+            "answer": "CAACAACCGUUGGGGUGCCCGAUUCAGGGCUGAGAGGCGCACUGUGCCGACCCAUGGAACCUGAUCCGGGCAAUACCGGCGUAGGGAACGGUCAUCGUGGCAAU",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_582",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .............((((.....))))....(((....((...(((.(((....))).)))...))...)))....",
+            "answer": "CUUCACCGACCCCAACCACAACGGACGACCCUCCGGCCGGUCCUGGCCGUACGUCGCCAGCAAUGCCUGAGCCUC",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_583",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .(((((((...............))))))).....((((((.(((............)))))))))..............",
+            "answer": "AUCAGAAACUCCUCAUAUACAAAUUUCUGAUCACUAAACACUCCGAUUCUUAAGAAUUGGGUGUUUUUUUAAUGCAAUUA",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_584",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: (((((((..((((.........)))).(((((.......))))).....(((((.......))))))))))))....",
+            "answer": "GCAUCCGUAGCUCAGCUGGAUAGAGUACUCGGCUACGAACCGAGCGGUCGGAGGUUCGAAUCCUCCCGGAUGCACCA",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_585",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: (((((((............((((((((.......(((.(((.((((([[[[[.((((((..]]]]].......))))))..................................(((((((.......)))))))((((.(.......(.(((([[[[[[)))).)..).)))).........]]]]]]..(.(((((...((((.[[[[))))...))))).)........]]]]...((((.......(((...[[[[[[))).......))))..........]]]]]]....)))))....)))..))).....))))))))...(((((.......))))))))))))....",
+            "answer": "GGGGGCGACAUGGCUUCGACGUGGAUCGCGAAACCUGAGGUGCAUGCCGAGGUGCAGAUGACCUCGUAAAUCCAUCUGCAAACCAAAUAAACGCCAACGACGACGUUUACGCACUGGCCGCUUAAGCCGGCCGGCCUCUGAUCAGCAGCUCGCUUACAAGCGGCUGGUUGGGGGUAACCCAAUUGUAAGCUCGCGCUGAAGUCUGUCCGGGGCCGAAGCGCUAAAACCCAACGGAAUCGCCGUCCGUCUUCCCUGCCACUCGGGUAGCGUCCGGCUAAAUCAAUAGAGUGGAUACGCAUGUAGAACCGAUGGCAGAGGAUUUGCGGACGCGGGUUCAAUUCCCGCCGCCUCCACCA",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_586",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .(((((((.(((((((((.......)))))))))(((.....)))((.((((...((((......))))...)))))).)))))))...",
+            "answer": "UUAAAACUGGGAGUGGGUUGUUCCCACUCACUCCACCCAUGCGGUGUUGUACUCUGUUAUUACGGUAACUUUGUACGCCAGUUUUUCCC",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_587",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: (((((((............((((((((.......(((((((..((((((((((...[[[[))))).....]]]]...........................................(.((((.(((.......))).)))).)..(((((..(((((((.[[[[[[)))))))....))))).........]]]]]].....(((..((((...[[[[[[))))..)))..........]]]]]]..(((((...(((.((((...[[[[[[))))).))..)))))............]]]]]]....))))).....)))))))......))))))))...(((((.......))))))))))))....",
+            "answer": "GGGGAUGUUCUGGAUUCGACAGGUAUAGUUUGAGUUCGGAUUGCGCUUCGUAGGUUGUGUCUACGUAAAAACGCUCAGUUUAAAUUAUAACUGCAAAAAAUAAUAACAAUUCUUACGCUUUAGCUGCCUAAUAAGCGCUUAACGUAGAUCCUCCCAGGAUCGUCCAUGUUCUGGAUCUGGGUCCUAAAUUUAGUGGACUUACGCUCAAAGCUUCCACCUGGAGUUGCGAGAAGAGACUAAUCAGGUUAGUCAUUGCUGGGUGCCCUGUCAUACGGCGUUUGCAAUGAUGAAAUUUAAAUAGUAUGAAUAUGAGCGUAGAUAUCCGAGGGGCAAUAUGCUUGGACGCGAGUUCGACUCUCGCCAUCUCCAUUA",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_588",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: ...................(((((((((.....)))))))))..(((((((..........)))))))....((((((....)))))).((((((.....))))))....................",
+            "answer": "UUGGAUAGAAAUCGAUCAGUCCCCCGCCGCAACGGUGGGGGGAGAAACCGCGACGCCGGCAGCGGUUUCGUCGGCAGCCAAGGCCGCCAGGUCUCGCCAUGAGGCCAAUGGGACAUAACAGUCAAC",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_589",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .((((((......))))))........(((((((((((((((((....))))))))))))....)))))............((((((....))))))((((...((....))...))))....((((((.......)))))).......",
+            "answer": "CCUGCAAUUCCGUUUGCAGUAGUCUGAGGGUACGUGCAUAAUGAGUAAUCAUUUUGUGCGAAGCUGCCCUGACAAAGUACCCUUUCCGAAAGGAAUAGACCAAAGCGUGAGCCGAGGUCAAUAGCGGAUAACAUCGUUCUGCCGAGGGG",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_590",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: ...............((((((((....)))))))).......(((...(((((((((....(((((......)))))...))))))))).)...)).......((((((.......(((((((((.......................)))))))))..))))))...(((((((((....))))))))).......",
+            "answer": "AGAAUAACUAGAAAAGGGCGACCACAUGGUCGCCCUUAUACGUAGCACGGAUAUUACAAUUUUGGUUUGGCCGCCGAUCAGUAAUAUCUUGGCUUUUAUUGGCGUUACGCAUAGCUGGCUGUUAGCUUAGUUCCUUACGAUUCAAUCACUAACAGUUUUUGUAACCAUAACCUGAGUUUAGACUCAGGUUUUUUUAU",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_591",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .(((..((((((((...(((((....((((.............))))..)))))...))))))))..))).",
+            "answer": "CAGAUGCUGGUUUCACAUGGUGGUUUAGAUGUGUUCUACCAAAGUCUAGCACCAUUUGAAAUCAGUGUUCU",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_592",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .(((...................................................................................................................)))..",
+            "answer": "UGGCGAUGAUAGAAAUCUUGUGCAACGGCCGAGGCGAUCGGAUUGCGACGUCGCCUGAGAAGGCGGGACCCAACGUCGCGCCUUUCGCCAGACGAUGGAUACUCUUGCACAGUGUCUGAGCUCC",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_593",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .(((((........((((((((....(.......)....))))))))........)))))....",
+            "answer": "AGUGCCGUCAGGUAAAGUGACGAUGGUGUGUCCCAUCCGCGCCACUGGUUCAGGCGGCACGAGA",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_594",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: ..........(((((..((((((...))))))).))))....((((((............))))))(.(((((......)))))).............................(((....((((((((......))))))))..)))",
+            "answer": "ACCCUUACCCCAUGAUUGCUGACGUUGUCAGCGACAUGCCGGGCAACCAUUGGUCUUUAAGGUUGCGGCGCGACACCUGCCGCGUGACCACACCAGUUCGCACCGCAUCCACGCGCGAACGACUGCCAGUUUUUUCUGGUGGUGAUGC",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_595",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: ........(((.((...((...((((..((((((((.............)))))))).))))....))...)).)))........",
+            "answer": "UUGCGUUAAGGAUGGAAGUGGAAAUCCUUUUUAGGCGCCAUUUUUAGGCGUCUAAAAAGAUUGAGAGCGUACAGCCUGACCUUGU",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_596",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: ..(((....)))(((((((((.((((....)))).)))))))))...........................",
+            "answer": "UACCGCAAACCAGCACGGGCGUCGAGGCAACUCUACGCCCGUGCACGCAUGUUAAGGGUUACAGAAAUAAU",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_597",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: (((((((..((((..........))))((((((.......))))))....(((((.......))))))))))))....",
+            "answer": "CGGGGUGUAGCUCAGUAUGGUUAGAGUACUUGGUUUGGGACCAAGGGGCCGAAGGUUCGAGUCCUUUCACCCCGACCA",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_598",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .....................((((((((.........(((((.(((...((((....))))..)))..)))))......)))))))).",
+            "answer": "GAUCAAACUUAAGGACGUGGUGGCCUGUCAGUAACUACUGAAUCGGAAUGCUGCUCACGCAGAAUCCAUAUUCACUGCGCGACGGGCCA",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_599",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .......((((((((((......)))))((((((((((((....))))))))))))(((((((..........))))))))))))...................((((.(((((.((((...)))))))))))))..",
+            "answer": "AAAAAGGGUACUCGCUACUUCGAUAGCGCGUCGAUCCGCAAUAUUGUGGAGCGGCGGGGUAUGGCCAUCAAGACAUACCCAGUAUGUAAUUUUUGUAACCGAGGAGGCUGUGGGCUGCCAAAUGCACUAACGCCUCC",
+            "eval": "recovery rate"
+        },
+        {
+            "no": "RNA_600",
+            "category": "RNA inverse folding",
+            "question": "Please generate the corresponding RNA sequence directly based on the dot-bracket notation of the secondary structure: .(((((.((..(..((((((((((((...))......)))))))))).....)..)).))))).",
+            "answer": "ACAGGCACUUGACUUCCUUGUGGCGUCAUACAGAGAAGUCACAGGGCAGUACCUGAGGGUCUGU",
+            "eval": "recovery rate"
+        }
+    ]
+}

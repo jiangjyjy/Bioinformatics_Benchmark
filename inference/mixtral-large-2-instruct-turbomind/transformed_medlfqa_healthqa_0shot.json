@@ -1,0 +1,904 @@
+{
+    "0": {
+        "origin_prompt": "You are a leading expert in MedLFQA_HealthsearchQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: What is the main cause of hypothyroidism?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            " Analysis:\n1. **Understanding Hypothyroidism**: Hypothyroidism is a condition where the thyroid gland does not produce enough thyroid hormones. These hormones are crucial for regulating metabolism, growth, and development.\n\n2. **Primary Causes**: The main causes of hypothyroidism can be categorized into several groups. The most common cause is an autoimmune disorder known as Hashimoto's thyroiditis, where the immune system attacks the thyroid gland, leading to chronic inflammation and reduced hormone production.\n\n3. **Other Causes**: Other causes include surgical removal of the thyroid gland (thyroidectomy), radiation therapy to the neck area, certain medications, iodine deficiency (though less common in developed countries due to iodized salt), and congenital hypothyroidism (present at birth).\n\nFinal answer: The main cause of hypothyroidism is Hashimoto's thyroiditis, an autoimmune disorder where the immune system attacks the thyroid gland. Other causes include thyroidectomy, radiation therapy, certain medications, iodine deficiency, and congenital hypothyroidism."
+        ],
+        "gold": {
+            "free_form_answer": "Hypothyroidism is primarily caused by an underactive or malfunctioning thyroid gland, which does not produce adequate amounts of thyroid hormone to meet the body's needs. The most common cause of hypothyroidism is Hashimoto's disease, which is an autoimmune condition where the body's immune system attacks the thyroid gland. Other causes can include certain medical treatments or medications, such as radiation therapy for cancer or lithium, surgical removal of part or all of the thyroid gland, and iodine deficiency, although this is rare in developed countries due to iodine being added to salt. Women are generally more prone to developing hypothyroidism compared to men, and the risk also increases with age.",
+            "must_have": [
+                "The main causes of hypothyroidism include an underactive or malfunctioning thyroid gland, with Hashimoto's disease being the most common cause.",
+                "Other causes can include certain medical treatments or medications, removal of part or all of the thyroid gland, and iodine deficiency."
+            ],
+            "nice_to_have": [
+                "Women are generally more prone to developing hypothyroidism compared to men, and the risk also increases with age.",
+                "Iodine deficiency as a cause of hypothyroidism is rare in developed countries due to iodine being added to salt."
+            ]
+        }
+    },
+    "1": {
+        "origin_prompt": "You are a leading expert in MedLFQA_HealthsearchQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: What are the first signs of eye cancer?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            " Analysis:\n1. **Understanding Eye Cancer**: Eye cancer, also known as ocular cancer, can occur in various parts of the eye, such as the eyelid, the surface of the eye, or within the eye itself. The most common types are melanoma and lymphoma.\n\n2. **Identifying Common Symptoms**: The first signs of eye cancer can vary depending on the type and location of the tumor. However, several common symptoms can indicate the presence of eye cancer.\n\n3. **Visual Changes**: One of the earliest signs can be changes in vision, such as blurred vision, loss of vision, or seeing flashes of light. These changes may be subtle at first but can become more pronounced over time.\n\n4. **Physical Changes**: Physical changes in the eye can also be early indicators. These include a dark spot on the iris that grows, a change in the shape or color of the pupil, or a lump on the eyelid or in the eye that increases in size.\n\n5. **Pain and Discomfort**: While not always present, pain or discomfort in or around the eye can be a sign of eye cancer. This can include a feeling of pressure or a persistent ache.\n\n6. **Other Symptoms**: Additional symptoms may include redness or inflammation of the eye, bulging of the eye, and changes in the field of vision, such as seeing shadows or obstructions.\n\nFinal answer: The first signs of eye cancer can include changes in vision, such as blurred vision or loss of vision, physical changes like a dark spot on the iris or a lump on the eyelid, pain or discomfort in the eye, redness or inflammation, and changes in the field of vision. If any of these symptoms are noticed, it is important to consult a healthcare professional for a thorough examination."
+        ],
+        "gold": {
+            "free_form_answer": "Eye cancer is a rare form of cancer that primarily affects adults but can also occur in children. The first signs of eye cancer can often be vague and hard to detect, which is why regular eye checks are crucial for early detection and treatment. Signs and symptoms can vary depending on the type and stage of the eye cancer, but common signs may include blurred vision or sudden vision loss, a growing dark spot on the iris, a change in the size or shape of the pupil, a change in the position of the eye within the orbital, pain in or around the eye, and noticeable white or 'cat's eye' reflection in photos where the flash has been used. It's important to note that these symptoms can also be caused by less serious conditions so if you notice any changes in your eyes, it's essential to consult an eye specialist or healthcare provider.",
+            "must_have": [
+                "The first signs of eye cancer may include blurred vision or sudden vision loss, a growing dark spot on the iris, a change in the size or shape of the pupil, a change in the position of the eye within the orbital, pain in or around the eye and noticeable white or 'cat's eye' reflection in photos where the flash has been used.",
+                "Any changes in the eyes should prompt a consultation with a healthcare provider or eye specialist."
+            ],
+            "nice_to_have": [
+                "Eye cancer primarily affects adults but can also occur in children.",
+                "Regular eye check-ups are crucial for the early detection and treatment of eye cancer, as the initial signs and symptoms can often be vague and hard to detect.",
+                "Not all symptoms are indicative of eye cancer as these symptoms could also be signs of less serious conditions."
+            ]
+        }
+    },
+    "2": {
+        "origin_prompt": "You are a leading expert in MedLFQA_HealthsearchQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: Does testicular cancer spread quickly?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            " Analysis:\n\n1. **Understanding Testicular Cancer**: Testicular cancer typically originates in the testicles, which are part of the male reproductive system. It is important to note that there are different types of testicular cancer, with seminomas and non-seminomas being the most common.\n\n2. **Growth Rate of Seminomas**: Seminomas tend to grow and spread more slowly compared to non-seminomas. They are often confined to the testicle for an extended period before spreading to other parts of the body.\n\n3. **Growth Rate of Non-Seminomas**: Non-seminomas, on the other hand, can grow and spread more rapidly. They may spread to other parts of the body, such as the lymph nodes, lungs, liver, or brain, more quickly than seminomas.\n\n4. **Early Detection and Treatment**: The rate at which testicular cancer spreads can also be influenced by early detection and treatment. Regular self-examinations and prompt medical attention can lead to early diagnosis and effective treatment, which can slow or halt the spread of the cancer.\n\nFinal answer: Testicular cancer can spread quickly, particularly in the case of non-seminomas. However, seminomas tend to grow and spread more slowly. Early detection and treatment are crucial in managing the spread of testicular cancer."
+        ],
+        "gold": {
+            "free_form_answer": "Testicular cancer is one of the less common types of cancer, but it is among the most treatable even in cases where it has spread beyond the testicle. While it can spread rapidly in some cases, the rate at which testicular cancer spreads can vary significantly and depends on the cell type (seminoma or non-seminoma), stage of the disease, and overall health of the patient. The main routes of spread can be the lymph system, bloodstream or directly to adjacent organs. However, early detection can significantly improve the outcome, and treatments including surgery, radiation, and chemotherapy can be highly effective. Regular testicular self-examinations and early consultation with a healthcare provider for any unusual findings, can lead to early detection of this cancer.",
+            "must_have": [
+                "1.",
+                "Testicular cancer's rate of spread can be rapid and depends on factors such as the cell type (seminoma or non-seminoma), stage of the disease, and overall health of the patient.",
+                "2.",
+                "The main routes of spread for testicular cancer include the lymph system, bloodstream or directly to adjacent organs.",
+                "3.",
+                "Regular testicular self-examinations and early consultation with a healthcare provider for suspicious findings can lead to early detection and successful treatment."
+            ],
+            "nice_to_have": [
+                "1.",
+                "Testicular cancer, although less common, is among the most treatable forms of cancer, even when it has spread beyond the testicle.",
+                "2.",
+                "Treatments for testicular cancer are highly effective and may include surgery, radiation, and chemotherapy."
+            ]
+        }
+    },
+    "3": {
+        "origin_prompt": "You are a leading expert in MedLFQA_HealthsearchQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: Can you squeeze a salivary stone out?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            " Analysis:\n\n1. **Understanding Salivary Stones**: Salivary stones, also known as sialoliths, are small calcified formations that can block the flow of saliva from the salivary glands into the mouth. They typically form in the submandibular gland or the parotid gland.\n\n2. **Symptoms and Diagnosis**: Symptoms of salivary stones include swelling, pain, and infection in the affected gland, especially during meals when saliva production increases. Diagnosis is usually confirmed through physical examination and imaging tests like X-rays or ultrasound.\n\n3. **Treatment Options**:\n   - **Non-Invasive Methods**: Small salivary stones may sometimes be dislodged through non-invasive methods such as manual massage of the gland, hydration, and the use of sour candies or lemon drops to stimulate saliva flow.\n   - **Medical Intervention**: Larger stones or those that do not respond to non-invasive methods may require medical intervention. This can include procedures like sialendoscopy (a minimally invasive technique using a small endoscope) or surgical removal.\n\n4. **Risks of Self-Treatment**: Attempting to squeeze out a salivary stone at home can be risky. It may cause further blockage, damage to the salivary duct, or infection. It is generally not recommended without professional guidance.\n\nFinal answer: While small salivary stones may sometimes be dislodged through non-invasive methods like massage and hydration, attempting to squeeze out a salivary stone is not recommended due to the risk of further complications. Medical intervention is often necessary for larger or persistent stones."
+        ],
+        "gold": {
+            "free_form_answer": "Salivary stones or sialolithiasis are calcified structures that form in the salivary glands, most commonly in the salivary ducts. They can cause various symptoms such as pain, swelling, and possible infection of the salivary glands. Sometimes, if the stone is small and located near the opening of the duct, it can indeed be squeezed out manually or with the help of sour candy or lemon juice which stimulates salivary flow. However, larger stones or those located deeper within the gland often require medical treatment or intervention. These treatments may include therapeutic sialendoscopy, extracorporeal shock wave lithotripsy, or in severe cases, surgery. It is important not to try to squeeze out a stone without the supervision of a healthcare provider as it can damage the gland and duct, and may cause unnecessary pain and complications.",
+            "must_have": [
+                "Small stones near the opening of the duct can potentially be squeezed out.",
+                "Larger stones or stones located deeper in the gland require medical treatment.",
+                "It's important to consult a healthcare provider before attempting to squeeze out a stone."
+            ],
+            "nice_to_have": [
+                "Sour candy or lemon juice can stimulate salivary flow to help move the stone.",
+                "Treatments for salivary stones may include therapeutic sialendoscopy, extracorporeal shock wave lithotripsy, or surgery."
+            ]
+        }
+    },
+    "4": {
+        "origin_prompt": "You are a leading expert in MedLFQA_HealthsearchQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: What diseases cause skin color changes?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            " Analysis:\n1. **Understand the Question**: The question asks for diseases that cause changes in skin color. This could refer to either hyperpigmentation (darkening), hypopigmentation (lightening), or other color changes like redness, yellowing, or discoloration.\n\n2. **Categorize Skin Color Changes**: To approach this systematically, we should consider different categories of skin color changes:\n   - Darkening of the skin (hyperpigmentation)\n   - Lightening of the skin (hypopigmentation)\n   - Redness or inflammation\n   - Yellowing of the skin (jaundice)\n   - Other discolorations (e.g., blue, purple, gray)\n\n3. **Identify Diseases Associated with Each Category**:\n   - **Hyperpigmentation**: Diseases like Addison's disease, melasma, and certain types of skin cancer (e.g., melanoma) can cause darkening of the skin.\n   - **Hypopigmentation**: Conditions such as vitiligo, albinism, and pityriasis alba can lead to lightening of the skin.\n   - **Redness or Inflammation**: Diseases like psoriasis, eczema, and rosacea can cause redness and inflammation.\n   - **Yellowing of the Skin (Jaundice)**: Conditions affecting the liver, such as hepatitis, cirrhosis, and gallbladder disease, can cause jaundice.\n   - **Other Discolorations**: Diseases like cyanosis (blue discoloration due to low oxygen levels), Raynaud's disease (purple discoloration due to poor circulation), and argyria (gray discoloration due to silver exposure) can cause other types of skin color changes.\n\nFinal answer: Diseases that cause skin color changes include Addison's disease, melasma, melanoma (hyperpigmentation), vitiligo, albinism, pityriasis alba (hypopigmentation), psoriasis, eczema, rosacea (redness or inflammation), hepatitis, cirrhosis, gallbladder disease (jaundice), cyanosis, Raynaud's disease, and argyria (other discolorations)."
+        ],
+        "gold": {
+            "free_form_answer": "Several conditions can cause skin color changes, including diseases and lifestyle factors. Some medical conditions that often cause changes in skin color include Jaundice, which can cause a yellowish tinge due to increased bilirubin levels in the body; Cyanosis, which leads to a bluish color due to lack of oxygen in blood; Liver disease, kidney disease, Anemia, and Addison's disease can also lead to skin color changes. Vitiligo and Albinism are examples of conditions that cause a loss of skin color, resulting in white patches or a complete lack of color, and skin diseases like psoriasis and dermatitis can also change skin color. Other factors can include skin damage from burns or injuries, exposure to the sun or certain chemicals, skin infections, and certain medications.",
+            "must_have": [
+                "Medical conditions like Jaundice, Cyanosis, liver disease, kidney disease, Anemia, and Addison's disease can change skin color.",
+                "Conditions that cause a loss of skin color such as Vitiligo and Albinism can also result in skin color changes.",
+                "Skin diseases like psoriasis and dermatitis can result in changes in skin color."
+            ],
+            "nice_to_have": [
+                "Skin color can also be affected by skin damage from burns or injuries, excessive sun exposure, exposure to certain chemicals, skin infections, and certain medications."
+            ]
+        }
+    },
+    "5": {
+        "origin_prompt": "You are a leading expert in MedLFQA_HealthsearchQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: How can I get rid of swollen ankles?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            " Analysis:\n\n1. **Identify the Cause**: Swollen ankles can be caused by various factors such as injury, infection, venous insufficiency, heart disease, kidney disease, or even prolonged standing or sitting. Understanding the underlying cause is crucial for effective treatment.\n\n2. **Home Remedies**: For mild cases, home remedies can be helpful. This includes elevating the feet above heart level when lying down, wearing compression stockings, and performing gentle exercises to improve circulation.\n\n3. **Lifestyle Changes**: Reducing salt intake can help decrease fluid retention. Regular exercise, maintaining a healthy weight, and avoiding prolonged periods of standing or sitting can also be beneficial.\n\n4. **Medical Intervention**: If swelling is severe, persistent, or accompanied by other symptoms like pain, redness, or fever, medical attention is necessary. A healthcare provider may prescribe diuretics to reduce fluid retention or other medications to treat the underlying condition.\n\n5. **Follow-Up Care**: Regular follow-ups with a healthcare provider are important to monitor the condition and adjust treatment as needed. This is especially crucial if the swelling is due to an underlying medical condition.\n\nFinal answer: To get rid of swollen ankles, first identify the cause. For mild cases, home remedies like elevating the feet, wearing compression stockings, and gentle exercises can help. Lifestyle changes such as reducing salt intake and regular exercise are also beneficial. If swelling is severe or persistent, seek medical attention for appropriate treatment and follow-up care."
+        ],
+        "gold": {
+            "free_form_answer": "Swollen ankles, or edema, can be caused by various factors including prolonged standing or sitting, obesity, pregnancy, or certain medications. To reduce swelling, some effective methods are to elevate your feet above heart level when sitting or lying down to help improve circulation and lessen fluid retention. Compressing the swollen area with elastic bandages and wearing supportive stockings can also help with the reduction of swelling. Regular exercise stimulates blood circulation which can minimize fluid buildup in your legs and ankles. Moreover, reducing your sodium intake and maintaining a balanced diet can aid in preventing fluid retention. However, if the swelling persists or is accompanied by other symptoms such as pain, warmth, and redness, this may indicate a more serious condition, and you should seek medical attention.",
+            "must_have": [
+                "To reduce swelling, elevate your feet above heart level, compress the swollen area with elastic bandages, engage in regular exercise, and maintain a balanced diet.",
+                "If swelling is persistent and is accompanied by other symptoms, seek medical attention."
+            ],
+            "nice_to_have": [
+                "Swollen ankles can be caused by various factors including prolonged standing or sitting, obesity, pregnancy, or certain medications.",
+                "Wearing supportive stockings can also help with the reduction of swelling.",
+                "Reducing sodium intake can aid in preventing fluid retention."
+            ]
+        }
+    },
+    "6": {
+        "origin_prompt": "You are a leading expert in MedLFQA_HealthsearchQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: How does a person get botulism?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            " Analysis:\n1. **Understanding Botulism**: Botulism is a rare but serious illness caused by a toxin produced by the bacterium Clostridium botulinum. This toxin attacks the nervous system, leading to paralysis.\n\n2. **Transmission Methods**: There are several ways a person can get botulism:\n   - **Foodborne Botulism**: This is the most common form. It occurs when a person ingests foods contaminated with the botulinum toxin. Common sources include improperly canned or preserved foods, such as home-canned vegetables, cured pork and ham, smoked or raw fish, and honey (especially in infants).\n   - **Wound Botulism**: This happens when the bacteria enter a wound and produce the toxin inside the body. This is often associated with injecting drug use.\n   - **Infant Botulism**: This occurs when infants ingest the spores of the bacterium, which then grow and produce the toxin in the intestines. This is often linked to consuming honey.\n   - **Adult Intestinal Toxemia**: Similar to infant botulism, this occurs when adults ingest the spores, which then produce the toxin in the intestines. This is rare and typically affects people with certain gut conditions.\n   - **Iatrogenic Botulism**: This can occur due to an overdose of botulinum toxin injections (e.g., Botox) used for cosmetic or medical purposes.\n\n3. **Risk Factors**: Certain behaviors and conditions increase the risk of botulism, such as consuming improperly preserved foods, injecting drugs, and having certain gut conditions.\n\nFinal answer: A person can get botulism through various means, including consuming contaminated food (foodborne botulism), exposure of a wound to the bacteria (wound botulism), ingestion of spores by infants or adults (infant botulism and adult intestinal toxemia), or an overdose of botulinum toxin injections (iatrogenic botulism). Each of these allows the botulinum toxin to enter and attack the nervous system."
+        ],
+        "gold": {
+            "free_form_answer": "Botulism is a rare and potentially deadly illness caused by a toxin that is produced by the bacterium Clostridium botulinum. People can get botulism in a few different ways. The most common way is by consuming foods that have been improperly preserved or cooked, such as home-canned or fermented foods, which provide a suitable environment for the bacteria to grow and produce the toxin. Infants can also contract botulism by consuming spores, usually from dirt or dust, which then grow in their intestines and release toxins. It's also possible to get wound botulism if the bacteria get into a wound and produce the toxin there.",
+            "must_have": [
+                "Botulism is caused by the toxin produced by the Clostridium botulinum bacterium.",
+                "The most common way to get botulism is through the consumption of improperly preserved or cooked foods.",
+                "Infants can get botulism by eating spores most likely from dust or dirt.",
+                "Wound botulism can occur if the bacteria infect a wound and produce the toxin."
+            ],
+            "nice_to_have": [
+                "Botulism is a rare and potentially deadly illness.",
+                "Performed food safety practices can help to prevent botulism from the consumption of foods.",
+                "The bacteria require a specific environment, without oxygen and certain conditions, to grow and produce the toxin."
+            ]
+        }
+    },
+    "7": {
+        "origin_prompt": "You are a leading expert in MedLFQA_HealthsearchQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: How do you get herpes simplex virus?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            " Analysis:\n1. **Understanding the Herpes Simplex Virus (HSV)**: Herpes simplex virus is a contagious virus that can be transmitted through direct contact. There are two types: HSV-1, which primarily causes oral herpes, and HSV-2, which primarily causes genital herpes.\n\n2. **Transmission Methods**:\n   - **HSV-1**: This type is typically transmitted through oral-to-oral contact, such as kissing, or by sharing objects like toothbrushes or eating utensils. It can also be transmitted to the genitals through oral-genital contact, causing genital herpes.\n   - **HSV-2**: This type is primarily transmitted through sexual contact, including vaginal, anal, and oral sex. It can also be transmitted from a mother to her baby during childbirth.\n\n3. **Asymptomatic Shedding**: Both HSV-1 and HSV-2 can be transmitted even when there are no visible symptoms or sores, a process known as asymptomatic shedding. This makes it possible for the virus to spread unknowingly.\n\n4. **Prevention**: To reduce the risk of transmission, it is important to avoid direct contact with herpes sores, use protection during sexual activity, and maintain good hygiene practices.\n\nFinal answer: Herpes simplex virus is primarily transmitted through direct contact with infected areas, such as kissing for HSV-1 and sexual contact for HSV-2. It can also be spread even when there are no visible symptoms through asymptomatic shedding."
+        ],
+        "gold": {
+            "free_form_answer": "Herpes simplex virus (HSV) is a common viral infection that is transmitted through direct contact. It can be acquired in several ways. Herpes simplex virus type 1 (HSV-1), primarily linked to oral infections, is generally contracted during childhood through non-sexual contact such as kissing or dwelling in close quarters with an infected individual who is experiencing an outbreak of cold sores. Herpes simplex virus type 2 (HSV-2), associated primarily with genital infections, is typically acquired through sexual intercourse or other forms of close skin-to-skin contact with an individual who has an active lesion or shedding the virus. It's important to note that herpes can be transmitted even when there are no symptoms present, in a process known as asymptomatic shedding.",
+            "must_have": [
+                "HSV-1 is generally contracted through non-sexual, direct contact with an infected individual, particularly during an outbreak of cold sores.",
+                "HSV-2 is typically contracted through sexual or other close skin-to-skin contact with an individual with an active herpes lesion or who is asymptomatic yet shedding the virus."
+            ],
+            "nice_to_have": [
+                "HSV is a common viral infection that is transmitted through direct contact.",
+                "It's important to note that herpes can be transmitted even when there are no apparent symptoms, a phenomenon known as asymptomatic shedding."
+            ]
+        }
+    },
+    "8": {
+        "origin_prompt": "You are a leading expert in MedLFQA_HealthsearchQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: Does Covid start with sneezing?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            " Analysis:\n1. **Understand the Symptoms of COVID-19**: The first step is to recognize the common symptoms of COVID-19 as identified by health authorities such as the World Health Organization (WHO) and the Centers for Disease Control and Prevention (CDC). These symptoms typically include fever, dry cough, fatigue, and loss of taste or smell.\n\n2. **Evaluate Sneezing as a Symptom**: Sneezing is not listed as one of the most common symptoms of COVID-19. While it can occur in some cases, it is not a primary or early indicator of the disease. Sneezing is more commonly associated with allergies, the common cold, or other respiratory infections.\n\n3. **Consider the Onset of Symptoms**: COVID-19 symptoms can vary from person to person, and some people may be asymptomatic. The most common early symptoms are fever, dry cough, and fatigue, rather than sneezing.\n\nFinal answer: No, COVID-19 does not typically start with sneezing. The most common early symptoms are fever, dry cough, and fatigue."
+        ],
+        "gold": {
+            "free_form_answer": "COVID-19, caused by the SARS-CoV-2 virus, is mostly recognized by symptoms such as fever, dry cough, and fatigue. However, the range of symptoms is broad and can vary significantly from one person to another. Some people may experience sneezing at the onset of the infection, especially if they also have other respiratory conditions or allergies, however, sneezing is not typically the primary symptom of COVID-19. It is important to note that if you begin to experience sneezing in combination with other COVID-19 symptoms such as coughing, difficulty breathing, loss of taste or smell, fever, or fatigue, you should contact a healthcare provider immediately.",
+            "must_have": [
+                "Sneezing is not typically the primary symptom of COVID-19.",
+                "If symptoms such as coughing, difficulty breathing, loss of taste or smell, fever, or fatigue occur along with sneezing, a healthcare provider should be immediately contacted."
+            ],
+            "nice_to_have": [
+                "The symptoms of COVID-19 can vary significantly from one person to another.",
+                "Some people may start off with sneezing in the onset of the infection, especially if they have other respiratory conditions or allergies."
+            ]
+        }
+    },
+    "9": {
+        "origin_prompt": "You are a leading expert in MedLFQA_HealthsearchQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: How do u know if u have head lice?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            " Analysis:\n1. **Understand the Symptoms**: Head lice infestation, also known as pediculosis capitis, has several characteristic symptoms. The most common symptom is intense itching on the scalp, neck, and ears. This is often caused by an allergic reaction to the lice bites.\n\n2. **Visual Inspection**: To confirm the presence of head lice, a visual inspection is necessary. Lice are small, wingless insects about the size of a sesame seed. They are usually grayish-white or tan and move quickly. Using a fine-toothed comb (nit comb) on wet hair can help to spot lice and their eggs (nits).\n\n3. **Check for Nits**: Nits are lice eggs that are firmly attached to the hair shaft close to the scalp. They are tiny, oval-shaped, and usually yellowish or white. Unlike dandruff, nits cannot be easily brushed off the hair.\n\n4. **Consult a Healthcare Professional**: If you are unsure, it is advisable to consult a healthcare professional. They can perform a more thorough examination and provide a definitive diagnosis.\n\nFinal answer: You can know if you have head lice by experiencing intense itching on the scalp, neck, and ears, and by visually inspecting your hair for lice and nits using a fine-toothed comb. If you are uncertain, consult a healthcare professional for a thorough examination."
+        ],
+        "gold": {
+            "free_form_answer": "Head lice are tiny insects that infest the scalp, feeding on human blood. It's most common among children, though anyone who comes in close contact with a person who has head lice is at risk of getting them. There are several signs and symptoms that can hint towards a head lice infestation.One of the most common symptoms is a tickling sensation or a feeling of movement in the hair. This is often accompanied by intense itching, caused by an allergic reaction to lice bites. Observing small red bumps or sores on the scalp, neck, and shoulders is another sign. On inspection, you may notice tiny white specks at the root of your hair, close to the scalp. These are lice eggs, known as 'nits'. Live lice may also be present, although they can be hard to spot as they're very small and move quickly.If you suspect you or your child might have head lice, the most reliable way to confirm is by using a fine-toothed lice comb to check the hair. Wet the hair and scalp to make the process easier. If you find live lice or nits after doing this, it's advisable to seek treatment immediately.",
+            "must_have": [
+                "Itching on the scalp, especially around the ears and nape of the neck, is a key symptom of head lice.",
+                "The presence of nits (lice eggs) or adult lice on the scalp is a clear sign of head lice."
+            ],
+            "nice_to_have": [
+                "A tickling sensation or a feeling of movement in the hair may be experienced.",
+                "One may also observe small red bumps or sores on the scalp, neck, and shoulders.",
+                "A fine-toothed lice comb can be used to check for lice or nits, preferably on wet hair for ease of combing.",
+                "If head lice are confirmed, treatment should be sought immediately."
+            ]
+        }
+    },
+    "10": {
+        "origin_prompt": "You are a leading expert in MedLFQA_HealthsearchQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: What causes being wheezy?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            " Analysis:\n1. **Understanding Wheezing**: Wheezing is a high-pitched whistling sound made while breathing, typically when exhaling. It occurs due to narrowed or obstructed airways.\n2. **Common Causes**: Several conditions can cause wheezing. These include:\n   - **Asthma**: A chronic lung disease that inflames and narrows the airways. It is one of the most common causes of wheezing.\n   - **COPD (Chronic Obstructive Pulmonary Disease)**: A group of lung diseases that block airflow and make it difficult to breathe.\n   - **Allergies**: Allergic reactions can cause inflammation and narrowing of the airways.\n   - **Respiratory Infections**: Infections like bronchitis, pneumonia, or respiratory syncytial virus (RSV) can cause wheezing.\n   - **Foreign Objects**: Inhaling a foreign object can block the airways and cause wheezing.\n   - **Heart Failure**: In some cases, wheezing can be a sign of heart failure, as fluid can accumulate in the lungs.\n3. **Mechanism**: The narrowing of the airways, whether due to inflammation, mucus, or external compression, leads to increased velocity of airflow, causing the walls of the airways to vibrate, which produces the wheezing sound.\n\nFinal answer: Wheezing is caused by narrowed or obstructed airways due to conditions such as asthma, COPD, allergies, respiratory infections, foreign objects, or, in some cases, heart failure. The narrowing leads to increased airflow velocity, causing the walls of the airways to vibrate and produce the characteristic high-pitched whistling sound."
+        ],
+        "gold": {
+            "free_form_answer": "Wheezing is generally caused by a narrowing or blockage of the airways in the lungs (bronchi or bronchioles) due to a variety of conditions or diseases. The most common causes include asthma, which is a chronic condition characterized by inflammation and spasms in the airway; Chronic Obstructive Pulmonary Disease (COPD), which is a group of diseases causing airway obstruction typically due to smoking; and bronchitis, an inflammation of the bronchial tubes. Other causes include allergies, pneumonia, heart failure, and respiratory tract infections such as the common cold or flu. Less commonly, it may also be caused by certain types of lung cancers or foreign bodies in the airways. Regardless of the cause, wheezing is typically a sign that someone should seek medical help.",
+            "must_have": [
+                "Wheezing is generally a sign of narrowing or blockage of the airways.",
+                "The most common diseases that cause wheezing are asthma, COPD, bronchitis, allergies, pneumonia, heart failure, and respiratory tract infections.",
+                "Medical help should be sought if someone is experiencing wheezing."
+            ],
+            "nice_to_have": [
+                "Less common causes of wheezing can include lung cancers or foreign bodies in the airways.",
+                "Not everyone will experience the same symptoms or conditions that lead to wheezing as it can vary greatly person to person."
+            ]
+        }
+    },
+    "11": {
+        "origin_prompt": "You are a leading expert in MedLFQA_HealthsearchQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: What is an example of ataxia?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            " Analysis:\n1. **Understand the Term**: Ataxia is a neurological sign consisting of lack of voluntary coordination of muscle movements that can include gait abnormality, speech changes, and abnormalities in eye movements.\n2. **Identify Common Examples**: To provide an example, we need to consider conditions or symptoms that are commonly associated with ataxia.\n3. **Select a Specific Example**: One well-known example is Friedreich's ataxia, a genetic disorder that causes progressive damage to the nervous system, resulting in symptoms such as poor coordination, unsteady gait, and speech difficulties.\n\nFinal answer: An example of ataxia is Friedreich's ataxia, a genetic disorder that affects the nervous system and leads to symptoms like poor coordination and unsteady gait."
+        ],
+        "gold": {
+            "free_form_answer": "Ataxia is a neurological sign and symptom referring to the loss of full control of bodily movements. It can present as clumsiness, unsteadiness, difficulty with speech, and trouble with fine motor tasks like eating or buttoning a shirt. One common form of this condition is Friedreich's ataxia, which is a genetic disease that causes difficulty with walking, a loss of sensation in the arms and legs, and impaired speech. It's recognized by its symptoms, which usually start between the ages of 5 and 15. However, there are many types and causes of ataxia, and it can also arise from conditions like a stroke, multiple sclerosis, or a brain tumor. ",
+            "must_have": [
+                "Ataxia is a symptom characterized by the loss of control of bodily movements, and can result from both genetic conditions and various diseases affecting the nervous system.",
+                "The common signs of ataxia include clumsiness, unsteadiness, difficulty with speech, and trouble with fine motor tasks."
+            ],
+            "nice_to_have": [
+                "Friedreich's ataxia is a common form of the condition and typically presents in children between the ages of 5 and 15.",
+                "Other causes of ataxia can include diseases such as a stroke, multiple sclerosis, or a brain tumor."
+            ]
+        }
+    },
+    "12": {
+        "origin_prompt": "You are a leading expert in MedLFQA_HealthsearchQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: What is your body lacking when you have restless legs?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            " Analysis:\n1. **Understand the Symptom**: Restless Legs Syndrome (RLS) is characterized by an irresistible urge to move the legs, often due to uncomfortable sensations. It typically worsens during periods of rest or inactivity, especially in the evening or night.\n\n2. **Identify Common Causes**: RLS can be caused by a variety of factors, including genetic predisposition, certain medications, and underlying medical conditions such as iron deficiency, peripheral neuropathy, and kidney disease.\n\n3. **Focus on Nutritional Deficiencies**: Among the various causes, iron deficiency is one of the most common nutritional deficiencies associated with RLS. Iron is essential for the production of dopamine, a neurotransmitter that helps regulate muscle movement and coordination.\n\n4. **Review Scientific Evidence**: Studies have shown that low iron levels, particularly low ferritin levels (a protein that stores iron), are often found in people with RLS. Supplementing with iron can sometimes alleviate the symptoms of RLS.\n\nFinal answer: When you have restless legs, your body may be lacking iron, as iron deficiency is a common cause of Restless Legs Syndrome."
+        ],
+        "gold": {
+            "free_form_answer": "Restless Legs Syndrome (RLS), also known as Willis-Ekbom disease, is a nervous system disorder that causes an irresistible urge to move the legs. Although the exact cause of RLS is often unknown, certain factors are thought to contribute. One well-established factor is an imbalance of dopamine, a brain chemical that sends messages to control muscle movement. Many people with RLS also have low iron levels in their brain. Additionally, many people with RLS have been found to have a deficiency of folate or magnesium. ",
+            "must_have": [
+                "Restless Legs Syndrome (RLS) can be caused by an imbalance of dopamine in the brain.",
+                "Low iron levels in the brain may contribute to RLS.",
+                "A deficiency of folate or magnesium can also cause RLS."
+            ],
+            "nice_to_have": [
+                "Restless Legs Syndrome is also known as Willis-Ekbom disease.",
+                "It's a disorder of the nervous system that can cause an irresistible urge to move the legs."
+            ]
+        }
+    },
+    "13": {
+        "origin_prompt": "You are a leading expert in MedLFQA_HealthsearchQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: What is pest infestation definition?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            " Analysis:\n1. **Understand the Key Terms**: The question asks for the definition of \"pest infestation.\" To provide an accurate definition, we need to break down the term into its components: \"pest\" and \"infestation.\"\n\n2. **Define 'Pest'**: A pest is typically defined as any organism that is detrimental to humans or human concerns. This can include insects, rodents, and other animals that can cause damage to property, spread disease, or create a nuisance.\n\n3. **Define 'Infestation'**: Infestation refers to the state of being invaded or overrun by pests. It implies a significant presence of pests that can cause harm or discomfort.\n\n4. **Combine the Definitions**: To define \"pest infestation,\" we need to combine the definitions of \"pest\" and \"infestation.\" This means describing a situation where harmful organisms have invaded and are present in large numbers, causing potential damage or health risks.\n\nFinal answer: Pest infestation refers to the presence of a large number of harmful organisms, such as insects or rodents, that have invaded a particular area, causing damage, discomfort, or health risks."
+        ],
+        "gold": {
+            "free_form_answer": "Pest infestation refers to the presence of pests in large numbers, specifically in areas where they are not wanted, such as homes, workplaces, and farms. Pests can be insects, rodents or other forms of wildlife that invade these spaces. Infestations can be detrimental as pests can damage property, spoil food, cause discomfort and spread diseases. Depending upon the type and scale of infestation, it can pose serious risks to the health, comfort and safety of human beings and animals in the vicinity.",
+            "must_have": [
+                "Pest infestation is the presence of pests in significant numbers in unwanted areas.",
+                "Pests can take many forms including insects, rodents or other wildlife.",
+                "Pest infestations can do damage, create discomfort and spread disease."
+            ],
+            "nice_to_have": [
+                "Depending on the type and size, some pest infestations can pose serious risks to human and animal health, cause significant discomfort, and lead to substantial property damage."
+            ]
+        }
+    },
+    "14": {
+        "origin_prompt": "You are a leading expert in MedLFQA_HealthsearchQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: What are the two major types of joint disorders?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            " Analysis:\n1. **Understanding the Question**: The question asks for the two major types of joint disorders. This implies a classification of joint disorders into two primary categories.\n2. **Identifying Common Joint Disorders**: Joint disorders can affect the joints in various ways, leading to pain, inflammation, and restricted movement. Common joint disorders include arthritis, bursitis, and dislocations.\n3. **Categorizing Joint Disorders**: To identify the two major types, we need to consider the underlying causes and mechanisms of these disorders. Broadly, joint disorders can be categorized based on whether they are inflammatory or non-inflammatory in nature.\n\nFinal answer: The two major types of joint disorders are inflammatory joint disorders and non-inflammatory joint disorders."
+        ],
+        "gold": {
+            "free_form_answer": "The two major types of joint disorders are osteoarthritis and rheumatoid arthritis. Osteoarthritis is the most common type of joint disorder. It is a degenerative disorder that breaks down the cartilage in the joints, leading to pain and stiffness. On the other hand, rheumatoid arthritis is an autoimmune disorder where the immune system mistakenly attacks the joints, leading to inflammation and pain. Over time, rheumatoid arthritis can cause the joints to deform and shift out of place.",
+            "must_have": [
+                "The two major types of joint disorders are osteoarthritis and rheumatoid arthritis.",
+                "Osteoarthritis is a degenerative disorder that breaks down the cartilage in the joints.",
+                "Rheumatoid arthritis is an autoimmune disorder where the immune system mistakenly attacks the joints."
+            ],
+            "nice_to_have": [
+                "Osteoarthritis leads to pain and stiffness in the joints.",
+                "Over time, rheumatoid arthritis can cause the joints to deform and shift out of place.",
+                "Both osteoarthritis and rheumatoid arthritis can significantly impact a person's quality of life."
+            ]
+        }
+    },
+    "15": {
+        "origin_prompt": "You are a leading expert in MedLFQA_HealthsearchQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: Is NMO a terminal illness?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            " Analysis:\n\n1. **Understanding NMO**: NMO stands for Neuromyelitis Optica, also known as Devic's disease. It is an autoimmune disorder where the immune system mistakenly attacks healthy cells in the spinal cord and optic nerves.\n\n2. **Progression of NMO**: NMO is a chronic condition that can cause recurring episodes of inflammation of the optic nerves and spinal cord. These episodes can lead to various symptoms, including vision loss, weakness, numbness, and paralysis.\n\n3. **Prognosis and Treatment**: While NMO is a serious condition that can cause significant disability, it is not typically considered a terminal illness. With appropriate treatment, including immunosuppressive therapies and management of acute attacks, many people with NMO can stabilize their condition and maintain a good quality of life.\n\n4. **Life Expectancy**: The life expectancy of individuals with NMO can be reduced compared to the general population, primarily due to complications from the disease and its treatments. However, with advances in medical care and early intervention, the prognosis has improved significantly.\n\nFinal answer: NMO is not typically considered a terminal illness. With appropriate treatment and management, many individuals with NMO can stabilize their condition and maintain a good quality of life."
+        ],
+        "gold": {
+            "free_form_answer": "Neuromyelitis Optica (NMO), also known as Devic's disease, is a rare neurological disorder that primarily affects the optic nerves and spinal cord. NMO is not typically classified as a terminal illness as it generally doesn't shorten one's life expectancy. However, it is a chronic illness, where individuals may experience relapses of severe symptoms that require hospitalization, and it can lead to disability. The severity and course of the disease can vary widely from patient to patient. Modern treatments can help to control symptoms and potentially slow the progression of the disease.",
+            "must_have": [
+                "NMO is a chronic illness, not a terminal one.",
+                "It primarily affects the optic nerves and spinal cord.",
+                "However, it can lead to disability and severity can vary widely from patient to patient."
+            ],
+            "nice_to_have": [
+                "Modern treatments for NMO can assist in controlling symptoms and potentially slow its progression.",
+                "While it isn't typically life-shortening, it can cause severe symptoms that require hospitalization.",
+                "Further, NMO is a rare neurological disorder also known as Devic's disease."
+            ]
+        }
+    },
+    "16": {
+        "origin_prompt": "You are a leading expert in MedLFQA_HealthsearchQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: What is the most common breast symptom?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            " Analysis:\n1. **Understand the Context**: The question is asking for the most common symptom related to breasts. This could imply both normal physiological changes and potential signs of health issues.\n2. **Consider Common Breast Changes**: Breasts can undergo various changes due to hormonal fluctuations, menstrual cycles, pregnancy, and menopause. These changes are often benign and are experienced by many women.\n3. **Identify the Most Common Symptom**: Among the various symptoms, breast pain (mastalgia) is one of the most commonly reported. It can be cyclical, related to the menstrual cycle, or non-cyclical, occurring at any time. Other common symptoms include breast lumps, nipple discharge, and changes in breast size or shape, but breast pain is generally the most frequently reported.\n\nFinal answer: The most common breast symptom is breast pain (mastalgia)."
+        ],
+        "gold": {
+            "free_form_answer": "The most common breast symptom that leads women to seek medical attention is a lump in the breast. Breast lumps are often harmless, but they can sometimes be a sign of breast cancer. While not all breast lumps are cancerous, it's always important to have any new or changing breast lump assessed by a health care professional. Other common symptoms include changes in the size or shape of the breast, dimpling of the skin, nipple discharge other than breast milk, and pain in a specific area that does not go away. ",
+            "must_have": [
+                "The most common breast symptom is a lump in the breast.",
+                "It is essential to have any new or changing breast lump assessed by a health care professional, as it could be a sign of breast cancer."
+            ],
+            "nice_to_have": [
+                "Other breast symptoms could include changes in the size or shape of the breast, dimpling of the skin, nipple discharge other than breast milk, and unchanging pain in a specific area."
+            ]
+        }
+    },
+    "17": {
+        "origin_prompt": "You are a leading expert in MedLFQA_HealthsearchQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: What are the 3 types of poison?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            " Analysis:\n1. **Understanding the Question**: The question asks for the three main types of poison. To answer this, we need to categorize poisons based on their origin or nature, as this is the most common way to classify them.\n\n2. **Researching Poison Types**: According to toxicology, poisons can be classified into several categories. However, if we are to group them into three main types, we can consider their origin and composition.\n\n3. **Categorizing Poisons**:\n   - **Chemical Poisons**: These are synthetic or human-made substances that are toxic to living organisms. Examples include pesticides, drugs, and household chemicals like bleach.\n   - **Biological Poisons (Biotoxins)**: These are toxins produced by living organisms, such as bacteria, fungi, animals, or plants. Examples include botulinum toxin (produced by bacteria), ricin (from the castor bean plant), and venoms from snakes or spiders.\n   - **Physical Poisons**: These are substances that are harmful due to their physical properties, rather than their chemical composition. Examples include asbestos (which causes harm due to its fibrous nature) and radioactive substances (which emit harmful radiation).\n\nFinal answer: The three types of poison are Chemical Poisons, Biological Poisons (Biotoxins), and Physical Poisons."
+        ],
+        "gold": {
+            "free_form_answer": "Poison, which is any substance harmful to the body, is classified into three primary types based on their origin: Biological, Chemical, and Physical Poisons. Biological poisons are toxins produced by living organisms, whether plants, animals, or microorganisms, and can include substances like snake venom or bacteria-produced toxins. Chemical poisons are synthetically made or naturally occurring inorganic substances, such as arsenic or cyanide, that can cause harm to the body even in small amounts. Lastly, physical poisons do not necessarily have poisonous content but can cause damage due to their physical properties, such as radioactive substances that harm the body with their radioactivity.",
+            "must_have": [
+                "Biological poisons are toxins produced by living organisms.",
+                "Chemical poisons include synthetic and naturally occurring inorganic substances.",
+                "Physical poisons can cause damage due to their physical properties."
+            ],
+            "nice_to_have": [
+                "Examples of biological poisons include snake venom or bacteria-produced toxins.",
+                "Arsenic and cyanide are examples of chemical poisons.",
+                "Radioactive substances are an example of physical poisons."
+            ]
+        }
+    },
+    "18": {
+        "origin_prompt": "You are a leading expert in MedLFQA_HealthsearchQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: What causes slow urine flow?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            " Analysis:\n\n1. **Understanding Urine Flow**: Urine flow is determined by several factors, including the pressure in the bladder, the functionality of the muscles involved, and the absence of obstructions in the urinary tract.\n\n2. **Potential Causes of Slow Urine Flow**:\n   - **Obstructive Causes**: These include conditions that physically block or narrow the urinary tract, such as:\n     - Benign Prostatic Hyperplasia (BPH): An enlarged prostate can compress the urethra, making it difficult for urine to flow.\n     - Urethral Strictures: Scarring or narrowing of the urethra can impede urine flow.\n     - Bladder or Kidney Stones: Stones can block the flow of urine at various points in the urinary tract.\n   - **Functional Causes**: These relate to the functioning of the bladder and associated muscles:\n     - Neurogenic Bladder: Conditions like diabetes, multiple sclerosis, or spinal cord injuries can affect the nerves that control the bladder.\n     - Detrusor Underactivity: Weak bladder muscles can result in incomplete emptying and slow urine flow.\n   - **Medications and Other Factors**: Certain medications, such as anticholinergics, can affect bladder function. Additionally, aging and other health conditions can contribute to slow urine flow.\n\n3. **Diagnostic Steps**: To determine the cause of slow urine flow, a healthcare provider might perform various tests, including urinalysis, ultrasound, uroflowmetry, and cystoscopy.\n\nFinal answer: Slow urine flow can be caused by obstructive conditions like Benign Prostatic Hyperplasia, urethral strictures, or stones, as well as functional issues such as neurogenic bladder or weak bladder muscles. Medications and other health factors can also contribute to this problem. Diagnostic tests are essential to identify the specific cause."
+        ],
+        "gold": {
+            "free_form_answer": "Slow urine flow, also known as urinary hesitancy, can be caused by a variety of conditions. It is more common in older men due to an enlarged prostate, a condition known as benign prostatic hyperplasia (BPH). However, it can also occur in men and women of any age due to other reasons. Some common causes include bladder or urinary tract infections, blockages in the urinary tract (like bladder or kidney stones), nerve problems that affect bladder control, or certain medications. Sometimes, psychological factors such as anxiety or stress can also cause slowed urine flow. It’s important to consult a healthcare provider to identify the cause and appropriate treatment.",
+            "must_have": [
+                "An enlarged prostate, benign prostatic hyperplasia (BPH), is a common cause of slow urine flow in older men.",
+                "Other potential causes can include bladder or urinary tract infections, urinary tract obstructions such as bladder or kidney stones, nerve problems that affect bladder control, certain medications, or psychological factors."
+            ],
+            "nice_to_have": [
+                "Slow urine flow, also known as urinary hesitancy, can occur in both men and women.",
+                "It can be caused by a variety of conditions and can be symptomatic of an underlying health problem.",
+                "Consultation with a healthcare provider is important to determine the cause and begin appropriate treatment."
+            ]
+        }
+    },
+    "19": {
+        "origin_prompt": "You are a leading expert in MedLFQA_HealthsearchQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: What causes skin discoloration?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            " Analysis:\n\n1. **Understanding Skin Discoloration**: Skin discoloration refers to changes in the color of the skin, which can appear as darker (hyperpigmentation) or lighter (hypopigmentation) patches, or have a different color such as red, purple, or yellow.\n\n2. **Identifying Common Causes**: Several factors can cause skin discoloration:\n   - **Sun Exposure**: The sun's UV rays can stimulate melanin production, leading to dark spots, freckles, or age spots.\n   - **Hormonal Changes**: Conditions like melasma, often triggered by hormonal fluctuations (e.g., during pregnancy or menopause), can cause dark patches on the face.\n   - **Inflammation**: Inflammatory skin conditions like acne, eczema, or psoriasis can leave behind dark spots (post-inflammatory hyperpigmentation).\n   - **Medications and Chemicals**: Certain medications or chemicals can cause skin discoloration as a side effect.\n   - **Medical Conditions**: Some medical conditions, such as Addison's disease, vitiligo, or liver disease, can lead to skin discoloration.\n\n3. **Considering Less Common Causes**: Less commonly, skin discoloration may be due to birthmarks, skin cancer, or reactions to certain cosmetic procedures.\n\nFinal answer: Skin discoloration can be caused by various factors, including sun exposure, hormonal changes, inflammation, medications, and underlying medical conditions. It is important to consult a healthcare professional for an accurate diagnosis and appropriate treatment."
+        ],
+        "gold": {
+            "free_form_answer": "Skin discoloration can be caused by a number of factors including sun exposure, hormonal changes, inflammation, allergies, skin injuries, medical conditions such as vitiligo or melasma, and skin aging. Sun exposure can cause melanin production to increase, resulting in freckles, age spots or a tan. Hormonal changes, especially during pregnancy, can cause melasma. Inflammation or skin injuries can lead to post-inflammatory hyperpigmentation. Also, certain medications and skin care products can cause skin discoloration as a side effect. Lastly, as we age, our skin can lose its freshness and even tone, leading to discoloration.",
+            "must_have": [
+                "Skin discoloration can be caused by sun exposure, hormonal changes, inflammation, skin injuries, and certain medical conditions such as vitiligo or melasma.",
+                "Certain medications and skin care products can cause skin discoloration as a side effect."
+            ],
+            "nice_to_have": [
+                "Skin discoloration can also occur as a natural part of the aging process.",
+                "For instance, as we age, our skin may lose its even tone, which can lead to discoloration.",
+                "Additionally, environmental factors like pollution can also contribute to skin discoloration."
+            ]
+        }
+    },
+    "20": {
+        "origin_prompt": "You are a leading expert in MedLFQA_HealthsearchQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: What are examples of compulsive behaviors?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            " Analysis:\n1. **Understand the Definition**: Compulsive behaviors are repetitive actions that a person feels driven to perform in order to reduce anxiety or distress, or to prevent some dreaded event or situation. These behaviors are often unreasonable and excessive.\n\n2. **Identify Common Examples**: To provide examples, we need to consider behaviors that are typically performed to relieve anxiety or prevent perceived negative outcomes. These can be physical actions or mental acts.\n\n3. **Categorize the Behaviors**: Compulsive behaviors can be grouped into various categories such as cleaning, checking, ordering, counting, and hoarding. Each category includes specific actions that individuals might perform compulsively.\n\nFinal answer: Examples of compulsive behaviors include excessive hand washing or cleaning, repeatedly checking locks or appliances, arranging items in a specific order, counting objects or actions, and hoarding unnecessary items. These behaviors are often performed to reduce anxiety or prevent perceived negative outcomes."
+        ],
+        "gold": {
+            "free_form_answer": "Compulsive behaviors are actions that are performed persistently and repetitively without leading to an actual reward or pleasure. They are generally habits picked up in response to obsessions, which are repetitive and unwelcome thoughts. Examples of compulsive behaviors include excessive hand washing due to the fear of germs, repeatedly checking if doors are locked due to fear of safety, rigorous and inflexible adherence to specific routines, excessive counting of random things, and hoarding unnecessary items. These behaviors are often associated with mental health conditions such as Obsessive-Compulsive Disorder (OCD) and can cause significant distress and impairment in daily functioning.",
+            "must_have": [
+                "Compulsive behaviors include excessive hand washing, constantly checking if doors are locked, strict adherence to routines, excessive counting, and hoarding of unnecessary items.",
+                "These behaviors are generally associated with mental health conditions, specifically Obsessive-Compulsive Disorder (OCD)."
+            ],
+            "nice_to_have": [
+                "Compulsive behaviors are actions persistently and repetitively performed without leading to a reward or pleasure, usually picked up due to obsessive, repetitive, and unwelcome thoughts.",
+                "These behaviors can cause substantial distress and disruption of daily activities."
+            ]
+        }
+    },
+    "21": {
+        "origin_prompt": "You are a leading expert in MedLFQA_HealthsearchQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: What are the signs of rabies in humans?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            " Analysis:\n1. **Understanding the Disease**: Rabies is a viral disease that is almost always fatal once symptoms appear. It is typically transmitted through the bite of an infected animal.\n2. **Incubation Period**: The incubation period for rabies is usually a few weeks to a few months, but it can vary significantly. During this time, the virus travels from the site of the bite to the brain.\n3. **Early Symptoms**: The first symptoms of rabies in humans are often nonspecific and may include fever, headache, and weakness or discomfort. These symptoms can last for days and may be similar to those of other viral infections.\n4. **Progression to Neurological Symptoms**: As the disease progresses, more specific symptoms appear, such as insomnia, anxiety, confusion, slight or partial paralysis, excitation, hallucinations, agitation, hypersalivation (increase in saliva), difficulty swallowing, and hydrophobia (fear of water).\n5. **Late-Stage Symptoms**: In the later stages, the person may experience delirium, abnormal behavior, and eventually, the disease progresses to coma and death.\n\nFinal answer: The signs of rabies in humans include early nonspecific symptoms like fever, headache, and weakness, followed by more specific neurological symptoms such as insomnia, anxiety, confusion, partial paralysis, agitation, hypersalivation, difficulty swallowing, and hydrophobia. In the late stages, delirium, abnormal behavior, coma, and ultimately death may occur."
+        ],
+        "gold": {
+            "free_form_answer": "Rabies is a deadly virus that is primarily spread by infected animals. Its initial symptoms often include general weakness or discomfort, fever or headache. These symptoms may last for days. There may also be discomfort or prickling at the site of bite that progresses to symptoms of cerebral dysfunction, anxiety, confusion, and agitation. As the virus progresses, the person may begin to show signs of delirium, abnormal behavior, hallucinations, and insomnia. In advanced stages, the infected person may experience symptoms such as hydrophobia (fear of water) due to the difficulty in swallowing, paralysis, and eventually, death.",
+            "must_have": [
+                "Initial signs of rabies in humans include general weakness, fever, headache, and discomfort or prickling at the site of the bite.",
+                "As the condition progresses, sufferers may experience confusion, agitation, symptoms of cerebral dysfunction, and anxiety.",
+                "Delirium, abnormal behavior, hallucinations, and insomnia are also possible symptoms.",
+                "Advanced stages of the disease can lead to the development of hydrophobia, paralysis, and death."
+            ],
+            "nice_to_have": [
+                "Rabies is a deadly virus spread primarily by infected animals.",
+                "Infection progresses in stages, ranging from initial general discomfort to severe neurological symptoms before leading to death.",
+                "The rabies virus is known to cause fear of water (hydrophobia) due to the difficulty in swallowing."
+            ]
+        }
+    },
+    "22": {
+        "origin_prompt": "You are a leading expert in MedLFQA_HealthsearchQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: How can I ease my baby\\'s colic?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            " Analysis:\n\n1. **Understanding Colic**: Colic is typically defined as episodes of crying for more than three hours a day, for more than three days a week, for more than three weeks in an otherwise healthy baby. It's important to note that colic is a benign condition and will eventually resolve on its own.\n\n2. **Identifying Triggers**: While the exact cause of colic is unknown, certain factors may contribute to it. These can include sensitivity to certain foods in a mother's diet (if breastfeeding), intolerance to certain formulas, or even overstimulation. Keeping a diary of the baby's crying episodes and any potential triggers can be helpful.\n\n3. **Soothing Techniques**: Several techniques can help soothe a colicky baby. These include:\n   - **The 5 S's**: Swaddle, Side/Stomach position, Shush, Swing, and Suck. These techniques mimic the womb environment and can activate a baby's calming reflex.\n   - **Gentle Motion**: Rocking, walking, or driving can sometimes lull a colicky baby to sleep.\n   - **Warm Bath**: A warm bath can be soothing and relaxing.\n   - **Massage**: Gentle tummy massages can sometimes help relieve discomfort.\n\n4. **Dietary Changes**: If breastfeeding, a mother might try eliminating certain foods from her diet, such as dairy, caffeine, or spicy foods, to see if that helps. If formula-feeding, switching to a different type of formula might be beneficial.\n\n5. **Medical Advice**: If the baby's crying is accompanied by other symptoms like fever, vomiting, or bloody stool, or if the crying is particularly intense or prolonged, it's crucial to seek medical advice to rule out any underlying medical issues.\n\nFinal answer: To ease your baby's colic, try identifying and avoiding potential triggers, use soothing techniques like the 5 S's, gentle motion, warm baths, or massages, consider dietary changes if necessary, and consult a healthcare provider if the crying is severe or accompanied by other symptoms."
+        ],
+        "gold": {
+            "free_form_answer": "Colic is a fairly common condition that affects some babies during their first few months. Although the exact cause of colic is not known, there are a few ways to ease your baby's discomfort. Firstly, you can try to soothe your baby by cuddling them, gently rocking them, or walking around with them. Secondly, implementing a consistent routine for feeding, especially before bedtime, can help. Paying attention to your baby's diet can also help, as some foods may cause gas and exacerbate symptoms in breastfed babies. It has been observed that babies who are exclusively breastfed for the first six months are less likely to develop colic symptoms. Using a pacifier can often help a baby soothe themselves. If you're bottle feeding your baby, ensuring the baby is not swallowing air could reduce their discomfort. Trying different feeding positions might help avoid swallowing air.If your baby's colic does not improve with these methods, or if the colic is severe, causes significant distress or is associated with other symptoms such as fever or blood in stools, please consult with a healthcare provider.",
+            "must_have": [
+                "If the baby's colic is severe, causes significant distress or is associated with other symptoms such as fever or blood in stool, a healthcare provider should be consulted.",
+                "Trying to soothe the baby and creating a consistent feeding routine are ways to manage colic."
+            ],
+            "nice_to_have": [
+                "Using a pacifier, monitoring the baby's diet, and trying different feeding positions to avoid air swallowing can help ease the baby's colic.",
+                "Infants who are exclusively breastfed for the first six months have less likelihood to develop colic symptoms."
+            ]
+        }
+    },
+    "23": {
+        "origin_prompt": "You are a leading expert in MedLFQA_HealthsearchQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: Can a dislocated shoulder fix itself?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            " Analysis:\n\n1. **Understanding the Nature of a Dislocated Shoulder**: A dislocated shoulder occurs when the upper arm bone (humerus) pops out of the shoulder socket (glenoid). This is a significant injury that can cause pain, swelling, and instability.\n\n2. **Natural Healing Limitations**: The shoulder joint is complex and relies on a combination of muscles, ligaments, and tendons to maintain stability. While the body has some ability to heal minor injuries, a dislocated shoulder typically requires manual intervention to be properly realigned.\n\n3. **Medical Intervention**: In most cases, a dislocated shoulder needs to be manually reduced (put back into place) by a healthcare professional. This procedure, known as a closed reduction, is often performed under sedation or anesthesia to minimize pain and ensure proper alignment.\n\n4. **Risk of Complications**: Attempting to let a dislocated shoulder \"fix itself\" can lead to complications such as chronic instability, nerve damage, or even further injury to the surrounding tissues. Prompt medical attention is crucial to prevent these issues.\n\nFinal answer: No, a dislocated shoulder cannot fix itself. It typically requires medical intervention to be properly realigned and to prevent complications."
+        ],
+        "gold": {
+            "free_form_answer": "A dislocated shoulder generally cannot fix itself. A shoulder dislocation is a medical emergency and immediate professional medical attention is required. This condition occurs when the ball of the upper arm bone pops out of the socket that's part of the shoulder blade. The shoulder becomes very painful and unmovable. Treatment typically involves a procedure known as a reduction to help guide the arm bone back into the socket. Afterwards, rest and physical therapy are crucial for recovery and to prevent future dislocations.",
+            "must_have": [
+                "A dislocated shoulder generally cannot fix itself and requires professional medical care.",
+                "Treatment likely will involve a procedure called a reduction, where the arm bone is guided back into the socket.",
+                "It's important to follow up with physical therapy post-reduction, to aid in recovery and help prevent future dislocations."
+            ],
+            "nice_to_have": [
+                "Continuing to use a shoulder that has been dislocated without proper medical treatment can lead to an increase in pain and further damage.",
+                "If left untreated, a dislocated shoulder can cause damage to nerves and tissues, and increase your risk for reoccurring dislocations.",
+                "It's best to seek immediate medical attention in the case of a suspected shoulder dislocation."
+            ]
+        }
+    },
+    "24": {
+        "origin_prompt": "You are a leading expert in MedLFQA_HealthsearchQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: Is lichen sclerosus cancerous?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            " Analysis:\n\n1. **Understanding Lichen Sclerosus**: Lichen sclerosus is a chronic inflammatory skin condition that primarily affects the genital and anal areas, although it can also appear on other parts of the body. It is characterized by white patches on the skin that are thinner than normal.\n\n2. **Non-Cancerous Nature**: Lichen sclerosus itself is not a form of cancer. It is a benign condition, meaning it is not malignant and does not invade surrounding tissues or spread to other parts of the body like cancer does.\n\n3. **Potential for Increased Risk**: While lichen sclerosus is not cancerous, it is important to note that individuals with lichen sclerosus, particularly those with genital involvement, may have a slightly increased risk of developing certain types of cancer, such as squamous cell carcinoma, in the affected areas. This increased risk is thought to be due to the chronic inflammation and scarring associated with the condition.\n\nFinal answer: Lichen sclerosus is not cancerous. However, it may slightly increase the risk of developing certain types of cancer in the affected areas."
+        ],
+        "gold": {
+            "free_form_answer": "Lichen sclerosus is a chronic skin condition that typically affects the genital and perianal areas, but can happen anywhere on the body. It's not a form of cancer. The condition mostly affects postmenopausal women, but can also occur in men and children. Lichen sclerosus creates patchy, white skin that's thinner than normal, and may cause itching and discomfort. In rare cases, if left untreated, lichen sclerosus may lead to skin cancer. Thus, ongoing follow-up care is recommended even if you have no symptoms or are not bothered by them.",
+            "must_have": [
+                "Lichen sclerosus is a chronic skin condition, not a form of cancer.",
+                "However, in rare, untreated cases, it can lead to skin cancer.",
+                "Regular follow-up care is recommended for people with lichen sclerosus, even if they have no symptoms or if the symptoms do not bother them."
+            ],
+            "nice_to_have": [
+                "Lichen sclerosus can affect anyone but is most common in postmenopausal women.",
+                "Its presentation includes patchy, white, thin skin, usually in the genital and perianal areas, though it can happen anywhere on the body.",
+                "It may cause itching and discomfort."
+            ]
+        }
+    },
+    "25": {
+        "origin_prompt": "You are a leading expert in MedLFQA_HealthsearchQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: What is a low fertility country?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            " Analysis:\n1. **Understanding Fertility Rate**: To determine what a low fertility country is, we first need to understand the concept of the fertility rate. The fertility rate is the average number of children born per woman in a population.\n\n2. **Replacement Fertility Level**: The replacement fertility level is the total fertility rate at which a population exactly replaces itself from one generation to the next, without migration. This rate is typically around 2.1 children per woman in developed countries.\n\n3. **Definition of Low Fertility**: A country is considered to have low fertility when its total fertility rate falls below the replacement level. This means that, on average, women in these countries are having fewer children than are needed to maintain the population size without immigration.\n\nFinal answer: A low fertility country is one where the total fertility rate is below the replacement level of approximately 2.1 children per woman, indicating that the population is not replacing itself through births alone."
+        ],
+        "gold": {
+            "free_form_answer": "A low fertility country is one in which the total fertility rate (TFR) is significantly below the replacement rate of approximately 2.1 children per woman over her lifetime. The TFR is a measure of the average number of children a woman would have if she survived to the end of her childbearing years and bore children according to current age-specific fertility rates. In a low fertility country, population growth may be slow or negative due to a lower number of births compared to deaths. This can lead to an increased proportion of older people in the society, placing a greater demand on health care, pensions and social protections.",
+            "must_have": [
+                "A low fertility country is defined as having a total fertility rate significantly below the replacement level.",
+                "This can result in slow or negative population growth due to more deaths than births, and leads to an aging population with challenges to health care, pensions, and other social systems."
+            ],
+            "nice_to_have": [
+                "Low fertility countries often face challenges such as increasing health care costs for a growing elderly population, as well as potential constraints on economic growth and productivity.",
+                "Government measures to address low fertility may include policies to promote childbearing, such as parental leave, child care support, and other social benefits."
+            ]
+        }
+    },
+    "26": {
+        "origin_prompt": "You are a leading expert in MedLFQA_HealthsearchQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: What is discoloration in medical term?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            " Analysis:\n1. **Understand the Context**: The question asks for the medical term related to \"discoloration.\" This implies we are looking for a term that describes a change in the color of a part of the body, which is often used in a medical or clinical setting.\n\n2. **Identify Relevant Medical Terminology**: In medical terminology, changes in color can be described using specific terms. Discoloration generally refers to an abnormal change in the color of the skin, mucous membranes, or other body parts.\n\n3. **Determine the Appropriate Term**: The most commonly used medical term for discoloration is \"dyschromia.\" This term encompasses any abnormal change in skin color, which can include hyperpigmentation (darkening), hypopigmentation (lightening), or other color changes.\n\nFinal answer: The medical term for discoloration is \"dyschromia.\""
+        ],
+        "gold": {
+            "free_form_answer": "In medical terms, discoloration refers to a change in the color of the skin or mucus membranes, commonly caused by external factors such as bruising, medication side effects, or diseases. It may appear as non-uniform or uneven color distribution, spots, or patterns and can cover a range of color changes including red, blue, purple, brown, black, yellow, or even white. The type, spread, and pattern of discoloration can be significant indicators of specific medical conditions and should be evaluated by a healthcare professional.",
+            "must_have": [
+                "Discoloration refers to a change in the color of the skin or mucus membranes.",
+                "This can be caused by external factors like bruising, medication side effects, or diseases.",
+                "Discoloration may appear as non-uniform color distribution, spots, or patterns."
+            ],
+            "nice_to_have": [
+                "The type, spread, and pattern of discoloration can indicate specific medical conditions and should be evaluated by a healthcare professional.",
+                "Discoloration can cover a range of color changes including red, blue, purple, brown, black, yellow, or white."
+            ]
+        }
+    },
+    "27": {
+        "origin_prompt": "You are a leading expert in MedLFQA_HealthsearchQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: What is the main cause of itching?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            " Analysis:\n1. **Understanding the Symptom**: Itching, also known as pruritus, is a sensation that causes the desire or reflex to scratch. It can be localized or generalized and can vary in intensity.\n\n2. **Common Causes**: Several factors can cause itching. These can be broadly categorized into:\n   - **Skin Conditions**: Such as dry skin (xerosis), eczema, psoriasis, scabies, lice, chickenpox, and hives.\n   - **Allergic Reactions**: To substances like poison ivy, certain foods, or medications.\n   - **Internal Diseases**: Such as liver disease, kidney failure, iron deficiency anemia, thyroid problems, and certain cancers.\n   - **Nerve Disorders**: Like multiple sclerosis, diabetes, and shingles.\n   - **Psychological Conditions**: Such as anxiety and stress.\n\n3. **Diagnostic Approach**: To determine the main cause of itching, a healthcare professional would consider the patient's medical history, the location and timing of the itching, and any other accompanying symptoms. They may also perform a physical examination and order tests, such as blood tests or skin biopsies.\n\nFinal answer: The main cause of itching can vary greatly, from skin conditions like dry skin or eczema, to allergic reactions, internal diseases, nerve disorders, or psychological conditions. Determining the main cause requires a thorough evaluation by a healthcare professional."
+        ],
+        "gold": {
+            "free_form_answer": "Itching, medically known as pruritus, is a sensation that provokes the desire to scratch. Itching can be caused by a number of different factors, both internal and external. One of the most common causes of itching is dry skin, often exacerbated by factors such as weather, aging, or certain skin conditions like eczema. Itching can also be a symptom of various medical conditions, including liver disease, kidney disease, blood disorders, and certain cancers. Other causes can include allergic reactions, infections, insect bites, and certain medications. Stress and psychological disorders can also cause itching. If you experience severe or persistent itching, it's recommended to seek medical attention to diagnose and treat the underlying cause.",
+            "must_have": [
+                "Itching, or pruritus, can be caused by a variety of factors including dry skin, medical conditions such as liver disease, kidney disease, or certain cancers, allergic reactions, infections, insect bites, certain medications, and stress or psychological disorders.",
+                "If severe or persistent itching is experienced, medical attention should be sought to diagnose and treat the underlying cause."
+            ],
+            "nice_to_have": [
+                "Weather, aging, and skin conditions like eczema can exacerbate dry skin, which is one of the most common causes of itching.",
+                "Allergic reactions, one of the causes of itching, can be triggered by substances like pollen, food, or pet dander."
+            ]
+        }
+    },
+    "28": {
+        "origin_prompt": "You are a leading expert in MedLFQA_HealthsearchQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: How do you deal with choking?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            " Analysis:\n\n1. **Recognize the Signs of Choking**: The first step is to determine if the person is indeed choking. Look for signs such as the inability to speak, difficulty breathing, clutching the throat, or a weak cough. If the person can cough forcefully or speak, encourage them to cough to try and dislodge the object.\n\n2. **Act Quickly and Decisively**: If the person cannot breathe, cough, or speak, immediate action is required. For an adult or child over one year old, perform the Heimlich maneuver (abdominal thrusts). Stand behind the person, wrap your arms around their waist, make a fist with one hand, and place it just above the person's navel. Grasp your fist with your other hand and press into their abdomen with quick, upward thrusts.\n\n3. **Continue Until the Object is Expelled or the Person Becomes Unconscious**: If the person becomes unconscious, carefully lower them to the ground and begin CPR (cardiopulmonary resuscitation) with chest compressions. Continue CPR until the object is expelled or medical help arrives.\n\n4. **Seek Medical Attention**: Even if the object is successfully dislodged, the person should still seek medical attention. There could be residual damage or other complications that need to be addressed.\n\nFinal answer: To deal with choking, recognize the signs, perform the Heimlich maneuver if necessary, continue until the object is expelled or the person becomes unconscious (in which case, begin CPR), and seek medical attention afterward."
+        ],
+        "gold": {
+            "free_form_answer": "Choking is a serious situation that requires immediate action to clear the blockage from the person's airway. The Heimlich maneuver is most commonly employed to resolve choking by creating enough pressure to dislodge the blockage. First, stand behind the person and wrap your arms around their waist. Place one hand in a fist below their rib cage but above the navel, hold your fist with your other hand and deliver quick and forceful upward thrusts until the obstruction is cleared.In a situation when you're dealing with a pregnant woman or an overweight person, you should provide chest compressions instead of abdominal thrusts. Likewise, if the person loses consciousness, commence cardiopulmonary resuscitation (CPR). Make sure to consider professional medical advice or training for proper techniques.It's important to call your local emergency services as soon as possible when a choking episode occurs. If the individual is incapable of coughing, speaking, or breathing, these are signs of a severe blockage requiring emergency medical assistance.",
+            "must_have": [
+                "Always call emergency services during a choking incident especially when the person is unable to cough, speak or breathe.",
+                "Use Heimlich maneuver or chest compressions to help clear the airway until professional help arrives.",
+                "Start CPR if the person loses consciousness."
+            ],
+            "nice_to_have": [
+                "It's beneficial to receive training for correct CPR and Heimlich maneuver techniques.",
+                "Be careful when adjusting your approach depending on the person’s physical conditions, such as pregnant or overweight individuals.",
+                "Have regular check-ups especially if choking incidents happen frequently, as this could indicate a more serious health problem."
+            ]
+        }
+    },
+    "29": {
+        "origin_prompt": "You are a leading expert in MedLFQA_HealthsearchQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: What are the 2 significant signs of psychosis?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            " Analysis:\n1. **Understanding Psychosis**: Psychosis is a condition that affects the way the brain processes information. It is characterized by a loss of contact with reality.\n2. **Identifying Significant Signs**: To determine the significant signs of psychosis, we need to look at the most common and distinctive symptoms that indicate a person may be experiencing a psychotic episode.\n3. **Primary Symptoms**: According to medical literature and diagnostic criteria (such as the DSM-5), the two most significant signs of psychosis are hallucinations and delusions.\n   - **Hallucinations**: These are sensory experiences that occur in the absence of an actual stimulus. They can be auditory (hearing voices), visual (seeing things that aren't there), or involve other senses.\n   - **Delusions**: These are firmly held beliefs that are not true and are not supported by evidence. They can be persecutory (believing someone is out to harm them), grandiose (believing they have special powers or abilities), or have other themes.\n\nFinal answer: The two significant signs of psychosis are hallucinations and delusions."
+        ],
+        "gold": {
+            "free_form_answer": "Psychosis is a serious mental disorder characterized by a loss of contact with reality. The two significant signs of psychosis are hallucinations and delusions. Hallucinations are when an individual perceives something that doesn't exist in reality such as hearing voices, seeing things that are not there, or feeling things that aren't happening. Delusions are on the other hand, are when an individual firmly believes in something that isn't true or rational despite contradicting evidence. It's important to know that these symptoms can be extremely unsettling and impact one's life significantly, hence it requires immediate medical attention.",
+            "must_have": [
+                "Hallucinations and Delusions are the two significant signs of psychosis.",
+                "Hallucinations are perceptions of things that aren't present in reality, while delusions are strong beliefs in things that are not true or rational despite evidence to the contrary."
+            ],
+            "nice_to_have": [
+                "Symptoms of psychosis are disruptive and unsettling and need immediate medical attention.",
+                "Psychosis is a serious mental disorder characterized by a detachment from reality."
+            ]
+        }
+    },
+    "30": {
+        "origin_prompt": "You are a leading expert in MedLFQA_HealthsearchQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: Can you survive aneurysm in the brain?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            " Analysis:\n\n1. **Understanding the Condition**: An aneurysm in the brain, also known as a cerebral or intracranial aneurysm, is a weak or thin spot on a blood vessel in the brain that balloons out and fills with blood. The most serious risk is that it will rupture and cause a subarachnoid hemorrhage, which is a type of stroke.\n\n2. **Ruptured Aneurysm**: If an aneurysm ruptures, it is a medical emergency that requires immediate treatment. About 40% of people with a ruptured brain aneurysm do not survive the first 24 hours, and up to 25% of survivors suffer life-long impairment. The mortality rate is high, but with prompt and appropriate treatment, survival is possible.\n\n3. **Unruptured Aneurysm**: Not all brain aneurysms rupture. Some may cause no symptoms and are discovered incidentally during tests for other conditions. Treatment options for unruptured aneurysms may include monitoring, medication to control blood pressure, or preventative surgery. The survival rate for those with unruptured aneurysms is significantly higher.\n\n4. **Treatment Options**: Advances in medical technology have improved the outcomes for both ruptured and unruptured aneurysms. Treatments such as surgical clipping, endovascular coiling, or flow diversion can help prevent a rupture or re-rupture, improving the chances of survival and reducing the risk of long-term complications.\n\nFinal answer: Yes, it is possible to survive an aneurysm in the brain, especially with prompt and appropriate medical treatment. The survival rate varies depending on whether the aneurysm has ruptured and the severity of the hemorrhage. Early detection and treatment of unruptured aneurysms significantly improve the chances of survival."
+        ],
+        "gold": {
+            "free_form_answer": "Yes, it is possible to survive an aneurysm in the brain, but the prognosis heavily depends on the size and location of the aneurysm, the person's overall health, and how quickly treatment is received. A brain aneurysm is a bulge or ballooning in a blood vessel in the brain, which can leak or rupture, causing a stroke. Immediate medical attention is critical when a brain aneurysm ruptures. Treatment often involves surgery to stop the bleeding or reduce the risk of rupture. Survival rates are better when an aneurysm is detected and treated before it ruptures.",
+            "must_have": [
+                "A brain aneurysm requires immediate medical attention when it ruptures.",
+                "The survival rate is better if the aneurysm is detected and treated before it ruptures.",
+                "The prognosis of a brain aneurysm depends on the size and location of the aneurysm, the person's overall health, and the speed of treatment."
+            ],
+            "nice_to_have": [
+                "The treatment of a brain aneurysm often involves surgery to stop the bleeding or reduce the risk of rupture.",
+                "A brain aneurysm is a bulge or ballooning in a blood vessel in the brain, which can leak or rupture, leading to a stroke."
+            ]
+        }
+    },
+    "31": {
+        "origin_prompt": "You are a leading expert in MedLFQA_HealthsearchQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: What are 3 symptoms of a heat stroke?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            " Analysis:\n1. **Understanding Heat Stroke**: Heat stroke is a serious condition caused by your body overheating, often as a result of prolonged exposure to or physical exertion in high temperatures. It is important to recognize its symptoms as it can lead to serious complications if left untreated.\n\n2. **Identifying Common Symptoms**: To identify heat stroke, we need to look for symptoms that are typically associated with this condition. These symptoms can be categorized into different types, such as changes in body temperature, neurological symptoms, and physical signs.\n\n3. **Selecting Key Symptoms**: Among the various symptoms, three of the most critical and commonly recognized symptoms of heat stroke are:\n   - **High Fever (Rectal Temperature Above 104°F/40°C)**: This is a key indicator of heat stroke, as the body's temperature regulation system becomes overwhelmed.\n   - **Confusion, Loss of Consciousness, or Coma**: Neurological symptoms such as these indicate that the brain is not receiving enough oxygen or is affected by the excessive heat.\n   - **Hot, Dry Skin**: Unlike heat exhaustion, where the skin may be moist, in heat stroke, the skin is typically hot and dry due to the body's inability to cool itself through sweating.\n\nFinal answer: Three symptoms of a heat stroke are high fever (rectal temperature above 104°F/40°C), confusion, loss of consciousness, or coma, and hot, dry skin."
+        ],
+        "gold": {
+            "free_form_answer": "Heat stroke is a serious condition that occurs when the body overheats, usually as a result of prolonged exposure to or physical exertion in high temperatures. It is considered a medical emergency that, if not promptly treated, can lead to serious damage to the body organs. The three main symptoms of heat stroke include a high body temperature of 104 degrees Fahrenheit or higher, altered mental state or behavior that may range from confusion and agitation to delirium and seizures, and alteration in sweating where the skin may be hot and dry to the touch if heat stroke is due to hot weather but may be moist if heat stroke is due to strenuous exercise.",
+            "must_have": [
+                "The three main symptoms of heat stroke are high body temperature (104 degrees Fahrenheit or higher), altered mental state or behavior ranging from confusion to seizures, and alteration in sweating where the skin may either be dry (in case of heat stroke due to hot weather) or moist (in case of heat stroke due to strenuous exercise)."
+            ],
+            "nice_to_have": [
+                "Heat stroke is a severe condition caused by the body overheating, usually as a result of heavy exertion in very high temperatures or prolonged exposure to high temperatures.",
+                "It is a medical emergency that can lead to severe damage to a person's health if not addressed promptly."
+            ]
+        }
+    },
+    "32": {
+        "origin_prompt": "You are a leading expert in MedLFQA_HealthsearchQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: What is an example of hoarding?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            " Analysis:\n1. **Understanding the Definition**: Hoarding is characterized by the excessive acquisition of and inability or unwillingness to discard large quantities of objects that cover the living areas of the home and cause significant distress or impairment.\n2. **Identifying Key Characteristics**: To identify an example of hoarding, we need to look for behaviors that include excessive accumulation, difficulty discarding items, and clutter that impairs the use of living spaces.\n3. **Providing a Specific Example**: A common example involves a person who collects an excessive amount of newspapers, magazines, or other paper items, to the point where these items fill up entire rooms, making it difficult to move around or use the space for its intended purpose.\n\nFinal answer: An example of hoarding is a person who accumulates an excessive amount of newspapers and magazines, filling up entire rooms and making it difficult to move around or use the space for its intended purpose."
+        ],
+        "gold": {
+            "free_form_answer": "Hoarding is a disorder characterized by a persistent difficulty discarding or parting with possessions due to a perceived need to save them. A person with hoarding disorder experiences distress at the thought of getting rid of items and excessively accumulates items regardless of actual value. Examples of hoarding can vary greatly depending on the individual and the severity of their disorder.An example of hoarding might be a person who keeps every newspaper they have ever bought, even if their living space becomes cluttered to the point where it is unliveable or poses a fire risk. Another example might be a person who collects a large number of animals and doesn't have the means to properly care for them, resulting in unsanitary living conditions and potential health concerns for both the person and the animals.",
+            "must_have": [
+                "Hoarding is a disorder characterized by a difficulty discarding or parting with possessions due to a perceived need to save them.",
+                "Symptoms of hoarding can include accumulating large amounts of varied items regardless of actual value, intense distress at the thought of discarding items, and living spaces so cluttered that they cannot be used for their intended purpose."
+            ],
+            "nice_to_have": [
+                "Some examples of hoarding can include collecting and storing a massive number of newspapers to the point where it hampers daily life or accumulation and unchecked care of a large number of animals leading to poor living conditions."
+            ]
+        }
+    },
+    "33": {
+        "origin_prompt": "You are a leading expert in MedLFQA_HealthsearchQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: Is irritability a mental illness?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            " Analysis:\n\n1. **Understanding Irritability**: Irritability is defined as a state of feeling annoyed, impatient, or easily provoked. It is a symptom that can be experienced by anyone and is often a normal response to stress, lack of sleep, or other temporary factors.\n\n2. **Irritability as a Symptom**: While irritability itself is not a mental illness, it can be a symptom of various mental health conditions. These include but are not limited to:\n   - Depression\n   - Anxiety disorders\n   - Bipolar disorder\n   - Post-traumatic stress disorder (PTSD)\n   - Attention deficit hyperactivity disorder (ADHD)\n   - Autism spectrum disorder\n\n3. **Context Matters**: The significance of irritability depends on its severity, duration, and the context in which it occurs. If irritability is persistent, severe, and accompanied by other symptoms, it may indicate an underlying mental health condition.\n\n4. **Diagnostic Criteria**: Mental illnesses are diagnosed based on specific criteria outlined in diagnostic manuals such as the Diagnostic and Statistical Manual of Mental Disorders (DSM-5). Irritability alone does not meet the criteria for a mental illness but can contribute to the diagnosis of one when considered with other symptoms.\n\nFinal answer: Irritability is not a mental illness in itself but can be a symptom of various mental health conditions. If irritability is persistent, severe, and accompanied by other symptoms, it may indicate an underlying mental health issue."
+        ],
+        "gold": {
+            "free_form_answer": "Irritability itself is not a mental illness, but it is a symptom that can be associated with several mental health disorders. It is a pervasive feeling of being easily annoyed or provoked to anger. It is crucial to note that everybody can experience irritability from time to time due to various reasons such as stress, lack of sleep, or having a bad day. However, if the irritability persists, becomes severe, or interferes with daily life, relationships, or work, it might be a symptom of a mental health disorder. Several mental health disorders list irritability as a symptom, including major depressive disorder, generalized anxiety disorder, bipolar disorder, attention deficit hyperactivity disorder (ADHD), and many others. It's important to consult with a mental health professional if one experiences persistent or severe irritability.",
+            "must_have": [
+                "Irritability itself is not a mental illness, but it can be a symptom of various mental health disorders.",
+                "If irritability persists, becomes severe, or interferes with daily life, it might be a symptom of a mental health disorder."
+            ],
+            "nice_to_have": [
+                "Irritability can occasionally be experienced by anyone due to stress, lack of sleep, or having a bad day.",
+                "Mental health disorders such as major depressive disorder, generalized anxiety disorder, bipolar disorder, and attention deficit hyperactivity disorder (ADHD) list irritability as a symptom.",
+                "It's best to consult with a mental health professional if you experience persistent or severe irritability."
+            ]
+        }
+    },
+    "34": {
+        "origin_prompt": "You are a leading expert in MedLFQA_HealthsearchQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: What type of cancers cause weight loss?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            " Analysis:\n1. **Understanding the Question**: The question asks for the types of cancers that can cause weight loss. Weight loss is a common symptom in many types of cancer, often due to the body's response to the cancer or the cancer treatment itself.\n\n2. **Identifying Common Cancers**: To address the question, we need to identify which cancers are commonly associated with weight loss. These can include cancers that affect metabolism, digestion, or cause systemic inflammation.\n\n3. **Reviewing Medical Literature**: According to medical literature, weight loss is frequently associated with cancers of the pancreas, stomach, esophagus, lung, and certain blood cancers like leukemia and lymphoma. These cancers can cause weight loss through various mechanisms such as reduced appetite, malabsorption, increased metabolic rate, or the release of certain hormones and cytokines.\n\n4. **Considering Other Factors**: It's important to note that weight loss can also be a side effect of cancer treatments, such as chemotherapy or radiation therapy, which can cause nausea, vomiting, and other symptoms that lead to weight loss.\n\nFinal answer: Cancers that commonly cause weight loss include pancreatic cancer, stomach cancer, esophageal cancer, lung cancer, and certain blood cancers like leukemia and lymphoma."
+        ],
+        "gold": {
+            "free_form_answer": "There are several types of cancers that can cause weight loss. This symptom is sometimes called cancer cachexia. The cancers most associated with weight loss include pancreatic cancer, stomach cancer (gastric cancer), esophageal cancer, and lung cancer. Other cancers, like leukemia, lymphoma, and those metastatic (spread advanced) cancers can often lead to significant weight loss as well. It's important to note that weight loss can be a side effect of cancer or cancer treatments, and may not mean that the cancer itself is causing the weight loss. If you have unexpected weight loss, it is important to reach out to a healthcare provider to get a full assessment.",
+            "must_have": [
+                "Several types of cancer including pancreatic, stomach (gastric), esophageal, and lung cancers can often cause weight loss.",
+                "It's important to reach out to a healthcare provider if unexpected weight loss is experienced, as it could be a symptom of cancer or its treatment."
+            ],
+            "nice_to_have": [
+                "Weight loss in cancer, sometimes known as cancer cachexia, can also be seen in other cancers such as leukemia, lymphoma, and those that are metastasized (advanced).",
+                "Weight loss might not be directly due to the cancer itself but instead a side effect of the cancer treatment."
+            ]
+        }
+    },
+    "35": {
+        "origin_prompt": "You are a leading expert in MedLFQA_HealthsearchQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: How do you check for appendicitis?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            " Analysis:\n\n1. **Medical History and Symptoms**: The first step in checking for appendicitis is to assess the patient's medical history and symptoms. Typical symptoms of appendicitis include:\n   - Abdominal pain that often begins around the belly button and then moves to the lower right side of the abdomen.\n   - Nausea and vomiting.\n   - Loss of appetite.\n   - Fever.\n   - Abdominal bloating or swelling.\n   - Inability to pass gas.\n\n2. **Physical Examination**: The next step is a physical examination. The doctor may:\n   - Gently press on the lower right side of the abdomen to check for tenderness and rigidity.\n   - Perform a rebound tenderness test, where they press on the abdomen and then quickly release; pain upon release can indicate appendicitis.\n   - Check for guarding, which is when the patient tenses the abdominal muscles to protect the area from further pain.\n\n3. **Laboratory Tests**: Blood tests can help confirm appendicitis by checking for signs of infection, such as an elevated white blood cell count.\n\n4. **Imaging Tests**: Imaging tests can help visualize the appendix and confirm appendicitis. These may include:\n   - Ultrasound.\n   - Computed Tomography (CT) scan.\n   - Magnetic Resonance Imaging (MRI) scan.\n\nFinal answer: To check for appendicitis, a combination of assessing symptoms, conducting a physical examination, performing blood tests, and using imaging tests such as ultrasound, CT, or MRI scans is typically used. If appendicitis is suspected, prompt medical attention is crucial."
+        ],
+        "gold": {
+            "free_form_answer": "Appendicitis is an inflammation of the appendix, a small tube of tissue that extends from the colon. Diagnosing appendicitis can be challenging, but doctors often rely on several diagnostic methods. A physical examination is generally the first step, where your doctor examines your abdomen for tenderness or localized pain, specifically in the right lower quadrant where the appendix is located. Blood tests may also be conducted to check for signs of infection, such as a high white blood cell count.Additionally, urine tests can eliminate other possible conditions like a urinary tract infection or kidney stone. Imaging studies may also be utilized. This could be through an ultrasound, which uses sound waves to produce images or a computed tomography (CT) scan, which combines a series of X-ray views taken from different angles to create cross-sectional images of the bones and soft tissues inside your body. In some cases, a laparoscopy may also be performed to visualize the appendix directly by inserting a tube with a tiny camera into your abdomen.",
+            "must_have": [
+                "Appendicitis is diagnosed through a physical examination, blood tests, urine tests, and imaging exams such as an ultrasound or CT scan.",
+                "These tests are conducted to check for signs of infection like a high white blood cell count, and to rule out other potential conditions."
+            ],
+            "nice_to_have": [
+                "Sometimes, a laparoscopy may be performed for a direct visualization of the appendix.",
+                "The process of diagnosing appendicitis can be challenging due to the possibility of other conditions presenting with similar symptoms."
+            ]
+        }
+    },
+    "36": {
+        "origin_prompt": "You are a leading expert in MedLFQA_HealthsearchQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: What fever is normal for kids?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            " Analysis:\n\n1. **Understanding Fever**: Fever is a common symptom in children and is defined as a rectal temperature above 100.4°F (38°C). It's often a sign that the body is fighting an infection.\n\n2. **Normal Fever Range**: In children, a fever is considered mild if it's between 100.4°F (38°C) and 102°F (38.9°C). A temperature between 102°F (38.9°C) and 104°F (40°C) is typically considered moderate.\n\n3. **Age Factors**: The level of fever that is considered normal or concerning can also depend on the child's age. For instance, in newborns (0-3 months), even a low-grade fever can be a sign of a serious infection. In older children, the height of the fever is often less important than how the child appears and is behaving.\n\n4. **Context Matters**: It's crucial to consider other symptoms along with the fever. If the child is playing, eating, and drinking normally, the fever is likely not a cause for concern. However, if the child is lethargic, not eating, or has other worrying symptoms, medical attention may be needed.\n\nFinal answer: A normal fever for kids typically ranges from 100.4°F (38°C) to 102°F (38.9°C). However, the context and the child's age are important factors to consider. If the child is under 3 months old or exhibits other concerning symptoms, medical attention should be sought regardless of the temperature."
+        ],
+        "gold": {
+            "free_form_answer": "A fever is a symptom, not a disease, and temperatures can vary with different kids. However, generally, a child is considered to have a fever if their body temperature is at or above 38°C (100.4°F) measured orally (mouth), 38°C (100.4°F) measured rectally (bottom), or 37.5°C (99.5°F) measured axillary (under the arm). Remember, a fever is the body's natural response to infection and can be a good sign that the body is trying to heal itself. However, high fevers can make a child uncomfortable and worsen problems such as dehydration. ",
+            "must_have": [
+                "A child is generally considered to have a fever if the temperature is at or above 38°C (100.4°F) measured orally, 38°C (100.4°F) measured rectally, or 37.5°C (99.5°F) measured axillary (under the arm).",
+                "If a child's fever is making them uncomfortable or causing other problems, medical advice should be sought."
+            ],
+            "nice_to_have": [
+                "Remember that a fever itself is not a disease, but a symptom, and can actually be a good sign that the body is fighting off an infection.",
+                "High fevers, though, can exacerbate issues like dehydration and should be monitored closely.",
+                "Fevers are more concerning in children under the age of 3 months, so it's essential to seek medical attention if an infant has a fever."
+            ]
+        }
+    },
+    "37": {
+        "origin_prompt": "You are a leading expert in MedLFQA_HealthsearchQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: What does having tremors mean?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            " Analysis:\n\n1. **Definition of Tremors**: Tremors are involuntary, rhythmic muscle contractions that lead to shaking movements in one or more parts of the body. They can occur intermittently or constantly, with varying degrees of severity.\n\n2. **Types of Tremors**: Tremors can be classified into several types, each with different characteristics and causes:\n   - **Resting Tremor**: Occurs when the muscle is relaxed, such as a hand tremor when the hand is resting on the lap. This is often associated with Parkinson's disease.\n   - **Action Tremor**: Occurs during voluntary movement. This can be further divided into:\n     - **Postural Tremor**: Happens when maintaining a position against gravity, like holding the arms outstretched.\n     - **Kinetic Tremor**: Occurs during voluntary movement, such as moving the hands or legs.\n     - **Intention Tremor**: Becomes worse as the target is approached, often seen in conditions like multiple sclerosis.\n   - **Physiologic Tremor**: Occurs in all healthy individuals and may be enhanced by certain conditions like stress, fatigue, or caffeine consumption.\n\n3. **Causes of Tremors**: Tremors can be caused by a variety of factors, including:\n   - Neurological conditions (e.g., Parkinson's disease, multiple sclerosis)\n   - Metabolic issues (e.g., thyroid problems)\n   - Medications or drug withdrawal\n   - Alcoholism\n   - Stress or anxiety\n   - Normal aging\n\nFinal answer: Having tremors means experiencing involuntary, rhythmic muscle contractions that result in shaking movements. Tremors can be classified into different types, such as resting, action, and physiologic tremors, each with various causes ranging from neurological conditions to normal aging or stress."
+        ],
+        "gold": {
+            "free_form_answer": "Having tremors typically means experiencing unintentional, rhythmic muscle movements in one or more parts of your body. Tremors can affect any body part, but the trembling occurs most often in your hands — especially when you do simple tasks, such as drinking from a glass or tying shoelaces. Tremors can sometimes be a symptom of a neurological disorder or a side effect of certain drugs. Conditions such as Parkinson's disease, multiple sclerosis, stroke, traumatic brain injuries, and some metabolic abnormalities can also cause tremors. However, everyone has some tremor when they move their hands. Stress, anxiety, or extreme fatigue can also cause tremors. Therefore, experiencing tremors doesn't always indicate a serious health problem.",
+            "must_have": [
+                "Tremors are characterized by unintentional, rhythmic muscle movements.",
+                "They can affect any body part but often occur in the hands.",
+                "Tremors can be a symptom of neurological disorders, a side effect of certain drugs, or caused by conditions like Parkinson's disease, multiple sclerosis, stroke, traumatic brain injuries, and metabolic abnormalities."
+            ],
+            "nice_to_have": [
+                "Everyone experiences some degree of tremoring, especially when performing fine motor tasks.",
+                "Stress, anxiety, and extreme fatigue can cause tremors.",
+                "Not all tremors indicate a serious health problem."
+            ]
+        }
+    },
+    "38": {
+        "origin_prompt": "You are a leading expert in MedLFQA_HealthsearchQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: What is the best treatment for impetigo?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            " Analysis:\n\n1. **Understanding Impetigo**: Impetigo is a common and highly contagious skin infection that primarily affects children. It is caused by bacteria, usually Staphylococcus aureus or Streptococcus pyogenes. The infection typically presents as red sores that can burst and develop a honey-colored crust.\n\n2. **Mild Cases**: For mild cases of impetigo, topical antibiotics are usually the first line of treatment. These can include mupirocin (Bactroban) or retapamulin (Altabax) ointments, which are applied directly to the affected areas. This approach helps to kill the bacteria and prevent the spread of the infection.\n\n3. **Severe or Widespread Cases**: In more severe or widespread cases, oral antibiotics may be prescribed. Common choices include dicloxacillin, cephalexin, or amoxicillin-clavulanate. These medications help to combat the infection systemically and are particularly useful when the infection covers a large area or is not responding to topical treatments.\n\n4. **Supportive Care**: In addition to antibiotics, supportive care is important. This includes keeping the affected area clean, avoiding scratching to prevent spread, and practicing good hygiene to minimize the risk of infecting others.\n\nFinal answer: The best treatment for impetigo depends on the severity of the infection. Mild cases are typically treated with topical antibiotics such as mupirocin or retapamulin. For more severe or widespread infections, oral antibiotics like dicloxacillin, cephalexin, or amoxicillin-clavulanate may be necessary. Supportive care, including keeping the area clean and practicing good hygiene, is also crucial."
+        ],
+        "gold": {
+            "free_form_answer": "Impetigo is a highly contagious skin infection that is most common in children. The best treatment for impetigo largely depends on the severity of the infection. Mild impetigo can be treated with a topical antibiotic cream or ointment, such as mupirocin (Bactroban). More severe impetigo, or impetigo that covers a larger area of the body, may need to be treated with oral antibiotics, such as amoxicillin or cephalexin. All treatments should be prescribed by a healthcare provider, and patients should follow instructions for use carefully. It's important to complete the entire course of treatment even if symptoms improve before treatment is completed, to ensure the infection is fully cleared and to prevent resistance to antibiotics.",
+            "must_have": [
+                "Mild impetigo is usually treated with a topical antibiotic such as mupirocin (Bactroban).",
+                "For severe cases of impetigo, oral antibiotics like amoxicillin or cephalexin may be required.",
+                "It's important to complete the entire course of treatment to ensure the infection is fully cleared and to prevent resistance to antibiotics."
+            ],
+            "nice_to_have": [
+                "Impetigo is a highly contagious skin infection that is most common in children.",
+                "All treatments should be prescribed by a healthcare provider and patients should follow instructions for use carefully."
+            ]
+        }
+    },
+    "39": {
+        "origin_prompt": "You are a leading expert in MedLFQA_HealthsearchQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: What are the 3 major joint disorders?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            " Analysis:\n1. **Understand the Context**: The question is asking for the three major joint disorders. Joint disorders are conditions that affect the functioning of the joints, which are the points where bones meet.\n\n2. **Identify Common Joint Disorders**: To determine the major joint disorders, we need to consider prevalence, impact on quality of life, and clinical significance. The most commonly recognized and impactful joint disorders include osteoarthritis, rheumatoid arthritis, and gout.\n\n3. **Evaluate Each Disorder**:\n   - **Osteoarthritis**: This is a degenerative joint disease that occurs when the cartilage between bones wears down over time, leading to pain and stiffness. It is one of the most common forms of arthritis.\n   - **Rheumatoid Arthritis**: This is an autoimmune disorder where the body's immune system attacks the joints, causing inflammation, pain, and damage. It can affect multiple joints and is a chronic condition.\n   - **Gout**: This is a form of arthritis characterized by sudden, severe attacks of pain, swelling, redness, and tenderness in the joints, often the big toe. It is caused by a buildup of uric acid crystals in the joints.\n\nFinal answer: The three major joint disorders are osteoarthritis, rheumatoid arthritis, and gout."
+        ],
+        "gold": {
+            "free_form_answer": "The three major joint disorders include osteoarthritis, rheumatoid arthritis, and gout. Osteoarthritis, the most common form of arthritis, involves the wear-and-tear damage of joint's cartilage that can result in bone grinding directly on bone, which causes pain and restricted movement. Rheumatoid arthritis, on the other hand, is an autoimmune inflammatory disorder that primarily affects the small joints in the hands and feet. Unlike osteoarthritis, rheumatoid arthritis affects the lining of joints, resulting in painful swelling that can eventually cause joint deformity and bone erosion. Lastly, gout is a type of arthritis that usually affects the large joint of the big toe. It occurs when urate crystals accumulate in a joint, causing the inflammation and intense pain of a gout attack.",
+            "must_have": [
+                "Osteoarthritis involves the wear-and-tear damage of joint's cartilage leading to bone grinding on bone.",
+                "Rheumatoid arthritis is an autoimmune inflammatory disorder that primarily affects the lining of the small joints.",
+                "Gout results from accumulation of urate crystals in a joint, causing inflammation and pain."
+            ],
+            "nice_to_have": [
+                "Osteoarthritis is the most common form of arthritis.",
+                "Unlike osteoarthritis, rheumatoid arthritis can cause joint deformity and bone erosion.",
+                "Gout usually affects the large joint of the big toe and causes intense pain."
+            ]
+        }
+    },
+    "40": {
+        "origin_prompt": "You are a leading expert in MedLFQA_HealthsearchQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: Are pressure sores and pressure ulcers the same?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            " Analysis:\n1. **Understanding the Terms**: Begin by defining what each term means. A pressure sore, also known as a bedsore or decubitus ulcer, is an injury to the skin and underlying tissue resulting from prolonged pressure on the skin. Similarly, a pressure ulcer is defined as localized damage to the skin and/or underlying tissue that usually occurs over a bony prominence as a result of pressure, or pressure in combination with shear and/or friction.\n\n2. **Comparing Definitions**: Compare the definitions obtained from step 1. Both pressure sores and pressure ulcers are described as injuries caused by prolonged pressure on the skin and underlying tissue. The terms are often used interchangeably in medical literature and clinical settings.\n\n3. **Clinical Usage and Context**: Investigate how these terms are used in clinical practice. Healthcare professionals typically use them synonymously to describe the same medical condition. Both terms refer to the same phenomenon of skin and tissue damage due to pressure, and the treatments and preventive measures for both are identical.\n\nFinal answer: Yes, pressure sores and pressure ulcers are the same. They are interchangeable terms used to describe injuries to the skin and underlying tissue resulting from prolonged pressure."
+        ],
+        "gold": {
+            "free_form_answer": "Yes, pressure sores and pressure ulcers are indeed the same. They are skin and tissue injuries caused by prolonged pressure on the skin, most commonly developing on skin that covers bony areas of the body like hips, ankles, and tailbones. Pressure ulcers are classified into four stages based on their severity, with stage one being the mildest and stage four being the most severe, involving extensive destruction of the muscle, bone, or supporting structures. Those who are bedridden, use a wheelchair, or are unable to change positions regularly are most at risk for developing pressure sores.",
+            "must_have": [
+                "Pressure sores and pressure ulcers are the same condition.",
+                "They are caused by prolonged pressure on the skin, most commonly on bony areas of the body.",
+                "There are four stages of pressure ulcers, ranging from mild to severe."
+            ],
+            "nice_to_have": [
+                "Individuals who are bedridden, use a wheelchair, or are unable to change positions regularly are at the greatest risk for developing pressure ulcers.",
+                "Pressure ulcers can lead to serious complications if not properly managed."
+            ]
+        }
+    },
+    "41": {
+        "origin_prompt": "You are a leading expert in MedLFQA_HealthsearchQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: What causes lack of concentration?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            " Analysis:\n\n1. **Understanding the Symptom**: Lack of concentration, also known as difficulty focusing or maintaining attention, can be a symptom of various underlying issues. It's important to consider both physical and mental health factors.\n\n2. **Physical Health Factors**:\n   - **Sleep Deprivation**: Insufficient or poor-quality sleep can lead to fatigue and decreased cognitive function, including concentration difficulties.\n   - **Nutritional Deficiencies**: Inadequate intake of certain nutrients, such as iron, vitamin B12, or omega-3 fatty acids, can affect brain function and concentration.\n   - **Medical Conditions**: Certain conditions like thyroid problems, anemia, or neurological disorders can cause lack of concentration.\n\n3. **Mental Health Factors**:\n   - **Stress and Anxiety**: High levels of stress or anxiety can make it difficult to focus on tasks, as the mind is preoccupied with worries or concerns.\n   - **Depression**: One of the common symptoms of depression is difficulty concentrating or making decisions.\n   - **Attention Deficit Disorders**: Conditions like Attention Deficit Hyperactivity Disorder (ADHD) are characterized by persistent patterns of inattention and/or hyperactivity and impulsivity.\n\n4. **Environmental Factors**:\n   - **Distractions**: Noisy or chaotic environments can make it challenging to concentrate.\n   - **Multitasking**: Attempting to perform multiple tasks simultaneously can divide attention and reduce concentration on individual tasks.\n\n5. **Lifestyle Factors**:\n   - **Substance Use**: Excessive use of alcohol, drugs, or even certain medications can impair cognitive function, including concentration.\n   - **Sedentary Lifestyle**: Lack of physical activity can negatively impact cognitive abilities, including the ability to concentrate.\n\nFinal answer: Lack of concentration can be caused by a variety of factors, including sleep deprivation, nutritional deficiencies, medical conditions, stress, anxiety, depression, attention deficit disorders, environmental distractions, multitasking, substance use, and a sedentary lifestyle. Identifying the underlying cause is crucial for addressing the issue effectively."
+        ],
+        "gold": {
+            "free_form_answer": "Lack of concentration can be due to various factors, both physical and psychological. Physically, it could be due to a lack of sleep, poor nutrition, dehydration, or medical conditions such as ADHD (Attention Deficit Hyperactivity Disorder), depression, stress, anxiety or chronic fatigue syndrome. Regular intake of some medications can also result in lack of concentration. Furthermore, it may be due to psychological factors such as emotional distress, grief, or life changes that cause anxiety or stress. The use of technology and multitasking can also contribute to a lack of concentration. It's important to identify the underlying cause and seek professional help if this condition persists.",
+            "must_have": [
+                "Lack of sleep, poor nutrition, and dehydration can cause a lack of concentration.",
+                "Medical conditions such as ADHD, depression, stress, anxiety, or chronic fatigue syndrome, as well as the side effects from some medications, can result in a lack of concentration.",
+                "Emotional distress, major life changes, or grief can cause a lack of concentration."
+            ],
+            "nice_to_have": [
+                "The use of technology and multitasking can contribute to a lack of concentration.",
+                "If a lack of concentration persists, it could be a sign of a more serious underlying issue, and professional help should be sought."
+            ]
+        }
+    },
+    "42": {
+        "origin_prompt": "You are a leading expert in MedLFQA_HealthsearchQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: What are the 3 types of lesions?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            " Analysis:\n1. **Understanding the Term \"Lesion\"**: In medical terminology, a lesion refers to any abnormal change in the tissue of an organism, often caused by injury or disease.\n2. **Categorization of Lesions**: Lesions can be categorized based on various criteria, such as their cause, location, or appearance. One common way to categorize lesions is by their general nature or origin.\n3. **Identifying the Three Types**: According to standard medical classification, lesions can be broadly divided into three main types based on their nature:\n   - **Primary Lesions**: These are initial lesions that arise directly from a disease process. Examples include macules, papules, nodules, and vesicles.\n   - **Secondary Lesions**: These lesions evolve from primary lesions due to external factors like scratching, infection, or the natural progression of the disease. Examples include scales, crusts, ulcers, and scars.\n   - **Special Lesions**: These are lesions that have unique characteristics and do not fit neatly into the primary or secondary categories. Examples include telangiectasias (dilated blood vessels) and comedones (blackheads and whiteheads).\n\nFinal answer: The three types of lesions are primary lesions, secondary lesions, and special lesions."
+        ],
+        "gold": {
+            "free_form_answer": "In medical terms, a lesion refers to an area of tissue that has been injured or damaged through disease or trauma. There are numerous types of lesions that can occur on different parts of the body. Although there are many ways to categorize lesions, a common classification is based on the nature of the lesion - primary, secondary, and vascular lesions.1. Primary Lesions: These are basic types of lesions which are present at the onset of a disease. They are characteristic of the disease itself. Examples include macules (flat areas of discoloration), papules (small, raised bumps), and vesicles (small fluid-filled blisters).2. Secondary Lesions: These lesions are those which develop as a result of the progression of the disease, or due to patient's activities such as scratching or infections. They evolve from primary lesions. Examples include scales (flakes or dry patches), ulcers (open sores), and scars.3. Vascular Lesions: These lesions are related to the blood vessels. They may be present at birth, like birthmarks, or develop over time, like varicose veins.",
+            "must_have": [
+                "A lesion is an area of injured or damaged tissue.",
+                "Primary lesions are present at the onset of a disease and serve as an indicator of the disease itself.",
+                "Secondary lesions develop over time as a result of a disease's progression or patient activity.",
+                "Vascular lesions pertain to the blood vessels and may be present at birth or develop over time."
+            ],
+            "nice_to_have": [
+                "Examples of primary lesions include macules, papules, and vesicles.",
+                "Examples of secondary lesions include scales, ulcers, and scars.",
+                "Birthmarks and varicose veins are examples of vascular lesions."
+            ]
+        }
+    },
+    "43": {
+        "origin_prompt": "You are a leading expert in MedLFQA_HealthsearchQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: What usually causes swelling?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            " Analysis:\n1. **Understanding Swelling**: Swelling, also known as edema, is the abnormal accumulation of fluid in the tissues or cavities of the body. It can occur externally (visible) or internally (not visible).\n\n2. **Common Causes**: Several factors can cause swelling. These include:\n   - **Injury or Trauma**: Physical injuries can lead to swelling due to the body's inflammatory response. This is often accompanied by pain, redness, and heat.\n   - **Infection**: Infections can cause swelling as the body's immune system responds to foreign invaders.\n   - **Inflammation**: Conditions like arthritis or allergic reactions can cause inflammation, leading to swelling.\n   - **Fluid Retention**: This can be due to heart, kidney, or liver disease, where the body retains excess fluid.\n   - **Lymphatic Obstruction**: Blockages in the lymphatic system can prevent proper drainage, leading to swelling.\n   - **Medications**: Certain medications can cause swelling as a side effect.\n\n3. **Specific Conditions**: Some specific medical conditions that commonly cause swelling include:\n   - **Heart Failure**: Leads to fluid buildup, often in the legs and abdomen.\n   - **Kidney Disease**: Can cause fluid retention throughout the body.\n   - **Liver Disease**: May lead to swelling in the abdomen and legs.\n   - **Venous Insufficiency**: Poor blood flow in the veins can cause swelling, typically in the legs.\n\nFinal answer: Swelling is usually caused by injury or trauma, infection, inflammation, fluid retention due to heart, kidney, or liver disease, lymphatic obstruction, or as a side effect of certain medications. Specific conditions like heart failure, kidney disease, liver disease, and venous insufficiency are common culprits."
+        ],
+        "gold": {
+            "free_form_answer": "Swelling, also known as edema, is often caused by inflammation or buildup of fluid in the body's tissues. This can occur as a result of injury, infection, or disease. Common causes include sprained ankles, being pregnant, heart failure, kidney disease, liver cirrhosis, and certain medications. Swelling can also be a side effect of a serious injury, such as a burn or fracture, or it can be a symptom of a systemic disease process, like arthritis or cancer. It’s important to note that unexplained or severe swelling warrants immediate medical attention.",
+            "must_have": [
+                "Swelling, or edema, is often caused by inflammation or fluid accumulation in the body's tissues.",
+                "This can be due to injury, infection, disease, or certain medications.",
+                "Severe or unexplained swelling requires immediate medical attention."
+            ],
+            "nice_to_have": [
+                "Some common causes of swelling include sprained ankles, pregnancy, heart failure, kidney disease, and liver cirrhosis.",
+                "Swelling may also occur as a symptom of systemic diseases like arthritis or cancer."
+            ]
+        }
+    },
+    "44": {
+        "origin_prompt": "You are a leading expert in MedLFQA_HealthsearchQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: What is the main cause of migraine?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            " Analysis:\n1. **Understanding Migraine**: Migraine is a neurological condition characterized by recurrent moderate to severe headaches, often accompanied by symptoms such as nausea, vomiting, sensitivity to light and sound, and changes in vision.\n\n2. **Multifactorial Nature**: Migraine is considered a multifactorial disorder, meaning it does not have a single cause. Instead, it is influenced by a combination of genetic, environmental, and neurological factors.\n\n3. **Genetic Factors**: Studies have shown that migraines tend to run in families, suggesting a strong genetic component. Specific genes have been identified that may make some people more susceptible to migraines.\n\n4. **Neurological Factors**: Migraines are believed to be related to changes in the brainstem and its interactions with the trigeminal nerve, a major pain pathway. Imbalances in brain chemicals, including serotonin, which helps regulate pain in the nervous system, may also play a role.\n\n5. **Environmental Triggers**: Various environmental factors can trigger migraines in susceptible individuals. These triggers can include stress, changes in sleep patterns, certain foods and drinks (such as caffeine, chocolate, and processed meats), hormonal changes (especially in women), and sensory stimuli like bright lights and strong smells.\n\nFinal answer: The main cause of migraine is multifactorial, involving a combination of genetic predisposition, neurological factors such as changes in brain chemicals and nerve pathways, and environmental triggers like stress, diet, and hormonal changes."
+        ],
+        "gold": {
+            "free_form_answer": "Migraines are a neurological condition often characterized by intense, debilitating headaches. The exact cause of migraines is not known, but they're thought to be the result of abnormal brain activity causing a temporary alteration in the nerve signals, chemicals and blood flow in the brain. This is often triggered by various factors that can include hormonal changes, stress, certain foods and beverages, including alcohol and caffeine, lack of sleep or too much sleep, changes in weather, and intense physical activity.",
+            "must_have": [
+                "The exact cause of migraines is unknown, however, they're thought to be the result of changes in the nerve signals, chemicals and blood flow in the brain.",
+                "Migraines can be triggered by various factors including hormonal changes, stress, certain foods and beverages, sleep pattern disruptions, changes in weather, and intense physical activity."
+            ],
+            "nice_to_have": [
+                "Migraines are a neurological condition often leading to intense, debilitating headaches.",
+                "Although the exact cause is not known, there are several triggering factors that can increase the likelihood of having a migraine."
+            ]
+        }
+    },
+    "45": {
+        "origin_prompt": "You are a leading expert in MedLFQA_HealthsearchQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: What is the most common glomerulonephritis?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            " Analysis:\n1. **Understand the Term**: Glomerulonephritis is a term that refers to a group of diseases that injure the part of the kidney that filters blood (called glomeruli).\n2. **Identify Common Types**: There are several types of glomerulonephritis, including IgA nephropathy, membranous nephropathy, lupus nephritis, and minimal change disease, among others.\n3. **Determine Prevalence**: To identify the most common type, we need to consider epidemiological data. According to medical literature, IgA nephropathy (also known as Berger's disease) is generally considered the most common form of glomerulonephritis worldwide.\n\nFinal answer: The most common glomerulonephritis is IgA nephropathy."
+        ],
+        "gold": {
+            "free_form_answer": "The most common primary glomerulonephritis worldwide is IgA nephropathy. IgA nephropathy, also known as Berger's disease, is a kidney disorder that results from the build-up of IgA (immunoglobulin A) in the kidneys. This can lead to inflammation that, over time, may hamper your kidneys' ability to filter waste, excess water, and electrolytes from your blood. Early diagnosis and treatment can help to prevent serious complications, such as end-stage kidney disease.",
+            "must_have": [
+                "The most common primary glomerulonephritis worldwide is IgA nephropathy.",
+                "IgA nephropathy can lead to inflammation in the kidneys and impair their ability to filter waste, excess water, and electrolytes from your blood."
+            ],
+            "nice_to_have": [
+                "IgA nephropathy is also known as Berger's disease.",
+                "Early diagnosis and treatment can help to prevent serious complications, such as end-stage kidney disease."
+            ]
+        }
+    },
+    "46": {
+        "origin_prompt": "You are a leading expert in MedLFQA_HealthsearchQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: What is the main cause of dry eyes?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            " Analysis:\n1. **Understanding Dry Eyes**: Dry eyes is a condition where the eyes do not produce enough tears or the tears evaporate too quickly. This leads to the eyes drying out and becoming red, swollen, and irritated.\n\n2. **Identifying Causes**: Several factors can cause dry eyes. These can be broadly categorized into two main groups: decreased tear production and increased tear evaporation.\n\n   - **Decreased Tear Production**: This can be due to aging, certain medical conditions (like Sjogren's syndrome, diabetes, or rheumatoid arthritis), medications (such as antihistamines, decongestants, hormone replacement therapy, and antidepressants), and laser eye surgery.\n\n   - **Increased Tear Evaporation**: This can be caused by environmental factors like wind, smoke, or dry air, as well as conditions that affect the eyelids (like blepharitis or ectropion), blinking less often (which can occur when concentrating on reading or screens), and the use of contact lenses.\n\n3. **Most Common Cause**: While there are many potential causes, the most common cause of dry eyes is a combination of these factors, with aging being a significant contributor. As people age, their tear production tends to decrease, making them more susceptible to environmental and other factors that can lead to dry eyes.\n\nFinal answer: The main cause of dry eyes is typically a combination of decreased tear production, often due to aging, and increased tear evaporation, which can be exacerbated by various environmental and health factors."
+        ],
+        "gold": {
+            "free_form_answer": "Dry eyes occur when your tear glands cannot produce enough tears or produce poor-quality tears, leading to a lack of sufficient lubrication on the surface of the eyes. The main causes of dry eyes include aging, certain medical conditions like rheumatoid arthritis, lupus, or diabetes, specific medications such as antihistamines or diuretics, spending long periods of time in front of a computer, or being in a windy, dry, or smoky environment. It can also result from issues with the eyelids not closing properly. In women, hormonal changes such as those due to pregnancy or menopause can also cause dry eyes.",
+            "must_have": [
+                "Dry eyes happens when the tear glands produce insufficient or poor-quality tears.",
+                "Causes of dry eyes include aging, specific medical conditions, certain medications, environmental conditions, prolonged computer use, and in women, hormonal changes."
+            ],
+            "nice_to_have": [
+                "Issues with the eyelids not closing properly can contribute to dry eyes.",
+                "Conditions like rheumatoid arthritis, lupus, or diabetes can cause dry eyes.",
+                "Antihistamines and diuretics are among medications that can cause dry eyes.",
+                "Environmental conditions like wind, dry air, and smoke can cause dry eyes.",
+                "Hormonal changes due to pregnancy or menopause can cause dry eyes in women."
+            ]
+        }
+    },
+    "47": {
+        "origin_prompt": "You are a leading expert in MedLFQA_HealthsearchQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: What type of disease is toxocariasis?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            " Analysis:\n1. **Understand the Term**: Toxocariasis is a term derived from the genus name *Toxocara*, which is a type of roundworm.\n2. **Identify the Cause**: Toxocariasis is caused by the parasitic roundworms commonly found in the intestines of dogs (*Toxocara canis*) and cats (*Toxocara cati*).\n3. **Classify the Disease**: Diseases caused by parasites, such as roundworms, are typically classified as parasitic diseases. Toxocariasis specifically falls under the category of helminthiasis, which refers to diseases caused by parasitic worms.\n\nFinal answer: Toxocariasis is a parasitic disease, specifically a type of helminthiasis caused by roundworms."
+        ],
+        "gold": {
+            "free_form_answer": "Toxocariasis is a zoonotic disease, or a disease transmitted from animals to humans, resulting from infection by the larvae of Toxocara parasites, most commonly Toxocara canis or Toxocara cati, which are roundworms primarily found in dogs and cats, respectively. The infection occurs when humans ingest soil, water or food contaminated by animal feces that contain the eggs of these parasites. It can cause a wide range of symptoms, with the most common being larva migrans, an inflammatory response caused by the larvae's migration through various tissues in the body.",
+            "must_have": [
+                "Toxocariasis is a zoonotic disease caused by Toxocara parasites, typically Toxocara canis or Toxocara cati.",
+                "The infection occurs when humans ingest eggs from these parasites in contaminated soil, water or food.",
+                "The disease can result in a range of symptoms, usually as a result of an inflammatory response caused by the larvae's migration through the body."
+            ],
+            "nice_to_have": [
+                "The Toxocara parasites causing toxocariasis are roundworms primarily found in dogs and cats, and thus, toxocariasis is frequently associated with exposure to dogs or cats and contaminated areas where they might defecate.",
+                "The disease can cause symptoms such as fatigue, cough, fever, abdominal pain, and in severe instances, can lead to vision loss or neurological problems if the parasites invade the eyes or the central nervous system."
+            ]
+        }
+    },
+    "48": {
+        "origin_prompt": "You are a leading expert in MedLFQA_HealthsearchQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: What is Weil\\'s disease leptospirosis?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            " Analysis:\n1. **Understand the Terminology**: The question asks about \"Weil's disease leptospirosis.\" This suggests that the question is referring to a specific form or manifestation of leptospirosis.\n\n2. **Identify Leptospirosis**: Leptospirosis is a bacterial infection caused by the genus Leptospira. It is typically transmitted through contact with water or soil contaminated with the urine of infected animals.\n\n3. **Define Weil's Disease**: Weil's disease is a severe form of leptospirosis. It is characterized by symptoms such as jaundice (yellowing of the skin and eyes), kidney failure, and hemorrhage (bleeding), among other serious complications.\n\n4. **Connect the Terms**: Weil's disease is not a separate condition but rather a severe manifestation of leptospirosis. It represents the most serious end of the spectrum of leptospirosis infections.\n\nFinal answer: Weil's disease is a severe form of leptospirosis, characterized by symptoms such as jaundice, kidney failure, and hemorrhage. It is caused by infection with bacteria of the genus Leptospira and is typically transmitted through contact with contaminated water or soil."
+        ],
+        "gold": {
+            "free_form_answer": "Weil's disease, also known as leptospirosis, is a bacterial infection that is spread through the urine of infected animals. It's more prevalent in tropical areas and can be contracted through contact with water or soil that's contaminated with the urine of infected animals. Humans typically become infected through cuts in the skin, or through the eyes, nose, or mouth.Symptoms can vary from mild flu-like symptoms in the early stages such as headaches, muscle pains, and fevers, to more severe symptoms like jaundice, kidney failure, bleeding in the lungs or meningitis if left untreated. The disease can be treated with antibiotics if diagnosed early, otherwise it could potentially be fatal. The best prevention is avoidance of potentially contaminated water or soil, and wearing protective clothing in such environments.",
+            "must_have": [
+                "Weil's disease, also known as leptospirosis, is a bacterial infection transmitted through the urine of infected animals.",
+                "Symptoms include flu-like symptoms, jaundice, kidney failure and meningitis in severe cases.",
+                "It is treated with antibiotics and can be fatal if left untreated."
+            ],
+            "nice_to_have": [
+                "Weil's disease is more prevalent in tropical areas and can be contracted through contact with water or soil that has been contaminated by the urine of infected animals.",
+                "Humans typically become infected through cuts in the skin, or through the eyes, nose, or mouth.",
+                "Prevention includes avoiding potentially contaminated water or soil, and wearing protective clothing in such environments."
+            ]
+        }
+    },
+    "49": {
+        "origin_prompt": "You are a leading expert in MedLFQA_HealthsearchQA. Carefully analyze the following question and provide a step-by-step step solution.\n\nQuestion: Why do I have a sore throat?\n\nYour response should be structured as follows:\n\nAnalysis:\n1. [First key point or step in your reasoning]\n2. [Second key point or step]\n3. [Third key point or step]\n(Add more steps if necessary)\n\nFinal answer: [Your concise and accurate answer based on the analysis above]\n\nEnsure your analysis is thorough and your final answer is precise and directly addresses the question.",
+        "prediction": [
+            " Analysis:\n\n1. **Symptom Identification**: The primary symptom mentioned is a sore throat. This is often characterized by pain, irritation, or discomfort in the throat that can worsen when swallowing.\n\n2. **Common Causes**: Sore throats can be caused by a variety of conditions. The most common causes include:\n   - **Viral Infections**: Such as the common cold, flu, or mononucleosis. These are often accompanied by other symptoms like runny nose, cough, or fever.\n   - **Bacterial Infections**: Such as strep throat, which can cause a severe sore throat along with fever and swollen lymph nodes.\n   - **Allergies**: Postnasal drip from allergies can irritate the throat.\n   - **Irritants**: Exposure to dry air, pollution, or chemicals can cause throat irritation.\n   - **Gastroesophageal Reflux Disease (GERD)**: Stomach acid backing up into the esophagus can cause a sore throat.\n\n3. **Differential Diagnosis**: To determine the cause, consider additional symptoms and the timeline of their onset. For example:\n   - Sudden onset with fever might suggest strep throat.\n   - Gradual onset with runny nose might suggest a viral infection.\n   - Persistent sore throat with heartburn might suggest GERD.\n\nFinal answer: A sore throat can be caused by various conditions, including viral infections like the common cold or flu, bacterial infections like strep throat, allergies, irritants, or GERD. Considering additional symptoms and the timeline of their onset can help determine the cause. If symptoms are severe or persist for more than a few days, it is important to consult a healthcare professional for an accurate diagnosis and appropriate treatment."
+        ],
+        "gold": {
+            "free_form_answer": "A sore throat can be caused by various conditions including viral infections, bacterial infections, environmental factors, allergies, or gastroesophageal reflux disease (GERD).Viral infections, such as the common cold or flu, are the most common causes of sore throats. Some of these viruses can also cause other symptoms like a runny nose, cough, and fever. Bacterial infections like strep throat are another common cause of sore throats and may be accompanied by fever, headache, and swelling of the tonsils.Environmental factors such as dry air, pollution, or breathing through your mouth can cause you to develop a sore throat. Allergies to pollen, mold, pet dander, or dust mites can also provoke the body's immune response, causing inflammation and a sore throat.Lastly, a condition known as gastroesophageal reflux disease (GERD), in which acid from the stomach backs up into the esophagus, can cause a chronic sore throat. This condition often worsens in the morning and after meals.It is important to consult your healthcare provider if you have a persistent sore throat, especially if it is accompanied by other worrisome symptoms like high fever, difficulty swallowing, or swollen glands in the neck.",
+            "must_have": [
+                "A sore throat can be caused by viral infections, bacterial infections, environmental factors, allergies, or gastroesophageal reflux disease.",
+                "Medical attention should be sought for a persistent sore throat or throat pain accompanied by high fever, difficulty swallowing, or swollen glands."
+            ],
+            "nice_to_have": [
+                "Viral infections like the common cold or flu, and bacterial infections like strep throat, are common causes of a sore throat.",
+                "Environmental factors and allergies can produce symptoms including a sore throat.",
+                "Gastroesophageal reflux disease (GERD), where stomach acid backs up into the esophagus, can lead to a chronic sore throat."
+            ]
+        }
+    }
+}
