@@ -1,7 +1,7 @@
 # Benchmarking Large Language Models on Multiple Tasks in Bioinformatics NLP with Prompting
 
-> **Paper:** [arXiv:2503.04013]
-> **Authors:** Anonymous ACL Submission (at the time of summary)
+> **Paper:** [arXiv:2503.04013v1]
+> **Authors:** Jiyue Jiang, Pengan Chen, Jiuming Wang, Dongchen He, Ziqin Wei, Liang Hong, Licheng Zong, Sheng Wang, Qinze Yu, Zixian Ma, Yanyu Chen, Yimin Fan, Xiangyu Shi, Jiawei Sun, Chuan Wu, Yu Li
 > **Summary:** This paper introduces **Bio-benchmark**, a comprehensive framework for evaluating Large Language Models (LLMs) on 30 bioinformatics tasks without fine-tuning. It also presents **BioFinder**, a novel tool for accurately extracting answers from LLM responses, significantly outperforming existing methods. The study benchmarks six leading LLMs, revealing their intrinsic capabilities and limitations across diverse biological domains.
 
 ---
@@ -15,7 +15,7 @@
 
 ## 📄 Abstract
 
-Large Language Models (LLMs) are increasingly vital tools for solving biological problems, but existing benchmarks are often inadequate for evaluating their performance across diverse tasks. This paper introduces **Bio-benchmark**, a comprehensive, prompting-based framework covering 30 key tasks in proteins, RNA, drugs, electronic health records (EHR), and traditional Chinese medicine (TCM). Using this benchmark, the authors evaluate six mainstream LLMs (including GPT-4o and Llama-3.1-70b) in **0-shot and few-shot Chain-of-Thought (CoT) settings** to assess their intrinsic capabilities without fine-tuning. To enhance evaluation efficiency, the paper proposes **BioFinder**, a new tool that increases answer extraction accuracy by over 40% compared to existing methods. The results identify which biological tasks are well-suited for current LLMs, highlight areas needing improvement, and inform recommendations for developing more robust, specialized LLMs for bioinformatics.
+Large Language Models (LLMs) have become important tools in solving biological problems, offering improvements in accuracy and adaptability over conventional methods. However, current benchmarks can hardly evaluate the performance of these models across diverse tasks effectively. In this paper, we introduce a comprehensive prompting-based benchmarking framework, termed **Bio-benchmark**, which includes 30 key bioinformatics tasks covering areas such as proteins, RNA, drugs, electronic health records, and traditional Chinese medicine. Using this benchmark, we evaluate six mainstream LLMs, including GPT-4o and Llama-3.1-70b, using 0-shot and few-shot Chain-of-Thought (CoT) settings without fine-tuning to reveal their intrinsic capabilities. To improve the efficiency of our evaluations, we demonstrate **BioFinder**, a new tool for extracting answers from LLM responses, which increases extraction accuracy by around 30% compared to existing methods. Our benchmark results show the biological tasks suitable for current LLMs and identify specific areas requiring enhancement. This work offers a comprehensive evaluation framework and robust tools to support the application of LLMs in bioinformatics.
 
 ---
 
@@ -29,7 +29,7 @@ This work makes three primary contributions to the field:
 
 2.  **A Novel Answer Extraction Tool (BioFinder):**
     *   An answer extraction tool specifically designed for bioinformatics tasks.
-    *   It accurately extracts answers from unstructured LLM responses, achieving **over 40% higher accuracy** than existing methods like RegEx.
+    *   It accurately extracts answers from unstructured LLM responses, achieving **over 30% higher accuracy** on sequence extraction than existing methods like RegEx.
 
 3.  **In-depth Analysis and Recommendations:**
     *   A thorough evaluation of LLM performance, identifying which tasks are currently well-suited for LLMs (e.g., medical QA, drug design) and which are challenging (e.g., RNA structure prediction, drug-drug interaction).
@@ -84,17 +84,6 @@ The study uses a prompting-based approach to evaluate LLMs without any task-spec
 3.  **Evaluation:**
     *   **Objective Tasks:** Answers are compared against a ground truth using metrics like Accuracy, Recovery Rate, and Bit Score.
     *   **Subjective Tasks:** Long-text answers are evaluated using a fine-grained framework assessing **Comprehensiveness**, **Hallucination Rate**, **Omission Rate**, and **Consistency**.
-
-### BioFinder: The Answer Extraction Tool
-A key innovation of this work is **BioFinder**, an LLM-based tool fine-tuned from `xFinder-llama3-8b`. It is designed to overcome the limitations of regular expressions and general-purpose LLMs for extracting answers in bioinformatics contexts.
-
-| Task Type | RegEx (OpenCompass) | GPT-4o (as extractor) | **BioFinder (Proposed)** |
-| :--- | :---: | :---: | :---: |
-| Sequence Extraction | 68.0% | 38.5% | **93.5%** |
-| **Overall Objective Tasks** | 72.1% | 62.9% | **94.7%** |
-| Natural Language Inference (NLI) | - | 59.9% | **89.8%** |
-
-*Table 1 from the paper shows BioFinder's superior performance in both answer extraction and NLI tasks.*
 
 ---
 
@@ -161,6 +150,23 @@ The following table details the performance of six large language models across 
 | | TCMSD | 200 | 39.00 | 68.75 | 30.00 | 60.75 | 16.00 | 69.25 | 32.25 | 67.00 | 38.25 | 67.25 | 34.50 | 59.00 |
 
 </div>
+
+---
+
+## ⚙️ BioFinder: The Answer Extraction Tool
+
+A key innovation of this work is **BioFinder**, an LLM-based tool fine-tuned from `xFinder-llama3-8b`. It is designed to overcome the limitations of regular expressions and general-purpose LLMs for extracting answers in bioinformatics contexts. The tool was specifically enhanced for biological sequence extraction and for performing Natural Language Inference (NLI) on long-text responses without a reference answer.
+
+| Task Type | RegEx (OpenCompass) | GPT-4o (as extractor) | **BioFinder (Proposed)** |
+| :--- | :---: | :---: | :---: |
+| MCQ Matching | 77.5% | 65.8% | **95.5%** |
+| Text Matching | 74.8% | 80.5% | **94.3%** |
+| Numerical Matching | 68.1% | 67.0% | **95.5%** |
+| Sequence Extraction | 68.0% | 38.5% | **93.5%** |
+| **Overall Objective Tasks** | 72.1% | 62.9% | **94.7%** |
+| NLI Tasks | - | 59.9% | **89.8%** |
+
+*Table 1 from the paper shows BioFinder's superior performance in both objective answer extraction and subjective NLI tasks, demonstrating its robustness and high accuracy.*
 
 ---
 
